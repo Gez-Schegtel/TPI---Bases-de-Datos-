@@ -1,51 +1,2983 @@
 tipo_personal,caracter,presta_servicio_utn,idos
-No Docente,Permanente,False,283
-Docente,Contratado,True,238
-No Docente,Permanente,True,884
-No Docente,Permanente,True,756
-Docente,Permanente,False,20
-No Docente,Permanente,False,610
-Docente,Permanente,True,91
-Docente,Permanente,False,720
-Docente,Contratado,True,117
-No Docente,Contratado,False,587
-Docente,Contratado,False,573
-Docente,Permanente,False,104
-No Docente,Permanente,True,15
-Docente,Contratado,True,833
-Docente,Permanente,True,971
-Docente,Contratado,False,399
-No Docente,Contratado,False,393
-No Docente,Permanente,True,858
-Docente,Permanente,True,297
-Docente,Contratado,False,13
-Docente,Permanente,False,994
-Docente,Permanente,True,90
-No Docente,Contratado,False,427
-No Docente,Permanente,True,853
-Docente,Contratado,False,214
-Docente,Contratado,True,294
-No Docente,Permanente,False,821
-Docente,Permanente,False,445
-No Docente,Permanente,False,114
-No Docente,Permanente,False,926
-Docente,Permanente,False,371
-No Docente,Contratado,False,509
-Docente,Permanente,False,565
-Docente,Permanente,True,382
-No Docente,Contratado,True,811
-No Docente,Contratado,False,901
-No Docente,Permanente,True,667
-Docente,Permanente,False,788
-Docente,Contratado,True,678
-Docente,Permanente,True,781
-Docente,Permanente,False,869
-No Docente,Contratado,False,516
-No Docente,Contratado,False,319
-No Docente,Contratado,False,735
-No Docente,Permanente,False,176
-Docente,Contratado,True,582
-Docente,Permanente,True,609
-No Docente,Contratado,False,376
-No Docente,Permanente,False,182
-Docente,Permanente,True,715
+Docente,Permanente,True,24363
+Docente,Contratado,True,5638
+No Docente,Permanente,True,11781
+No Docente,Contratado,False,22504
+Docente,Contratado,True,755
+Docente,Permanente,False,15484
+Docente,Contratado,True,32378
+No Docente,Contratado,False,45267
+Docente,Contratado,True,18004
+No Docente,Permanente,False,43079
+No Docente,Permanente,False,42441
+Docente,Contratado,True,9548
+No Docente,Permanente,False,3719
+No Docente,Permanente,False,34737
+No Docente,Contratado,False,28876
+No Docente,Permanente,True,7278
+No Docente,Contratado,False,31740
+No Docente,Contratado,True,23045
+No Docente,Contratado,True,1388
+No Docente,Contratado,False,49319
+No Docente,Contratado,False,39474
+Docente,Contratado,True,28835
+Docente,Permanente,True,35892
+No Docente,Permanente,False,45296
+Docente,Permanente,False,47450
+Docente,Contratado,False,20353
+Docente,Permanente,True,42061
+No Docente,Contratado,False,11154
+Docente,Contratado,True,48889
+No Docente,Permanente,True,20656
+No Docente,Permanente,True,6933
+No Docente,Contratado,True,33618
+No Docente,Contratado,True,25592
+Docente,Permanente,True,39011
+Docente,Permanente,False,33813
+Docente,Contratado,False,37885
+No Docente,Permanente,True,33465
+No Docente,Contratado,True,10671
+No Docente,Contratado,True,18798
+No Docente,Permanente,False,46929
+No Docente,Contratado,False,44999
+No Docente,Contratado,True,12212
+No Docente,Contratado,False,44126
+No Docente,Permanente,False,3837
+Docente,Permanente,True,45307
+No Docente,Contratado,False,30524
+Docente,Contratado,False,43860
+Docente,Contratado,False,13355
+Docente,Permanente,True,24331
+No Docente,Contratado,True,3053
+No Docente,Permanente,True,2098
+Docente,Contratado,False,36627
+Docente,Permanente,True,1299
+No Docente,Permanente,True,48531
+No Docente,Permanente,True,14769
+Docente,Contratado,True,30716
+No Docente,Contratado,False,33199
+No Docente,Permanente,True,6759
+Docente,Contratado,False,34775
+No Docente,Contratado,False,47570
+No Docente,Contratado,True,40071
+Docente,Contratado,False,35595
+Docente,Permanente,False,9952
+No Docente,Contratado,False,12316
+Docente,Contratado,True,22488
+Docente,Contratado,True,48908
+Docente,Permanente,False,27821
+Docente,Permanente,True,38434
+No Docente,Permanente,True,49105
+No Docente,Contratado,False,30783
+No Docente,Contratado,True,32272
+Docente,Contratado,False,21330
+No Docente,Contratado,False,45549
+Docente,Contratado,True,42610
+No Docente,Permanente,True,22977
+Docente,Permanente,True,17953
+No Docente,Contratado,True,23104
+No Docente,Permanente,True,27058
+Docente,Contratado,True,3147
+Docente,Permanente,False,21413
+No Docente,Permanente,True,8534
+Docente,Contratado,True,10590
+No Docente,Contratado,False,11395
+No Docente,Contratado,True,31203
+Docente,Permanente,True,47914
+No Docente,Contratado,True,8926
+Docente,Permanente,True,25114
+Docente,Permanente,False,23061
+Docente,Permanente,True,43124
+Docente,Contratado,False,17175
+No Docente,Contratado,True,12036
+Docente,Contratado,False,14987
+Docente,Permanente,False,36823
+Docente,Permanente,False,32331
+No Docente,Permanente,True,38511
+No Docente,Contratado,True,24742
+No Docente,Contratado,False,31112
+Docente,Permanente,False,35909
+No Docente,Contratado,True,41850
+No Docente,Permanente,True,28170
+Docente,Permanente,False,18930
+No Docente,Permanente,False,8908
+No Docente,Contratado,False,5334
+Docente,Contratado,True,33314
+Docente,Contratado,True,19951
+No Docente,Contratado,True,15137
+No Docente,Permanente,True,2625
+Docente,Permanente,False,28872
+No Docente,Contratado,False,17209
+Docente,Permanente,True,5795
+Docente,Contratado,True,34223
+No Docente,Permanente,False,34663
+Docente,Contratado,False,31756
+Docente,Contratado,False,15293
+No Docente,Permanente,True,16338
+Docente,Permanente,True,29605
+Docente,Permanente,True,7810
+Docente,Permanente,False,45771
+Docente,Contratado,True,45750
+Docente,Permanente,True,47327
+Docente,Contratado,True,20719
+Docente,Contratado,True,43823
+No Docente,Permanente,True,23183
+Docente,Permanente,False,6120
+No Docente,Permanente,True,40838
+No Docente,Permanente,True,33520
+No Docente,Contratado,False,49406
+Docente,Permanente,True,12452
+No Docente,Permanente,False,37771
+Docente,Contratado,False,1941
+Docente,Contratado,False,9985
+Docente,Permanente,True,1122
+Docente,Permanente,True,35004
+No Docente,Contratado,False,47511
+Docente,Contratado,False,1208
+No Docente,Permanente,False,36640
+Docente,Contratado,True,39738
+Docente,Contratado,False,3718
+No Docente,Permanente,True,11357
+No Docente,Permanente,False,11991
+Docente,Contratado,False,9709
+No Docente,Permanente,False,48038
+No Docente,Contratado,True,4148
+No Docente,Contratado,True,46199
+No Docente,Contratado,True,22561
+Docente,Contratado,True,9765
+No Docente,Contratado,False,44244
+Docente,Contratado,True,6182
+Docente,Permanente,False,41536
+No Docente,Contratado,True,16943
+Docente,Contratado,True,43887
+Docente,Contratado,False,362
+Docente,Contratado,True,9699
+No Docente,Contratado,True,14469
+Docente,Permanente,True,19708
+Docente,Contratado,False,19814
+Docente,Contratado,True,39517
+Docente,Permanente,True,37251
+Docente,Contratado,True,20825
+No Docente,Contratado,False,32387
+No Docente,Contratado,False,20143
+No Docente,Contratado,True,33374
+Docente,Contratado,True,22397
+No Docente,Contratado,True,29558
+No Docente,Contratado,True,36027
+No Docente,Contratado,True,40115
+No Docente,Contratado,False,32367
+No Docente,Permanente,False,4204
+Docente,Permanente,False,30760
+No Docente,Permanente,False,38081
+No Docente,Permanente,False,27846
+No Docente,Permanente,True,48536
+No Docente,Contratado,True,26265
+No Docente,Permanente,False,24843
+Docente,Permanente,True,37339
+Docente,Contratado,True,23931
+No Docente,Contratado,False,43642
+Docente,Permanente,True,6941
+Docente,Contratado,False,45576
+No Docente,Permanente,True,16768
+Docente,Contratado,False,23375
+No Docente,Contratado,False,44946
+Docente,Permanente,False,24001
+Docente,Contratado,True,43224
+Docente,Contratado,False,28078
+No Docente,Contratado,False,37134
+Docente,Permanente,True,13660
+No Docente,Permanente,False,10542
+No Docente,Permanente,False,34333
+Docente,Contratado,False,2974
+No Docente,Contratado,False,38294
+Docente,Contratado,True,46032
+No Docente,Permanente,False,27449
+No Docente,Permanente,False,45183
+No Docente,Permanente,True,22262
+Docente,Contratado,True,39084
+Docente,Permanente,True,41417
+No Docente,Contratado,True,19758
+Docente,Contratado,False,16237
+Docente,Contratado,False,4916
+Docente,Contratado,True,45794
+No Docente,Permanente,True,21788
+Docente,Contratado,False,19836
+No Docente,Contratado,False,20874
+Docente,Permanente,False,12406
+Docente,Permanente,False,14255
+Docente,Permanente,False,42547
+Docente,Contratado,True,11818
+No Docente,Contratado,False,17538
+Docente,Contratado,True,22310
+Docente,Permanente,True,47896
+Docente,Permanente,True,47655
+Docente,Permanente,True,48294
+No Docente,Permanente,True,5484
+No Docente,Permanente,False,15145
+Docente,Permanente,True,10946
+Docente,Contratado,True,11096
+Docente,Permanente,True,6407
+Docente,Permanente,True,1339
+Docente,Permanente,False,39366
+No Docente,Contratado,True,2606
+No Docente,Permanente,False,39439
+Docente,Contratado,True,18289
+No Docente,Permanente,False,48707
+No Docente,Permanente,False,12100
+Docente,Contratado,False,38054
+Docente,Contratado,True,25230
+No Docente,Contratado,False,47558
+No Docente,Contratado,False,11831
+Docente,Contratado,False,43564
+No Docente,Permanente,True,35624
+Docente,Contratado,False,23893
+No Docente,Permanente,False,39181
+Docente,Contratado,True,27930
+No Docente,Contratado,False,5866
+No Docente,Contratado,True,19407
+No Docente,Permanente,True,7563
+No Docente,Permanente,True,2428
+Docente,Contratado,False,35641
+Docente,Contratado,False,879
+No Docente,Permanente,True,35442
+No Docente,Contratado,False,7768
+No Docente,Permanente,False,43041
+Docente,Contratado,False,40503
+No Docente,Contratado,False,19002
+No Docente,Permanente,False,12250
+No Docente,Contratado,False,31958
+No Docente,Contratado,True,8193
+Docente,Permanente,True,41133
+Docente,Permanente,True,1926
+No Docente,Contratado,False,41062
+No Docente,Permanente,False,45479
+No Docente,Contratado,True,45199
+No Docente,Permanente,False,46833
+Docente,Contratado,False,5666
+Docente,Contratado,False,24102
+Docente,Permanente,False,47467
+Docente,Permanente,False,16491
+No Docente,Permanente,True,44441
+No Docente,Permanente,True,45612
+No Docente,Contratado,True,3292
+Docente,Contratado,True,21295
+No Docente,Permanente,False,10133
+Docente,Contratado,False,25360
+No Docente,Contratado,False,19899
+Docente,Contratado,True,35235
+No Docente,Contratado,False,18001
+No Docente,Contratado,False,49348
+No Docente,Permanente,False,14387
+No Docente,Contratado,False,47151
+No Docente,Permanente,True,16325
+No Docente,Permanente,True,33277
+Docente,Permanente,False,13889
+No Docente,Contratado,False,27150
+No Docente,Permanente,False,22006
+Docente,Permanente,False,18154
+No Docente,Contratado,False,19250
+Docente,Permanente,False,33964
+Docente,Contratado,True,36857
+No Docente,Permanente,False,8437
+No Docente,Permanente,True,47056
+No Docente,Permanente,True,14821
+No Docente,Permanente,False,18723
+Docente,Contratado,False,25749
+No Docente,Contratado,True,49588
+No Docente,Permanente,True,16217
+No Docente,Contratado,True,13747
+No Docente,Permanente,False,10804
+No Docente,Permanente,False,26055
+No Docente,Permanente,False,38046
+Docente,Contratado,False,39963
+No Docente,Contratado,True,6311
+No Docente,Contratado,True,16335
+Docente,Contratado,True,5746
+No Docente,Permanente,True,40408
+Docente,Contratado,True,8389
+Docente,Contratado,True,15451
+No Docente,Permanente,True,40753
+No Docente,Contratado,False,38819
+Docente,Permanente,False,38155
+Docente,Permanente,True,14426
+Docente,Contratado,True,721
+Docente,Contratado,False,39428
+Docente,Permanente,False,36595
+No Docente,Permanente,False,13576
+Docente,Permanente,True,692
+Docente,Contratado,False,29252
+No Docente,Contratado,False,46832
+No Docente,Contratado,True,33324
+No Docente,Permanente,True,35516
+Docente,Permanente,True,21200
+Docente,Permanente,True,7124
+Docente,Contratado,False,36504
+No Docente,Permanente,True,46886
+Docente,Permanente,True,44686
+Docente,Permanente,True,46258
+Docente,Permanente,False,48380
+Docente,Contratado,False,1589
+No Docente,Permanente,True,47866
+No Docente,Contratado,False,23181
+No Docente,Permanente,True,8038
+Docente,Permanente,True,23957
+No Docente,Contratado,True,17734
+No Docente,Permanente,False,42517
+Docente,Contratado,True,6201
+No Docente,Contratado,True,32947
+No Docente,Permanente,False,27581
+No Docente,Permanente,True,8959
+No Docente,Permanente,True,23539
+Docente,Permanente,False,3334
+No Docente,Contratado,False,35878
+No Docente,Contratado,False,29062
+No Docente,Permanente,False,8882
+No Docente,Contratado,False,33572
+No Docente,Contratado,True,32158
+Docente,Permanente,False,33984
+Docente,Permanente,False,34942
+Docente,Permanente,False,14503
+No Docente,Permanente,False,12948
+No Docente,Permanente,True,26876
+Docente,Contratado,True,19271
+No Docente,Contratado,True,24761
+Docente,Contratado,True,46375
+Docente,Permanente,True,28932
+Docente,Contratado,False,24650
+Docente,Contratado,True,48071
+Docente,Contratado,False,45424
+Docente,Contratado,True,26987
+No Docente,Contratado,True,9563
+No Docente,Contratado,True,19855
+Docente,Permanente,False,44190
+No Docente,Contratado,False,4545
+No Docente,Contratado,False,18618
+Docente,Contratado,True,29467
+Docente,Contratado,False,22260
+No Docente,Permanente,True,17278
+Docente,Permanente,True,4726
+Docente,Permanente,True,37663
+No Docente,Permanente,True,25467
+No Docente,Permanente,True,32010
+Docente,Contratado,True,28147
+No Docente,Permanente,False,27408
+No Docente,Permanente,True,44819
+No Docente,Permanente,True,38109
+Docente,Contratado,False,33233
+No Docente,Permanente,True,24465
+Docente,Contratado,True,37926
+Docente,Permanente,True,25644
+Docente,Permanente,False,2472
+Docente,Contratado,True,2072
+Docente,Contratado,True,30940
+No Docente,Contratado,True,27509
+No Docente,Permanente,False,31654
+No Docente,Permanente,False,17656
+Docente,Permanente,False,20608
+No Docente,Contratado,False,11867
+No Docente,Contratado,False,34749
+Docente,Contratado,True,22747
+No Docente,Contratado,True,360
+Docente,Permanente,False,35835
+No Docente,Contratado,False,27352
+No Docente,Permanente,False,27736
+Docente,Permanente,True,13086
+Docente,Contratado,True,48884
+Docente,Permanente,False,29050
+No Docente,Permanente,False,43551
+No Docente,Permanente,True,17308
+No Docente,Contratado,True,25985
+Docente,Permanente,True,12216
+Docente,Permanente,False,42379
+No Docente,Permanente,False,4970
+No Docente,Permanente,False,27034
+Docente,Permanente,False,39883
+No Docente,Contratado,False,47645
+No Docente,Permanente,False,46325
+Docente,Permanente,False,38193
+No Docente,Permanente,True,1645
+Docente,Permanente,True,43218
+No Docente,Permanente,True,33780
+Docente,Permanente,False,38688
+No Docente,Contratado,True,31301
+No Docente,Permanente,False,11881
+No Docente,Contratado,False,24026
+No Docente,Contratado,True,1320
+Docente,Permanente,True,28451
+No Docente,Permanente,False,8246
+No Docente,Permanente,True,41619
+Docente,Permanente,True,22994
+Docente,Permanente,False,6498
+No Docente,Contratado,True,19785
+Docente,Contratado,True,19549
+No Docente,Contratado,True,47527
+No Docente,Permanente,False,28173
+No Docente,Permanente,True,14732
+No Docente,Permanente,False,21225
+No Docente,Contratado,True,38870
+No Docente,Permanente,True,3831
+Docente,Permanente,False,181
+No Docente,Contratado,True,43027
+No Docente,Permanente,True,11993
+No Docente,Contratado,True,28360
+No Docente,Contratado,False,38789
+No Docente,Contratado,True,7588
+No Docente,Permanente,True,48734
+Docente,Contratado,False,1636
+Docente,Permanente,True,18426
+No Docente,Permanente,True,22796
+No Docente,Contratado,False,14072
+Docente,Contratado,True,32850
+No Docente,Contratado,False,4522
+Docente,Contratado,True,35629
+Docente,Permanente,False,41418
+Docente,Contratado,False,5874
+No Docente,Contratado,False,22249
+No Docente,Contratado,False,6574
+No Docente,Permanente,True,22154
+Docente,Permanente,False,31687
+No Docente,Contratado,False,15797
+Docente,Contratado,False,24866
+Docente,Contratado,False,49914
+Docente,Permanente,True,41225
+Docente,Permanente,False,44804
+Docente,Contratado,True,36954
+No Docente,Permanente,True,20145
+No Docente,Contratado,False,10553
+No Docente,Contratado,False,20445
+Docente,Permanente,False,48623
+No Docente,Permanente,True,8849
+No Docente,Permanente,True,46611
+Docente,Permanente,True,15107
+Docente,Contratado,True,5712
+No Docente,Permanente,True,37849
+Docente,Permanente,True,14702
+No Docente,Permanente,False,32451
+No Docente,Contratado,True,21562
+No Docente,Contratado,False,21734
+No Docente,Permanente,False,46911
+No Docente,Contratado,False,34895
+No Docente,Permanente,True,46407
+Docente,Permanente,True,23366
+No Docente,Contratado,True,9742
+Docente,Permanente,True,15854
+No Docente,Permanente,True,31550
+Docente,Contratado,True,21404
+Docente,Permanente,False,36670
+No Docente,Contratado,True,1234
+No Docente,Contratado,False,27874
+Docente,Permanente,True,11148
+No Docente,Permanente,False,40494
+Docente,Contratado,False,32031
+Docente,Contratado,True,41387
+No Docente,Contratado,False,1913
+Docente,Permanente,False,22250
+No Docente,Permanente,True,9963
+Docente,Permanente,False,8629
+No Docente,Contratado,True,43155
+Docente,Contratado,True,37489
+Docente,Contratado,False,28203
+No Docente,Permanente,True,39141
+No Docente,Contratado,False,22531
+Docente,Contratado,True,48174
+No Docente,Permanente,False,13524
+No Docente,Contratado,False,38336
+No Docente,Permanente,False,38482
+Docente,Permanente,True,5920
+No Docente,Permanente,False,23517
+Docente,Contratado,False,1599
+Docente,Contratado,False,2854
+No Docente,Contratado,False,7250
+Docente,Contratado,True,42323
+Docente,Permanente,False,29734
+No Docente,Contratado,True,49268
+Docente,Permanente,True,28519
+No Docente,Permanente,True,47189
+No Docente,Permanente,True,37268
+No Docente,Permanente,True,16612
+Docente,Permanente,True,14895
+Docente,Contratado,False,30675
+Docente,Permanente,False,10728
+No Docente,Permanente,True,48358
+Docente,Contratado,True,773
+Docente,Permanente,False,44823
+Docente,Contratado,False,565
+No Docente,Contratado,True,3131
+Docente,Contratado,True,20488
+No Docente,Contratado,True,14750
+No Docente,Contratado,False,20970
+Docente,Permanente,False,41626
+No Docente,Permanente,False,14785
+No Docente,Contratado,False,34800
+Docente,Contratado,False,28369
+No Docente,Contratado,True,13492
+No Docente,Permanente,True,18271
+Docente,Permanente,True,14147
+No Docente,Permanente,False,9677
+Docente,Contratado,True,18009
+No Docente,Contratado,True,45837
+No Docente,Permanente,False,2295
+No Docente,Contratado,True,46132
+Docente,Permanente,False,42364
+No Docente,Permanente,True,40909
+No Docente,Contratado,True,14088
+No Docente,Contratado,True,47033
+Docente,Permanente,True,7259
+Docente,Contratado,True,21132
+No Docente,Contratado,False,31610
+No Docente,Contratado,False,47061
+Docente,Contratado,False,35407
+No Docente,Permanente,True,5021
+No Docente,Permanente,True,15326
+No Docente,Contratado,False,12714
+No Docente,Permanente,False,2733
+No Docente,Permanente,False,30698
+Docente,Permanente,False,9884
+Docente,Contratado,False,33700
+No Docente,Contratado,False,31541
+No Docente,Permanente,True,7069
+Docente,Permanente,False,6990
+Docente,Permanente,True,2002
+Docente,Permanente,True,46684
+No Docente,Permanente,False,15994
+Docente,Contratado,True,14136
+Docente,Contratado,False,49645
+No Docente,Contratado,False,6891
+No Docente,Contratado,False,28803
+No Docente,Contratado,False,4624
+Docente,Permanente,False,5825
+Docente,Permanente,True,34635
+Docente,Contratado,True,16706
+Docente,Permanente,True,25253
+Docente,Permanente,True,5488
+No Docente,Permanente,True,2430
+Docente,Contratado,True,16450
+Docente,Contratado,True,44542
+No Docente,Contratado,False,45770
+Docente,Contratado,False,25224
+No Docente,Permanente,True,12906
+No Docente,Permanente,True,49260
+No Docente,Permanente,False,9806
+Docente,Contratado,True,29453
+Docente,Permanente,False,39757
+Docente,Permanente,False,16916
+No Docente,Contratado,True,32033
+Docente,Permanente,True,36572
+Docente,Permanente,True,17071
+Docente,Contratado,True,48573
+Docente,Permanente,False,5062
+No Docente,Permanente,False,8027
+Docente,Contratado,True,15829
+No Docente,Permanente,False,8587
+Docente,Contratado,False,37089
+No Docente,Contratado,False,44657
+No Docente,Permanente,False,44769
+Docente,Contratado,False,2361
+No Docente,Permanente,True,24467
+No Docente,Contratado,False,45225
+No Docente,Permanente,True,40096
+Docente,Contratado,True,17243
+Docente,Permanente,True,31100
+No Docente,Permanente,True,43605
+No Docente,Contratado,False,10476
+Docente,Permanente,True,44572
+No Docente,Permanente,False,14131
+Docente,Permanente,False,25958
+Docente,Contratado,True,45211
+No Docente,Permanente,True,22544
+Docente,Contratado,True,21277
+Docente,Contratado,True,30906
+Docente,Permanente,True,23846
+Docente,Permanente,False,7762
+Docente,Permanente,False,1853
+Docente,Permanente,True,3226
+Docente,Contratado,False,48530
+No Docente,Permanente,True,49812
+Docente,Permanente,False,17231
+No Docente,Contratado,False,22952
+Docente,Permanente,False,34089
+No Docente,Contratado,True,38288
+Docente,Contratado,False,23529
+Docente,Permanente,False,5532
+No Docente,Permanente,True,32019
+No Docente,Contratado,False,30865
+Docente,Contratado,True,2132
+Docente,Contratado,True,21397
+Docente,Contratado,True,17681
+No Docente,Contratado,True,34130
+Docente,Permanente,True,16293
+Docente,Permanente,True,20368
+Docente,Contratado,False,14074
+Docente,Permanente,True,42343
+Docente,Permanente,True,27526
+No Docente,Permanente,True,17239
+Docente,Contratado,False,31187
+No Docente,Contratado,True,35268
+No Docente,Permanente,False,39416
+Docente,Contratado,True,26967
+Docente,Contratado,False,46443
+Docente,Permanente,True,10522
+No Docente,Contratado,False,9898
+No Docente,Contratado,True,10336
+No Docente,Permanente,False,13745
+Docente,Permanente,True,27677
+Docente,Contratado,False,38969
+Docente,Contratado,False,2927
+Docente,Permanente,True,10756
+Docente,Contratado,False,41948
+No Docente,Contratado,False,18628
+No Docente,Permanente,False,17767
+No Docente,Permanente,True,10461
+No Docente,Contratado,False,19587
+No Docente,Contratado,False,38418
+No Docente,Permanente,True,42268
+Docente,Permanente,False,18100
+Docente,Contratado,True,40660
+Docente,Permanente,False,44516
+No Docente,Contratado,True,45336
+No Docente,Contratado,True,37531
+Docente,Contratado,True,11849
+Docente,Contratado,False,22915
+No Docente,Permanente,True,19871
+No Docente,Permanente,False,26161
+Docente,Contratado,False,9893
+Docente,Permanente,True,37335
+No Docente,Permanente,False,36404
+No Docente,Permanente,True,18661
+Docente,Contratado,False,31386
+Docente,Contratado,False,34302
+Docente,Contratado,True,33762
+No Docente,Contratado,False,43045
+No Docente,Contratado,True,31477
+No Docente,Permanente,True,38746
+No Docente,Contratado,True,5236
+No Docente,Permanente,False,34759
+Docente,Contratado,False,30197
+Docente,Contratado,True,19084
+No Docente,Contratado,False,8007
+No Docente,Contratado,False,37365
+No Docente,Contratado,False,19405
+No Docente,Permanente,True,17045
+Docente,Contratado,False,19738
+Docente,Contratado,True,30192
+Docente,Contratado,True,17259
+No Docente,Contratado,False,23047
+No Docente,Permanente,True,40896
+Docente,Permanente,True,18521
+No Docente,Permanente,False,1527
+No Docente,Permanente,True,11924
+Docente,Permanente,False,15644
+Docente,Contratado,True,10549
+Docente,Permanente,False,23319
+Docente,Permanente,True,42625
+No Docente,Permanente,True,37458
+Docente,Contratado,False,39807
+Docente,Contratado,False,13002
+Docente,Contratado,True,9672
+Docente,Permanente,True,12887
+Docente,Contratado,False,29518
+No Docente,Permanente,False,47939
+No Docente,Permanente,False,29702
+No Docente,Permanente,False,10085
+No Docente,Permanente,True,10617
+No Docente,Permanente,True,7395
+No Docente,Permanente,False,27897
+Docente,Permanente,True,34639
+No Docente,Permanente,False,19080
+No Docente,Permanente,False,35155
+No Docente,Contratado,False,24743
+Docente,Contratado,False,21124
+Docente,Permanente,True,38325
+Docente,Contratado,False,28887
+No Docente,Contratado,True,30550
+No Docente,Permanente,True,45351
+No Docente,Permanente,True,5980
+No Docente,Permanente,True,27576
+Docente,Contratado,True,33361
+Docente,Contratado,False,27628
+Docente,Permanente,True,1022
+No Docente,Contratado,False,3770
+Docente,Permanente,False,12921
+No Docente,Contratado,True,27363
+No Docente,Permanente,False,40156
+No Docente,Permanente,True,4992
+No Docente,Permanente,False,12702
+No Docente,Contratado,True,4232
+Docente,Permanente,False,37588
+No Docente,Permanente,False,25962
+Docente,Contratado,False,5367
+Docente,Permanente,False,12916
+Docente,Permanente,False,4792
+No Docente,Contratado,False,41566
+Docente,Permanente,False,17470
+Docente,Contratado,True,23083
+No Docente,Permanente,False,19694
+No Docente,Contratado,True,44721
+Docente,Permanente,False,42219
+No Docente,Permanente,False,28946
+No Docente,Permanente,False,10585
+No Docente,Permanente,True,21331
+No Docente,Contratado,True,44033
+Docente,Permanente,True,40112
+Docente,Contratado,True,31798
+No Docente,Permanente,True,37409
+No Docente,Contratado,True,18352
+Docente,Permanente,True,44426
+Docente,Permanente,False,10079
+Docente,Permanente,True,4378
+Docente,Contratado,True,7658
+No Docente,Permanente,True,49929
+Docente,Contratado,True,6640
+No Docente,Permanente,False,48158
+Docente,Permanente,False,30764
+No Docente,Contratado,False,37600
+No Docente,Permanente,True,1771
+No Docente,Contratado,True,19024
+No Docente,Contratado,True,43184
+Docente,Contratado,False,19053
+No Docente,Contratado,False,44333
+No Docente,Permanente,True,35461
+No Docente,Permanente,False,28324
+No Docente,Contratado,False,16686
+No Docente,Permanente,False,1486
+No Docente,Contratado,True,22115
+No Docente,Permanente,False,34927
+No Docente,Permanente,False,47684
+No Docente,Contratado,True,10227
+Docente,Permanente,False,42765
+Docente,Contratado,False,42163
+No Docente,Contratado,False,10769
+No Docente,Contratado,False,33993
+Docente,Permanente,True,37010
+No Docente,Contratado,True,4027
+No Docente,Permanente,True,13153
+No Docente,Contratado,True,10567
+Docente,Permanente,True,27171
+Docente,Contratado,True,30625
+Docente,Permanente,True,45621
+No Docente,Contratado,True,9432
+Docente,Contratado,False,14455
+No Docente,Permanente,True,4133
+Docente,Contratado,True,17292
+Docente,Permanente,True,76
+Docente,Permanente,False,32855
+No Docente,Permanente,True,8257
+No Docente,Contratado,True,31722
+Docente,Permanente,True,42538
+Docente,Contratado,True,15579
+Docente,Contratado,False,44285
+No Docente,Permanente,False,36230
+No Docente,Permanente,False,40223
+No Docente,Contratado,True,26595
+No Docente,Contratado,False,44930
+Docente,Contratado,True,28450
+No Docente,Permanente,True,24514
+Docente,Contratado,True,45258
+Docente,Contratado,True,222
+No Docente,Contratado,True,34467
+No Docente,Permanente,True,12958
+Docente,Contratado,False,11020
+No Docente,Permanente,True,1547
+Docente,Permanente,True,5113
+Docente,Permanente,False,43889
+No Docente,Permanente,True,30981
+Docente,Contratado,True,46327
+Docente,Contratado,True,26003
+Docente,Permanente,True,15267
+No Docente,Contratado,True,44400
+No Docente,Contratado,False,16238
+No Docente,Contratado,True,31980
+Docente,Permanente,False,43445
+No Docente,Permanente,False,34125
+No Docente,Contratado,False,9343
+Docente,Contratado,True,12306
+Docente,Contratado,False,36542
+Docente,Contratado,True,27890
+No Docente,Contratado,False,8941
+No Docente,Permanente,False,17891
+No Docente,Contratado,False,33699
+No Docente,Contratado,False,13394
+Docente,Permanente,False,41981
+No Docente,Permanente,True,10687
+No Docente,Contratado,False,6983
+Docente,Permanente,True,13843
+Docente,Permanente,True,31836
+Docente,Contratado,True,5406
+No Docente,Permanente,False,35094
+No Docente,Contratado,True,9279
+Docente,Permanente,False,47863
+Docente,Contratado,True,30252
+No Docente,Contratado,True,39343
+No Docente,Permanente,False,29228
+No Docente,Permanente,False,11543
+Docente,Permanente,False,2017
+No Docente,Permanente,True,17040
+No Docente,Permanente,True,2153
+No Docente,Contratado,True,26473
+Docente,Permanente,True,49822
+Docente,Permanente,True,44741
+Docente,Permanente,False,12797
+No Docente,Contratado,False,17754
+No Docente,Permanente,False,30677
+No Docente,Permanente,True,18734
+Docente,Contratado,True,26155
+No Docente,Contratado,True,36878
+No Docente,Permanente,False,27375
+No Docente,Contratado,True,14373
+No Docente,Permanente,True,41691
+Docente,Contratado,False,49610
+No Docente,Contratado,True,38208
+Docente,Contratado,False,39826
+No Docente,Permanente,False,11992
+Docente,Permanente,True,46389
+No Docente,Contratado,False,40796
+No Docente,Contratado,True,44740
+No Docente,Contratado,False,15664
+Docente,Contratado,False,881
+No Docente,Contratado,True,34442
+Docente,Contratado,True,2100
+No Docente,Permanente,True,30158
+No Docente,Contratado,True,14278
+No Docente,Contratado,True,11409
+Docente,Contratado,True,8092
+No Docente,Permanente,True,20713
+No Docente,Permanente,False,5568
+No Docente,Contratado,True,10630
+Docente,Permanente,True,7024
+No Docente,Contratado,False,34840
+No Docente,Contratado,False,35050
+Docente,Permanente,False,13009
+Docente,Permanente,False,26356
+Docente,Contratado,True,26690
+Docente,Permanente,True,48137
+Docente,Contratado,True,11720
+No Docente,Contratado,True,40048
+Docente,Contratado,True,40559
+No Docente,Contratado,True,41941
+Docente,Contratado,True,36633
+No Docente,Contratado,True,7493
+No Docente,Permanente,False,37408
+Docente,Contratado,False,43797
+Docente,Contratado,False,42957
+No Docente,Contratado,False,49250
+Docente,Permanente,True,26277
+Docente,Permanente,False,34723
+No Docente,Permanente,True,23310
+Docente,Contratado,False,34289
+No Docente,Contratado,False,17685
+No Docente,Contratado,False,49482
+Docente,Permanente,False,12115
+Docente,Permanente,False,36061
+Docente,Contratado,True,8224
+No Docente,Contratado,False,14001
+Docente,Permanente,True,49794
+No Docente,Contratado,False,24255
+No Docente,Contratado,True,25641
+No Docente,Contratado,False,24094
+No Docente,Contratado,False,3397
+Docente,Contratado,False,25491
+Docente,Permanente,False,19192
+Docente,Permanente,True,19796
+Docente,Contratado,False,26462
+Docente,Permanente,True,44648
+No Docente,Permanente,True,568
+No Docente,Permanente,False,25079
+No Docente,Contratado,False,43363
+No Docente,Permanente,False,12770
+Docente,Permanente,True,16793
+Docente,Permanente,False,5603
+No Docente,Contratado,True,30529
+Docente,Contratado,True,24922
+No Docente,Contratado,False,38869
+No Docente,Contratado,True,1627
+No Docente,Permanente,True,33262
+Docente,Permanente,False,19815
+Docente,Contratado,False,20166
+Docente,Permanente,False,7760
+No Docente,Contratado,True,38538
+No Docente,Permanente,False,31883
+Docente,Permanente,True,48368
+No Docente,Contratado,False,25868
+Docente,Permanente,False,47289
+Docente,Contratado,False,39334
+Docente,Permanente,False,35583
+No Docente,Contratado,False,45270
+Docente,Permanente,False,41590
+Docente,Contratado,True,8842
+Docente,Contratado,False,19852
+Docente,Contratado,True,20081
+Docente,Permanente,False,17763
+No Docente,Contratado,True,1404
+No Docente,Permanente,False,32248
+Docente,Permanente,False,32774
+Docente,Permanente,True,8976
+No Docente,Permanente,True,13275
+Docente,Contratado,True,35499
+No Docente,Contratado,False,26566
+Docente,Permanente,False,39771
+No Docente,Contratado,False,11086
+No Docente,Contratado,False,46502
+Docente,Contratado,True,41058
+Docente,Permanente,False,42575
+No Docente,Permanente,False,20054
+Docente,Contratado,True,34680
+No Docente,Permanente,True,28709
+Docente,Contratado,False,33181
+Docente,Contratado,False,39563
+No Docente,Permanente,False,32603
+No Docente,Permanente,False,3939
+No Docente,Contratado,True,39127
+No Docente,Permanente,False,15285
+Docente,Permanente,True,47228
+Docente,Permanente,False,94
+Docente,Permanente,True,4676
+No Docente,Permanente,True,33347
+Docente,Contratado,False,33379
+Docente,Contratado,True,31147
+No Docente,Contratado,True,5727
+Docente,Permanente,False,39016
+No Docente,Contratado,False,343
+No Docente,Permanente,False,25524
+No Docente,Permanente,False,19724
+Docente,Permanente,True,12246
+Docente,Contratado,False,15665
+Docente,Contratado,True,39140
+No Docente,Permanente,False,23771
+Docente,Permanente,True,12585
+No Docente,Contratado,False,5963
+No Docente,Contratado,False,15492
+Docente,Permanente,False,10683
+Docente,Permanente,True,18989
+Docente,Permanente,True,22655
+No Docente,Contratado,False,27243
+Docente,Contratado,True,28620
+Docente,Contratado,True,12249
+No Docente,Permanente,False,46156
+Docente,Contratado,False,48145
+No Docente,Permanente,True,41106
+No Docente,Contratado,True,24120
+No Docente,Permanente,True,46923
+Docente,Contratado,False,41725
+No Docente,Contratado,True,33063
+No Docente,Permanente,False,28775
+Docente,Contratado,True,23578
+Docente,Contratado,False,7520
+Docente,Permanente,False,39739
+Docente,Permanente,True,32364
+Docente,Contratado,True,40864
+No Docente,Permanente,False,48578
+Docente,Permanente,True,27847
+No Docente,Contratado,False,2710
+Docente,Permanente,True,45930
+Docente,Permanente,True,43995
+Docente,Contratado,False,34090
+No Docente,Permanente,False,29193
+No Docente,Permanente,True,20943
+No Docente,Permanente,True,9462
+No Docente,Contratado,False,47997
+Docente,Contratado,False,1542
+No Docente,Permanente,False,39524
+Docente,Permanente,False,7092
+Docente,Contratado,False,23230
+No Docente,Permanente,True,9078
+Docente,Contratado,True,30438
+No Docente,Contratado,False,45027
+No Docente,Permanente,False,40632
+Docente,Permanente,False,20665
+No Docente,Permanente,False,13801
+Docente,Permanente,False,40081
+Docente,Contratado,False,16493
+No Docente,Permanente,True,11247
+Docente,Permanente,False,8889
+No Docente,Permanente,False,47795
+Docente,Permanente,False,14342
+No Docente,Permanente,True,31759
+No Docente,Contratado,True,2453
+No Docente,Permanente,True,14608
+No Docente,Contratado,True,43454
+Docente,Permanente,True,44401
+No Docente,Permanente,False,18716
+No Docente,Permanente,True,21248
+Docente,Permanente,False,37232
+Docente,Permanente,False,29692
+No Docente,Permanente,True,48452
+Docente,Permanente,True,49832
+Docente,Permanente,False,49157
+No Docente,Permanente,True,12809
+Docente,Permanente,True,46669
+No Docente,Permanente,True,28112
+No Docente,Permanente,True,32968
+No Docente,Permanente,False,20442
+No Docente,Permanente,True,23472
+No Docente,Contratado,True,12142
+No Docente,Contratado,False,2483
+No Docente,Permanente,True,45704
+No Docente,Contratado,True,10328
+Docente,Contratado,True,31452
+No Docente,Permanente,False,28217
+Docente,Contratado,True,30831
+No Docente,Permanente,True,34482
+No Docente,Contratado,True,15440
+Docente,Contratado,False,44398
+No Docente,Contratado,True,44485
+No Docente,Permanente,True,45226
+No Docente,Permanente,False,22394
+Docente,Permanente,True,48621
+No Docente,Contratado,False,22418
+Docente,Contratado,False,21118
+No Docente,Contratado,False,47766
+No Docente,Contratado,True,47392
+No Docente,Contratado,False,46910
+Docente,Permanente,False,27286
+No Docente,Permanente,False,26177
+No Docente,Contratado,True,27460
+No Docente,Permanente,False,5002
+Docente,Permanente,True,44428
+No Docente,Permanente,True,38669
+Docente,Contratado,False,35530
+No Docente,Contratado,False,30948
+No Docente,Permanente,True,34923
+No Docente,Permanente,False,8513
+Docente,Permanente,True,21619
+Docente,Permanente,True,7908
+Docente,Permanente,True,30683
+No Docente,Contratado,False,41750
+No Docente,Contratado,True,709
+No Docente,Permanente,True,3101
+No Docente,Contratado,True,25821
+Docente,Contratado,False,15438
+No Docente,Permanente,False,20794
+No Docente,Contratado,False,41830
+No Docente,Permanente,False,17995
+Docente,Permanente,False,2131
+Docente,Contratado,False,36831
+No Docente,Permanente,True,23144
+No Docente,Contratado,True,34576
+Docente,Contratado,True,36724
+Docente,Contratado,True,16165
+Docente,Contratado,False,28025
+Docente,Permanente,False,21601
+Docente,Contratado,True,36440
+Docente,Contratado,True,16270
+Docente,Contratado,True,15168
+No Docente,Permanente,False,16160
+Docente,Permanente,True,32151
+Docente,Contratado,True,14382
+No Docente,Contratado,True,2457
+No Docente,Permanente,True,11249
+Docente,Contratado,True,39966
+Docente,Contratado,True,35482
+Docente,Contratado,False,38853
+No Docente,Permanente,False,47488
+Docente,Permanente,True,26233
+No Docente,Permanente,False,29280
+No Docente,Permanente,True,10730
+Docente,Permanente,True,873
+No Docente,Contratado,True,47489
+Docente,Permanente,True,24656
+No Docente,Permanente,True,7699
+No Docente,Contratado,False,38038
+No Docente,Contratado,False,47968
+Docente,Contratado,True,15988
+Docente,Permanente,True,35808
+Docente,Permanente,True,36478
+No Docente,Contratado,False,29060
+Docente,Contratado,True,48709
+Docente,Contratado,False,2727
+Docente,Permanente,True,46958
+Docente,Permanente,True,7961
+Docente,Permanente,False,48982
+Docente,Contratado,False,8922
+No Docente,Contratado,True,3588
+Docente,Contratado,True,29932
+Docente,Contratado,False,11579
+Docente,Contratado,False,35074
+Docente,Contratado,True,35319
+Docente,Contratado,False,36078
+Docente,Permanente,True,46868
+No Docente,Permanente,False,49134
+Docente,Contratado,True,14391
+Docente,Contratado,True,36293
+No Docente,Contratado,False,18685
+No Docente,Contratado,False,16340
+No Docente,Contratado,True,19581
+No Docente,Contratado,False,49139
+Docente,Permanente,False,1783
+Docente,Contratado,True,20544
+No Docente,Contratado,False,44347
+No Docente,Contratado,False,20871
+No Docente,Contratado,False,36053
+Docente,Permanente,False,39316
+No Docente,Contratado,True,33004
+No Docente,Permanente,True,36108
+No Docente,Contratado,False,37349
+Docente,Contratado,True,32156
+No Docente,Contratado,True,35988
+Docente,Contratado,False,46880
+No Docente,Contratado,False,27063
+Docente,Contratado,False,19077
+Docente,Permanente,True,46668
+Docente,Contratado,False,8999
+Docente,Permanente,False,27005
+Docente,Contratado,True,3861
+Docente,Permanente,False,27344
+Docente,Contratado,True,21174
+Docente,Contratado,False,35257
+No Docente,Permanente,True,43805
+No Docente,Permanente,True,36430
+No Docente,Contratado,True,1196
+Docente,Permanente,True,16464
+No Docente,Contratado,False,27878
+No Docente,Contratado,False,11258
+No Docente,Contratado,True,433
+Docente,Contratado,True,12902
+Docente,Permanente,False,40152
+Docente,Contratado,False,45915
+Docente,Contratado,True,25285
+No Docente,Contratado,False,21216
+Docente,Permanente,True,29447
+No Docente,Contratado,False,39071
+Docente,Permanente,True,16292
+No Docente,Contratado,True,49298
+No Docente,Permanente,False,21944
+No Docente,Contratado,True,41628
+Docente,Contratado,False,40553
+Docente,Contratado,True,29753
+Docente,Permanente,True,46417
+No Docente,Contratado,False,45670
+No Docente,Permanente,True,28674
+No Docente,Permanente,True,48247
+No Docente,Permanente,True,4233
+No Docente,Contratado,True,36450
+Docente,Contratado,False,37245
+No Docente,Permanente,True,44668
+Docente,Contratado,False,37292
+Docente,Contratado,False,33041
+Docente,Permanente,False,47984
+Docente,Permanente,False,28439
+Docente,Permanente,True,7775
+No Docente,Contratado,False,44967
+Docente,Permanente,False,11675
+No Docente,Permanente,True,36165
+No Docente,Permanente,True,30281
+No Docente,Contratado,True,33933
+Docente,Contratado,True,14831
+Docente,Contratado,False,41472
+No Docente,Contratado,False,47295
+No Docente,Contratado,False,45388
+Docente,Permanente,False,14036
+No Docente,Permanente,False,28742
+Docente,Permanente,True,27329
+No Docente,Contratado,False,9787
+Docente,Permanente,True,19522
+Docente,Permanente,True,10723
+Docente,Contratado,False,20858
+Docente,Permanente,True,35865
+Docente,Permanente,False,22130
+Docente,Permanente,True,15063
+Docente,Contratado,False,29940
+Docente,Permanente,False,34735
+Docente,Permanente,True,15516
+Docente,Permanente,False,3877
+No Docente,Permanente,True,14850
+Docente,Permanente,False,23415
+Docente,Contratado,False,23109
+Docente,Permanente,False,38520
+Docente,Contratado,False,30293
+No Docente,Permanente,False,34592
+No Docente,Contratado,False,34912
+Docente,Contratado,True,35730
+Docente,Contratado,True,38508
+No Docente,Permanente,False,1742
+No Docente,Permanente,False,18170
+Docente,Permanente,True,22691
+No Docente,Contratado,False,26101
+Docente,Contratado,True,39514
+No Docente,Permanente,False,15606
+Docente,Permanente,False,47810
+Docente,Permanente,True,29856
+No Docente,Contratado,False,31054
+No Docente,Contratado,True,24610
+Docente,Permanente,False,30005
+No Docente,Contratado,True,24820
+No Docente,Permanente,True,3895
+No Docente,Permanente,True,3584
+No Docente,Permanente,False,31403
+No Docente,Permanente,False,35490
+Docente,Contratado,False,8069
+No Docente,Contratado,True,13676
+Docente,Permanente,True,39743
+Docente,Permanente,False,21881
+Docente,Contratado,False,14117
+Docente,Permanente,True,16788
+Docente,Permanente,True,17687
+No Docente,Permanente,False,47737
+No Docente,Contratado,True,27072
+No Docente,Contratado,False,16773
+Docente,Contratado,True,10241
+No Docente,Contratado,False,47197
+Docente,Permanente,False,33050
+Docente,Permanente,True,6993
+Docente,Contratado,False,44720
+Docente,Contratado,False,41571
+No Docente,Permanente,False,22256
+No Docente,Contratado,True,11327
+No Docente,Permanente,True,37426
+No Docente,Contratado,False,20456
+No Docente,Permanente,True,5189
+Docente,Contratado,True,47594
+No Docente,Permanente,False,2749
+Docente,Contratado,False,20620
+No Docente,Contratado,True,25791
+Docente,Permanente,False,24397
+No Docente,Permanente,True,36988
+No Docente,Permanente,True,49489
+Docente,Permanente,False,49586
+Docente,Permanente,False,48235
+Docente,Contratado,True,6560
+Docente,Contratado,True,6860
+Docente,Contratado,True,42799
+No Docente,Permanente,False,44613
+Docente,Permanente,False,34184
+Docente,Permanente,False,21778
+No Docente,Permanente,False,830
+Docente,Contratado,True,5061
+Docente,Permanente,True,22802
+No Docente,Contratado,True,37798
+No Docente,Permanente,False,42421
+Docente,Contratado,True,42652
+Docente,Permanente,True,23270
+No Docente,Contratado,True,43331
+Docente,Permanente,False,46477
+No Docente,Contratado,False,38693
+Docente,Contratado,True,44059
+No Docente,Contratado,True,19251
+Docente,Contratado,False,43275
+Docente,Permanente,True,34501
+No Docente,Contratado,True,48861
+Docente,Contratado,False,15909
+No Docente,Permanente,False,5123
+No Docente,Contratado,True,49103
+Docente,Contratado,True,27606
+Docente,Contratado,False,26964
+Docente,Permanente,False,42257
+No Docente,Permanente,False,32907
+No Docente,Permanente,True,20275
+Docente,Permanente,False,26636
+No Docente,Permanente,False,1973
+No Docente,Contratado,True,19888
+Docente,Permanente,False,33378
+Docente,Permanente,False,20400
+Docente,Contratado,False,983
+Docente,Permanente,True,40983
+Docente,Permanente,False,44388
+Docente,Contratado,False,26584
+No Docente,Permanente,False,12209
+No Docente,Contratado,True,12545
+No Docente,Contratado,True,32589
+No Docente,Contratado,True,49848
+Docente,Contratado,False,36690
+Docente,Contratado,False,20010
+No Docente,Contratado,False,31060
+No Docente,Contratado,False,11679
+No Docente,Contratado,True,6674
+Docente,Permanente,True,22116
+Docente,Permanente,False,45059
+No Docente,Contratado,True,3133
+No Docente,Permanente,False,20035
+Docente,Contratado,True,25978
+Docente,Contratado,True,46831
+No Docente,Contratado,True,7589
+Docente,Permanente,True,23989
+Docente,Contratado,False,29770
+No Docente,Permanente,False,21405
+Docente,Permanente,True,43744
+Docente,Contratado,True,39582
+Docente,Contratado,True,5693
+No Docente,Permanente,False,49850
+No Docente,Contratado,True,16138
+No Docente,Permanente,False,40618
+No Docente,Permanente,True,11090
+Docente,Contratado,True,47173
+No Docente,Contratado,False,1078
+Docente,Permanente,True,45322
+No Docente,Permanente,False,32209
+No Docente,Permanente,True,7059
+No Docente,Contratado,False,37353
+No Docente,Permanente,True,19367
+Docente,Permanente,True,19290
+No Docente,Contratado,True,39061
+Docente,Permanente,True,5954
+Docente,Permanente,True,36155
+Docente,Permanente,True,4798
+Docente,Contratado,False,12264
+Docente,Contratado,True,32104
+No Docente,Contratado,True,26293
+Docente,Permanente,True,17378
+Docente,Contratado,True,24849
+Docente,Contratado,True,25265
+Docente,Permanente,True,8598
+No Docente,Permanente,False,46913
+Docente,Contratado,True,21884
+Docente,Permanente,False,19619
+No Docente,Contratado,True,29039
+Docente,Permanente,True,37069
+No Docente,Permanente,False,46423
+No Docente,Contratado,True,39313
+No Docente,Contratado,False,2807
+No Docente,Permanente,True,25268
+Docente,Contratado,True,25288
+Docente,Contratado,True,20936
+Docente,Permanente,True,43789
+No Docente,Permanente,False,11387
+Docente,Contratado,True,25153
+Docente,Contratado,True,14771
+Docente,Contratado,False,5894
+Docente,Contratado,False,15409
+Docente,Permanente,True,1791
+No Docente,Contratado,True,38770
+No Docente,Contratado,True,18079
+Docente,Contratado,True,23102
+No Docente,Permanente,False,44553
+No Docente,Permanente,False,39293
+Docente,Contratado,True,26902
+No Docente,Permanente,True,39566
+No Docente,Permanente,True,41420
+No Docente,Contratado,False,22529
+No Docente,Permanente,True,1402
+Docente,Permanente,False,13738
+No Docente,Permanente,True,9642
+No Docente,Contratado,False,27872
+No Docente,Contratado,True,38042
+Docente,Contratado,True,39454
+Docente,Contratado,True,9276
+Docente,Contratado,True,49224
+No Docente,Permanente,False,24758
+Docente,Contratado,True,15661
+Docente,Contratado,True,47024
+No Docente,Permanente,False,8386
+No Docente,Contratado,True,26300
+No Docente,Contratado,False,5486
+No Docente,Permanente,False,49585
+No Docente,Permanente,False,1476
+No Docente,Permanente,False,42156
+Docente,Permanente,False,33326
+No Docente,Permanente,False,32494
+No Docente,Contratado,True,37706
+Docente,Contratado,True,3526
+No Docente,Permanente,True,44863
+Docente,Contratado,False,39519
+No Docente,Contratado,False,44149
+Docente,Contratado,True,16576
+Docente,Permanente,False,3646
+Docente,Contratado,False,32611
+No Docente,Contratado,False,1413
+No Docente,Contratado,True,22899
+No Docente,Contratado,True,3854
+No Docente,Permanente,True,599
+No Docente,Contratado,False,1624
+No Docente,Permanente,False,39868
+No Docente,Permanente,False,44071
+No Docente,Contratado,False,5768
+No Docente,Contratado,False,10176
+Docente,Permanente,False,48964
+Docente,Contratado,True,13995
+No Docente,Contratado,True,23152
+No Docente,Contratado,True,43953
+No Docente,Contratado,True,16354
+No Docente,Permanente,True,8869
+Docente,Contratado,False,33887
+Docente,Contratado,False,33858
+No Docente,Permanente,True,14017
+No Docente,Permanente,False,8003
+Docente,Contratado,True,1516
+No Docente,Contratado,False,47697
+Docente,Contratado,True,31174
+No Docente,Contratado,False,36646
+No Docente,Contratado,False,26202
+Docente,Contratado,True,21820
+Docente,Permanente,False,43191
+No Docente,Permanente,False,24591
+Docente,Permanente,False,30055
+No Docente,Permanente,False,43321
+No Docente,Permanente,False,4498
+No Docente,Contratado,False,20173
+Docente,Permanente,True,38513
+Docente,Permanente,False,36287
+No Docente,Permanente,False,25824
+No Docente,Permanente,True,29251
+Docente,Contratado,False,30130
+No Docente,Permanente,True,27589
+No Docente,Permanente,True,4052
+No Docente,Permanente,True,7970
+Docente,Permanente,True,34687
+Docente,Contratado,True,42600
+Docente,Permanente,False,48607
+No Docente,Contratado,False,13996
+Docente,Contratado,False,38911
+No Docente,Permanente,True,36277
+Docente,Contratado,False,48440
+No Docente,Permanente,True,5080
+Docente,Permanente,False,38107
+Docente,Permanente,False,21612
+No Docente,Permanente,True,14741
+Docente,Contratado,True,34480
+No Docente,Contratado,True,37615
+Docente,Permanente,True,33717
+Docente,Permanente,True,19171
+Docente,Permanente,False,25904
+No Docente,Permanente,False,31317
+Docente,Contratado,True,32943
+Docente,Permanente,False,40813
+Docente,Contratado,True,35454
+Docente,Permanente,True,18329
+No Docente,Contratado,True,26239
+Docente,Permanente,False,4352
+Docente,Permanente,True,40292
+No Docente,Permanente,True,48506
+No Docente,Permanente,True,30447
+No Docente,Permanente,False,11178
+No Docente,Contratado,False,45897
+No Docente,Permanente,False,14111
+Docente,Contratado,False,46896
+No Docente,Permanente,False,30770
+Docente,Contratado,True,31238
+No Docente,Permanente,True,26208
+Docente,Contratado,False,25968
+No Docente,Contratado,True,22053
+Docente,Contratado,False,15475
+No Docente,Contratado,True,22765
+No Docente,Permanente,True,10602
+No Docente,Permanente,False,27718
+No Docente,Permanente,True,7251
+No Docente,Permanente,True,29643
+Docente,Permanente,True,20262
+Docente,Permanente,False,10937
+Docente,Contratado,True,13315
+No Docente,Contratado,True,47138
+Docente,Permanente,False,26817
+Docente,Permanente,False,39688
+Docente,Contratado,True,31543
+No Docente,Contratado,False,46816
+Docente,Permanente,True,13155
+No Docente,Permanente,True,18458
+Docente,Permanente,False,48921
+Docente,Permanente,False,34105
+No Docente,Contratado,False,7873
+No Docente,Contratado,True,47055
+Docente,Permanente,True,1346
+Docente,Contratado,True,10649
+Docente,Permanente,False,46315
+No Docente,Permanente,True,12665
+Docente,Permanente,False,44359
+No Docente,Permanente,False,13427
+No Docente,Permanente,False,1659
+Docente,Permanente,False,43754
+No Docente,Permanente,False,19230
+Docente,Permanente,True,25284
+No Docente,Permanente,False,42583
+Docente,Contratado,False,5610
+No Docente,Contratado,True,44605
+Docente,Contratado,True,47677
+Docente,Permanente,False,762
+No Docente,Contratado,True,27017
+No Docente,Permanente,False,14642
+Docente,Permanente,True,44692
+Docente,Contratado,True,7018
+No Docente,Contratado,True,22728
+No Docente,Permanente,False,36876
+No Docente,Permanente,True,7209
+Docente,Contratado,False,31513
+Docente,Permanente,True,33809
+Docente,Permanente,True,47623
+Docente,Contratado,False,3687
+Docente,Contratado,True,22252
+No Docente,Permanente,False,18324
+No Docente,Permanente,False,8171
+No Docente,Contratado,True,10570
+Docente,Contratado,True,30429
+No Docente,Permanente,False,38304
+No Docente,Permanente,False,33015
+Docente,Contratado,True,7975
+No Docente,Contratado,True,37226
+Docente,Contratado,True,1652
+Docente,Contratado,False,47344
+Docente,Contratado,True,18527
+Docente,Permanente,False,47294
+Docente,Contratado,True,24991
+Docente,Permanente,False,6218
+No Docente,Permanente,True,41608
+No Docente,Permanente,True,29043
+No Docente,Permanente,False,24193
+No Docente,Permanente,False,27156
+Docente,Permanente,False,25525
+Docente,Permanente,False,40214
+Docente,Permanente,True,25739
+No Docente,Permanente,True,1892
+No Docente,Permanente,True,9194
+No Docente,Contratado,False,9414
+No Docente,Contratado,True,30485
+Docente,Permanente,False,40588
+No Docente,Contratado,True,46074
+Docente,Contratado,True,871
+Docente,Permanente,True,35657
+No Docente,Permanente,True,33864
+No Docente,Permanente,True,8723
+No Docente,Permanente,True,48077
+No Docente,Permanente,True,2054
+No Docente,Contratado,False,14262
+Docente,Contratado,False,45514
+Docente,Contratado,False,24041
+No Docente,Permanente,False,26128
+Docente,Contratado,True,10471
+Docente,Contratado,True,38976
+No Docente,Contratado,False,44965
+No Docente,Permanente,True,11952
+Docente,Permanente,True,27473
+Docente,Permanente,True,4787
+No Docente,Permanente,True,46748
+Docente,Permanente,False,8648
+No Docente,Permanente,False,16594
+Docente,Contratado,False,6320
+Docente,Permanente,False,37081
+No Docente,Contratado,False,37990
+No Docente,Contratado,False,16567
+No Docente,Contratado,False,10166
+Docente,Permanente,False,35230
+No Docente,Permanente,True,44568
+Docente,Contratado,True,7791
+No Docente,Contratado,False,36124
+No Docente,Permanente,True,39651
+No Docente,Contratado,True,33764
+No Docente,Contratado,False,17603
+Docente,Permanente,True,25893
+Docente,Permanente,True,36058
+No Docente,Contratado,True,47265
+No Docente,Contratado,True,40147
+Docente,Contratado,False,32487
+No Docente,Permanente,True,45137
+Docente,Contratado,True,28401
+No Docente,Permanente,True,45029
+Docente,Permanente,True,45773
+No Docente,Contratado,False,37321
+Docente,Contratado,True,4098
+No Docente,Permanente,False,35996
+Docente,Contratado,True,49649
+Docente,Contratado,False,44122
+No Docente,Permanente,True,27871
+No Docente,Contratado,True,45412
+Docente,Contratado,True,8919
+Docente,Permanente,True,23701
+No Docente,Contratado,True,1351
+Docente,Permanente,True,49472
+No Docente,Permanente,False,36577
+No Docente,Contratado,False,13257
+Docente,Contratado,False,18437
+No Docente,Permanente,False,17356
+Docente,Permanente,False,15521
+No Docente,Permanente,True,9370
+No Docente,Permanente,True,12804
+No Docente,Permanente,True,6464
+No Docente,Contratado,False,38179
+No Docente,Contratado,True,1630
+No Docente,Permanente,False,10918
+No Docente,Permanente,False,39954
+Docente,Permanente,False,27772
+Docente,Contratado,True,1158
+Docente,Permanente,False,6190
+No Docente,Contratado,False,12200
+Docente,Contratado,False,41203
+Docente,Permanente,False,29182
+Docente,Contratado,True,1503
+Docente,Permanente,True,27842
+Docente,Permanente,False,47078
+No Docente,Contratado,False,45263
+No Docente,Permanente,False,7530
+No Docente,Permanente,True,31604
+No Docente,Permanente,True,5481
+Docente,Contratado,True,43820
+Docente,Contratado,True,44410
+Docente,Permanente,False,49537
+No Docente,Permanente,False,46355
+No Docente,Permanente,False,8405
+Docente,Permanente,False,21899
+Docente,Contratado,False,24605
+Docente,Permanente,True,15284
+No Docente,Contratado,False,49571
+Docente,Contratado,True,5656
+No Docente,Permanente,True,26067
+No Docente,Permanente,True,10130
+Docente,Permanente,False,49792
+No Docente,Permanente,False,42469
+Docente,Contratado,True,39919
+No Docente,Permanente,False,31504
+Docente,Contratado,False,19388
+Docente,Permanente,False,46114
+Docente,Contratado,True,44636
+Docente,Permanente,True,15716
+Docente,Contratado,False,25789
+No Docente,Contratado,False,40329
+Docente,Contratado,True,5139
+Docente,Contratado,False,235
+Docente,Permanente,False,23105
+No Docente,Contratado,False,8234
+No Docente,Contratado,True,9257
+Docente,Permanente,False,48763
+Docente,Permanente,True,26005
+Docente,Contratado,True,48653
+Docente,Permanente,True,29042
+No Docente,Permanente,False,29656
+No Docente,Contratado,True,24861
+No Docente,Contratado,True,14313
+Docente,Contratado,False,39896
+No Docente,Permanente,False,4209
+No Docente,Permanente,True,5985
+Docente,Permanente,False,575
+Docente,Permanente,True,24773
+No Docente,Contratado,False,42960
+Docente,Contratado,False,18460
+Docente,Permanente,False,12331
+No Docente,Contratado,False,43897
+Docente,Permanente,True,28660
+Docente,Permanente,True,12422
+Docente,Permanente,False,22989
+No Docente,Permanente,True,10604
+No Docente,Permanente,True,12181
+Docente,Contratado,False,21257
+No Docente,Permanente,True,42453
+No Docente,Permanente,False,13628
+Docente,Contratado,True,26530
+Docente,Permanente,False,38438
+Docente,Contratado,False,11541
+No Docente,Permanente,True,47180
+No Docente,Contratado,True,35987
+No Docente,Permanente,False,15136
+Docente,Contratado,True,26424
+No Docente,Permanente,True,6880
+No Docente,Contratado,False,38480
+No Docente,Permanente,True,16976
+No Docente,Contratado,True,2065
+No Docente,Contratado,False,41812
+No Docente,Contratado,False,44752
+Docente,Permanente,False,28530
+Docente,Permanente,False,30156
+Docente,Permanente,False,288
+Docente,Contratado,False,12605
+Docente,Contratado,False,14997
+No Docente,Permanente,False,23864
+Docente,Permanente,False,4426
+Docente,Contratado,True,36314
+No Docente,Permanente,False,26960
+Docente,Permanente,False,8830
+Docente,Contratado,False,37031
+No Docente,Permanente,False,49213
+No Docente,Permanente,True,44291
+No Docente,Permanente,False,23294
+Docente,Permanente,False,28950
+Docente,Permanente,False,1168
+No Docente,Contratado,False,43009
+Docente,Permanente,False,18705
+Docente,Permanente,True,34258
+Docente,Permanente,False,31810
+No Docente,Contratado,True,41743
+No Docente,Permanente,True,30745
+Docente,Contratado,False,26074
+No Docente,Contratado,False,27666
+No Docente,Permanente,False,40091
+Docente,Permanente,False,7210
+No Docente,Permanente,False,42710
+No Docente,Contratado,True,41373
+No Docente,Contratado,True,35140
+Docente,Contratado,False,12440
+Docente,Permanente,False,46281
+No Docente,Permanente,False,2792
+Docente,Permanente,True,26802
+Docente,Contratado,True,34708
+Docente,Permanente,True,16742
+No Docente,Permanente,True,20280
+Docente,Contratado,False,28555
+No Docente,Permanente,True,16181
+Docente,Permanente,True,10613
+No Docente,Contratado,False,49291
+Docente,Contratado,False,40461
+Docente,Permanente,False,19937
+No Docente,Permanente,True,6709
+No Docente,Contratado,True,49457
+No Docente,Contratado,False,25092
+Docente,Permanente,False,24612
+No Docente,Contratado,False,15071
+No Docente,Contratado,True,45782
+Docente,Contratado,True,17095
+No Docente,Contratado,False,26126
+No Docente,Permanente,True,5214
+Docente,Contratado,False,22232
+No Docente,Contratado,True,36289
+Docente,Permanente,False,36284
+No Docente,Permanente,True,8
+No Docente,Contratado,True,4940
+No Docente,Permanente,False,34591
+Docente,Permanente,False,43073
+Docente,Contratado,True,9840
+No Docente,Contratado,False,10174
+Docente,Contratado,False,10280
+Docente,Contratado,True,5104
+Docente,Contratado,False,16834
+No Docente,Permanente,False,38299
+Docente,Contratado,True,2679
+No Docente,Permanente,False,28683
+Docente,Contratado,True,19678
+No Docente,Contratado,True,22248
+Docente,Permanente,True,45868
+No Docente,Permanente,False,46303
+No Docente,Permanente,False,26039
+Docente,Permanente,True,49697
+No Docente,Contratado,False,26506
+No Docente,Contratado,True,35438
+No Docente,Contratado,True,3697
+No Docente,Contratado,True,34847
+No Docente,Contratado,True,30141
+Docente,Permanente,True,20915
+No Docente,Permanente,True,44343
+No Docente,Permanente,False,6516
+Docente,Permanente,True,33201
+No Docente,Contratado,True,17082
+No Docente,Contratado,True,43055
+Docente,Contratado,True,38224
+No Docente,Contratado,True,18513
+Docente,Contratado,False,28874
+Docente,Permanente,False,3893
+Docente,Contratado,False,49380
+No Docente,Permanente,True,46320
+Docente,Contratado,True,31032
+No Docente,Contratado,True,3105
+No Docente,Permanente,True,18201
+Docente,Contratado,False,28188
+Docente,Permanente,True,45218
+No Docente,Contratado,False,46437
+No Docente,Permanente,True,27695
+Docente,Contratado,False,43415
+No Docente,Permanente,False,27240
+Docente,Contratado,False,6900
+No Docente,Contratado,False,46186
+Docente,Permanente,True,16103
+No Docente,Contratado,True,44105
+No Docente,Permanente,True,33238
+No Docente,Contratado,True,34757
+No Docente,Contratado,False,36845
+Docente,Permanente,False,40606
+No Docente,Permanente,False,36656
+No Docente,Contratado,True,40171
+No Docente,Permanente,False,7742
+No Docente,Contratado,True,37505
+Docente,Contratado,False,3244
+Docente,Contratado,False,40030
+No Docente,Contratado,True,13543
+Docente,Contratado,False,3148
+Docente,Contratado,True,33939
+No Docente,Contratado,True,40003
+No Docente,Contratado,False,48365
+No Docente,Permanente,True,45953
+No Docente,Permanente,True,24508
+Docente,Permanente,False,20688
+No Docente,Permanente,True,30928
+Docente,Permanente,False,31486
+Docente,Contratado,True,47325
+Docente,Permanente,True,7552
+Docente,Permanente,True,2673
+No Docente,Contratado,False,7097
+No Docente,Permanente,False,21567
+Docente,Contratado,True,20060
+No Docente,Permanente,False,26092
+No Docente,Contratado,False,988
+No Docente,Contratado,True,43647
+Docente,Contratado,False,41425
+No Docente,Permanente,True,7872
+Docente,Permanente,True,15930
+No Docente,Permanente,True,26627
+Docente,Contratado,False,42506
+Docente,Contratado,False,48316
+Docente,Permanente,True,36136
+Docente,Permanente,True,38907
+No Docente,Contratado,True,27261
+No Docente,Contratado,False,9082
+No Docente,Contratado,True,37285
+No Docente,Permanente,True,4760
+Docente,Permanente,False,38641
+No Docente,Contratado,False,32959
+Docente,Permanente,False,16866
+No Docente,Contratado,True,24426
+Docente,Permanente,False,48655
+No Docente,Contratado,False,9463
+Docente,Permanente,True,6050
+No Docente,Permanente,False,6987
+Docente,Contratado,False,31611
+Docente,Contratado,True,30556
+No Docente,Permanente,False,32025
+No Docente,Contratado,False,39008
+No Docente,Permanente,False,14363
+No Docente,Contratado,True,23433
+Docente,Permanente,True,18103
+No Docente,Permanente,True,41775
+Docente,Contratado,True,16970
+Docente,Permanente,True,38986
+No Docente,Contratado,False,7816
+No Docente,Permanente,True,12908
+No Docente,Contratado,True,37994
+Docente,Permanente,True,27488
+Docente,Contratado,False,46301
+Docente,Contratado,False,41671
+No Docente,Permanente,False,40047
+No Docente,Contratado,True,17482
+Docente,Contratado,False,45814
+No Docente,Permanente,True,31964
+Docente,Permanente,False,28274
+No Docente,Permanente,True,20135
+No Docente,Permanente,True,474
+No Docente,Contratado,False,37909
+Docente,Contratado,True,12294
+Docente,Permanente,False,37494
+Docente,Permanente,True,20194
+Docente,Contratado,True,30454
+Docente,Contratado,False,41153
+Docente,Permanente,True,25626
+No Docente,Contratado,True,42040
+No Docente,Contratado,True,31755
+Docente,Permanente,True,45546
+No Docente,Contratado,False,47339
+Docente,Contratado,False,9831
+No Docente,Contratado,False,43432
+Docente,Contratado,True,47756
+No Docente,Permanente,True,1997
+No Docente,Contratado,False,41330
+No Docente,Contratado,True,46520
+No Docente,Contratado,False,10541
+Docente,Permanente,False,13202
+No Docente,Permanente,True,817
+Docente,Contratado,True,48850
+Docente,Permanente,False,41215
+Docente,Permanente,True,48559
+No Docente,Contratado,False,15949
+No Docente,Permanente,True,11163
+No Docente,Permanente,False,43978
+Docente,Permanente,True,263
+No Docente,Permanente,False,42173
+No Docente,Permanente,False,7382
+Docente,Contratado,True,14868
+Docente,Permanente,True,332
+Docente,Permanente,False,14116
+Docente,Contratado,False,34136
+Docente,Contratado,True,26509
+No Docente,Contratado,True,9390
+Docente,Contratado,True,8977
+No Docente,Permanente,True,14264
+No Docente,Permanente,True,2765
+No Docente,Permanente,False,16710
+Docente,Contratado,True,46205
+Docente,Permanente,True,28849
+No Docente,Contratado,False,47264
+Docente,Contratado,True,38014
+Docente,Permanente,True,1248
+No Docente,Permanente,False,17905
+No Docente,Contratado,True,29666
+Docente,Permanente,False,41916
+No Docente,Permanente,True,37157
+Docente,Contratado,False,36538
+Docente,Contratado,True,3395
+Docente,Contratado,True,35314
+Docente,Contratado,True,8315
+No Docente,Permanente,False,4223
+No Docente,Contratado,False,36231
+Docente,Permanente,True,6595
+Docente,Contratado,False,17858
+No Docente,Permanente,True,36437
+No Docente,Contratado,True,12816
+No Docente,Contratado,True,30140
+No Docente,Contratado,True,14325
+No Docente,Contratado,True,14139
+Docente,Permanente,False,36866
+Docente,Contratado,True,16478
+No Docente,Contratado,True,37312
+Docente,Permanente,False,9977
+No Docente,Permanente,False,8536
+No Docente,Contratado,False,31617
+Docente,Contratado,True,20813
+Docente,Contratado,True,31219
+No Docente,Contratado,True,18947
+No Docente,Permanente,False,48977
+No Docente,Permanente,False,19047
+Docente,Permanente,False,35649
+No Docente,Permanente,True,3796
+No Docente,Permanente,False,16852
+Docente,Contratado,True,15604
+Docente,Contratado,True,38653
+Docente,Permanente,True,41074
+No Docente,Permanente,False,44407
+Docente,Permanente,True,20254
+Docente,Contratado,False,19546
+No Docente,Permanente,False,44025
+Docente,Permanente,True,32218
+No Docente,Permanente,True,49426
+Docente,Permanente,True,1013
+No Docente,Permanente,True,40128
+No Docente,Contratado,False,40568
+Docente,Permanente,False,3985
+Docente,Contratado,True,17330
+Docente,Contratado,False,25217
+Docente,Permanente,True,32983
+Docente,Permanente,False,21209
+No Docente,Permanente,False,18415
+No Docente,Permanente,False,372
+Docente,Permanente,False,18657
+No Docente,Contratado,False,11091
+No Docente,Contratado,False,28955
+Docente,Permanente,True,30147
+Docente,Permanente,True,49078
+Docente,Permanente,True,28065
+Docente,Contratado,False,25194
+Docente,Contratado,False,27742
+No Docente,Contratado,False,40602
+No Docente,Contratado,True,12276
+Docente,Contratado,True,40372
+No Docente,Permanente,False,29377
+Docente,Permanente,True,13389
+Docente,Contratado,False,10243
+No Docente,Contratado,False,4079
+No Docente,Contratado,False,17400
+No Docente,Contratado,False,4429
+No Docente,Contratado,False,25418
+Docente,Permanente,False,3816
+Docente,Contratado,False,37325
+Docente,Permanente,True,22615
+Docente,Contratado,True,42377
+No Docente,Permanente,False,38346
+Docente,Permanente,False,37605
+No Docente,Permanente,False,40262
+Docente,Contratado,True,1398
+No Docente,Permanente,True,13403
+No Docente,Permanente,False,7617
+No Docente,Permanente,True,5679
+No Docente,Contratado,False,20181
+No Docente,Permanente,True,5194
+No Docente,Contratado,False,11172
+No Docente,Permanente,False,17173
+No Docente,Permanente,True,49394
+No Docente,Permanente,True,8070
+No Docente,Contratado,True,41372
+No Docente,Contratado,False,29427
+Docente,Permanente,False,14744
+Docente,Permanente,True,44165
+Docente,Permanente,False,31781
+No Docente,Contratado,True,8293
+Docente,Contratado,False,9758
+Docente,Contratado,True,2057
+No Docente,Contratado,True,48620
+Docente,Contratado,False,33512
+Docente,Contratado,True,46242
+No Docente,Permanente,True,49935
+Docente,Permanente,True,34602
+Docente,Permanente,False,24063
+No Docente,Permanente,True,786
+Docente,Contratado,True,22964
+No Docente,Permanente,False,37631
+No Docente,Contratado,True,26991
+Docente,Permanente,False,34430
+Docente,Contratado,True,22176
+Docente,Permanente,False,48337
+No Docente,Permanente,False,39806
+Docente,Permanente,True,31343
+No Docente,Contratado,False,6946
+Docente,Permanente,False,42392
+Docente,Permanente,False,27020
+No Docente,Contratado,True,18831
+Docente,Contratado,True,16511
+No Docente,Contratado,False,10697
+No Docente,Permanente,False,31095
+No Docente,Contratado,True,12362
+Docente,Contratado,True,36420
+Docente,Contratado,False,7916
+No Docente,Contratado,True,19895
+No Docente,Permanente,True,16535
+No Docente,Permanente,True,45607
+No Docente,Permanente,True,48678
+Docente,Permanente,True,5047
+No Docente,Permanente,False,31633
+No Docente,Permanente,True,31277
+No Docente,Contratado,False,46095
+No Docente,Permanente,False,13984
+No Docente,Contratado,False,30577
+No Docente,Permanente,True,20212
+Docente,Permanente,False,3868
+Docente,Permanente,False,12607
+Docente,Permanente,False,35123
+No Docente,Contratado,False,26810
+Docente,Contratado,False,38637
+No Docente,Permanente,True,34257
+Docente,Contratado,True,17489
+Docente,Permanente,True,17133
+Docente,Contratado,False,5509
+No Docente,Permanente,True,28652
+No Docente,Permanente,True,228
+No Docente,Permanente,True,31668
+Docente,Contratado,True,2460
+Docente,Contratado,False,18111
+No Docente,Contratado,True,13731
+Docente,Permanente,False,29033
+No Docente,Contratado,False,1714
+Docente,Contratado,True,25606
+No Docente,Permanente,True,36840
+No Docente,Permanente,True,32763
+No Docente,Contratado,True,39225
+Docente,Permanente,True,23150
+Docente,Contratado,True,38973
+No Docente,Contratado,True,15049
+Docente,Contratado,False,21075
+Docente,Contratado,True,12881
+Docente,Contratado,False,43479
+Docente,Contratado,True,7835
+No Docente,Permanente,True,21961
+No Docente,Permanente,True,27915
+Docente,Contratado,False,3848
+No Docente,Permanente,True,13242
+Docente,Contratado,True,3847
+Docente,Permanente,True,22007
+No Docente,Permanente,False,13986
+No Docente,Contratado,True,14186
+No Docente,Contratado,True,22522
+Docente,Contratado,False,16030
+Docente,Permanente,False,1782
+No Docente,Permanente,False,12025
+Docente,Contratado,False,35126
+No Docente,Contratado,False,12522
+No Docente,Contratado,True,11783
+Docente,Permanente,False,18782
+No Docente,Permanente,True,27693
+Docente,Contratado,False,26714
+No Docente,Permanente,False,1272
+No Docente,Contratado,True,20142
+No Docente,Contratado,True,47519
+No Docente,Contratado,False,38292
+No Docente,Permanente,True,13998
+Docente,Permanente,True,48347
+No Docente,Contratado,True,15101
+Docente,Contratado,True,29230
+Docente,Permanente,False,45764
+No Docente,Permanente,True,6573
+No Docente,Permanente,False,8115
+No Docente,Contratado,True,41437
+Docente,Contratado,False,42974
+Docente,Contratado,False,30265
+No Docente,Permanente,False,14907
+No Docente,Contratado,False,12310
+No Docente,Contratado,False,11069
+No Docente,Contratado,True,18866
+No Docente,Permanente,False,47919
+No Docente,Permanente,True,30416
+Docente,Contratado,False,10445
+Docente,Contratado,False,46086
+Docente,Contratado,True,33636
+No Docente,Permanente,False,26066
+No Docente,Permanente,True,44919
+Docente,Contratado,False,45171
+No Docente,Contratado,True,11440
+No Docente,Contratado,False,40038
+No Docente,Contratado,False,41842
+Docente,Contratado,False,41274
+Docente,Permanente,False,11936
+No Docente,Contratado,True,26994
+Docente,Permanente,False,47496
+Docente,Permanente,False,46675
+No Docente,Contratado,True,13769
+No Docente,Contratado,True,23336
+No Docente,Contratado,True,45209
+Docente,Contratado,False,14411
+No Docente,Contratado,False,27569
+No Docente,Permanente,True,8647
+No Docente,Contratado,False,1128
+Docente,Contratado,True,7838
+Docente,Permanente,True,16971
+No Docente,Permanente,True,29564
+Docente,Permanente,True,24579
+Docente,Permanente,True,35320
+Docente,Contratado,True,21876
+No Docente,Permanente,True,22777
+Docente,Contratado,True,44362
+No Docente,Contratado,False,35844
+Docente,Permanente,True,6568
+No Docente,Contratado,True,15814
+Docente,Permanente,False,25946
+Docente,Contratado,True,25566
+Docente,Contratado,False,25875
+No Docente,Permanente,True,21714
+No Docente,Contratado,True,37655
+Docente,Contratado,True,49400
+No Docente,Contratado,False,2481
+Docente,Permanente,False,15676
+No Docente,Contratado,True,35532
+No Docente,Contratado,False,21718
+Docente,Contratado,False,17060
+No Docente,Contratado,True,7774
+Docente,Contratado,True,18892
+Docente,Permanente,False,14057
+Docente,Permanente,True,6213
+No Docente,Contratado,True,20891
+No Docente,Permanente,False,41364
+No Docente,Contratado,True,4108
+No Docente,Contratado,True,10588
+Docente,Permanente,False,39420
+Docente,Contratado,True,15390
+No Docente,Permanente,False,18645
+Docente,Contratado,False,30471
+No Docente,Contratado,True,37916
+Docente,Contratado,True,18337
+Docente,Contratado,False,13946
+No Docente,Contratado,False,13912
+No Docente,Permanente,False,2152
+Docente,Permanente,True,16676
+Docente,Permanente,False,22603
+Docente,Permanente,True,9356
+Docente,Contratado,False,16072
+Docente,Permanente,False,5153
+Docente,Contratado,True,11404
+Docente,Contratado,False,40470
+No Docente,Contratado,True,6589
+Docente,Permanente,True,21753
+No Docente,Contratado,False,32542
+Docente,Contratado,True,31834
+Docente,Contratado,True,8088
+Docente,Contratado,False,21936
+Docente,Contratado,True,16966
+Docente,Contratado,True,7138
+Docente,Contratado,False,10319
+No Docente,Permanente,False,36631
+No Docente,Contratado,True,30306
+No Docente,Permanente,True,17064
+Docente,Contratado,False,25703
+No Docente,Contratado,True,31710
+No Docente,Contratado,True,23708
+Docente,Permanente,True,24362
+Docente,Contratado,True,2089
+Docente,Contratado,True,7721
+No Docente,Permanente,True,21171
+Docente,Permanente,True,43577
+No Docente,Permanente,False,22319
+Docente,Permanente,False,42195
+No Docente,Permanente,False,27776
+No Docente,Contratado,True,13609
+Docente,Permanente,False,34668
+No Docente,Permanente,True,36757
+Docente,Contratado,False,16847
+Docente,Permanente,False,42656
+No Docente,Permanente,True,28754
+No Docente,Permanente,True,38649
+Docente,Permanente,False,3578
+Docente,Permanente,True,12692
+Docente,Contratado,True,46237
+Docente,Permanente,False,26112
+No Docente,Contratado,True,43069
+Docente,Contratado,False,21343
+Docente,Permanente,False,46452
+Docente,Contratado,False,1167
+Docente,Permanente,True,37837
+Docente,Contratado,False,37802
+Docente,Permanente,False,9671
+Docente,Contratado,True,3731
+No Docente,Contratado,True,11674
+Docente,Contratado,False,19444
+Docente,Permanente,False,42247
+No Docente,Permanente,False,23381
+No Docente,Contratado,False,16194
+Docente,Contratado,True,19021
+No Docente,Contratado,True,36811
+Docente,Permanente,True,48822
+Docente,Contratado,True,6844
+Docente,Permanente,True,34332
+No Docente,Contratado,False,49055
+No Docente,Contratado,False,1240
+Docente,Permanente,True,46517
+No Docente,Contratado,True,37399
+Docente,Permanente,False,42160
+Docente,Permanente,True,31050
+No Docente,Contratado,False,49048
+No Docente,Contratado,False,7950
+Docente,Permanente,True,35494
+Docente,Permanente,True,21006
+No Docente,Contratado,True,5085
+Docente,Contratado,True,30012
+Docente,Permanente,False,18702
+No Docente,Contratado,False,7919
+No Docente,Contratado,True,18916
+No Docente,Permanente,False,6278
+Docente,Permanente,True,19669
+No Docente,Permanente,False,48098
+No Docente,Contratado,True,2902
+Docente,Contratado,True,25965
+No Docente,Contratado,False,41695
+Docente,Permanente,True,14799
+No Docente,Contratado,False,10903
+Docente,Contratado,True,7337
+No Docente,Permanente,False,11572
+Docente,Permanente,False,6651
+No Docente,Contratado,True,43741
+No Docente,Contratado,True,16393
+Docente,Contratado,False,26578
+No Docente,Contratado,True,11244
+Docente,Contratado,True,25041
+Docente,Contratado,True,7073
+Docente,Contratado,False,19628
+Docente,Contratado,False,46200
+Docente,Permanente,False,48527
+Docente,Permanente,True,35963
+No Docente,Contratado,False,13385
+No Docente,Permanente,True,26232
+Docente,Permanente,True,25182
+Docente,Contratado,True,42618
+No Docente,Contratado,False,20564
+Docente,Contratado,True,30719
+No Docente,Contratado,False,41081
+Docente,Permanente,False,1157
+No Docente,Permanente,False,8951
+No Docente,Permanente,False,12935
+Docente,Permanente,False,32714
+Docente,Contratado,True,33027
+No Docente,Permanente,True,39117
+Docente,Permanente,False,26198
+Docente,Permanente,False,5379
+Docente,Permanente,True,29724
+Docente,Contratado,False,5500
+Docente,Permanente,False,12266
+Docente,Contratado,True,21027
+No Docente,Permanente,False,16295
+No Docente,Contratado,True,34222
+Docente,Permanente,True,9315
+Docente,Permanente,False,1341
+No Docente,Permanente,True,28561
+Docente,Contratado,True,25172
+No Docente,Contratado,False,30545
+Docente,Contratado,True,11542
+No Docente,Permanente,True,18356
+Docente,Contratado,False,35236
+Docente,Permanente,False,24657
+Docente,Permanente,True,35744
+Docente,Permanente,True,46470
+Docente,Contratado,True,35000
+Docente,Contratado,False,17099
+Docente,Permanente,True,34632
+No Docente,Permanente,False,28960
+No Docente,Contratado,False,6418
+No Docente,Contratado,True,22781
+No Docente,Contratado,True,32951
+Docente,Contratado,False,41525
+No Docente,Permanente,False,30775
+Docente,Contratado,True,26737
+No Docente,Permanente,True,16456
+Docente,Contratado,False,20005
+No Docente,Contratado,False,8160
+No Docente,Permanente,True,20344
+Docente,Contratado,True,17181
+Docente,Contratado,True,45254
+No Docente,Permanente,True,16962
+Docente,Permanente,True,47793
+Docente,Contratado,False,23333
+Docente,Permanente,False,48113
+No Docente,Permanente,True,35946
+No Docente,Permanente,True,16479
+No Docente,Permanente,False,48552
+No Docente,Contratado,True,31459
+No Docente,Contratado,True,20313
+No Docente,Contratado,True,35514
+Docente,Permanente,True,3987
+No Docente,Permanente,False,11307
+Docente,Permanente,False,5501
+Docente,Permanente,True,898
+No Docente,Permanente,True,30213
+Docente,Contratado,False,17922
+No Docente,Contratado,False,35720
+Docente,Permanente,True,22020
+Docente,Permanente,False,1612
+Docente,Contratado,True,18962
+Docente,Contratado,True,16046
+Docente,Permanente,False,34671
+No Docente,Permanente,False,40213
+No Docente,Contratado,False,31127
+No Docente,Contratado,True,32286
+Docente,Contratado,False,23395
+Docente,Contratado,True,8712
+Docente,Permanente,True,34631
+No Docente,Permanente,True,12617
+Docente,Contratado,False,43392
+Docente,Contratado,False,31665
+Docente,Contratado,False,14472
+Docente,Contratado,True,2705
+No Docente,Permanente,True,19283
+Docente,Contratado,True,42895
+No Docente,Contratado,True,41892
+No Docente,Contratado,True,32556
+No Docente,Permanente,True,19247
+No Docente,Permanente,True,27550
+Docente,Contratado,True,48114
+Docente,Contratado,False,35464
+Docente,Permanente,False,26102
+No Docente,Permanente,False,21488
+No Docente,Contratado,True,19494
+No Docente,Permanente,False,22778
+Docente,Contratado,False,15341
+Docente,Contratado,False,39901
+No Docente,Permanente,True,35807
+Docente,Contratado,False,30758
+Docente,Permanente,True,35245
+No Docente,Contratado,False,33395
+No Docente,Permanente,True,30174
+No Docente,Contratado,True,16830
+Docente,Contratado,True,48568
+Docente,Contratado,False,18480
+Docente,Permanente,False,31832
+Docente,Contratado,False,13578
+Docente,Permanente,True,11938
+No Docente,Contratado,False,9459
+No Docente,Permanente,True,3347
+No Docente,Contratado,True,15105
+Docente,Contratado,True,43774
+Docente,Permanente,False,39007
+No Docente,Permanente,True,16904
+Docente,Contratado,False,47674
+Docente,Permanente,True,17504
+Docente,Contratado,True,49390
+Docente,Permanente,True,24946
+No Docente,Permanente,True,43950
+No Docente,Permanente,False,465
+No Docente,Permanente,True,7789
+Docente,Permanente,True,19801
+No Docente,Contratado,False,6527
+No Docente,Contratado,False,6021
+Docente,Permanente,True,40440
+Docente,Permanente,True,3382
+Docente,Permanente,True,7568
+No Docente,Contratado,True,36700
+Docente,Permanente,True,45890
+No Docente,Permanente,False,12042
+Docente,Permanente,False,1391
+Docente,Permanente,True,34127
+No Docente,Contratado,True,36818
+No Docente,Contratado,True,45692
+No Docente,Permanente,False,45570
+Docente,Permanente,False,14146
+Docente,Permanente,True,40387
+Docente,Contratado,True,13662
+Docente,Permanente,False,1226
+No Docente,Permanente,True,38872
+No Docente,Permanente,True,28642
+No Docente,Contratado,True,15188
+Docente,Permanente,True,22874
+Docente,Contratado,False,6452
+No Docente,Permanente,True,11196
+No Docente,Permanente,True,49524
+Docente,Contratado,True,25249
+No Docente,Contratado,True,2122
+Docente,Permanente,True,16303
+No Docente,Permanente,False,14926
+Docente,Permanente,False,38469
+No Docente,Permanente,True,2230
+Docente,Permanente,False,37978
+No Docente,Permanente,False,24958
+Docente,Permanente,True,37862
+No Docente,Contratado,True,13442
+Docente,Permanente,False,38306
+Docente,Permanente,False,48992
+No Docente,Contratado,True,39632
+No Docente,Contratado,False,47034
+No Docente,Permanente,False,14159
+Docente,Contratado,False,7013
+No Docente,Contratado,False,33582
+Docente,Permanente,True,15380
+No Docente,Permanente,False,3450
+No Docente,Contratado,True,33040
+No Docente,Permanente,False,9736
+Docente,Permanente,False,47328
+Docente,Contratado,True,25706
+No Docente,Permanente,False,23693
+Docente,Contratado,False,46405
+Docente,Permanente,True,39022
+Docente,Permanente,False,22519
+No Docente,Contratado,False,42471
+No Docente,Permanente,True,36869
+Docente,Permanente,True,7265
+Docente,Permanente,True,46670
+No Docente,Contratado,False,40403
+No Docente,Permanente,False,37986
+Docente,Permanente,False,16537
+Docente,Contratado,False,8387
+No Docente,Permanente,True,48651
+No Docente,Permanente,False,375
+No Docente,Permanente,True,7678
+Docente,Permanente,True,48300
+Docente,Permanente,True,44296
+No Docente,Contratado,True,4714
+Docente,Contratado,True,30086
+No Docente,Permanente,True,48598
+No Docente,Contratado,False,38551
+No Docente,Contratado,True,18950
+No Docente,Contratado,True,33345
+No Docente,Permanente,False,27592
+Docente,Permanente,True,46646
+No Docente,Permanente,True,10528
+No Docente,Contratado,True,41020
+No Docente,Permanente,False,45230
+No Docente,Contratado,True,44018
+No Docente,Contratado,True,411
+No Docente,Contratado,True,41309
+No Docente,Contratado,False,46137
+No Docente,Permanente,True,21005
+No Docente,Permanente,True,28102
+Docente,Permanente,True,34517
+No Docente,Contratado,False,2350
+Docente,Contratado,True,5736
+Docente,Permanente,False,19616
+Docente,Contratado,True,33426
+No Docente,Contratado,True,18662
+Docente,Permanente,False,35339
+No Docente,Contratado,True,33198
+Docente,Contratado,True,14644
+No Docente,Permanente,True,39418
+No Docente,Contratado,False,37646
+No Docente,Contratado,False,48359
+Docente,Contratado,True,6613
+No Docente,Contratado,False,18518
+Docente,Contratado,True,17695
+No Docente,Contratado,False,25598
+No Docente,Permanente,True,1047
+Docente,Contratado,True,44951
+No Docente,Permanente,True,24493
+No Docente,Permanente,True,12831
+Docente,Permanente,False,5663
+No Docente,Contratado,True,37515
+Docente,Permanente,True,33549
+No Docente,Permanente,False,13429
+Docente,Contratado,False,8516
+Docente,Contratado,False,25354
+No Docente,Permanente,False,40507
+Docente,Contratado,True,45929
+Docente,Contratado,False,1775
+No Docente,Permanente,True,20458
+Docente,Contratado,True,11508
+No Docente,Contratado,True,45931
+No Docente,Permanente,True,40716
+Docente,Permanente,True,41237
+Docente,Permanente,False,38802
+Docente,Contratado,False,48869
+Docente,Permanente,False,31907
+No Docente,Permanente,False,34944
+No Docente,Contratado,True,33230
+Docente,Permanente,True,25673
+No Docente,Permanente,True,25287
+Docente,Contratado,True,37684
+Docente,Permanente,False,4826
+Docente,Contratado,True,3651
+Docente,Contratado,True,19975
+Docente,Contratado,False,31941
+No Docente,Permanente,True,47086
+No Docente,Permanente,True,36615
+Docente,Contratado,False,48104
+Docente,Contratado,True,45720
+No Docente,Permanente,True,24261
+Docente,Permanente,False,44176
+Docente,Contratado,True,45571
+Docente,Contratado,True,14657
+No Docente,Contratado,True,6723
+No Docente,Contratado,False,16035
+Docente,Contratado,False,1458
+Docente,Contratado,True,22921
+Docente,Contratado,False,1740
+No Docente,Contratado,False,38173
+No Docente,Permanente,False,5063
+No Docente,Permanente,False,45051
+Docente,Contratado,True,39390
+Docente,Contratado,True,42768
+No Docente,Contratado,False,35976
+Docente,Permanente,True,44143
+No Docente,Permanente,False,44912
+Docente,Permanente,True,48439
+Docente,Permanente,True,3171
+Docente,Contratado,True,33874
+No Docente,Contratado,True,6467
+No Docente,Contratado,True,45763
+No Docente,Contratado,False,7212
+No Docente,Permanente,False,14112
+Docente,Contratado,False,49920
+Docente,Contratado,False,25407
+Docente,Permanente,True,41163
+No Docente,Contratado,False,37619
+No Docente,Permanente,False,34427
+Docente,Permanente,True,1425
+No Docente,Permanente,False,11601
+Docente,Contratado,True,38202
+No Docente,Contratado,True,564
+Docente,Contratado,True,23714
+No Docente,Permanente,True,31649
+No Docente,Permanente,True,8522
+Docente,Contratado,False,26644
+No Docente,Permanente,True,25670
+Docente,Contratado,True,11532
+Docente,Contratado,True,34570
+Docente,Contratado,True,1044
+Docente,Permanente,False,8126
+Docente,Permanente,True,44869
+No Docente,Permanente,False,46531
+No Docente,Contratado,True,37454
+Docente,Permanente,False,33973
+No Docente,Permanente,False,12280
+Docente,Permanente,False,45839
+No Docente,Permanente,True,12660
+No Docente,Contratado,True,20843
+Docente,Contratado,False,45227
+No Docente,Contratado,True,43222
+Docente,Contratado,True,14336
+Docente,Permanente,False,38670
+No Docente,Permanente,True,9259
+No Docente,Permanente,False,11291
+Docente,Permanente,True,35436
+Docente,Permanente,False,2497
+No Docente,Contratado,False,43858
+Docente,Permanente,False,18110
+Docente,Contratado,True,5806
+No Docente,Permanente,True,34837
+No Docente,Permanente,True,15663
+Docente,Permanente,True,15412
+No Docente,Contratado,False,16974
+Docente,Contratado,True,2402
+Docente,Contratado,False,14181
+No Docente,Contratado,True,46229
+No Docente,Contratado,False,39494
+Docente,Permanente,True,25861
+No Docente,Contratado,False,29443
+Docente,Contratado,False,27877
+No Docente,Contratado,False,6429
+No Docente,Permanente,False,49811
+No Docente,Permanente,False,21844
+No Docente,Permanente,True,13775
+Docente,Contratado,False,591
+Docente,Permanente,False,36938
+Docente,Contratado,True,24926
+No Docente,Contratado,True,34091
+No Docente,Permanente,True,40354
+Docente,Contratado,True,13170
+No Docente,Permanente,True,1074
+Docente,Contratado,False,23926
+Docente,Contratado,True,9176
+No Docente,Contratado,False,1684
+No Docente,Contratado,False,37903
+No Docente,Contratado,False,14709
+Docente,Contratado,True,4246
+No Docente,Permanente,True,24864
+Docente,Permanente,True,37497
+No Docente,Permanente,False,37976
+Docente,Permanente,False,46217
+Docente,Permanente,False,38020
+No Docente,Contratado,False,32641
+No Docente,Contratado,True,47865
+No Docente,Permanente,False,29675
+No Docente,Contratado,False,23285
+Docente,Permanente,False,40174
+Docente,Permanente,False,40999
+Docente,Permanente,False,6057
+No Docente,Permanente,False,16308
+No Docente,Contratado,False,11862
+No Docente,Contratado,False,13725
+Docente,Contratado,False,5799
+No Docente,Contratado,True,1195
+Docente,Permanente,True,23128
+Docente,Contratado,True,7122
+Docente,Permanente,True,17807
+No Docente,Permanente,False,35371
+No Docente,Permanente,True,29577
+No Docente,Permanente,True,36253
+Docente,Contratado,False,24454
+Docente,Contratado,True,22941
+No Docente,Contratado,True,49010
+Docente,Permanente,True,42566
+No Docente,Contratado,True,17701
+Docente,Contratado,False,46133
+No Docente,Contratado,False,33093
+No Docente,Permanente,True,10636
+Docente,Permanente,True,46862
+No Docente,Contratado,False,6340
+No Docente,Contratado,False,6627
+No Docente,Permanente,False,19525
+No Docente,Contratado,False,11750
+No Docente,Contratado,True,20728
+Docente,Contratado,True,19308
+No Docente,Permanente,True,33521
+No Docente,Contratado,False,23632
+No Docente,Contratado,True,22400
+Docente,Permanente,True,19651
+Docente,Permanente,False,30163
+Docente,Contratado,False,29729
+No Docente,Permanente,False,22857
+Docente,Contratado,False,34843
+No Docente,Contratado,False,49124
+Docente,Permanente,False,49865
+No Docente,Permanente,False,21538
+Docente,Contratado,True,48609
+Docente,Contratado,True,14685
+No Docente,Contratado,True,8806
+Docente,Permanente,True,33977
+No Docente,Permanente,True,10757
+Docente,Permanente,False,40363
+No Docente,Contratado,False,40463
+No Docente,Contratado,False,8655
+No Docente,Contratado,False,34243
+Docente,Permanente,False,17949
+No Docente,Contratado,False,24549
+No Docente,Permanente,True,860
+No Docente,Permanente,False,49300
+Docente,Permanente,True,27753
+No Docente,Permanente,True,20270
+No Docente,Contratado,True,35622
+Docente,Contratado,True,45950
+No Docente,Permanente,False,37270
+No Docente,Permanente,False,30946
+Docente,Permanente,True,24210
+No Docente,Contratado,True,10693
+Docente,Contratado,False,1746
+No Docente,Permanente,True,36923
+Docente,Contratado,False,32562
+Docente,Permanente,True,28618
+Docente,Contratado,True,42553
+Docente,Permanente,True,47040
+No Docente,Contratado,False,49004
+Docente,Contratado,False,27037
+Docente,Contratado,True,39062
+Docente,Contratado,False,21346
+No Docente,Permanente,True,44280
+Docente,Contratado,False,23894
+Docente,Contratado,True,47052
+No Docente,Contratado,False,44524
+Docente,Contratado,False,11693
+No Docente,Permanente,True,21282
+No Docente,Permanente,False,40732
+No Docente,Contratado,True,43502
+No Docente,Permanente,False,37101
+Docente,Contratado,False,7994
+No Docente,Permanente,False,28388
+No Docente,Permanente,False,23193
+Docente,Permanente,True,44809
+No Docente,Contratado,False,49522
+Docente,Permanente,False,25756
+Docente,Contratado,True,32715
+No Docente,Permanente,True,35034
+No Docente,Contratado,False,34379
+No Docente,Contratado,False,26635
+No Docente,Contratado,True,31181
+Docente,Contratado,True,47209
+Docente,Contratado,True,9792
+Docente,Permanente,False,7906
+No Docente,Contratado,True,48297
+Docente,Contratado,False,5858
+No Docente,Permanente,False,34619
+Docente,Contratado,False,18935
+Docente,Permanente,False,34401
+Docente,Contratado,False,43469
+No Docente,Contratado,False,16157
+No Docente,Permanente,True,43200
+No Docente,Contratado,True,42949
+No Docente,Contratado,False,7932
+Docente,Permanente,False,805
+Docente,Permanente,True,20107
+No Docente,Permanente,True,14747
+Docente,Permanente,False,13626
+Docente,Contratado,True,47257
+Docente,Permanente,False,25870
+No Docente,Permanente,True,31193
+No Docente,Contratado,False,25203
+No Docente,Permanente,False,40644
+Docente,Permanente,False,37525
+No Docente,Permanente,True,48691
+No Docente,Contratado,False,17035
+No Docente,Contratado,True,33412
+No Docente,Permanente,True,32389
+Docente,Permanente,True,23143
+Docente,Contratado,True,20545
+Docente,Contratado,True,48684
+No Docente,Contratado,False,46414
+Docente,Permanente,True,32396
+Docente,Permanente,False,28320
+Docente,Contratado,True,23360
+No Docente,Contratado,False,35015
+No Docente,Permanente,True,31870
+No Docente,Permanente,False,3667
+Docente,Contratado,True,13495
+No Docente,Permanente,True,31313
+No Docente,Contratado,False,24276
+No Docente,Contratado,True,28497
+No Docente,Contratado,True,47408
+No Docente,Contratado,True,18390
+Docente,Permanente,True,29841
+No Docente,Contratado,True,6741
+No Docente,Contratado,False,46872
+No Docente,Permanente,False,22204
+No Docente,Permanente,False,31423
+No Docente,Contratado,True,43990
+Docente,Permanente,True,6286
+No Docente,Contratado,False,15073
+No Docente,Contratado,True,21045
+Docente,Contratado,True,42521
+No Docente,Contratado,True,21042
+No Docente,Contratado,True,28585
+No Docente,Contratado,False,16229
+Docente,Contratado,False,32160
+Docente,Contratado,True,1878
+No Docente,Contratado,True,535
+Docente,Permanente,True,11486
+Docente,Contratado,False,44097
+No Docente,Contratado,True,23019
+Docente,Permanente,False,14787
+No Docente,Permanente,False,33536
+No Docente,Permanente,False,460
+No Docente,Contratado,False,5293
+Docente,Contratado,False,23685
+No Docente,Permanente,False,30851
+Docente,Contratado,True,3174
+Docente,Contratado,True,11873
+Docente,Permanente,False,36286
+No Docente,Permanente,False,27155
+Docente,Permanente,False,42502
+Docente,Contratado,True,17153
+No Docente,Permanente,True,10893
+Docente,Permanente,False,2085
+Docente,Contratado,False,39840
+Docente,Permanente,False,36918
+No Docente,Contratado,True,558
+Docente,Contratado,False,11328
+Docente,Permanente,True,5263
+No Docente,Permanente,False,8960
+No Docente,Contratado,False,39253
+Docente,Permanente,False,8961
+Docente,Contratado,True,43083
+No Docente,Contratado,False,41393
+Docente,Permanente,True,42006
+No Docente,Permanente,False,10449
+No Docente,Contratado,False,14174
+Docente,Permanente,False,24485
+No Docente,Permanente,False,37775
+No Docente,Contratado,False,2329
+Docente,Permanente,False,37391
+No Docente,Contratado,False,17631
+Docente,Contratado,False,27885
+Docente,Contratado,False,1066
+No Docente,Contratado,False,32591
+Docente,Permanente,False,42883
+No Docente,Contratado,True,7817
+No Docente,Permanente,True,27091
+Docente,Permanente,False,19209
+Docente,Permanente,True,4483
+No Docente,Permanente,True,11846
+Docente,Contratado,False,9992
+No Docente,Contratado,False,28658
+Docente,Permanente,False,16919
+Docente,Contratado,False,4145
+No Docente,Permanente,True,35041
+No Docente,Permanente,True,38946
+Docente,Permanente,True,32827
+Docente,Permanente,True,5674
+Docente,Permanente,True,4375
+No Docente,Permanente,True,40317
+Docente,Contratado,False,1907
+No Docente,Contratado,False,24665
+Docente,Permanente,False,7584
+Docente,Contratado,True,23445
+Docente,Contratado,False,17660
+No Docente,Contratado,False,2031
+Docente,Contratado,False,24347
+Docente,Contratado,True,20686
+No Docente,Contratado,False,40211
+Docente,Permanente,True,22836
+Docente,Permanente,False,19461
+No Docente,Contratado,False,19244
+Docente,Permanente,False,4732
+Docente,Permanente,False,45819
+Docente,Contratado,False,48498
+Docente,Contratado,False,45518
+No Docente,Permanente,True,6014
+Docente,Permanente,False,40851
+No Docente,Contratado,False,29387
+Docente,Permanente,False,44391
+No Docente,Permanente,False,43903
+No Docente,Contratado,True,45579
+No Docente,Permanente,True,41832
+Docente,Permanente,True,41520
+No Docente,Contratado,True,21379
+Docente,Permanente,False,28952
+Docente,Contratado,False,31663
+No Docente,Contratado,True,436
+No Docente,Permanente,True,22412
+Docente,Permanente,False,29232
+No Docente,Contratado,True,14331
+Docente,Contratado,False,7152
+Docente,Permanente,True,39364
+No Docente,Contratado,True,22665
+No Docente,Contratado,False,5613
+Docente,Permanente,True,26027
+Docente,Contratado,True,7862
+No Docente,Permanente,True,35383
+No Docente,Contratado,True,30090
+No Docente,Contratado,False,6138
+No Docente,Contratado,False,6711
+No Docente,Contratado,False,25391
+Docente,Contratado,False,23085
+Docente,Permanente,True,46823
+No Docente,Contratado,False,26534
+No Docente,Permanente,True,31872
+No Docente,Permanente,True,100
+Docente,Contratado,True,47899
+No Docente,Permanente,True,43032
+No Docente,Permanente,False,7859
+Docente,Contratado,True,23349
+Docente,Permanente,True,1364
+Docente,Permanente,False,45726
+Docente,Contratado,False,33810
+Docente,Permanente,True,13547
+No Docente,Contratado,True,12700
+Docente,Permanente,False,29501
+Docente,Contratado,False,13551
+Docente,Contratado,False,26621
+Docente,Contratado,False,42042
+No Docente,Permanente,True,43947
+Docente,Permanente,False,10464
+Docente,Permanente,False,25715
+No Docente,Permanente,False,7745
+Docente,Contratado,True,37598
+No Docente,Contratado,True,43988
+No Docente,Contratado,True,4365
+No Docente,Contratado,True,1454
+Docente,Contratado,False,33675
+No Docente,Contratado,True,21698
+No Docente,Contratado,False,26410
+No Docente,Contratado,True,34984
+No Docente,Contratado,True,25832
+No Docente,Permanente,True,9938
+No Docente,Contratado,True,19976
+Docente,Permanente,False,29063
+Docente,Permanente,False,14761
+No Docente,Permanente,True,40768
+Docente,Permanente,False,31642
+Docente,Permanente,True,37800
+Docente,Permanente,False,29031
+No Docente,Contratado,False,35989
+Docente,Contratado,True,38221
+No Docente,Contratado,True,19151
+Docente,Contratado,True,14678
+Docente,Permanente,True,24671
+No Docente,Contratado,True,49407
+No Docente,Permanente,True,14223
+No Docente,Permanente,False,21139
+Docente,Permanente,False,45448
+Docente,Contratado,True,14961
+Docente,Contratado,False,7469
+No Docente,Contratado,False,15836
+Docente,Contratado,False,22407
+No Docente,Permanente,True,23691
+Docente,Permanente,True,31952
+Docente,Permanente,True,22137
+Docente,Permanente,True,16056
+Docente,Contratado,False,47700
+No Docente,Contratado,True,32053
+No Docente,Permanente,True,13506
+Docente,Contratado,False,14517
+No Docente,Permanente,False,4521
+Docente,Contratado,True,30206
+Docente,Contratado,False,49338
+Docente,Permanente,True,24078
+No Docente,Contratado,True,12199
+Docente,Permanente,True,44847
+Docente,Permanente,False,1247
+Docente,Permanente,True,13882
+Docente,Contratado,True,28202
+No Docente,Permanente,False,12298
+Docente,Permanente,False,25071
+No Docente,Contratado,False,48554
+No Docente,Contratado,True,34567
+No Docente,Contratado,False,41152
+Docente,Contratado,True,39671
+No Docente,Permanente,False,36456
+No Docente,Permanente,False,24349
+Docente,Permanente,True,46175
+Docente,Contratado,True,2142
+No Docente,Contratado,False,18468
+Docente,Contratado,True,29343
+No Docente,Permanente,False,43884
+No Docente,Permanente,False,2960
+No Docente,Contratado,True,24297
+No Docente,Permanente,True,37664
+Docente,Permanente,True,17109
+Docente,Permanente,True,27316
+No Docente,Permanente,False,30099
+No Docente,Permanente,True,10337
+Docente,Contratado,False,37867
+Docente,Permanente,True,28655
+Docente,Permanente,True,46912
+Docente,Permanente,False,5726
+No Docente,Permanente,False,32463
+No Docente,Contratado,True,6905
+Docente,Permanente,False,28269
+Docente,Permanente,False,21559
+Docente,Permanente,False,32560
+No Docente,Contratado,True,45373
+No Docente,Contratado,False,28004
+No Docente,Permanente,False,5725
+No Docente,Permanente,False,24
+No Docente,Permanente,True,20949
+Docente,Permanente,False,49008
+Docente,Contratado,True,31949
+No Docente,Permanente,True,15180
+No Docente,Contratado,True,2684
+No Docente,Contratado,True,40154
+No Docente,Contratado,True,15873
+No Docente,Contratado,False,4155
+Docente,Permanente,False,37177
+Docente,Permanente,False,33870
+Docente,Permanente,True,17222
+No Docente,Contratado,True,21529
+Docente,Permanente,False,20504
+Docente,Permanente,True,45784
+Docente,Permanente,False,15455
+No Docente,Permanente,False,11171
+Docente,Permanente,True,18252
+No Docente,Permanente,True,43893
+No Docente,Permanente,True,28473
+No Docente,Permanente,False,2811
+Docente,Contratado,False,1796
+Docente,Permanente,True,23761
+Docente,Permanente,True,48508
+No Docente,Permanente,True,14104
+Docente,Permanente,False,47032
+Docente,Contratado,True,21007
+No Docente,Permanente,False,37420
+No Docente,Permanente,True,28035
+No Docente,Permanente,False,44164
+No Docente,Permanente,True,43361
+Docente,Permanente,True,41395
+No Docente,Permanente,False,19158
+Docente,Contratado,False,16538
+Docente,Contratado,False,13792
+No Docente,Contratado,False,9611
+No Docente,Contratado,False,11809
+No Docente,Contratado,True,12451
+No Docente,Permanente,False,7954
+No Docente,Contratado,True,6018
+Docente,Contratado,True,2465
+No Docente,Contratado,True,33553
+No Docente,Permanente,False,9233
+Docente,Contratado,True,49947
+No Docente,Permanente,True,38228
+No Docente,Permanente,True,34846
+No Docente,Contratado,True,31405
+No Docente,Permanente,True,46793
+Docente,Contratado,True,22653
+Docente,Contratado,True,846
+Docente,Contratado,False,22880
+Docente,Permanente,False,26775
+No Docente,Contratado,True,16872
+No Docente,Contratado,False,16332
+Docente,Contratado,True,28345
+Docente,Permanente,False,9498
+No Docente,Permanente,False,34793
+Docente,Permanente,True,41375

@@ -1,3 +1,7 @@
+"""
+Este código lo paso a deprecated porque tiene cosas innecesarias como utilizar una lista para conseguir valores no repetidos.
+"""
+
 import csv
 import random
 from faker import Faker
@@ -9,25 +13,28 @@ fake = Faker('es_ES')
 archivo_obra_social = 'obra_social.csv'
 
 # Leer los idos del archivo de Obra Social
-idos_set = set()
+idos_list = []
 with open(archivo_obra_social, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        idos_set.add(row['idos'])
+        idos_list.append(int(row['idos']))
 
 # Número de registros a generar
 num_records = 100
 
 # Comprobar que se leyeron suficientes idos
-if len(idos_set) < num_records:
+if len(idos_list) < num_records:
     raise ValueError("El archivo 'obra_social.csv' no contiene suficientes registros de idos.")
+
+# Seleccionar 100  DNI únicos para la tabla Obra_Social
+idos_list = random.sample(idos_list, num_records)
 
 # Generar datos para la tabla Datos_Trabajo
 datos_trabajo_data = []
 tipo_personal_data = ['Docente', 'No Docente']
 caracter_data = ['Permanente', 'Contratado']
 
-for idos in idos_set:
+for idos in idos_list:
     datos_trabajo_data.append({
         'tipo_personal': random.choice(tipo_personal_data),
         'caracter': random.choice(caracter_data),
