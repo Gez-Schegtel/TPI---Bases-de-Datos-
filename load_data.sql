@@ -1,3 +1,11 @@
+
+/*
+ * ¡Atenión! Este script no funciona ejecutándolo desde el principio y una sola vez. Para que funciones hay que ir tabla por tabla.
+ * 
+ * Además, hay que ajustar la dirección al directorio donde están los archivos para cada computadora diferente.
+ * 
+ */
+
 -- Selecciona la base de datos
 USE TPI;
 
