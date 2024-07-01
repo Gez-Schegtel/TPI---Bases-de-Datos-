@@ -191,11 +191,11 @@ CREATE TABLE Datos_del_Empleador (
 );
 
 CREATE TABLE Datos_de_Contacto (
-    email VARCHAR(255),
+    email VARCHAR(255) UNIQUE,
     tipo_email VARCHAR(255),
-    telefono INT(10),
+    telefono VARCHAR(255) UNIQUE,
     tipo_telefono VARCHAR(255),
-    id_contacto INT,
+    id_contacto INT UNIQUE,
     dni INT,
     PRIMARY KEY (id_contacto, dni),
     CONSTRAINT fk_contacto_dni FOREIGN KEY (dni) REFERENCES Profesores(dni) ON DELETE CASCADE ON UPDATE CASCADE
