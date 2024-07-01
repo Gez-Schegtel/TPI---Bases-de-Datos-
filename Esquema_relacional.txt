@@ -24,7 +24,7 @@ CF: dni  => Profesores (dni)
 CNN: dni
 
 
-Familiar(apellido: cadena(20), parentesco: cadena(20), tipo_documento: cadena(10), nro_documento: entero(8), nombre: cadena(20), fecha_nacimiento: fecha, idos:entero, dni: entero, idsv: entero, porcentaje: real)
+Familiar(apellido: cadena(20), parentesco: cadena(20), tipo_documento: cadena(10), nro_documento: entero(8), nombre: cadena(20), fecha_nacimiento: fecha, idos:entero, dni: entero, idsv: entero, porcentaje: real, domicilio: string)
 CP: (nro_documento, dni)
 CF: dni => Profesores(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA, idos => Obra_Social(idos), idsv => Seguro_de_Vida(idsv)
 

@@ -24,7 +24,7 @@ def generar_datos():
     else:
         raise Exception("No se pudieron generar valores únicos después de múltiples intentos")
 
-    tipo = random.choice(['Full-time', 'Part-time'])
+    tipo = random.choice(['Laboral', 'Personal', 'Otro'])
     fecha_nacimiento = fake.date_of_birth(minimum_age=22, maximum_age=65)
     nombre = fake.first_name()
     apellido = fake.last_name()

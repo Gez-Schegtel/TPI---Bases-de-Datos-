@@ -72,7 +72,8 @@ for _ in range(num_records):
         'idos': idos,
         'dni': dni,
         'idsv': idsv,
-        'porcentaje': round(random.uniform(10, 100), 2)  # Valor de porcentaje entre 10 y 100
+        'porcentaje': round(random.uniform(10, 100), 2),  # Valor de porcentaje entre 10 y 100
+        'domicilio' : fake.address()
     })
 
 # Nombre del archivo CSV para la tabla Familiar
@@ -81,8 +82,8 @@ archivo_familiar = 'familiar.csv'
 # Cabeceras de las columnas en el archivo CSV
 cabeceras_familiar = [
     'apellido', 'parentesco', 'tipo_documento', 'nro_documento', 'nombre', 
-    'fecha_nacimiento', 'idos', 'dni', 'idsv', 'porcentaje'
-]
+    'fecha_nacimiento', 'idos', 'dni', 'idsv', 'porcentaje', 'domicilio'
+    ]
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_familiar, mode='w', newline='', encoding='utf-8') as file:

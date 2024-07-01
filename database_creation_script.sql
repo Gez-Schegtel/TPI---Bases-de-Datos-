@@ -5,7 +5,7 @@ USE TPI;
 
 CREATE TABLE Profesores (
     dni INT PRIMARY KEY,
-    tipo VARCHAR(255),
+    tipo_domicilio VARCHAR(255),
     fecha_nacimiento DATE,
     nombre VARCHAR(255),
     apellido VARCHAR(255),
@@ -68,6 +68,7 @@ CREATE TABLE Familiar (
     dni INT,
     idsv INT,
     porcentaje REAL,
+    domicilio VARCHAR(255),
     PRIMARY KEY (nro_documento, dni),
     CONSTRAINT fk_familiar_dni FOREIGN KEY (dni) REFERENCES Profesores(dni) ON DELETE CASCADE ON UPDATE CASCADE,
     CONSTRAINT fk_familiar_idos FOREIGN KEY (idos) REFERENCES Obra_Social(idos),
