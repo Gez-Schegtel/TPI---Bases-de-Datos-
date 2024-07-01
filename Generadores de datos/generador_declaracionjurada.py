@@ -41,4 +41,4 @@ with open(archivo_declaracion_jurada, mode='w', newline='', encoding='utf-8') as
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(declaracion_jurada_data)  # Escribir los datos
 
-print(f"Datos generados y exportados a {archivo_declaracion_jurada}")
+print(f"{num_records} registros generados y exportados a {archivo_declaracion_jurada}")

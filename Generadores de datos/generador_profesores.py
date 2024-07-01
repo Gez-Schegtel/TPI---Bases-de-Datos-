@@ -17,7 +17,7 @@ def generar_datos():
         try:
             dni = fake.unique.random_int(min=10000000, max=99999999)
             cuil = fake.unique.random_int(min=20000000000, max=29999999999)
-            legajo = fake.unique.random_int(min=1000, max=9999)
+            legajo = fake.unique.random_int(min=1000, max=9999999)
             break
         except UniquenessException:
             fake.unique.clear() # Es necesario "reiniciar el generador" cuando hay alguna falla
@@ -59,7 +59,7 @@ cabeceras = [
 ]
 
 # Cantidad de registros a generar
-cantidad_registros = 500000
+cantidad_registros = 50000
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_csv, mode='w', newline='', encoding='utf-8') as file:

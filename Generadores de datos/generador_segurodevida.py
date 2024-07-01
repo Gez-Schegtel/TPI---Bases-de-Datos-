@@ -9,7 +9,7 @@ fake = Faker('es_ES')
 archivo_profesores = 'profesores.csv'
 
 # Número de registros a generar
-num_records = 50
+num_records = 1500
 
 # Leer los DNI del archivo de Profesores
 dni_list = []
@@ -31,7 +31,7 @@ seguro_vida_data = []
 idsv_set = set()  # Conjunto para asegurar unicidad de idsv. Es para usar después con "zip".
 
 while len(idsv_set) < num_records:
-    idsv_set.add(fake.unique.random_int(min=1, max=1000))
+    idsv_set.add(fake.unique.random_int(min=1, max=5000))
 
 for idsv, dni in zip(idsv_set, dni_list):
     seguro_vida_data.append({
@@ -51,4 +51,4 @@ with open(archivo_seguro_vida, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(seguro_vida_data)  # Escribir los datos
 
-print(f"Datos generados y exportados a {archivo_seguro_vida}")
+print(f"{num_records} registros generados y exportados a {archivo_seguro_vida}")

@@ -90,4 +90,4 @@ with open(archivo_familiar, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(familiar_data)  # Escribir los datos
 
-print(f"{num_records} datos generados y exportados a {archivo_familiar}")
+print(f"{num_records} registros generados y exportados a {archivo_familiar}")

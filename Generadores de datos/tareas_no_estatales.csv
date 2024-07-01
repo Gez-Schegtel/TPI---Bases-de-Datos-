@@ -1,51 +1,501 @@
 fecha_ingreso,lugar_presta_servicio,autonomia,relacion_dependencia,funcion,iddj
-2024-06-25,Banca Privada Iberia S.L.L.,Sí,Independiente,Director de publicidad y relaciones públicas,1
-2024-06-28,Transportes Iglesias & Asociados S.L.,No,Independiente,Sociólogo,2
-2023-10-26,Marí & Asociados S.A.,No,Dependiente,Trabajador social de nivel medio,3
-2020-06-28,Alimentación KSM S.A.T.,No,Independiente,Tenedor de libros,4
-2022-08-25,Alimentación Román S.L.,No,Dependiente,Secretario jurídicos,5
-2022-02-09,Juan Pablo Buendía Jáuregui S.L.,No,Independiente,Operario de la elaboración de productos lácteos,6
-2023-12-19,Gracia y asociados S.L.N.E,No,Independiente,Catador de alimentos y bebidas,7
-2023-03-22,Belen Prada Carbajo S.Coop.,No,Dependiente,Recolector de dinero en aparatos de venta automática y lector de medidores,8
-2021-10-24,Sigfrido Catalán Mariscal S.L.N.E,Sí,Dependiente,Operador de instalaciones de refinación de petróleo y gas natural,9
-2023-09-04,Barceló y Sales S.Coop.,Sí,Dependiente,"Operador de incineradores, instalaciones de tratamiento de agua",10
-2020-03-29,Grupo Sarabia S.L.L.,Sí,Independiente,Operador de grúas y aparatos elevadores,11
-2021-09-07,Comercial Oliva & Asociados S.A.T.,No,Independiente,Supervisor en ingeniería de minas,12
-2020-06-16,Elena Torrijos Sosa S.C.P,No,Independiente,Profesional de nivel medio de enfermería,13
-2020-02-12,Fábrica WTR S.L.N.E,Sí,Dependiente,Controlador de plagas y malas hierbas,14
-2021-04-11,Eugenia Vergara Cabrero S.L.,Sí,Independiente,Controlador de instalaciones de procesamiento de productos químicos,15
-2023-07-13,Despacho Ibérica S.A.,Sí,Independiente,Meteorólogo,16
-2020-11-09,Comercial Bru & Asociados S.L.N.E,Sí,Dependiente,Matemático,17
-2024-05-04,Construcción Globales S.A.,Sí,Independiente,Tramper,18
-2024-06-13,Nydia Llorens Iglesias S.C.P,No,Independiente,Operador de máquinas para la fabricación de calzado,19
-2022-07-15,Tamarit y Samper S.L.L.,Sí,Independiente,Técnico en operaciones de tecnología de la información y las comunicaciones,20
-2021-07-22,Servicios Sobrino & Asociados S.L.,No,Independiente,Recolector de basura y material reciclable,21
-2022-12-10,Comercializadora Internacionales S.L.U.,No,Independiente,Controlador de plagas y malas hierbas,22
-2023-06-29,Talleres Integrales S.L.U.,No,Independiente,Marinero de cubierta,23
-2023-07-14,Barón y Rosales S.L.L.,No,Independiente,Desarrollador de software,24
-2023-09-30,Grupo Valentín S.Coop.,No,Dependiente,Instructor de educación física y actividades recreativas,25
-2022-01-14,Restauración Quevedo S.L.N.E,No,Independiente,Fumigador,26
-2020-07-16,Guiomar Jordá Fernández S.Coop.,No,Dependiente,Mecánico y reparador en electrónica,27
-2022-11-20,Construcción Mir S.A.,Sí,Dependiente,Controlador de procesos,28
-2023-10-22,Bru y Agustín S.A.,No,Dependiente,Peón de jardinería y horticultura,29
-2023-08-04,Despacho Españolas S.Coop.,Sí,Independiente,Ensamblador de equipos electrónicos,30
-2022-05-26,Supermercados Internacionales S.L.,No,Dependiente,Profesional de nivel medio de medicina alternativa,31
-2024-01-25,Hermanos Lledó S.A.,No,Dependiente,Profesional de enfermería,32
-2020-11-05,Grupo Asenjo S.L.L.,No,Dependiente,Tramper,33
-2021-03-10,Casals y Caparrós S.Coop.,No,Dependiente,Agente de administración tributaria,34
-2023-03-03,Construcción Vizcaíno S.A.,No,Independiente,Mandader,35
-2020-07-16,Carnero & Asociados S.A.,Sí,Dependiente,Bailarín,36
-2022-11-14,Talleres Barreda S.L.,No,Independiente,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos",37
-2021-04-19,Comercial Guerra S.L.U.,Sí,Dependiente,Técnico en seguridad aeronáutica,38
-2022-11-01,Promociones Garriga y asociados S.L.N.E,No,Dependiente,Organizador de conferencias y eventos,39
-2023-12-14,Hnos Lledó S.L.N.E,No,Dependiente,"Limpiador y asistente de oficinas, hoteles y otros establecimientos",40
-2022-02-04,Talleres Macías y asociados S.Com.,No,Dependiente,Modelador de vidrio,41
-2022-12-05,Servicios MFI S.Com.,No,Dependiente,Fontanero,42
-2020-05-14,Despacho Villalobos & Asociados S.A.T.,No,Independiente,Peón de obras públicas y mantenimiento,43
-2021-02-08,Familia Blázquez S.A.D,No,Independiente,Ingeniero en telecomunicaciones,44
-2021-12-23,Tena y Pinilla S.A.,Sí,Independiente,Gerente de hoteles o restaurantes,45
-2023-01-28,Talleres BWD S.L.N.E,No,Independiente,Cajero de banco,46
-2021-03-04,Familia Corbacho S.L.,Sí,Independiente,Instructor de educación física y actividades recreativas,47
-2023-06-24,Marcio Daza Taboada S.A.,Sí,Dependiente,Director de industrias manufactureras,48
-2023-03-15,Compañía Palomares S.L.L.,Sí,Dependiente,Adivinador,49
-2020-05-22,Soluciones OW S.Com.,Sí,Independiente,Gestor de aduana,50
+2023-12-04,Hermanos Manuel S.C.P,Sí,Dependiente,Paisajista,1
+2023-04-27,Finanzas Rodriguez y asociados S.L.N.E,No,Independiente,Director de explotaciones de minería,2
+2020-04-05,Hernando y Salas S.L.N.E,No,Independiente,Especialista en métodos pedagógicos,3
+2024-05-18,Farmaceútica LNWQ S.A.,No,Dependiente,Codificador de datos,4
+2022-12-08,Hnos Granados S.L.U.,No,Independiente,Guardafrenos,5
+2021-03-19,Manufacturas Boada & Asociados S.C.P,Sí,Independiente,Compositor,6
+2023-03-26,Servicios Correa S.A.,No,Dependiente,Conductor de motocicletas,7
+2021-06-20,Varela y Cano S.Coop.,Sí,Independiente,Asistente veterinario,8
+2021-11-12,Infraestructuras Alberto S.C.P,Sí,Independiente,Agente inmobiliario,9
+2022-12-29,Familia Yáñez S.L.N.E,Sí,Independiente,Director de servicios de cuidados infantiles,10
+2020-02-11,Leonor Cobo Abad S.Coop.,No,Independiente,Técnico en redes y sistemas de computadores,11
+2021-01-16,Grupo Vidal S.L.,Sí,Dependiente,Director de servicios de cuidados infantiles,12
+2022-06-08,Instalaciones RZ S.A.T.,Sí,Independiente,Operador de máquinas para fabricar productos fotográficos,13
+2023-01-20,Jovita Rojas Luz S.Com.,No,Dependiente,Cazador,14
+2020-07-10,Restauración ENT S.Com.,Sí,Dependiente,Ingeniero electrónico,15
+2024-06-07,Cabello y Capdevila S.L.N.E,Sí,Independiente,Operador de máquinas lavarropas,16
+2020-10-08,Soluciones Ortuño S.A.,Sí,Dependiente,Vendedor de quioscos y de puestos de mercado,17
+2024-04-25,Reig y Zamorano S.Coop.,Sí,Dependiente,Especialista en métodos pedagógicos,18
+2022-01-11,Banco EJIA S.A.,Sí,Dependiente,Especialista en políticas de administración,19
+2020-10-13,Pou y Rozas S.L.N.E,No,Dependiente,Joyero,20
+2022-10-22,Finanzas Alfonso y asociados S.Coop.,Sí,Independiente,Calderero,21
+2020-07-13,Victor Alcalá Posada S.Com.,No,Dependiente,Operador de máquinas para fabricar productos de papel,22
+2021-02-01,Restauración Españolas S.L.N.E,Sí,Dependiente,Nutricionista,23
+2022-07-17,Logística Fiol & Asociados S.L.N.E,Sí,Independiente,Director de servicios de cuidado de las personas de edad,24
+2021-11-27,Comercializadora Revilla y asociados S.L.L.,Sí,Independiente,Herrero,25
+2020-04-25,Carmen Folch Diaz S.Coop.,No,Independiente,Cocinero de comidas rápidas,26
+2020-08-30,Angélica Francisco Sans S.C.P,No,Dependiente,Entrevistador de investigaciones de mercados,27
+2022-12-13,Inversiones López & Asociados S.L.N.E,Sí,Dependiente,Cajero de banco,28
+2020-12-17,Infraestructuras Gámez y asociados S.A.T.,No,Dependiente,Lavador de vehículos,29
+2022-08-31,Pili Moles Gelabert S.L.,Sí,Dependiente,Guardafrenos,30
+2021-05-31,Porcel y asociados S.Com.,No,Independiente,Ecónomo y mayordomos domésticos,31
+2023-08-26,Andrés & Asociados S.Coop.,Sí,Independiente,Platero,32
+2024-04-05,Consultoría MO S.Coop.,Sí,Dependiente,Locutor de televisión,33
+2023-02-25,Cuervo y Barco S.Com.,Sí,Dependiente,Oficial de préstamos y créditos,34
+2021-08-25,Ferrera & Asociados S.L.L.,No,Dependiente,Profesor de universidades y de la enseñanza superior,35
+2022-12-01,Vidal y Álamo S.L.L.,Sí,Dependiente,Modisto,36
+2023-05-08,Tecnologías ASU S.L.N.E,Sí,Independiente,Contable,37
+2021-12-11,Transportes Hernando S.Coop.,Sí,Independiente,Profesional de nivel medio de enfermería,38
+2022-03-12,Transportes Moliner S.Coop.,Sí,Dependiente,Bordador,39
+2021-09-25,Hermanos Rosado S.Coop.,Sí,Dependiente,Director de producción de piscicultura y pesca,40
+2021-02-05,Banca Privada RAY S.Coop.,Sí,Dependiente,Ingeniero medioambiental,41
+2023-02-27,Hermanos Alfonso S.A.T.,Sí,Dependiente,Limpiador de fachadas,42
+2021-11-22,Servicios Marqués S.A.,Sí,Dependiente,Supervisor de tiendas y almacenes,43
+2021-07-08,Fábrica Rincón S.Com.,Sí,Dependiente,Cazador,44
+2024-04-14,Compañía Águila S.L.,Sí,Independiente,Oficial de préstamos y créditos,45
+2022-09-06,Restauración Cantón & Asociados S.A.,Sí,Dependiente,Deportista,46
+2020-03-14,Logística Rius S.Com.,Sí,Independiente,Montador de estructuras metálicas,47
+2023-06-06,Quirós y Barros S.Coop.,No,Independiente,Psicólogo,48
+2021-05-21,Industrias UUQ S.Com.,No,Independiente,Pintor y empapelador,49
+2020-09-28,Construcción Conde S.Coop.,No,Dependiente,Instructor de educación física y actividades recreativas,50
+2020-06-08,Hnos Jordán S.Com.,Sí,Independiente,Regulador y operador de máquinas y herramientas,51
+2023-10-11,Comercializadora ZX S.Com.,Sí,Independiente,Expendedor de gasolineras,52
+2023-12-31,Olimpia Vallés Royo S.A.,Sí,Dependiente,Operador de máquinas de tratamiento de pieles y cueros,53
+2020-09-15,Hotel Gálvez & Asociados S.A.T.,Sí,Independiente,Locutor de televisión,54
+2021-07-10,Uriarte & Asociados S.L.L.,No,Dependiente,Montador de estructuras metálicas,55
+2021-09-02,Infraestructuras del Mediterráneo S.Coop.,Sí,Independiente,Fabricante de instrumentos musicales,56
+2023-04-04,Marc Peláez Bustos S.L.,No,Independiente,Agente de administración tributaria,57
+2021-03-09,Espada & Asociados S.A.,No,Independiente,Ayudante de cocina,58
+2021-03-03,Hermanos Leiva S.A.U,Sí,Dependiente,Lavandero,59
+2020-05-06,Fábrica Cantero S.A.,No,Dependiente,Grabador de datos,60
+2020-03-29,Beltrán y asociados S.Com.,Sí,Independiente,Bordador,61
+2024-06-23,Hnos Moliner S.L.,No,Dependiente,Operador de instalaciones de refinación de petróleo y gas natural,62
+2020-04-26,Finanzas Gonzalo & Asociados S.L.,Sí,Independiente,Desarrollador de software,63
+2021-05-01,Hotel Rivero & Asociados S.L.,Sí,Independiente,Especialista en métodos pedagógicos,64
+2021-08-08,Emma Barco Carbonell S.Com.,No,Independiente,"Operador de máquinas pulidoras, galvanizadoras y recubridoras de metales ",65
+2020-05-08,Consultoría del Norte S.L.N.E,No,Independiente,Veterinario,66
+2021-11-04,Marcia Serrano Coronado S.A.,Sí,Independiente,Marinero de cubierta,67
+2023-05-07,Crespo & Asociados S.A.,Sí,Dependiente,Técnico en operaciones de tecnología de la información y las comunicaciones,68
+2020-05-17,Finanzas Colom & Asociados S.A.,No,Dependiente,Personal de limpieza,69
+2023-09-05,Alimentación HXS S.L.L.,No,Independiente,Reparador de bicicletas,70
+2021-08-04,Farmaceútica Internacionales S.Coop.,Sí,Dependiente,Expendedor de gasolineras,71
+2020-05-22,Inmobiliaria AVE S.L.,No,Independiente,Biólogo,72
+2024-05-15,Industrias Inteligentes S.Coop.,No,Independiente,Gerente de comercios al por mayor y al por menor,73
+2021-10-22,Valdés y Jaén S.L.N.E,Sí,Independiente,Barrendero,74
+2023-05-11,Hermanos Hierro S.Coop.,No,Dependiente,Deportista,75
+2021-03-28,Transportes Internacionales S.Coop.,No,Dependiente,Soplador de vidrio,76
+2022-08-26,Manufacturas Globales S.Coop.,Sí,Independiente,Labrante,77
+2022-10-22,Supermercados Fuster S.A.,No,Dependiente,Trabajador ambulante de servicios,78
+2020-01-29,Yuste y Sarabia S.L.U.,No,Independiente,Técnico de prótesis médicas y dentales,79
+2023-12-17,Manufacturas PU S.Com.,Sí,Dependiente,Mampostero,80
+2021-12-14,Despacho TM S.A.,No,Dependiente,Personal de limpieza,81
+2020-07-18,Quintanilla y Codina S.A.,Sí,Dependiente,Abogado,82
+2022-09-10,Bárcena & Asociados S.L.,Sí,Independiente,Acarreador de agua,83
+2020-03-12,Artigas & Asociados S.L.,No,Dependiente,Limpiador de fachadas,84
+2023-06-09,Finanzas Villalonga S.L.L.,Sí,Independiente,"Pescador, cazador, tramperos y recolector de subsistencia",85
+2022-09-01,Comercial Blanes S.Coop.,Sí,Dependiente,Vendedor ambulantes de productos comestibles,86
+2022-04-09,Salmerón y Rodrigo S.L.U.,Sí,Dependiente,Profesional de la protección medioambiental,87
+2022-02-15,Manufacturas Carretero y asociados S.A.,Sí,Independiente,Personal de limpieza,88
+2022-06-11,Manufacturas VV S.L.,Sí,Independiente,Profesional de enfermería,89
+2023-12-27,Lope Peñalver Vicente S.Com.,Sí,Dependiente,Supervisor de secretaría,90
+2022-05-21,Roman & Asociados S.L.,Sí,Dependiente,Fotógrafo,91
+2023-06-13,Cerezo & Asociados S.L.N.E,No,Dependiente,Escritor,92
+2023-03-27,Supermercados BUC S.Coop.,No,Dependiente,Telefonista,93
+2021-01-22,Terrón y asociados S.Coop.,Sí,Independiente,Agente de aduanas,94
+2023-05-25,Logística del Norte S.A.D,Sí,Independiente,Árbitro deportivo,95
+2020-12-22,Alberto y Sanchez S.C.P,No,Independiente,Operador de telar y otras máquinas tejedoras,96
+2023-12-18,Prats y asociados S.L.,No,Independiente,Técnico de prótesis médicas y dentales,97
+2020-05-30,Grupo Cortina S.A.,Sí,Dependiente,Diseñador de bases de datos,98
+2020-02-22,Manufacturas Capdevila S.A.,No,Dependiente,Patronista y cortador de tela,99
+2021-12-11,Transportes Globales S.Coop.,No,Independiente,Director de ventas y comercialización,100
+2021-12-30,Promociones Avanzadas S.L.N.E,No,Independiente,Adivinador,101
+2022-08-25,Hugo Caballero Roma S.Com.,No,Dependiente,Oficial de cubierta,102
+2024-02-07,Farmaceútica Tejada & Asociados S.Coop.,Sí,Independiente,Electricista de obras,103
+2023-02-08,Fábrica Española S.L.,No,Independiente,Operador de instalaciones de vidriería y cerámica,104
+2021-04-24,Supermercados del Noroeste S.A.D,No,Dependiente,Agente de compras,105
+2023-10-12,Hermanos Andrés S.L.N.E,Sí,Independiente,Operador de instalaciones de procesamiento de minerales y rocas,106
+2022-01-04,Nieto & Asociados S.A.,Sí,Dependiente,Locutor de radio,107
+2022-10-14,Joan Vazquez Fernández S.A.,Sí,Independiente,Antropólogo,108
+2022-07-27,Benavides y Giménez S.L.,Sí,Independiente,Mecánico y reparador de vehículos de motor,109
+2023-01-29,Hnos Estrada S.L.N.E,No,Independiente,Ebanista,110
+2024-04-17,Familia Alcaraz S.Coop.,No,Dependiente,Inspector de fronteras,111
+2024-02-13,Alimentación Rebollo S.L.L.,No,Independiente,Montador de estructuras metálicas,112
+2020-05-20,Finanzas BUIC S.L.,No,Independiente,Operador de autoelevadoras,113
+2023-09-28,Pozo y Pombo S.L.,Sí,Dependiente,Parquetero y colocador de suelos,114
+2020-12-11,Desarrollo PAL S.Com.,Sí,Dependiente,Trabajador pecuario de subsistencia,115
+2023-11-23,Despacho TLFX S.Coop.,Sí,Dependiente,Técnico en ingeniería civil,116
+2023-09-23,Grupo Montaña S.Coop.,Sí,Dependiente,Reparador de bicicletas,117
+2021-08-27,Moya y Sotelo S.A.,Sí,Dependiente,"Panaderos, pasteleros y confiteros",118
+2021-01-10,Aureliano Castro Roda S.Coop.,Sí,Independiente,Agente de maniobras,119
+2021-08-21,Desarrollo Alfonso S.L.L.,No,Dependiente,Mandader,120
+2021-07-08,María Ayala Cózar S.Coop.,No,Dependiente,Director de explotaciones de minería,121
+2020-04-27,Comercial Pacheco & Asociados S.C.P,No,Dependiente,Cortador de vidrio,122
+2021-02-03,Minería Bayona y asociados S.L.,Sí,Independiente,Veterinario,123
+2020-12-21,Luisina Castejón Muro S.L.N.E,Sí,Independiente,Calderero,124
+2022-12-29,Hermanos Reyes S.L.N.E,Sí,Dependiente,Peón de carga,125
+2022-07-24,Riera y asociados S.L.U.,Sí,Independiente,Músico,126
+2022-08-12,Carbonell y Arnau S.A.T.,No,Dependiente,Moldeador y machero,127
+2021-04-10,Canales & Asociados S.A.,Sí,Independiente,Profesional de relaciones públicas,128
+2020-04-05,Promociones XP S.Com.,Sí,Dependiente,Técnico en optometría y ópticos,129
+2020-03-22,Raya y Hierro S.A.,No,Dependiente,Trabajador social de nivel medio,130
+2022-05-02,Banca Privada Vilar y asociados S.C.P,Sí,Dependiente,Locutor de radio,131
+2023-03-30,Distribuciones Salamanca S.L.N.E,Sí,Dependiente,Desarrollador de software,132
+2021-10-24,Industrias Bernad S.L.,No,Independiente,Afinador de instrumentos musicales,133
+2022-09-12,Promociones LUK S.A.,Sí,Independiente,Ebanista,134
+2023-11-13,Construcción Bertrán & Asociados S.L.U.,Sí,Dependiente,Modelador de vidrio,135
+2023-04-22,Finanzas Téllez & Asociados S.C.P,No,Independiente,Administrador de sistemas,136
+2023-05-13,Gómez y asociados S.L.,Sí,Dependiente,"Operador de máquinas de embalaje, embotellamiento y etiquetado ",137
+2023-01-27,Manjón y Barceló S.L.,Sí,Dependiente,Cortador de vidrio,138
+2021-04-03,Suministros Globales S.A.,Sí,Independiente,Profesional de nivel medio de medicina tradicional y alternativa,139
+2020-03-02,Florencia Isern Oller S.Coop.,No,Independiente,Agente de empleo,140
+2022-05-11,Comercializadora PRM S.L.,No,Independiente,Locutor de radio,141
+2023-01-27,Benitez y Marqués S.Coop.,No,Dependiente,Ingeniero electrónico,142
+2022-08-22,Promociones Vendrell y asociados S.L.N.E,No,Dependiente,Profesional de nivel medio de servicios estadísticos o matemáticos,143
+2023-09-08,Hermanos Rincón S.A.T.,Sí,Independiente,Operador de autoelevadoras,144
+2023-10-10,Ángeles Zorrilla Pedro S.L.,Sí,Independiente,"Modelo de moda, arte y publicidad",145
+2021-08-02,Espiridión Segarra Figueroa S.L.L.,No,Independiente,Oficial de cubierta,146
+2022-07-23,Talleres KC S.A.D,Sí,Independiente,Operador de máquinas para fabricar productos fotográficos,147
+2024-02-23,Distribuciones Álamo S.A.,No,Dependiente,Conductor de vehículos y máquinas de tracción animal,148
+2024-01-07,Familia Bernad S.L.L.,No,Dependiente,Dentista,149
+2020-09-07,Transportes Álvarez y asociados S.L.,No,Independiente,Maquinista de locomotoras,150
+2021-08-12,Inmobiliaria Vélez S.C.P,Sí,Independiente,Cobrador,151
+2020-10-11,Hermanos Palomar S.L.,No,Independiente,Operador de instalaciones de procesamiento de la madera,152
+2022-05-03,Cisneros y Doménech S.L.,Sí,Dependiente,"Gerente de sucursales de bancos, de servicios financieros y de seguros",153
+2023-10-23,Amo & Asociados S.A.,No,Dependiente,Lavador de vehículos,154
+2022-11-02,Inversiones Integrales S.Com.,No,Dependiente,Representante comercial,155
+2023-10-23,Hnos Expósito S.Com.,No,Independiente,Inspector de la salud laboral,156
+2021-08-16,Inversiones Ibérica S.A.,Sí,Independiente,Analista financiero,157
+2022-04-27,Hotel Benitez y asociados S.Com.,No,Independiente,"Modelo de moda, arte y publicidad",158
+2022-03-02,Soluciones GTZ S.Coop.,Sí,Independiente,Astrólogo,159
+2022-12-12,Soler y Camino S.A.,Sí,Independiente,Profesional de la protección medioambiental,160
+2021-01-24,Marcela Crespo Fuentes S.L.L.,Sí,Dependiente,Fontanero,161
+2020-06-24,Servicios TUJ S.Com.,Sí,Independiente,Cartógrafo,162
+2023-08-21,Grupo Roura S.L.,No,Dependiente,"Operador de máquinas pulidoras, galvanizadoras y recubridoras de metales ",163
+2023-10-10,Natanael Cordero Gimenez S.A.,Sí,Dependiente,"Redactor de carteles, pintor decorativos y grabador",164
+2023-10-25,Consultoría XSNK S.Com.,Sí,Dependiente,Operador de instalaciones de procesamiento de minerales y rocas,165
+2023-12-25,Antonia Vega Grau S.A.D,No,Dependiente,Astrónomos,166
+2022-07-05,Fábrica Doménech S.L.N.E,Sí,Dependiente,Profesional de nivel medio de medicina tradicional y alternativa,167
+2022-06-11,Sandalio Nevado Flores S.A.,No,Independiente,Técnico de prótesis médicas y dentales,168
+2021-11-02,Carranza y Barceló S.A.,No,Independiente,Técnico en redes y sistemas de computadores,169
+2023-01-28,Banco Tello S.L.N.E,Sí,Dependiente,Mensajero,170
+2021-05-15,Banco Pagès S.A.,No,Independiente,Piloto de aviación,171
+2023-08-14,Edelmiro Carbonell Ordóñez S.Com.,No,Dependiente,Químico,172
+2022-03-02,Inmobiliaria del Mediterráneo S.A.D,No,Dependiente,Maestro preescolar,173
+2021-05-05,Industrias UI S.Coop.,Sí,Dependiente,Agente inmobiliario,174
+2021-10-24,Instalaciones Saura S.Com.,Sí,Dependiente,"Pescador, cazador, tramperos y recolector de subsistencia",175
+2021-07-05,Restauración del Norte S.L.,Sí,Dependiente,Profesional de nivel medio del derecho y servicios legales,176
+2021-09-12,Restauración Casanovas S.A.U,No,Dependiente,Técnico en electrónica,177
+2020-06-22,Delfina Llorente Caparrós S.A.,Sí,Independiente,Agricultor,178
+2022-02-28,Finanzas Herranz S.Com.,Sí,Independiente,Sericultor,179
+2021-10-18,Campos & Asociados S.Coop.,No,Dependiente,Locutor de radio,180
+2021-03-06,Manufacturas Ibérica S.L.,No,Independiente,"Operador de máquinas de preparación de fibras, hilado y devanado",181
+2020-12-11,Manufacturas Internacionales S.Com.,Sí,Dependiente,Ingeniero mecánico,182
+2020-11-09,Farmaceútica Barranco S.L.,Sí,Dependiente,Reponedor de estanterías,183
+2023-01-13,Manufacturas Rosa y asociados S.C.P,No,Independiente,Economista,184
+2021-05-18,Talleres Sanmiguel y asociados S.A.,No,Dependiente,Pintor y empapelador,185
+2020-05-25,Fábrica Río S.L.N.E,Sí,Dependiente,Productor y trabajador calificado de explotaciones agropecuarias mixtas,186
+2021-04-12,Transportes Romero S.L.,Sí,Independiente,Ingeniero de minas,187
+2024-05-21,Desarrollo Sales S.Com.,Sí,Independiente,Modisto,188
+2023-03-13,Promociones del Levante S.A.,Sí,Independiente,Especialista en tratamientos de belleza,189
+2020-02-20,Distribuciones Casals S.L.,Sí,Dependiente,Conductor de vehículos accionados a pedal o a brazo,190
+2021-06-29,Banca Privada Diez y asociados S.A.,Sí,Independiente,Técnico en redes y sistemas de computadores,191
+2020-10-20,Florina Ferrándiz Esteban S.A.,Sí,Independiente,Adivinador,192
+2022-11-13,Alimentación Españolas S.L.N.E,Sí,Dependiente,Artesano,193
+2021-08-05,Mario Sanchez Benavent S.A.U,No,Dependiente,Pescador de agua dulce y en aguas costeras,194
+2022-05-03,Promociones Lledó y asociados S.A.,No,Independiente,Administrador de sistemas,195
+2022-05-03,Talleres Castellana S.A.,No,Dependiente,Gerente de hoteles o restaurantes,196
+2024-05-19,Comercializadora Internacionales S.A.,No,Independiente,Personal de pompas fúnebres y embalsamador,197
+2023-09-01,Hotel del Noroeste S.Com.,No,Independiente,Operador de máquinas de movimiento de tierras,198
+2023-03-21,Tomás Caparrós Águila S.C.P,Sí,Independiente,Vendedor por teléfono,199
+2024-06-20,Paloma Herrero Madrigal S.Coop.,Sí,Dependiente,Fotógrafo,200
+2020-06-25,Hermanos Romero S.L.N.E,Sí,Dependiente,Laminador de vidrio,201
+2020-03-20,Tecnologías Abella & Asociados S.L.N.E,No,Dependiente,"Gerente de sucursales de bancos, de servicios financieros y de seguros",202
+2024-06-21,Neira y Cisneros S.C.P,Sí,Independiente,Profesor de artes,203
+2022-04-30,Prats & Asociados S.C.P,No,Dependiente,Locutor de televisión,204
+2022-03-29,Distribuciones Jara & Asociados S.L.L.,Sí,Independiente,Escribiente público,205
+2021-09-06,Sara Hernandez Roldan S.Com.,No,Independiente,Gerente de hoteles o restaurantes,206
+2022-03-31,Valera y Jaén S.A.,Sí,Dependiente,Técnico en seguridad aeronáutica,207
+2023-11-20,Virgilio Beltran Bonet S.L.,Sí,Independiente,Agente de maniobras,208
+2021-09-02,Servicios Internacionales S.L.,Sí,Dependiente,Agrónomo,209
+2023-07-03,Fábrica Vargas y asociados S.Com.,Sí,Independiente,Ensamblador de equipos eléctricos,210
+2022-11-07,Minería IBK S.L.N.E,No,Independiente,Impresor,211
+2021-02-11,Suministros Sureda y asociados S.Com.,No,Independiente,Músico,212
+2023-09-05,Logística Gargallo & Asociados S.Coop.,No,Dependiente,Criador de ganado,213
+2020-01-05,Virgilio Cózar Vergara S.L.,Sí,Independiente,Profesional de enfermería,214
+2020-10-25,Guerrero y asociados S.A.,No,Dependiente,Pescador de alta mar,215
+2023-01-21,Familia Armengol S.L.N.E,Sí,Independiente,Planchador manuales,216
+2022-10-27,Nacho Valcárcel Ferrándiz S.L.L.,Sí,Dependiente,Músico,217
+2020-09-28,Alimentación Valencia S.A.D,No,Dependiente,Cartógrafo,218
+2023-08-02,Faustino Herrero Haro S.Coop.,Sí,Dependiente,Controlador de plagas y malas hierbas,219
+2021-03-29,Emelina Ferrero Ródenas S.L.,Sí,Dependiente,Desarrollador de software,220
+2022-05-31,Cañete y Padilla S.Coop.,No,Independiente,Cuidador de animales,221
+2021-10-10,Inmobiliaria Internacionales S.Coop.,No,Independiente,Tapicero,222
+2021-05-21,Alimentación Castellana S.Com.,No,Independiente,Técnico de la Web,223
+2023-09-15,Hnos Ortuño S.Com.,Sí,Dependiente,Especialista en tratamientos de belleza,224
+2021-06-13,Construcción Ródenas & Asociados S.L.,Sí,Dependiente,Peón de explotaciones agrícolas,225
+2021-12-22,Hermanos Alcaraz S.Coop.,Sí,Independiente,Técnico en operaciones de tecnología de la información y las comunicaciones,226
+2023-02-06,Servicios OS S.L.U.,Sí,Dependiente,"Operador de máquinas de preparación de fibras, hilado y devanado",227
+2020-09-26,Minería Peñas S.L.,Sí,Dependiente,Curador de museos,228
+2022-09-05,Aitana Benavent Cano S.Com.,No,Dependiente,Artesano,229
+2023-06-15,Hnos Caparrós S.L.L.,No,Independiente,Profesor de formación profesional,230
+2022-07-18,Servicios Peña y asociados S.A.U,No,Independiente,Operador de máquinas de movimiento de tierras,231
+2022-06-11,Logística EJPZ S.L.,Sí,Dependiente,Mandader,232
+2020-02-20,Quintero & Asociados S.Coop.,No,Dependiente,Aparejador,233
+2024-05-12,Marciano Aguado Prado S.Com.,Sí,Dependiente,Operador de máquinas para fabricar productos de caucho,234
+2022-01-05,Farmaceútica Agullo S.L.,No,Independiente,Traductor e intérprete,235
+2020-03-19,Albert Tejera Belda S.Com.,Sí,Independiente,Profesional de nivel medio de enfermería,236
+2022-06-29,Oller y asociados S.A.,Sí,Independiente,Desarrollador Web y multimedia,237
+2020-02-05,Compañía Oliva y asociados S.Com.,No,Independiente,Veterinario,238
+2021-11-19,Restauración Ibéricos S.Coop.,Sí,Independiente,Reponedor de estanterías,239
+2022-12-10,Familia Mínguez S.L.,No,Dependiente,Agente de administración tributaria,240
+2021-02-12,Comercializadora del Mediterráneo S.Coop.,No,Dependiente,Administrador de sistemas,241
+2024-04-05,Hermanos Caparrós S.C.P,No,Dependiente,Ensamblador de equipos eléctricos,242
+2023-10-28,Comercializadora del Norte S.L.U.,No,Dependiente,Camarero de barra,243
+2024-06-11,Navarro y Paredes S.L.,Sí,Independiente,Profesor de música,244
+2022-08-01,Inversiones Vila S.L.U.,No,Independiente,Cartógrafo,245
+2021-02-19,Finanzas Fabra S.Coop.,No,Dependiente,Miembro de las fuerzas armadas,246
+2021-09-17,Consultoría Avanzadas S.A.U,No,Independiente,Ebanista,247
+2023-06-22,Familia Asensio S.Com.,Sí,Dependiente,Mecánico y ajustador electricista,248
+2020-08-16,Alimentación ZD S.A.U,No,Independiente,Modelador de vidrio,249
+2023-05-06,Farmaceútica Téllez S.L.,No,Independiente,Telefonista,250
+2023-11-29,Distribuciones Cuéllar S.L.,Sí,Independiente,Biólogo,251
+2023-10-25,Manufacturas Revilla S.Com.,No,Dependiente,Meteorólogo,252
+2020-01-18,Flor Mariño Campoy S.L.L.,Sí,Dependiente,Bordador,253
+2024-05-26,Infante & Asociados S.A.,No,Independiente,Ensamblador de equipos eléctricos,254
+2021-02-18,Instalaciones Landa S.L.N.E,No,Independiente,"Modelo de moda, arte y publicidad",255
+2022-01-16,Hermanos Pomares S.A.,Sí,Dependiente,Audiólogo,256
+2020-05-23,Farmaceútica Moll S.L.,Sí,Independiente,Barrendero,257
+2023-05-06,Heliodoro Perales Jara S.Com.,No,Dependiente,Curador de museos,258
+2024-03-03,Despacho Laguna y asociados S.A.,No,Dependiente,Operador de máquinas para fabricar cemento y otros productos minerales,259
+2023-01-06,Banco Ibérica S.L.,Sí,Independiente,Fumigador,260
+2022-09-17,Banco PGR S.Coop.,No,Independiente,Orfebre,261
+2023-06-10,Águeda Badía Salvà S.A.,No,Dependiente,Ingeniero metalúrgico,262
+2021-05-22,Familia Codina S.Com.,Sí,Independiente,Laminador de vidrio,263
+2022-07-14,Dani Salinas Manrique S.L.,No,Independiente,"Pescador, cazador, tramperos y recolector de subsistencia",264
+2022-03-10,Comercial SV S.A.U,No,Dependiente,Preparador y elaborador de tabaco y sus productos,265
+2023-06-19,Farmaceútica Batalla y asociados S.A.T.,Sí,Dependiente,Herrero,266
+2024-04-07,Supermercados Avanzadas S.L.U.,No,Dependiente,Entrevistador de encuestas,267
+2022-09-11,Alimentación UW S.A.,No,Independiente,Empleado de biblioteca,268
+2024-06-24,Farmaceútica Herrero S.A.,Sí,Dependiente,Carnicero,269
+2020-05-22,Compañía Globales S.A.,No,Dependiente,Deportista,270
+2022-05-02,Inmobiliaria WHI S.Coop.,Sí,Dependiente,Electrotécnico,271
+2021-04-16,Supermercados Ródenas & Asociados S.Com.,Sí,Dependiente,Agente de compras,272
+2023-05-23,Vera Solsona Rueda S.Com.,No,Independiente,Técnico en optometría y ópticos,273
+2021-09-30,Grupo Santos S.L.,No,Independiente,Chef,274
+2021-04-18,Corominas y Pastor S.Com.,No,Dependiente,Fisioterapeuta,275
+2021-12-21,Daza y asociados S.A.,No,Dependiente,Audiólogo,276
+2024-03-20,Marisa Roldan Heredia S.A.U,Sí,Dependiente,Director de teatro,277
+2023-06-18,Servicios Castellana S.L.N.E,No,Independiente,Dentista,278
+2020-11-29,Hnos Gallo S.L.L.,Sí,Dependiente,Trabajador de cuidados personales en instituciones,279
+2021-05-05,Comercializadora Grande & Asociados S.Coop.,Sí,Dependiente,"Director de empresas de abastecimiento, distribución y afines",280
+2023-10-19,Hermanos Castrillo S.Com.,Sí,Dependiente,"Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",281
+2021-04-18,Quiroga y Mendez S.Com.,Sí,Independiente,Inspector de la salud laboral,282
+2020-11-04,Familia Vilanova S.Com.,Sí,Dependiente,Asistente farmacéutico,283
+2020-10-01,Minería del Mediterráneo S.L.,No,Dependiente,Personal directivo de la administración pública,284
+2022-04-06,Grupo Torralba S.L.N.E,Sí,Independiente,Modisto,285
+2024-06-06,Samu Guillen Nogueira S.Com.,No,Dependiente,Músico,286
+2024-05-14,Hermanos Zabaleta S.L.,No,Independiente,Profesional de nivel medio de partería,287
+2021-12-27,Perez y Asenjo S.L.,No,Independiente,Aparejador,288
+2023-08-26,Compañía MKK S.Com.,Sí,Dependiente,"Operador de máquinas de embalaje, embotellamiento y etiquetado ",289
+2024-06-22,Timoteo Sarmiento Galvez S.A.,No,Dependiente,Laminador de vidrio,290
+2023-04-25,Ferrándiz y Merino S.L.L.,No,Independiente,"Redactor de carteles, pintor decorativos y grabador",291
+2021-09-10,Hnos Vendrell S.C.P,Sí,Independiente,Técnico de radiodifusión y grabación audio visual,292
+2024-06-21,Familia Agustí S.Com.,No,Independiente,Meteorólogo,293
+2020-08-08,Industrias Salinas y asociados S.L.N.E,Sí,Dependiente,Técnico de telecomunicaciones,294
+2020-11-17,Manrique y Calderón S.Com.,No,Dependiente,Conductor de taxis,295
+2022-06-27,Osvaldo Mancebo Cepeda S.Coop.,No,Dependiente,Técnico en ingeniería mecánica,296
+2021-10-14,Farmaceútica HWN S.A.,Sí,Dependiente,"Gerente de sucursales de bancos, de servicios financieros y de seguros",297
+2022-08-06,Araujo y Jaume S.L.,No,Independiente,Operador de máquinas lavarropas,298
+2024-01-12,Lladó & Asociados S.L.,Sí,Dependiente,Apicultor,299
+2021-03-22,Aguado & Asociados S.L.,Sí,Dependiente,Operador de instalaciones de vidriería y cerámica,300
+2021-02-07,Banca Privada TLOQ S.C.P,No,Dependiente,Conductor de taxis,301
+2022-01-19,Manufacturas Españolas S.L.,No,Dependiente,Mecánico y ajustador electricista,302
+2021-08-06,Noelia Guerra Villegas S.L.N.E,No,Dependiente,Trabajador de cuidados personales a domicilio,303
+2022-09-18,Néstor Corbacho Valbuena S.L.,No,Dependiente,"Modelo de moda, arte y publicidad",304
+2023-05-20,Zurita y asociados S.L.,No,Dependiente,Árbitro deportivo,305
+2020-08-15,Bustamante & Asociados S.Coop.,No,Independiente,Peón de minas y canteras,306
+2023-04-16,Merche Rocha Fajardo S.L.,Sí,Independiente,Herramentista,307
+2023-06-03,Mas y Figueras S.A.,Sí,Dependiente,Organizador de conferencias y eventos,308
+2022-04-20,Lola Castellanos Lasa S.L.N.E,Sí,Dependiente,Oficial de cubierta,309
+2022-01-06,Banca Privada Villaverde y asociados S.L.,No,Dependiente,Economista,310
+2021-10-24,Anguita y Clemente S.Coop.,No,Independiente,Asistente de venta,311
+2020-04-15,Marqués y Izquierdo S.A.,Sí,Dependiente,Técnico en ciencias físicas y químicas,312
+2020-02-01,Farmaceútica del Levante S.C.P,Sí,Dependiente,Director de empresas de construcción,313
+2022-10-02,Eloísa Leal Amores S.C.P,No,Independiente,Receptor de apuestas,314
+2020-10-19,Hnos Almagro S.L.,No,Dependiente,Profesional de ventas de tecnología de la información y las comunicaciones,315
+2021-01-10,Construcción WPUX S.L.,No,Independiente,Cartógrafo,316
+2024-01-03,Hotel del Mediterráneo S.L.,No,Dependiente,Desarrollador de software,317
+2020-07-17,Ruth Barón Montalbán S.Coop.,Sí,Dependiente,Operador de instalaciones de tratamiento de agua,318
+2021-11-29,Matilde Barral Montoya S.L.,Sí,Independiente,Tronzador,319
+2022-05-24,Finanzas Albero & Asociados S.L.L.,No,Dependiente,Mecánico y reparador de máquinas agrícolas e industriales,320
+2023-09-15,Industrias ZEVL S.A.T.,No,Independiente,Director de teatro,321
+2021-05-14,Minería YX S.Com.,Sí,Dependiente,Audiólogo,322
+2021-03-08,Salud Sabater Sancho S.Coop.,Sí,Independiente,Profesional de nivel medio de servicios estadísticos o matemáticos,323
+2022-03-19,Jerónimo Suarez Salazar S.L.L.,No,Dependiente,Inspector medioambiental y afines,324
+2022-12-12,Familia Gracia S.Coop.,No,Independiente,Techador,325
+2021-02-08,Minería Carnero S.L.U.,Sí,Independiente,"Panaderos, pasteleros y confiteros",326
+2021-12-02,Riba & Asociados S.Com.,Sí,Independiente,Montador de estructuras metálicas,327
+2023-02-12,Despacho Española S.Coop.,Sí,Independiente,Audiólogo,328
+2022-10-29,Pujol y Arrieta S.C.P,Sí,Dependiente,Piloto de aviación,329
+2021-07-24,Promociones DKW S.C.P,Sí,Independiente,Mecánico y reparador de instrumentos de precisión,330
+2021-12-18,Amada Codina Flores S.A.,No,Independiente,Inspector de policía,331
+2021-08-21,Despacho Pavón S.A.,Sí,Independiente,Secretario jurídicos,332
+2023-05-07,Moreno y asociados S.Com.,No,Dependiente,Instalador de material aislante y de insonorización,333
+2022-01-17,Banco Bas S.A.,No,Dependiente,Profesor de artes,334
+2023-02-02,Peña y asociados S.L.N.E,No,Dependiente,Productor y trabajador calificado de explotaciones agropecuarias mixtas,335
+2020-03-25,Alimentación QP S.A.D,Sí,Dependiente,Repartidor,336
+2022-01-24,Inmobiliaria Quintanilla y asociados S.Coop.,Sí,Independiente,Profesor de formación profesional,337
+2021-12-25,Soluciones WWMF S.C.P,Sí,Dependiente,Albañil,338
+2021-06-09,Suministros del Norte S.L.L.,No,Independiente,Técnico en ingeniería de minas y metalurgia,339
+2021-03-15,Familia Planas S.A.,No,Independiente,Bibliotecarios,340
+2021-11-28,Consultoría KIU S.A.,No,Dependiente,Técnico forestal,341
+2023-07-10,Félix Bilbao Alberdi S.L.N.E,No,Dependiente,Recolector de dinero en aparatos de venta automática y lector de medidores,342
+2021-09-25,Hermanos Suárez S.A.,Sí,Independiente,Profesional de ventas de tecnología de la información y las comunicaciones,343
+2020-03-27,Osorio y Alegre S.Coop.,No,Dependiente,Empleado de contabilidad y cálculo de costos,344
+2023-08-24,Ibáñez & Asociados S.Coop.,Sí,Independiente,Trabajador agropecuario de subsistencia,345
+2020-02-13,Evaristo Parra Barrio S.A.D,No,Independiente,Regulador y operador de máquinas de labrar madera,346
+2024-04-20,Rojas y Nuñez S.A.,Sí,Independiente,Camarero de barra,347
+2024-01-04,Burgos y Santamaria S.L.L.,No,Independiente,Director de cine,348
+2023-08-25,Torre & Asociados S.A.,Sí,Independiente,Recolector de basura y material reciclable,349
+2020-02-13,Talleres Esparza & Asociados S.L.,No,Dependiente,Oficial maquinistas en navegación,350
+2020-09-13,Distribuciones GJER S.L.N.E,No,Independiente,Colchonero,351
+2024-05-30,Arrieta y Torrijos S.L.U.,Sí,Independiente,Técnico en química industrial,352
+2022-09-12,Nico Matas Mayoral S.A.,Sí,Dependiente,Director de cine,353
+2024-05-12,Familia Palomares S.L.N.E,No,Independiente,Trabajador de cuidados personales en instituciones,354
+2020-10-17,Comercial Cortes S.L.N.E,No,Dependiente,"Pescador, cazador, tramperos y recolector de subsistencia",355
+2023-01-21,Soluciones del Norte S.Coop.,Sí,Independiente,Operador de instalaciones para la preparación de pasta para papel y papel,356
+2024-01-06,Alemán y Aranda S.Coop.,Sí,Independiente,Paisajista,357
+2020-11-29,Construcción Española S.Coop.,No,Independiente,Empleado de servicios de apoyo a la producción,358
+2024-03-27,Banco Españolas S.Com.,No,Dependiente,Director de servicios de cuidado de las personas de edad,359
+2023-04-13,Infraestructuras del Norte S.Com.,No,Independiente,Astrónomos,360
+2020-04-28,Supermercados Internacionales S.A.,No,Dependiente,Maestro de enseñanza primaria,361
+2022-07-02,Compañía Gil y asociados S.A.,Sí,Independiente,Joyero,362
+2021-11-24,Márquez y asociados S.L.N.E,Sí,Dependiente,Regulador y operador de máquinas y herramientas,363
+2021-04-30,Construcción del Levante S.Com.,No,Independiente,Director de investigación y desarrollo,364
+2020-03-04,Coloma & Asociados S.L.,Sí,Independiente,Contable,365
+2023-04-22,Martirio Gibert Guillén S.Com.,No,Independiente,Dinamitero,366
+2021-02-13,Juliana Hoz Pascual S.L.,Sí,Independiente,Educador para necesidades especiales,367
+2024-05-18,Supermercados Inteligentes S.Com.,Sí,Dependiente,Tipógrafo,368
+2020-07-07,Adadia & Asociados S.Com.,Sí,Dependiente,Mecánico y reparador en electrónica,369
+2023-07-24,Farmaceútica Palmer S.L.N.E,No,Independiente,"Operador de máquinas de embalaje, embotellamiento y etiquetado ",370
+2022-03-30,Manufacturas Sanmiguel S.L.,Sí,Dependiente,Representante comercial,371
+2023-01-21,Delgado y asociados S.L.N.E,No,Independiente,Desarrollador de software,372
+2021-04-07,Instalaciones Iberia S.C.P,No,Dependiente,Oficial de préstamos y créditos,373
+2024-06-29,Instalaciones Ibérica S.L.,Sí,Dependiente,Mecánico y reparador de máquinas agrícolas e industriales,374
+2020-08-23,Juliá y Gascón S.A.U,No,Independiente,Profesional de medicina,375
+2023-07-07,Distribuciones del Levante S.L.,Sí,Dependiente,Lavandero,376
+2020-10-02,Familia Grande S.C.P,Sí,Independiente,Gerente general,377
+2022-06-10,Familia Catalán S.A.,No,Dependiente,Técnico en ingeniería mecánica,378
+2023-05-06,Minería Olmo S.A.,Sí,Independiente,Operador de máquinas para elaborar alimentos y productos afines,379
+2022-05-08,Tecnologías PLZ S.Com.,Sí,Dependiente,Lavandero,380
+2023-11-15,Farmaceútica Campoy S.L.,Sí,Independiente,Corrector de pruebas de imprenta,381
+2023-12-24,Inmobiliaria Ibéricos S.L.,No,Dependiente,Zapatero,382
+2022-12-21,Hermanos Ruiz S.L.U.,No,Dependiente,Guardagujas,383
+2024-03-26,Minería Pozo & Asociados S.Coop.,No,Independiente,Artista plástico,384
+2021-08-19,Desarrollo EZZ S.L.L.,No,Dependiente,Empleado de agencia de viajes,385
+2022-07-25,Nacio Hierro Laguna S.Coop.,Sí,Independiente,Secretario médicos,386
+2024-03-27,Despacho Inteligentes S.A.U,No,Independiente,Instalador de material aislante y de insonorización,387
+2021-01-27,Hotel SBUV S.A.,No,Independiente,Mecánico y reparador de motores de avión,388
+2024-06-21,Distribuciones Avilés S.Coop.,Sí,Independiente,Miembro del poder legislativo,389
+2021-08-16,Inversiones Salazar S.Com.,No,Dependiente,Agente de servicios de seguridad social,390
+2021-04-11,Banco Ángel S.Com.,Sí,Dependiente,Pescadero,391
+2023-01-12,Desarrollo Valderrama S.L.L.,Sí,Independiente,Colchonero,392
+2023-02-18,Compañía Heras S.Coop.,Sí,Dependiente,Limpiador de fachadas,393
+2020-07-28,Avilés & Asociados S.A.D,No,Dependiente,Técnico en redes y sistemas de computadores,394
+2021-08-30,Cánovas y Gálvez S.L.,No,Independiente,Sericultor,395
+2021-02-04,Inversiones Avanzadas S.A.D,Sí,Dependiente,Peón de explotaciones ganaderas,396
+2021-01-17,Reina Pulido Grande S.L.N.E,Sí,Dependiente,Pescador de alta mar,397
+2021-05-22,Despacho Internacionales S.A.T.,Sí,Independiente,Catador de alimentos y bebidas,398
+2023-12-13,Teófilo Fuentes Figueras S.L.,No,Dependiente,Profesional de la protección medioambiental,399
+2022-02-05,Hnos Olmedo S.A.,No,Dependiente,Secretario jurídicos,400
+2020-04-19,Transportes del Sur S.L.,No,Dependiente,Vendedor ambulantes de productos comestibles,401
+2024-01-07,Cifuentes y Machado S.Coop.,Sí,Dependiente,Director de empresas de construcción,402
+2022-01-27,Beltrán y asociados S.L.L.,No,Dependiente,Compositor,403
+2024-04-30,Hnos Cáceres S.A.,Sí,Dependiente,Entrevistador de encuestas,404
+2023-07-24,Rozas y asociados S.L.,Sí,Dependiente,"Empleado de servicios estadísticos, financieros y de seguros",405
+2020-04-03,Solé y asociados S.L.,Sí,Independiente,Arquitecto,406
+2022-03-28,Logística Plaza y asociados S.A.,No,Independiente,Vendedor de quioscos y de puestos de mercado,407
+2022-02-20,Larrañaga y asociados S.A.,Sí,Independiente,Técnico en operaciones de tecnología de la información y las comunicaciones,408
+2020-11-20,Hnos Melero S.A.,No,Independiente,Agente de servicios de seguridad social,409
+2021-05-09,Fábrica MNEO S.Coop.,No,Dependiente,Curador de museos,410
+2022-07-01,Pi y asociados S.L.U.,Sí,Dependiente,Técnico de prótesis médicas y dentales,411
+2021-02-05,Talleres FYG S.Coop.,No,Independiente,Profesor de artes,412
+2022-01-14,Mate y asociados S.L.L.,Sí,Independiente,Agricultor,413
+2022-03-24,Perera y asociados S.L.L.,No,Dependiente,Técnico en química industrial,414
+2021-06-23,Sanchez & Asociados S.A.,Sí,Independiente,Suboficial de las fuerzas armadas,415
+2024-01-20,Grupo Herrera S.A.,No,Dependiente,Catador de bebidas,416
+2020-10-26,Infraestructuras NEU S.L.,No,Dependiente,Cazador,417
+2020-03-07,Amorós y Caballero S.L.,Sí,Independiente,Mecánico y reparador de motores de avión,418
+2022-01-17,Perea & Asociados S.Com.,Sí,Dependiente,Avicultor,419
+2021-06-28,Infraestructuras Internacionales S.A.,Sí,Dependiente,Deportista,420
+2021-07-23,Hnos Lladó S.L.L.,No,Independiente,Aparejador,421
+2023-03-26,Farmaceútica Miralles y asociados S.A.,No,Independiente,Personal de pompas fúnebres y embalsamador,422
+2023-08-23,Infraestructuras Gordillo S.L.,Sí,Dependiente,Director de servicios de tecnología de la información y las comunicaciones,423
+2020-08-27,Nadia Artigas Aguilar S.Coop.,No,Dependiente,Personas que realizan trabajos varios,424
+2023-07-13,Infraestructuras WQXT S.L.N.E,Sí,Independiente,Conductor de vehículos accionados a pedal o a brazo,425
+2024-02-13,Giralt & Asociados S.A.T.,No,Dependiente,Asistente farmacéutico,426
+2023-05-23,Talleres BNCS S.A.,Sí,Independiente,Maleter,427
+2022-04-26,Soluciones Escrivá & Asociados S.Com.,No,Independiente,Oficial de las fuerzas armadas,428
+2020-07-15,Hermanos Correa S.L.,No,Dependiente,Joyero,429
+2022-02-05,Instalaciones del Levante S.Com.,Sí,Independiente,Cartógrafo,430
+2022-04-08,Espiridión Sevilla Ribes S.L.,Sí,Dependiente,Especialista en ciencias políticas,431
+2022-05-23,Ballester y Moll S.Coop.,Sí,Dependiente,Adivinador,432
+2023-03-26,Tecnologías Tena S.L.N.E,No,Dependiente,Secretario ejecutivo,433
+2021-01-31,Suministros Alsina S.L.N.E,Sí,Independiente,"Pescador, cazador, tramperos y recolector de subsistencia",434
+2022-10-08,Banca Privada HGOF S.L.,No,Dependiente,Gorjadore,435
+2020-06-08,Lalo Donaire Leal S.L.L.,Sí,Independiente,Desarrollador Web y multimedia,436
+2021-08-01,Comercializadora HW S.L.,No,Independiente,Curador de museos,437
+2024-02-07,Marti y Santana S.A.,Sí,Independiente,Psicólogo,438
+2022-03-07,Comercializadora Casals y asociados S.Coop.,No,Dependiente,"Empleado de servicios estadísticos, financieros y de seguros",439
+2020-05-03,Banca Privada Molins y asociados S.Com.,No,Independiente,Telefonista,440
+2022-03-03,Industrias Avanzadas S.Coop.,Sí,Dependiente,Cantante,441
+2021-11-15,Servicios Ibéricos S.A.T.,Sí,Independiente,Locutor de radio,442
+2022-04-01,Restauración Galvez & Asociados S.Com.,Sí,Independiente,Recolector de dinero en aparatos de venta automática y lector de medidores,443
+2022-07-08,Andres & Asociados S.Com.,No,Dependiente,Cocinero,444
+2021-12-03,Inversiones del Levante S.Com.,Sí,Dependiente,Técnico en ingeniería civil,445
+2021-04-10,Ballester y Clavero S.Coop.,Sí,Dependiente,Maleter,446
+2024-02-27,Cayetana Sanabria Novoa S.Com.,Sí,Dependiente,Secretario (general),447
+2021-07-31,Fábrica Martinez y asociados S.A.,No,Dependiente,Conductor de vehículos accionados a pedal o a brazo,448
+2023-01-17,Farmaceútica JWO S.L.U.,No,Dependiente,Receptor de apuestas,449
+2023-06-28,Construcción Villalba & Asociados S.Com.,No,Independiente,Profesor de formación profesional,450
+2021-06-07,Despacho Morera S.A.,No,Dependiente,Guardafrenos,451
+2022-11-10,Comercializadora EEV S.L.,No,Independiente,Técnico de radiodifusión y grabación audio visual,452
+2023-11-01,Manufacturas Anglada & Asociados S.Com.,No,Independiente,Empleado de centro de llamadas,453
+2020-04-21,Transportes Priego S.Coop.,No,Independiente,Organizador de conferencias y eventos,454
+2024-01-13,Manufacturas AVQ S.Com.,Sí,Dependiente,Trabajador social de nivel medio,455
+2020-04-14,Banca Privada KWB S.L.N.E,Sí,Independiente,Operador de instalaciones de procesamiento de minerales y rocas,456
+2023-01-11,Farmaceútica TVN S.A.,No,Independiente,Dibujante técnico,457
+2020-01-19,Finanzas Asensio y asociados S.Coop.,No,Independiente,Laminador de vidrio,458
+2023-04-13,Instalaciones PMQC S.Coop.,Sí,Independiente,Buzo,459
+2022-08-21,Hermanos Villa S.L.,No,Independiente,Personas que realizan trabajos varios,460
+2023-06-01,Restauración Amigó & Asociados S.C.P,Sí,Dependiente,Empleado de centro de llamadas,461
+2023-04-06,Tecnologías del Levante S.Com.,Sí,Dependiente,Comerciante de tiendas,462
+2021-12-11,Inmobiliaria Cámara & Asociados S.A.,No,Independiente,Controlador de procesos,463
+2020-12-02,Desiderio Gordillo Martín S.L.,No,Dependiente,Cajero,464
+2023-11-11,Familia Solís S.Com.,Sí,Independiente,Contable,465
+2022-12-14,Comercial Avanzadas S.L.,Sí,Independiente,Ensamblador de maquinaria mecánica,466
+2023-01-01,Talleres Canet S.A.,Sí,Independiente,Lingüista,467
+2024-05-07,Manufacturas UZKQ S.A.T.,Sí,Dependiente,Especialista en políticas y servicios de personal,468
+2023-03-20,Gibert y Piquer S.L.,No,Independiente,Deshollinador,469
+2024-06-03,Amelia Bas Cal S.A.,Sí,Independiente,Mandader,470
+2022-07-31,Aguirre y Montes S.L.N.E,Sí,Dependiente,Receptor de apuestas,471
+2021-03-22,Hermanos Baró S.Coop.,No,Independiente,Apicultor,472
+2020-05-19,Rius y Molins S.L.N.E,No,Independiente,Profesor de artes,473
+2021-12-18,Blazquez y Amor S.Coop.,Sí,Dependiente,Modelador de vidrio,474
+2024-06-19,Finanzas Mancebo y asociados S.Com.,Sí,Dependiente,Profesional de ventas técnicas y médicas,475
+2023-05-03,Fábrica Guzman S.A.D,Sí,Dependiente,Director de servicios de salud,476
+2022-09-22,Amigó y Plana S.L.,Sí,Dependiente,Árbitro deportivo,477
+2020-10-09,Logística Quintana S.A.,No,Independiente,Médico especialista,478
+2022-03-17,Grupo Campos S.C.P,No,Dependiente,Agente de empleo,479
+2023-07-10,Fábrica Avanzadas S.L.L.,No,Dependiente,Camarero de mesa,480
+2022-01-18,Suministros Avanzadas S.L.N.E,Sí,Independiente,Periodista,481
+2022-01-28,Industrias Roig S.A.,No,Dependiente,Agente inmobiliario,482
+2024-05-23,Farmaceútica Inteligentes S.Coop.,No,Dependiente,Carnicero,483
+2020-07-05,Industrias Porta y asociados S.Com.,Sí,Independiente,Urbanistas e ingenieros de tránsito,484
+2024-06-11,Torrijos & Asociados S.Com.,No,Independiente,Oficial de cubierta,485
+2020-09-09,Lilia Aguado Muro S.A.,No,Dependiente,Cobrador,486
+2020-08-18,Roberta Murcia Rozas S.L.,No,Independiente,Soplador de vidrio,487
+2022-05-22,Juanito Pinto Boada S.L.,No,Independiente,Operario de la elaboración de productos lácteos,488
+2021-06-27,Fábrica GPJ S.Coop.,No,Independiente,Técnico en ingeniería civil,489
+2022-09-08,Inversiones Sevillano y asociados S.Coop.,Sí,Dependiente,Orfebre,490
+2023-08-18,Garcés y asociados S.A.,No,Independiente,Actuario,491
+2021-11-22,Supermercados Quirós & Asociados S.Com.,No,Dependiente,Trabajador ambulante de servicios,492
+2022-04-30,Cornejo y Tudela S.L.N.E,Sí,Dependiente,Curtidor,493
+2022-03-16,Bauzà & Asociados S.A.,No,Independiente,Peón forestales,494
+2023-06-02,Desarrollo Salom y asociados S.Com.,Sí,Independiente,Técnico en ingeniería de minas y metalurgia,495
+2023-10-28,Hotel del Sur S.Coop.,Sí,Independiente,Peón forestales,496
+2023-05-30,Hermanos Diaz S.C.P,Sí,Independiente,Árbitro deportivo,497
+2024-03-31,Desarrollo del Noroeste S.Coop.,No,Dependiente,Gerente de comercios al por mayor y al por menor,498
+2021-06-12,Supermercados Avanzadas S.C.P,No,Independiente,Actor,499
+2021-06-06,Hermanos Lloret S.A.,Sí,Independiente,Historiador,500

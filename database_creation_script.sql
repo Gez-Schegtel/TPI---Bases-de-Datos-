@@ -45,7 +45,7 @@ CREATE TABLE Dependencia (
 CREATE TABLE Datos_Trabajo (
     tipo_personal VARCHAR(255),
     caracter VARCHAR(255),
-    presta_servicio_utn BOOLEAN,
+    presta_servicio_utn VARCHAR(255),
     idos INT UNIQUE,
     PRIMARY KEY (tipo_personal, caracter, idos),
     CONSTRAINT fk_datos_trabajo_idos FOREIGN KEY (idos) REFERENCES Obra_Social(idos) ON DELETE CASCADE ON UPDATE CASCADE
@@ -237,7 +237,7 @@ CREATE TABLE Pasividades (
     iddj INT,
     desde VARCHAR(255),
     causa VARCHAR(255),
-    suspendido BOOLEAN,
+    suspendido VARCHAR(255), -- Acá no lo modelamos como "BOOLEAN" porque dicho tipo de dato se traduce como un TINYINT
     institucion_abonante VARCHAR(255),
     PRIMARY KEY (regimen, iddj),
     CONSTRAINT fk_pasividades_iddj FOREIGN KEY (iddj) REFERENCES Declaracion_Jurada(iddj) ON DELETE CASCADE ON UPDATE CASCADE

@@ -40,4 +40,4 @@ with open(archivo_participacion, mode='w', newline='', encoding='utf-8') as file
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(participacion_data)  # Escribir los datos
 
-print(f"Se generaron {num_records} registros y se exportaron a {archivo_participacion}")
+print(f"{num_records} registros generados y exportados a {archivo_participacion}")

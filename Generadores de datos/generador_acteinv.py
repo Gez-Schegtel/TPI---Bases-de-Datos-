@@ -48,4 +48,4 @@ with open(archivo_actividad_investigacion, mode='w', newline='', encoding='utf-8
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(actividad_investigacion_data)  # Escribir los datos
 
-print(f"Se generaron {num_records} registros y se exportaron a {archivo_actividad_investigacion}")
+print(f"{num_records} registros generados y exportados a {archivo_actividad_investigacion}")

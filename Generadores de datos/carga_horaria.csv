@@ -1,51 +1,501 @@
 dia,lugar,horario,nombre_catedra,iddj
-miércoles,Zamora,08:01:24,Operador de maquinaria agrícola y forestal móvil,1
-lunes,Santa Cruz de Tenerife,06:04:02,Físico,2
-sábado,Soria,20:42:05,Especialista en formación del personal,3
-lunes,Ciudad,03:45:53,Conductor de motocicletas,4
-jueves,Teruel,22:59:39,Músico,5
-miércoles,Valencia,02:44:55,Mayordomo doméstico,6
-viernes,Barcelona,02:24:02,Agente de empleo,7
-lunes,Granada,17:27:30,Técnico en asistencia al usuario de tecnología de la información y las comunicaciones,8
-sábado,Toledo,11:57:44,Director de teatro,9
-martes,Huelva,06:47:29,Peón de minas y canteras,10
-jueves,Santa Cruz de Tenerife,00:26:02,Limpiador y asistente doméstico,11
-miércoles,Cantabria,08:16:50,Director de servicios de educación,12
-sábado,Huelva,17:23:47,"Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",13
-jueves,Melilla,15:54:19,Agente de aduanas,14
-miércoles,Ciudad,16:00:56,Sociólogo,15
-miércoles,La Coruña,06:52:33,Operador de máquinas para fabricar productos de papel,16
-jueves,Huelva,22:26:37,Lavandero,17
-miércoles,Burgos,02:03:33,Profesor de formación profesional,18
-miércoles,Navarra,13:54:52,Gestor de aduana,19
-lunes,Burgos,09:52:31,Parquetero y colocador de suelos,20
-sábado,Albacete,09:11:33,Profesional de relaciones públicas,21
-jueves,Murcia,18:21:15,Profesional del trabajo social,22
-lunes,Jaén,04:36:20,Conductor de vehículos accionados a pedal o a brazo,23
-domingo,Castellón,16:10:11,Mecánico y reparador de máquinas agrícolas e industriales,24
-viernes,León,07:09:50,Profesor de formación profesional,25
-domingo,Valladolid,17:33:44,Director de cine,26
-lunes,Tarragona,19:08:00,Abogado,27
-domingo,Melilla,21:41:10,Catador de bebidas,28
-miércoles,Huelva,18:08:48,Entrevistador de investigaciones de mercados,29
-sábado,Albacete,15:22:43,Operador de instalaciones de procesamiento de minerales y rocas,30
-sábado,Teruel,04:04:04,Locutor de radio,31
-jueves,Salamanca,20:33:48,Mensajero,32
-sábado,Málaga,06:08:17,Barrendero,33
-viernes,La Coruña,22:38:43,Instalador de material aislante y de insonorización,34
-domingo,Navarra,07:08:58,"Operario de la conservación de frutas, legumbres y verduras",35
-viernes,Sevilla,03:46:18,Colchonero,36
-martes,Santa Cruz de Tenerife,03:22:18,Secretario ejecutivo,37
-domingo,Soria,12:47:25,Mayordomo doméstico,38
-miércoles,La Rioja,10:47:45,Operador de instalaciones mineras,39
-lunes,Madrid,23:12:46,Técnico en química industrial,40
-miércoles,Albacete,21:44:15,Desarrollador Web y multimedia,41
-miércoles,Baleares,09:42:14,Desarrollador Web y multimedia,42
-lunes,Palencia,04:43:35,Lavador de ventanas,43
-jueves,Ávila,22:39:17,Agente de seguros,44
-jueves,Teruel,09:36:44,Dibujante técnico,45
-domingo,Melilla,17:05:30,Ensamblador de equipos electrónicos,46
-domingo,Salamanca,15:47:56,Técnico en redes y sistemas de computadores,47
-miércoles,Burgos,04:22:53,Operador de máquinas para fabricar productos de papel,48
-martes,Ávila,23:10:18,Profesional del trabajo social,49
-jueves,Badajoz,17:48:02,Colchonero,50
+sábado,León,04:25:45,Guardafrenos,1
+martes,Badajoz,16:09:21,Camarero de mesa,2
+lunes,Valencia,08:39:08,Cajero de banco,3
+sábado,Las Palmas,12:21:59,Instalador y reparador de líneas eléctricas,4
+jueves,Teruel,10:58:03,Vendedor ambulantes de productos comestibles,5
+viernes,Ceuta,10:37:19,Representante comercial,6
+martes,Castellón,03:46:18,Operador de instalaciones de procesamiento de minerales y rocas,7
+viernes,Ávila,09:48:00,Juez,8
+miércoles,Soria,07:14:13,Peluqueros,9
+jueves,Cantabria,15:39:23,Gestor de aduana,10
+miércoles,Huesca,00:27:40,Vendedor ambulantes (excluyendo de comida),11
+miércoles,Ourense,22:05:18,"Empleado de servicios estadísticos, financieros y de seguros",12
+domingo,Segovia,13:26:34,Operador de máquinas de procesamiento de texto y mecanógrafos,13
+lunes,Ciudad,14:40:35,Moldeador y machero,14
+martes,Baleares,03:54:54,Ensamblador de equipos eléctricos,15
+lunes,Navarra,06:21:30,Técnico de radiodifusión y grabación audio visual,16
+jueves,Castellón,13:20:05,Director de explotaciones de minería,17
+martes,Ávila,02:59:31,Desarrollador de software,18
+lunes,Asturias,03:40:12,Operador de instalaciones de producción de energía,19
+jueves,Albacete,14:44:41,Auxiliar de servicio de abordo,20
+sábado,Pontevedra,12:28:59,Encuadernador,21
+miércoles,Navarra,16:52:08,Conductor de automóviles,22
+viernes,Huesca,21:53:19,Limpiador y asistente doméstico,23
+martes,Barcelona,09:17:20,Escribiente público,24
+domingo,Badajoz,10:56:06,Alfarero,25
+miércoles,La Coruña,22:25:40,Médico especialista,26
+miércoles,Guadalajara,00:41:07,Recepcionista,27
+lunes,Sevilla,05:28:23,Instalador de material aislante y de insonorización,28
+miércoles,Cáceres,13:24:21,Adivinador,29
+miércoles,Cantabria,20:26:39,Diseñador de bases de datos,30
+viernes,Lugo,03:09:08,Personal directivo de la administración pública,31
+sábado,Cantabria,19:14:04,Gerente general,32
+jueves,Sevilla,04:24:55,Cobrador,33
+domingo,Teruel,17:22:50,Profesional religioso,34
+viernes,Girona,15:54:53,Profesional de relaciones públicas,35
+lunes,La Coruña,13:49:40,Empacador manual,36
+miércoles,Pontevedra,08:01:43,Trabajador forestal calificado,37
+viernes,Segovia,15:02:43,Operador de máquinas de procesamiento de texto y mecanógrafos,38
+sábado,Cádiz,19:28:26,Conductor de motocicletas,39
+sábado,Huesca,14:11:07,Desarrollador de software,40
+martes,Ávila,16:18:17,Platero,41
+viernes,Santa Cruz de Tenerife,11:53:44,Asistente veterinario,42
+viernes,Valencia,18:55:25,Instalador de material aislante y de insonorización,43
+jueves,Cádiz,21:22:58,Diseñador de bases de datos,44
+jueves,Toledo,17:34:34,Asistente fisioterapeuta,45
+domingo,Ourense,11:38:00,Archivista,46
+miércoles,Vizcaya,17:18:26,Especialista en formación del personal,47
+domingo,Valencia,02:30:52,Bordador,48
+lunes,Palencia,14:31:33,Ingeniero de minas,49
+sábado,Segovia,23:59:04,Sociólogo,50
+martes,Las Palmas,15:57:04,Mensajero,51
+viernes,Ávila,16:44:28,Operador de autoelevadoras,52
+miércoles,Las Palmas,13:30:52,Técnico en seguridad aeronáutica,53
+viernes,León,15:55:40,Cocinero,54
+jueves,Melilla,15:44:49,Grabador de datos,55
+sábado,Córdoba,09:11:37,"Panaderos, pasteleros y confiteros",56
+martes,Toledo,01:16:50,Modisto,57
+lunes,Tarragona,10:56:59,Historiador,58
+miércoles,Cuenca,11:52:40,Artesano,59
+jueves,Cantabria,18:01:46,Camarero de barra,60
+lunes,Madrid,23:33:07,Agente de bolsa,61
+domingo,Sevilla,22:53:35,Cartógrafo,62
+miércoles,Lugo,14:37:16,Profesional de nivel medio de medicina alternativa,63
+miércoles,Ceuta,22:13:30,Orfebre,64
+sábado,León,13:43:42,Director de servicios de tecnología de la información y las comunicaciones,65
+miércoles,Huesca,22:56:10,Peón de la construcción de edificios,66
+sábado,Valencia,14:32:57,Trabajador agropecuario de subsistencia,67
+sábado,Córdoba,08:08:25,Especialista en políticas y servicios de personal,68
+sábado,La Rioja,16:45:45,Entrenador deportivo,69
+jueves,Ciudad,01:53:12,Soplador de vidrio,70
+domingo,Valencia,19:38:48,Profesor de enseñanza secundaria,71
+sábado,Alicante,22:46:11,Sombrerero,72
+jueves,Santa Cruz de Tenerife,07:58:43,Geólogo,73
+miércoles,La Coruña,12:36:55,Curador de museos,74
+domingo,Palencia,21:44:36,Diseñador multimedia,75
+sábado,Huesca,19:30:16,Auxiliar laico de las religión,76
+viernes,Ourense,09:17:24,Técnico de radiodifusión y grabación audio visual,77
+domingo,Granada,01:46:32,Dinamitero,78
+domingo,Las Palmas,02:57:57,Árbitro deportivo,79
+martes,Las Palmas,08:08:13,Organizador de conferencias y eventos,80
+martes,Burgos,17:08:54,Técnico en ciencias físicas y químicas,81
+martes,Salamanca,14:33:31,Empleado de centro de llamadas,82
+lunes,Palencia,12:31:09,Vendedor ambulantes de productos comestibles,83
+miércoles,Granada,17:22:23,Demostrador de tiendas,84
+sábado,Ávila,23:43:41,Tenedor de libros,85
+martes,Segovia,12:14:23,Director de publicidad y relaciones públicas,86
+lunes,Granada,20:10:58,"Gerente de centros deportivos, de esparcimiento y culturales",87
+viernes,Ceuta,16:13:08,Empalmador de cables,88
+jueves,Ávila,22:24:31,Clasificador de productos,89
+lunes,Salamanca,19:07:09,Músico,90
+jueves,Cuenca,17:50:27,Desarrollador Web y multimedia,91
+martes,Huelva,14:44:24,Vendedor de quioscos y de puestos de mercado,92
+lunes,Vizcaya,04:27:59,Médico especialista,93
+lunes,Alicante,06:35:17,Locutor de televisión,94
+martes,Baleares,05:20:48,Operador de máquinas de tratamiento de pieles y cueros,95
+sábado,Badajoz,20:31:36,Operador de instalaciones para la preparación de pasta para papel y papel,96
+jueves,Santa Cruz de Tenerife,00:27:58,Programador de aplicaciones,97
+lunes,Zaragoza,19:44:49,Practicante y asistente médico,98
+sábado,Huesca,21:21:38,"Técnico en galerías de arte, museos y bibliotecas",99
+viernes,Zamora,13:10:02,Agrónomo,100
+domingo,Burgos,02:37:07,Maestro de enseñanza primaria,101
+sábado,Sevilla,02:45:24,Comerciante de tiendas,102
+jueves,Málaga,13:40:31,Técnico en ingeniería mecánica,103
+domingo,Jaén,17:20:09,Instructor en tecnologías de la información,104
+viernes,Albacete,04:31:26,Auxiliar de servicio de abordo,105
+jueves,Ceuta,00:29:43,Abogado,106
+viernes,Álava,03:18:28,Catador de alimentos y bebidas,107
+martes,Huesca,21:37:56,"Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",108
+sábado,Barcelona,10:57:01,Ayudante de cocina,109
+sábado,Almería,03:21:27,Profesional de la salud y la higiene laboral y ambiental,110
+miércoles,Albacete,15:32:41,Diseñador de interior,111
+miércoles,La Coruña,20:13:02,Matemático,112
+jueves,Albacete,11:16:04,Lavandero,113
+miércoles,Almería,09:27:57,Lingüista,114
+domingo,Zaragoza,07:51:38,Músico,115
+viernes,Girona,13:41:01,Inspector de policía,116
+sábado,Murcia,13:25:42,"Operador de máquinas pulidoras, galvanizadoras y recubridoras de metales ",117
+jueves,Castellón,11:51:09,Sociólogo,118
+miércoles,Palencia,18:13:15,Director de políticas y planificación,119
+viernes,Córdoba,16:42:02,Recepcionista de hoteles,120
+domingo,Badajoz,08:57:08,Periodista,121
+domingo,Ceuta,10:05:28,Conductor de camiones pesados,122
+martes,La Rioja,01:18:07,Oficinista general,123
+sábado,Santa Cruz de Tenerife,21:47:23,Cortador de vidrio,124
+viernes,Baleares,00:28:05,Alfarero,125
+miércoles,Lugo,00:51:14,Director de producción de piscicultura y pesca,126
+miércoles,Córdoba,23:20:38,Operador de instalaciones de refinación de petróleo y gas natural,127
+miércoles,Álava,16:23:19,Técnico agropecuario,128
+viernes,Valladolid,03:05:59,Oficial maquinistas en navegación,129
+viernes,Pontevedra,16:27:40,Técnico en operaciones de tecnología de la información y las comunicaciones,130
+sábado,Lugo,10:29:25,Telefonista,131
+lunes,Navarra,05:55:09,Peón de explotaciones ganaderas,132
+jueves,Badajoz,19:15:57,Trabajador de cuidados personales a domicilio,133
+domingo,Huelva,09:12:34,Gerente de hoteles o restaurantes,134
+martes,Segovia,21:30:18,Agente de empleo,135
+viernes,Girona,13:32:32,Personas que realizan trabajos varios,136
+sábado,Pontevedra,12:37:30,Guía de turismo,137
+jueves,Jaén,04:21:44,Policías,138
+domingo,Melilla,12:21:54,Recolector de leña,139
+lunes,Málaga,00:26:39,Recolector de dinero en aparatos de venta automática y lector de medidores,140
+lunes,Baleares,13:56:54,Delineante,141
+martes,Murcia,21:22:05,Geólogo,142
+sábado,Melilla,04:26:42,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos",143
+jueves,Guadalajara,22:12:15,Oficial maquinistas en navegación,144
+miércoles,Soria,18:43:01,Buzo,145
+martes,La Rioja,03:41:41,Profesional de nivel medio en actividades culturales y artísticas,146
+sábado,Ourense,10:27:21,Ingeniero industrial,147
+jueves,Castellón,22:16:27,Gerente de comercios al por mayor y al por menor,148
+miércoles,Ourense,22:45:55,Grabador de datos,149
+viernes,Cuenca,03:08:35,Profesional de nivel medio de medicina alternativa,150
+domingo,Cuenca,01:25:27,Cajero de banco,151
+lunes,Salamanca,12:04:35,Recolector de dinero en aparatos de venta automática y lector de medidores,152
+miércoles,Ourense,09:22:10,Profesional de partería,153
+sábado,León,22:57:10,Astrónomos,154
+viernes,Soria,12:25:09,Ayudante de cocina,155
+jueves,Alicante,17:27:13,Guía de turismo,156
+domingo,Murcia,02:03:06,Inspector de la salud laboral,157
+sábado,Soria,05:15:48,Peluqueros,158
+viernes,Madrid,01:01:55,Trabajador de cuidados personales a domicilio,159
+miércoles,Valencia,00:20:23,Supervisor de la construcción,160
+martes,Jaén,19:10:05,Médico general,161
+sábado,Zamora,23:54:43,Clasificador de desechos,162
+domingo,Santa Cruz de Tenerife,16:33:52,Dinamitero,163
+viernes,Palencia,07:32:10,Vendedor puerta a puerta,164
+sábado,Zaragoza,16:21:15,Clasificador de desechos,165
+jueves,Guipúzcoa,11:45:23,Químico,166
+martes,Cantabria,04:30:32,"Pescador, cazador, tramperos y recolector de subsistencia",167
+sábado,Ávila,06:50:02,Escribiente público,168
+martes,Castellón,18:13:09,Supervisor en ingeniería de minas,169
+jueves,Ávila,00:37:04,Recepcionista de hoteles,170
+martes,Zaragoza,04:57:04,Secretario (general),171
+sábado,Guipúzcoa,18:25:42,Ecónomo y mayordomos domésticos,172
+domingo,Cuenca,03:09:26,Operador de instalaciones de procesamiento de minerales y rocas,173
+viernes,Almería,07:21:08,Agricultor,174
+jueves,Lugo,20:34:03,Operador de instalaciones de vidriería y cerámica,175
+jueves,Ciudad,06:39:36,Director de investigación y desarrollo,176
+lunes,Álava,01:07:24,Prestamista,177
+jueves,Málaga,06:07:43,Trabajador ambulante de servicios,178
+lunes,Pontevedra,10:31:40,Empleado de servicios de correos,179
+sábado,Sevilla,23:16:28,Barnizador,180
+martes,Valladolid,13:22:37,Actuario,181
+lunes,Navarra,08:39:03,Supervisor de secretaría,182
+jueves,Cuenca,15:22:31,Inspector medioambiental y afines,183
+jueves,Segovia,00:54:30,Comerciante de tiendas,184
+jueves,Girona,13:24:32,Nutricionista,185
+jueves,Valencia,15:27:01,Operario en cemento armado y enfoscador,186
+jueves,Álava,14:53:33,Practicante y asistente médico,187
+domingo,Toledo,10:50:37,Operador de instalaciones de procesamiento de minerales y rocas,188
+viernes,Santa Cruz de Tenerife,15:13:16,Peón de la construcción de edificios,189
+viernes,Córdoba,21:12:24,Archivista,190
+viernes,Castellón,13:08:27,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos",191
+jueves,Murcia,16:20:37,Audiólogo,192
+viernes,Santa Cruz de Tenerife,00:06:20,Reponedor de estanterías,193
+martes,Baleares,09:59:26,Zoólogo,194
+sábado,Soria,07:21:21,Catador de alimentos y bebidas,195
+domingo,Cáceres,22:01:20,Fotógrafo,196
+sábado,Ávila,16:49:17,Mayordomo doméstico,197
+sábado,Teruel,22:13:28,Profesional de la publicidad y la comercialización,198
+miércoles,Salamanca,10:39:59,Operador de máquinas de tratamiento de pieles y cueros,199
+martes,Melilla,21:44:08,Profesional de ventas de tecnología de la información y las comunicaciones,200
+martes,Pontevedra,13:54:24,Educador para necesidades especiales,201
+viernes,Ciudad,17:24:24,Platero,202
+jueves,Jaén,08:45:07,Ingeniero electricista,203
+miércoles,Pontevedra,11:33:00,Instructor en tecnologías de la información,204
+miércoles,Las Palmas,04:59:46,Periodista,205
+domingo,Tarragona,20:55:31,Biólogo,206
+sábado,Ourense,11:55:49,Tramper,207
+lunes,Granada,18:37:21,Operador de máquinas de vapor y calderas,208
+sábado,Burgos,04:45:55,Personal directivo de la administración pública,209
+domingo,Córdoba,20:39:25,Técnico en ingeniería de minas y metalurgia,210
+martes,Las Palmas,12:06:25,Moldeador y machero,211
+martes,Asturias,17:54:39,Director de teatro,212
+domingo,Huelva,02:30:14,Trabajador agropecuario de subsistencia,213
+jueves,Santa Cruz de Tenerife,18:34:06,Desarrollador Web y multimedia,214
+viernes,Ceuta,01:14:04,Analista de gestión y organización,215
+lunes,Granada,12:19:01,Economista,216
+viernes,Albacete,09:12:38,Lavandero,217
+jueves,Santa Cruz de Tenerife,23:49:17,"Modelo de moda, arte y publicidad",218
+viernes,Melilla,18:32:35,Técnico agropecuario,219
+martes,Teruel,16:50:37,Zoólogo,220
+jueves,Sevilla,19:20:52,Asesor financiero y en inversiones,221
+lunes,Guadalajara,00:08:14,Tapicero,222
+domingo,Guadalajara,03:23:16,Entrevistador de encuestas,223
+viernes,Cádiz,05:15:47,Trabajador de explotaciones de acuicultura,224
+sábado,Burgos,16:29:00,Piloto de aviación,225
+lunes,La Rioja,18:41:23,Inspector de fronteras,226
+martes,Toledo,03:50:23,Laminador de vidrio,227
+martes,Palencia,19:49:45,Auxiliar de maestro,228
+sábado,Álava,21:01:37,Gestor de aduana,229
+martes,Guipúzcoa,14:05:18,Cartógrafo,230
+martes,Zamora,18:05:42,Antropólogo,231
+domingo,Vizcaya,11:03:27,Operador de instalaciones para la preparación de pasta para papel y papel,232
+lunes,Teruel,05:41:02,"Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",233
+lunes,Ourense,15:56:11,Botánico,234
+jueves,Soria,10:29:24,Repartidor,235
+jueves,Zamora,06:39:21,Vendedor puerta a puerta,236
+viernes,Valencia,17:04:16,Guardagujas,237
+jueves,Cuenca,10:47:31,Moldeador y machero,238
+martes,Ávila,05:07:17,Desarrollador de software,239
+miércoles,Guadalajara,03:50:00,Agente de empleo,240
+jueves,Burgos,15:24:57,Cocinero,241
+jueves,Ceuta,09:28:23,Agente inmobiliario,242
+miércoles,Jaén,12:16:00,Especialista en ciencias políticas,243
+martes,Guadalajara,12:14:44,Diseñador multimedia,244
+jueves,Navarra,04:08:00,Actuario,245
+viernes,Segovia,16:01:33,Profesional de medicina,246
+jueves,Burgos,12:55:27,Vendedor ambulantes (excluyendo de comida),247
+jueves,Zaragoza,21:20:35,Grabador de datos,248
+domingo,Ávila,01:44:39,Trabajador ambulante de servicios,249
+sábado,Madrid,09:03:47,Catador de bebidas,250
+jueves,Vizcaya,18:04:32,Director de teatro,251
+viernes,Castellón,10:28:01,Oficial de las fuerzas armadas,252
+jueves,La Coruña,09:35:41,Ingeniero industrial,253
+jueves,Castellón,03:19:04,Minero,254
+sábado,Cádiz,19:10:07,Agente inmobiliario,255
+sábado,Álava,10:49:06,Técnico de la Web,256
+jueves,Zamora,18:45:35,Declarante de aduana,257
+martes,Las Palmas,17:28:54,Operador de autoelevadoras,258
+viernes,Salamanca,08:41:42,"Limpiador y asistente de oficinas, hoteles y otros establecimientos",259
+sábado,Alicante,14:27:02,Cazador,260
+lunes,Jaén,06:32:51,Montador de estructuras metálicas,261
+domingo,Baleares,16:34:41,Ensamblador de equipos eléctricos,262
+miércoles,Guadalajara,04:45:24,Coreógrafo,263
+viernes,Las Palmas,15:37:07,Instructor en tecnologías de la información,264
+domingo,Teruel,19:04:18,Maestro preescolar,265
+martes,Vizcaya,11:03:09,Clasificador de desechos,266
+viernes,Vizcaya,02:49:31,Especialista en ciencias políticas,267
+domingo,Badajoz,11:41:18,Entrenador deportivo,268
+miércoles,Almería,19:34:28,Carpintero,269
+lunes,Cádiz,11:39:34,Estadístico,270
+martes,Soria,07:54:10,Revisor y cobrador de los transportes públicos,271
+martes,Zaragoza,09:59:32,Agente de servicios de seguridad social,272
+sábado,Ciudad,19:55:27,"Limpiador y asistente de oficinas, hoteles y otros establecimientos",273
+sábado,Lleida,22:56:10,Revisor y cobrador de los transportes públicos,274
+miércoles,León,11:12:05,Ingeniero civil,275
+lunes,Vizcaya,10:07:52,Botánico,276
+domingo,Lleida,06:42:33,Programador de aplicaciones,277
+martes,Ourense,10:27:23,Barrendero,278
+sábado,Ávila,22:40:27,Camarero de barra,279
+domingo,Jaén,14:09:30,Médico especialista,280
+domingo,Segovia,11:31:25,Operador de máquinas para elaborar alimentos y productos afines,281
+lunes,Barcelona,18:53:01,Urbanistas e ingenieros de tránsito,282
+viernes,Ourense,14:12:16,Contable,283
+miércoles,Baleares,07:49:33,"Operador de máquinas de embalaje, embotellamiento y etiquetado ",284
+jueves,Salamanca,19:28:22,Maleter,285
+viernes,Valladolid,11:22:48,Personal directivo de la administración pública,286
+martes,Navarra,23:40:11,Planchador manuales,287
+martes,Ourense,10:30:15,Técnico en ciencias biológicas,288
+domingo,Zamora,21:59:16,Mecánico y reparador de motores de avión,289
+jueves,León,00:34:33,Tronzador,290
+martes,Albacete,00:15:18,Especialista en formación del personal,291
+viernes,Melilla,12:21:45,Especialista en formación del personal,292
+lunes,Jaén,07:33:59,Director de servicios de educación,293
+miércoles,Salamanca,11:16:19,Profesor de idiomas,294
+domingo,La Coruña,16:05:21,Recolector de dinero en aparatos de venta automática y lector de medidores,295
+sábado,Cuenca,21:54:05,Peón de minas y canteras,296
+sábado,Salamanca,11:20:18,Director de producción agropecuaria y silvicultura,297
+miércoles,Las Palmas,06:25:02,Soldador y oxicortador,298
+martes,Asturias,02:23:35,Pintor y empapelador,299
+martes,Girona,23:09:10,Entrevistador de encuestas,300
+miércoles,Santa Cruz de Tenerife,12:21:57,Operador de máquinas para fabricar productos de material plástico,301
+lunes,Madrid,09:46:15,Maleter,302
+miércoles,Granada,17:28:45,"Operario de la conservación de frutas, legumbres y verduras",303
+sábado,Badajoz,13:12:04,Ingeniero mecánico,304
+domingo,Málaga,10:03:21,"Modelo de moda, arte y publicidad",305
+miércoles,Álava,10:36:38,Mecánico y reparador de motores de avión,306
+viernes,Toledo,19:05:56,Historiador,307
+viernes,La Rioja,00:08:57,Instructor de educación física y actividades recreativas,308
+sábado,Albacete,13:06:45,Preparador y elaborador de tabaco y sus productos,309
+miércoles,Badajoz,21:08:53,Dinamitero,310
+martes,Guipúzcoa,17:40:17,Decorador de interior,311
+lunes,Alicante,14:11:54,Guardia de protección,312
+sábado,Valladolid,08:17:08,Especialista en formación del personal,313
+jueves,Badajoz,10:46:40,Fabricante de instrumentos musicales,314
+lunes,Asturias,03:13:13,Médico especialista,315
+domingo,Sevilla,12:23:32,Conductor de vehículos y máquinas de tracción animal,316
+jueves,Castellón,13:35:30,Trabajador agrícola de subsistencia,317
+jueves,Cuenca,22:54:27,Técnico de laboratorio médico,318
+sábado,Melilla,08:21:16,Maquinista de locomotoras,319
+jueves,Santa Cruz de Tenerife,13:27:05,Tipógrafo,320
+viernes,Valladolid,13:41:51,Miembro del poder legislativo,321
+viernes,Málaga,00:38:28,Astrónomos,322
+miércoles,Vizcaya,15:36:15,Empleado de servicios de apoyo a la producción,323
+martes,Córdoba,08:00:29,Diseñador de prendas,324
+viernes,Castellón,06:13:59,Profesional de ventas de tecnología de la información y las comunicaciones,325
+domingo,Granada,17:03:08,Filósofo,326
+jueves,Toledo,09:15:47,Fontanero,327
+domingo,Girona,11:15:10,Supervisor de la construcción,328
+martes,Huelva,21:00:51,Perforador y sondista de pozos,329
+martes,Alicante,11:52:58,Reparador de bicicletas,330
+sábado,Vizcaya,03:41:00,Coreógrafo,331
+miércoles,La Rioja,12:47:10,"Redactor de carteles, pintor decorativos y grabador",332
+martes,Las Palmas,22:01:10,Ggeofísico,333
+martes,Las Palmas,22:10:22,Chapista,334
+jueves,Guipúzcoa,22:35:14,Agrimensor,335
+miércoles,Castellón,12:52:58,Urbanistas e ingenieros de tránsito,336
+sábado,Tarragona,14:08:14,Supervisor de la construcción,337
+domingo,Burgos,20:25:59,Camarero de mesa,338
+martes,Sevilla,05:42:33,Profesional de ventas técnicas y médicas,339
+jueves,Albacete,03:46:52,Controlador de tráfico aéreo,340
+viernes,Toledo,18:19:29,Sericultor,341
+domingo,Lugo,18:04:44,Asistente farmacéutico,342
+martes,Santa Cruz de Tenerife,16:05:18,Conductor de vehículos y máquinas de tracción animal,343
+lunes,Baleares,18:05:16,Peón de jardinería y horticultura,344
+martes,Castellón,07:35:07,Clasificador de productos,345
+martes,Cuenca,16:48:08,Auxiliar de maestro,346
+domingo,Burgos,21:47:15,Electrotécnico,347
+martes,Toledo,16:32:43,"Limpiador y asistente de oficinas, hoteles y otros establecimientos",348
+jueves,Navarra,00:50:48,Profesional religioso,349
+viernes,Guipúzcoa,19:32:38,Mandader,350
+lunes,Navarra,02:41:48,Cajero,351
+miércoles,Cuenca,11:28:56,Electricista de obras,352
+jueves,Sevilla,00:07:17,Conductor de vehículos accionados a pedal o a brazo,353
+jueves,Las Palmas,04:45:02,Vendedor de comidas al mostrador,354
+lunes,Castellón,21:16:37,Organizador de conferencias y eventos,355
+miércoles,Lleida,06:37:26,Director de investigación y desarrollo,356
+lunes,Valladolid,13:44:48,Tapicero,357
+miércoles,Melilla,08:53:29,Entrenador deportivo,358
+miércoles,Málaga,04:57:38,Músico,359
+domingo,Valencia,04:13:34,Agente de bolsa,360
+jueves,Cantabria,08:24:07,Recolector de leña,361
+sábado,Asturias,02:37:00,Oficinista general,362
+jueves,Vizcaya,03:04:45,Director de publicidad y relaciones públicas,363
+domingo,Valladolid,05:37:29,Clasificador de productos,364
+jueves,Soria,06:07:26,Asistente fisioterapeuta,365
+viernes,Asturias,08:16:36,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos",366
+martes,Ceuta,17:32:32,Bailarín,367
+sábado,Castellón,20:36:37,Historiador,368
+viernes,Tarragona,10:28:39,Expendedor de gasolineras,369
+sábado,Segovia,17:27:19,Focumentalista,370
+sábado,Guadalajara,07:10:25,Juez,371
+miércoles,Cáceres,14:34:40,Marinero de cubierta,372
+viernes,La Rioja,09:02:08,"Panaderos, pasteleros y confiteros",373
+sábado,Burgos,15:10:52,Profesional del trabajo social,374
+lunes,Álava,09:43:05,Técnico agropecuario,375
+martes,Málaga,19:52:46,Cartógrafo,376
+lunes,Tarragona,19:19:32,Peón de explotaciones de cultivos mixtos y ganaderos,377
+domingo,Girona,07:51:36,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos",378
+jueves,La Coruña,04:40:59,Minero,379
+viernes,Ourense,02:36:37,Grabador de piedra,380
+lunes,La Rioja,13:30:50,Agente de bolsa,381
+viernes,Ávila,05:49:58,Técnico en química industrial,382
+domingo,Ceuta,11:21:37,Suboficial de las fuerzas armadas,383
+domingo,Segovia,19:10:19,Técnico en ingeniería civil,384
+jueves,Córdoba,11:29:09,Supervisor de tiendas y almacenes,385
+sábado,Santa Cruz de Tenerife,15:45:10,Peón de explotaciones agrícolas,386
+martes,Cantabria,07:21:05,Optometrista,387
+sábado,Teruel,09:52:50,Dibujante técnico,388
+lunes,Cáceres,04:21:07,Operador de telar y otras máquinas tejedoras,389
+martes,Huelva,09:49:28,"Operador de máquinas de embalaje, embotellamiento y etiquetado ",390
+martes,Huesca,09:29:26,Vendedor ambulantes de productos comestibles,391
+miércoles,Palencia,18:43:21,Gerente de comercios al por mayor y al por menor,392
+domingo,Zaragoza,23:35:49,Peón de obras públicas y mantenimiento,393
+lunes,Valencia,23:46:31,Tramper,394
+miércoles,Guipúzcoa,04:55:44,Director de servicios de bienestar social,395
+miércoles,Las Palmas,00:07:33,Miembro del poder legislativo,396
+jueves,Almería,08:27:29,Operador de instalaciones de procesamiento de metales,397
+miércoles,Zaragoza,17:43:03,Director de cine,398
+jueves,Pontevedra,11:55:43,Astrónomos,399
+viernes,Albacete,09:24:35,Peón de la construcción de edificios,400
+domingo,Soria,11:52:45,Árbitro deportivo,401
+lunes,Ávila,00:32:28,Regulador y operador de máquinas y herramientas,402
+sábado,Asturias,05:05:16,Supervisor de tiendas y almacenes,403
+jueves,La Rioja,04:50:44,Diseñador de productos,404
+sábado,Murcia,22:07:49,Técnico agropecuario,405
+domingo,Teruel,00:29:52,Director de servicios de cuidados infantiles,406
+viernes,Cuenca,13:37:04,Director de empresas de construcción,407
+miércoles,Lugo,11:55:50,Agente de seguros,408
+jueves,Tarragona,19:24:37,Director de explotaciones de minería,409
+miércoles,Ávila,01:55:58,Empleado de control de abastecimientos e inventario,410
+jueves,Ávila,22:07:52,"Empleado de servicios estadísticos, financieros y de seguros",411
+domingo,Lugo,07:12:08,Farmacéutico,412
+domingo,La Rioja,19:38:08,Limpiador de fachadas,413
+miércoles,Valladolid,22:38:42,"Operador de incineradores, instalaciones de tratamiento de agua",414
+jueves,Santa Cruz de Tenerife,10:32:45,Psicólogo,415
+martes,León,23:41:35,Peón forestales,416
+martes,Pontevedra,11:00:37,Profesional de nivel medio de servicios estadísticos o matemáticos,417
+domingo,Huesca,09:23:45,Guardia de protección,418
+viernes,Cantabria,08:11:15,Ingeniero civil,419
+miércoles,Albacete,05:28:59,Astrónomos,420
+lunes,Navarra,09:23:54,Escritor,421
+jueves,Sevilla,13:44:18,Repartidor,422
+domingo,Guadalajara,16:19:02,Botánico,423
+domingo,Jaén,12:56:34,Operador de máquinas para fabricar productos de material plástico,424
+viernes,Toledo,19:21:16,Mandader,425
+jueves,Valladolid,22:57:48,Calderero,426
+lunes,Ciudad,23:43:24,Especialista en formación del personal,427
+viernes,Lleida,10:00:06,Operador de maquinaria agrícola y forestal móvil,428
+jueves,Segovia,12:17:04,Guardagujas,429
+domingo,Málaga,05:28:17,Tipógrafo,430
+miércoles,Badajoz,00:17:38,Archivista,431
+miércoles,Segovia,22:38:16,Director de servicios de cuidado de las personas de edad,432
+viernes,Valladolid,08:46:06,Asistente veterinario,433
+sábado,Alicante,15:56:22,Instalador y reparador de líneas eléctricas,434
+sábado,Cádiz,11:05:55,Sericultor,435
+martes,Guipúzcoa,06:42:11,Director de producción agropecuaria y silvicultura,436
+martes,Girona,15:07:45,Practicante y asistente médico,437
+viernes,Ceuta,20:03:49,Parquetero y colocador de suelos,438
+miércoles,Sevilla,07:44:09,Árbitro deportivo,439
+domingo,Vizcaya,21:15:23,Secretario jurídicos,440
+viernes,Murcia,07:10:39,Entrevistador de investigaciones de mercados,441
+viernes,Badajoz,13:37:48,Peón de explotaciones ganaderas,442
+miércoles,Navarra,21:58:22,Técnico en aparatos de diagnóstico y tratamiento médico,443
+lunes,León,19:09:53,Modisto,444
+viernes,Zaragoza,21:14:02,Cuidador de niños,445
+martes,Guadalajara,20:42:15,Operador de máquinas lavarropas,446
+miércoles,Guadalajara,07:18:54,Fontanero,447
+domingo,Málaga,16:14:17,Operador de máquinas para fabricar productos de papel,448
+jueves,Vizcaya,23:18:45,Repartidor,449
+jueves,Valencia,22:15:03,Matemático,450
+miércoles,Cantabria,04:11:47,Operador de grúas y aparatos elevadores,451
+martes,Lleida,22:40:34,Supervisor de tiendas y almacenes,452
+domingo,Cáceres,21:24:47,Demostrador de tiendas,453
+jueves,Málaga,10:28:52,Asesor de inversiones,454
+sábado,Granada,03:09:47,Calderero,455
+martes,Guadalajara,12:00:55,Repartidor,456
+sábado,Melilla,15:40:52,Carnicero,457
+viernes,Toledo,03:13:05,Administrador de bases de datos,458
+lunes,Alicante,02:35:23,Gerente de hoteles o restaurantes,459
+viernes,Albacete,03:11:16,Director de servicios de salud,460
+sábado,Madrid,23:53:30,Codificador de datos,461
+sábado,Cuenca,23:20:57,Urbanistas e ingenieros de tránsito,462
+miércoles,Córdoba,11:35:36,Operador de máquinas para fabricar productos de caucho,463
+sábado,Lleida,03:26:58,Profesional de enfermería,464
+viernes,León,12:00:49,Fabricante de instrumentos musicales,465
+domingo,Guipúzcoa,01:43:25,Técnico en ingeniería de minas y metalurgia,466
+viernes,Valencia,12:44:40,Electricista de obras,467
+martes,Córdoba,11:36:25,Urbanistas e ingenieros de tránsito,468
+viernes,Las Palmas,04:27:27,Trabajador comunitario de la salud,469
+lunes,Madrid,04:39:16,Pulidor de metales y afilador de herramientas,470
+martes,Tarragona,21:11:47,Secretario ejecutivo,471
+martes,La Coruña,00:49:39,Zoólogo,472
+lunes,Zaragoza,02:03:15,Buzo,473
+martes,Madrid,18:53:16,Técnico en ingeniería civil,474
+domingo,Zamora,11:05:53,Trabajador forestal calificado,475
+jueves,Santa Cruz de Tenerife,06:56:20,Profesional del trabajo social,476
+sábado,Valladolid,14:10:35,Conductor de camiones pesados,477
+lunes,Melilla,06:54:39,Vendedor ambulantes de productos comestibles,478
+jueves,Valencia,01:29:57,Técnico en documentación sanitaria,479
+sábado,Navarra,09:22:03,Cobrador,480
+lunes,Córdoba,17:49:42,Diseñador multimedia,481
+miércoles,Baleares,02:09:42,Técnico de telecomunicaciones,482
+lunes,Madrid,10:00:26,"Limpiador y asistente de oficinas, hoteles y otros establecimientos",483
+miércoles,Córdoba,23:55:00,Oficial de cubierta,484
+viernes,Guadalajara,10:15:39,Limpiador de fachadas,485
+miércoles,Cuenca,17:52:34,Vendedor por teléfono,486
+domingo,Salamanca,04:24:25,Tramper,487
+miércoles,Sevilla,22:02:22,Laminador de vidrio,488
+jueves,Sevilla,09:03:47,Vendedor ambulantes de productos comestibles,489
+viernes,Teruel,08:24:25,Asesor de inversiones,490
+miércoles,Ciudad,04:51:36,Policías,491
+sábado,Ávila,08:05:50,Tasador,492
+lunes,Zaragoza,14:42:29,Sociólogo,493
+domingo,Barcelona,02:45:28,Pulidor de metales y afilador de herramientas,494
+sábado,La Rioja,23:27:49,"Panaderos, pasteleros y confiteros",495
+sábado,Melilla,11:23:03,Matemático,496
+jueves,Tarragona,02:05:05,Agente de servicios de expedición de licencias y permisos,497
+viernes,Cuenca,06:41:10,Personal de pompas fúnebres y embalsamador,498
+jueves,Madrid,00:45:58,Cantante,499
+miércoles,Soria,07:54:43,Labrante,500

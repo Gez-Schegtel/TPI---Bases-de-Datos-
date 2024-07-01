@@ -48,4 +48,4 @@ with open(archivo_antecedentes_docentes, mode='w', newline='', encoding='utf-8')
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(antecedentes_docentes_data)  # Escribir los datos
 
-print(f"Se generaron {num_records} registros y se exportaron a {archivo_antecedentes_docentes}")
+print(f"{num_records} registros generados y exportados a {archivo_antecedentes_docentes}")

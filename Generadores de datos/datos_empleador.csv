@@ -1,51 +1,101 @@
 codigo_postal,provincia,localidad,departamento,numero,piso,calle,razon_social,cuit_cuil,idsv
-24009,Girona,Alicante,Cantabria,1,664,Cañada Alejandra Mayo,Ignacio Orozco Diaz S.C.P,58277545729,898
-24059,Zaragoza,Cuenca,Huelva,9,76,Avenida Ceferino Huertas,Verónica Llorens Chico S.L.,64027136899,134
-01096,Santa Cruz de Tenerife,Asturias,Lugo,5,8,Glorieta de Eva María Perea,Logística Ibéricos S.A.,55021605125,776
-03944,La Rioja,Valladolid,Castellón,8,88,Calle de Javier Cortina,Talleres Bru & Asociados S.A.U,28593953029,912
-01735,Lugo,Cáceres,Pontevedra,2,7,Plaza de Bernardita Dueñas,Cabrera & Asociados S.A.,66286569354,403
-46967,Segovia,Asturias,Cantabria,5,57,Callejón de Salomón Montes,Cortes y Acero S.Com.,23065430931,793
-09988,Soria,Teruel,Badajoz,1,91,Cañada de Clara Pozo,Olga Gonzalo Alvarez S.Com.,14753319059,26
-28456,Guipúzcoa,Cuenca,Ourense,1,12,Cañada Matías Fernández,Consultoría Vera y asociados S.A.U,94303086611,538
-34774,Valencia,Murcia,Melilla,2,69,Camino de Carmela Maldonado,Desarrollo Suárez y asociados S.A.T.,72987391638,539
-24000,Palencia,Madrid,Melilla,2,14,Acceso Flavio Blanca,Hnos Escobar S.A.,76532114713,156
-50046,Lleida,Lleida,Pontevedra,2,489,Pasaje Alejandro Gascón,Palma & Asociados S.Com.,17966124059,543
-47960,Almería,Jaén,La Coruña,3,23,Pasaje María Manuela Amo,Hermanos Calatayud S.A.,57925682974,167
-25484,Alicante,Lleida,Madrid,5,753,C. de Matilde Gimeno,Finanzas del Norte S.L.,21091793824,295
-15737,Ávila,Las Palmas,Lleida,4,115,Cuesta Ana Sierra,Puig y asociados S.A.,98339783972,810
-28985,Murcia,Castellón,Cantabria,9,993,Urbanización de Candela Casals,Restauración KT S.A.,69550736295,556
-24099,Vizcaya,Salamanca,Teruel,2,157,Cañada de Emelina Bilbao,Promociones Zamorano & Asociados S.Coop.,67010941097,431
-25629,Huesca,Huesca,Santa Cruz de Tenerife,7,46,Glorieta de Ester Campo,Compañía Ibérica S.A.D,32203420330,691
-12476,Ávila,Ceuta,Huesca,2,9,Calle de Ascensión Gómez,Figueroa y asociados S.Coop.,96860151852,180
-41719,Navarra,Álava,Cantabria,6,1,Plaza Agustín Garriga,Grupo Álamo S.C.P,81522299437,692
-33717,Valencia,Girona,Toledo,1,77,Alameda de Candela Naranjo,Tenorio y Galan S.C.P,56213507886,950
-47450,Burgos,Las Palmas,Guadalajara,9,90,Pasadizo Ambrosio Pedrosa,Infraestructuras LIV S.Coop.,78822704430,311
-20432,Zamora,Cuenca,Vizcaya,9,86,Plaza de Samuel Vives,Suministros Serra S.Coop.,19522949169,316
-05819,Zamora,Navarra,La Rioja,5,89,Pasaje Abel Somoza,Construcción Milla y asociados S.Com.,95762660660,62
-39993,La Rioja,Huesca,Badajoz,8,368,Cuesta Andrés Felipe Manrique,Supermercados WU S.L.,84535113782,831
-12502,Albacete,Granada,Guipúzcoa,6,163,C. de Porfirio Corral,Familia Castrillo S.L.N.E,92118003255,705
-48060,Huelva,Asturias,Córdoba,5,85,Pasadizo Noemí Echevarría,Finanzas DTNO S.Coop.,64970466872,578
-12632,Barcelona,La Coruña,Pontevedra,4,44,Paseo de Consuela Huguet,Hnos Amor S.L.,49904146361,196
-07126,Valencia,Huesca,Alicante,4,330,Glorieta Paco Alberto,Finanzas TQC S.Com.,91331751872,326
-19708,Segovia,Tarragona,Cádiz,3,35,Pasadizo de Rosario Adán,Familia Fuentes S.L.,90640397505,200
-45249,Murcia,Baleares,Navarra,2,44,Acceso Bruno Gibert,Hotel del Levante S.Coop.,67740233668,202
-45823,Cuenca,Alicante,Sevilla,8,12,Urbanización Sergio Rovira,Aguado & Asociados S.Coop.,58403523909,332
-39477,Sevilla,Salamanca,Madrid,7,99,Acceso Inocencio Neira,Hnos Figuerola S.Coop.,54362729412,333
-07288,Ourense,Sevilla,Córdoba,5,70,Acceso Gaspar Machado,Inversiones Bernad y asociados S.L.N.E,60784168648,975
-41813,Soria,Guadalajara,Álava,1,15,Calle de Maximiano Contreras,Farmaceútica EAAT S.Com.,75991458890,336
-45366,Lleida,La Rioja,Vizcaya,9,22,Urbanización Rolando Lastra,Familia Raya S.A.,64429907403,470
-37794,Vizcaya,Segovia,Castellón,1,7,Callejón de Sancho Terrón,Piñol y asociados S.Coop.,69155445196,471
-34281,Huelva,Ávila,Albacete,9,79,Camino Balduino Goicoechea,Tejada & Asociados S.A.U,66386325069,215
-28598,Cantabria,Guadalajara,Zaragoza,4,49,Pasadizo Joaquina Múñiz,Tecnologías Camps S.L.N.E,11043207374,86
-33636,Madrid,Cantabria,Cuenca,6,34,Via José Mari Almansa,Cañete & Asociados S.L.,58323712336,349
-19331,Granada,Almería,Cantabria,7,84,Calle de Blanca Solsona,Industrias Internacionales S.A.,53113780051,480
-08619,Ceuta,Cantabria,Almería,6,28,Alameda de Josefina Antón,Banca Privada Barriga & Asociados S.L.,46508087381,353
-22862,Asturias,Madrid,Baleares,4,2,C. de Severiano Conesa,Remedios Alegria Escrivá S.Coop.,17177726039,356
-48941,La Coruña,Alicante,Cáceres,9,93,Callejón Cristian Gracia,Desarrollo Olivares y asociados S.L.N.E,69134738271,613
-27822,Ávila,Tarragona,Ceuta,6,640,Cuesta de Ramón Francisco,Hotel Sanmiguel y asociados S.A.,59876716128,492
-48537,Cuenca,Ourense,Murcia,4,238,Callejón Maura Ramos,Soluciones MI S.L.,99321013613,374
-39978,Soria,Pontevedra,Huelva,5,97,Pasaje Berto Gras,García & Asociados S.L.,79914602991,887
-40380,Ourense,Teruel,León,7,85,Alameda de Moreno Sanz,Domingo Franch Morcillo S.Com.,66299453682,504
-51747,Málaga,Barcelona,Badajoz,7,25,C. de Andrés Felipe Alegria,Servicios QCB S.L.,46019312632,379
-47945,Guipúzcoa,Cuenca,Almería,4,80,Cuesta Bienvenida Pombo,Herberto Llorens Pérez S.Coop.,48318992762,765
-17433,Cuenca,Girona,Asturias,6,373,C. de Lupe Falcó,Desarrollo CDC S.Com.,29334620668,638
+02045,Girona,Jaén,Cáceres,9,71,Avenida de Javiera Menendez,Inversiones Báez & Asociados S.L.L.,70404829184,4
+39224,Albacete,Pontevedra,Vizcaya,4,65,Cuesta de Lucio Lillo,Tomé y Prats S.A.T.,32829515272,6
+51353,Baleares,Ceuta,Pontevedra,6,56,Urbanización Eduardo Esteve,Inmobiliaria OSBQ S.L.,98353193481,12
+15940,Las Palmas,Barcelona,Málaga,5,46,Callejón Basilio Jordá,Alimentación Gibert S.Coop.,83059518480,14
+41759,Alicante,Cádiz,Teruel,9,76,Calle Marisol Lasa,Reig y Benavent S.Com.,31391408150,16
+01492,Ávila,Cádiz,Zaragoza,7,71,Ronda Odalis Sacristán,Sobrino y Acevedo S.L.N.E,56244913686,18
+24961,Palencia,Cáceres,Almería,5,66,Avenida Juan José Barrios,Goicoechea y Ayllón S.Coop.,42322576920,22
+26215,Granada,Zamora,Navarra,6,934,Pasadizo Osvaldo Escribano,Tejada & Asociados S.L.,38063948318,25
+49279,La Rioja,Salamanca,Cádiz,1,8,Callejón Cornelio Campos,Comercial Rubio & Asociados S.A.,32381440551,26
+28868,Segovia,Jaén,Cádiz,5,3,Alameda Dulce Cordero,Minería Iberia S.Com.,70021313575,28
+28009,La Coruña,Jaén,Navarra,9,483,Rambla Bonifacio Santamaría,Soluciones Internacionales S.Coop.,88670867498,30
+40292,Jaén,La Rioja,Granada,3,56,Urbanización de Olalla Barceló,Solsona y Gracia S.A.,19645409840,32
+25096,Jaén,Guadalajara,Cáceres,9,72,Camino Graciana Cal,Familia Alvarez S.L.,24234817079,36
+51857,Lugo,Santa Cruz de Tenerife,Murcia,1,9,Rambla de Otilia Ortega,Despacho Castilla y asociados S.Com.,48993675834,40
+18443,Valencia,Murcia,Lleida,4,6,Plaza Tere Vives,Talleres del Levante S.L.N.E,44322353224,43
+24162,Ourense,Albacete,Valladolid,9,18,Avenida de Dionisia Fortuny,Hotel Costa S.C.P,94841029720,45
+35275,Burgos,Las Palmas,Huesca,8,6,Rambla Bartolomé Cañas,Ávila y Aparicio S.Coop.,64055974493,49
+05389,Cantabria,Córdoba,Valencia,8,897,Vial de Severino Salcedo,Farmaceútica Galván S.Coop.,12957650015,50
+50901,Baleares,Granada,León,8,16,Calle Yolanda Rodrigo,Compañía HEZD S.C.P,30834555487,51
+04380,Segovia,Almería,La Rioja,1,90,Calle de Estrella Ugarte,Lupita Cañizares Cánovas S.L.,41738665573,53
+38293,Baleares,Toledo,Pontevedra,7,663,Paseo Marta Cano,Familia Verdú S.A.,66654902375,54
+14275,Cáceres,Córdoba,Guadalajara,3,49,Cuesta de Manuelita Guerrero,Desarrollo IKO S.Coop.,15527097453,64
+32096,Vizcaya,Málaga,Valladolid,1,86,Cañada de Andrés Ferreras,Banca Privada OL S.A.T.,30454289524,68
+33676,Guadalajara,Albacete,Burgos,4,22,Glorieta de Ildefonso Pellicer,Comercializadora Internacionales S.Coop.,35824546933,76
+04368,Cáceres,Toledo,Ceuta,6,35,Avenida de Isaura Serrano,Asunción Alsina Calderón S.A.,59189553782,77
+32872,Cantabria,Zamora,Cantabria,5,84,Cañada Adán Verdejo,Manufacturas Fernández S.A.,28648941175,81
+36163,Álava,Barcelona,Girona,5,357,Glorieta Ruperta Rubio,Construcción Anguita S.C.P,60572688509,83
+34135,Málaga,Ourense,Pontevedra,3,75,Camino José Quesada,Compañía Posada y asociados S.Com.,44891811462,84
+04046,Vizcaya,Burgos,Baleares,4,6,Cuesta de Jose Manuel Luján,Compañía ML S.Coop.,91475161223,87
+40083,Ourense,Valencia,Málaga,6,2,Cañada Geraldo Samper,Colom & Asociados S.Coop.,66995183239,89
+46802,Almería,Alicante,Pontevedra,4,61,C. Wilfredo Fortuny,Grupo Solano S.C.P,85236894350,90
+08791,Ciudad,Granada,Navarra,1,74,Cuesta de Delfina Bilbao,Finanzas Ballester & Asociados S.L.L.,31682282640,93
+19845,Huesca,Las Palmas,Segovia,3,75,Plaza de Tere Fábregas,Distribuciones Avanzadas S.L.,44997601424,94
+36000,Lugo,Ourense,Asturias,6,75,Urbanización de Evelia Quirós,Hermanos Falcó S.A.,30633180825,98
+17164,Tarragona,Ourense,Girona,5,21,Pasaje Luz Quintana,Fábrica Española S.Coop.,66027612315,99
+37798,Barcelona,Lleida,Alicante,8,26,Cuesta de Jose Ramón Cortes,Moles y Huerta S.Coop.,84332253853,101
+46652,Granada,Cantabria,Girona,4,55,Ronda Abril Navas,Flor Falcó Arrieta S.L.,58460400292,102
+04405,Navarra,Navarra,Barcelona,4,56,Rambla de Jose Carlos Torre,Fábrica Porcel S.A.,85024521897,103
+42109,Badajoz,Ciudad,La Rioja,1,818,Acceso de Rafael Román,Familia Julián S.Com.,92241588400,108
+14864,Ávila,Sevilla,Teruel,7,340,Acceso Juan Pablo Naranjo,Logística JZD S.Coop.,32957457103,112
+42027,Navarra,Jaén,Burgos,6,76,Paseo de Ema Arroyo,Minería Españolas S.Coop.,51435638483,115
+09763,Alicante,Lleida,Lleida,4,33,Via Gabino Palomar,Tecnologías JC S.L.N.E,17176386263,120
+02979,Cáceres,Sevilla,Córdoba,2,68,Glorieta Eusebia Verdejo,Iborra y asociados S.L.,79668602072,122
+40356,Melilla,Salamanca,Alicante,9,57,Glorieta Estrella Torrent,Soluciones Terrón y asociados S.L.N.E,38529135831,124
+25256,Girona,Almería,Soria,9,449,Paseo de Nicodemo Guerra,Familia Prieto S.Com.,12352735962,129
+28382,La Coruña,Segovia,Lugo,3,28,Avenida de Ema Ferreras,Hnos Bermejo S.L.,71701316313,134
+35599,Segovia,Segovia,Ourense,2,718,Acceso Trinidad Diaz,Carmen Castelló Gual S.L.L.,98307676383,135
+18920,Alicante,Girona,Zaragoza,6,44,C. Petrona Montenegro,Dorita Alemany Rius S.L.N.E,93938243296,142
+24900,Cantabria,Guipúzcoa,Cantabria,7,59,Vial de Perlita Anaya,Téllez & Asociados S.L.,23080805614,144
+22029,Barcelona,Cádiz,Burgos,6,77,Pasaje de Candelaria Coca,Moya y Grande S.Coop.,14253231343,147
+11166,Pontevedra,Huesca,Álava,6,2,Ronda Gustavo Duarte,Farmaceútica Rojas S.A.U,12412255982,148
+24711,Tarragona,Girona,Lugo,2,14,Acceso Felipa Adadia,Valls y asociados S.L.,63674527480,149
+09558,Palencia,Asturias,Madrid,9,5,Cuesta Tamara Ponce,Instalaciones Álvaro S.L.,16771488512,158
+36377,La Rioja,Cáceres,Córdoba,7,55,Vial Agapito Miró,Industrias del Mediterráneo S.L.,67261783301,161
+35613,Ceuta,Cantabria,Cádiz,9,7,C. de Graciano Morales,Cipriano Revilla Murillo S.Com.,99691744518,163
+21039,Baleares,Santa Cruz de Tenerife,Huesca,5,72,Callejón de Jafet Llorente,Restauración Arellano S.L.N.E,73197854983,165
+29807,Ourense,Albacete,Salamanca,4,56,Calle Gabriela Talavera,Rosselló y Cifuentes S.A.,18617343754,167
+06221,Ciudad,Cantabria,Lugo,4,97,Cañada Aura Peinado,Grupo Méndez S.Coop.,26375116556,170
+13987,Navarra,Ciudad,Asturias,9,54,Cañada Sol Alfonso,Cayetano Martín Gonzalo S.L.,85810237196,174
+07431,Córdoba,Huelva,Ceuta,5,3,Camino de Claudio Rojas,Hermanos Agudo S.Coop.,49289717006,176
+14573,Cuenca,Cáceres,Ourense,6,31,Via Jose Urrutia,Gálvez y Alcázar S.L.N.E,53461653774,181
+32756,Ciudad,Las Palmas,Teruel,2,47,Glorieta Esteban Berrocal,Gaya y Landa S.L.,89970173714,182
+26937,León,Castellón,Soria,3,5,Urbanización de Encarnita Sánchez,Despacho Española S.L.,36787253027,184
+10234,Almería,Huelva,Badajoz,6,475,Avenida de Gloria Piñol,Promociones Llorente y asociados S.L.,88644662578,188
+06161,Zamora,La Coruña,Girona,1,52,Avenida Emiliano Rivas,Hector González Chico S.A.D,26934227762,189
+25284,Lleida,Cantabria,Madrid,6,12,Via Efraín Peiró,Despacho Gomez S.Coop.,97528779058,190
+06913,Teruel,Las Palmas,Ceuta,1,49,Pasaje Amaya Huerta,Soler & Asociados S.L.N.E,45656125748,192
+49327,Lleida,León,Lugo,7,67,Vial Heliodoro Palacios,Suministros Ibérica S.L.,67259389752,193
+15638,Albacete,Soria,Soria,2,28,Pasadizo de Leandro Serrano,Tecnologías del Norte S.L.L.,97145029436,198
+08444,Valencia,Córdoba,Pontevedra,6,7,Via de Gala Díez,Industrias Zamorano y asociados S.C.P,53855159110,199
+37386,Melilla,Barcelona,Cáceres,7,78,Vial de Abel Roura,Sosa y Palomo S.A.,42676297035,200
+45620,Cáceres,Palencia,Ourense,5,81,C. René Crespo,Robles y asociados S.C.P,55422315873,206
+04343,Zaragoza,Salamanca,Sevilla,7,40,Ronda Elvira Tejera,Manuela Vigil Prieto S.Com.,81831586662,207
+41888,Castellón,La Coruña,Ciudad,5,28,Glorieta Fátima Benet,Domingo y asociados S.L.,60750751597,208
+16333,Guadalajara,Pontevedra,Huesca,5,65,Urbanización Édgar Cortés,Ferrán & Asociados S.Coop.,86983214960,212
+16212,Ceuta,Huesca,Pontevedra,8,54,Pasaje de Griselda Chamorro,Inmobiliaria Españolas S.Coop.,88585052021,219
+22466,Ceuta,La Coruña,Albacete,5,25,Cañada Cebrián Fábregas,Hernando Gámez Lledó S.L.N.E,46487084408,222
+24321,Huesca,Pontevedra,Cáceres,8,458,Avenida Jose Ignacio Font,Distribuciones BS S.L.,52475309444,224
+44053,Tarragona,Badajoz,Almería,4,55,Rambla Fabricio Verdú,Instalaciones UJAD S.Coop.,13389976456,231
+02948,Melilla,Alicante,Barcelona,7,115,Paseo de Rosalinda Lara,Familia Llamas S.L.,96948937609,235
+36444,Palencia,Granada,Tarragona,3,73,Urbanización de Urbano Toledo,Familia Llanos S.L.U.,17219256205,239
+38688,Tarragona,Madrid,Lleida,5,11,Alameda de Florentina Ariza,Perales & Asociados S.L.,70670250900,243
+08215,Burgos,Sevilla,Ceuta,6,1,Camino de Onofre Folch,Navarrete & Asociados S.A.,71900567957,244
+37259,Zamora,Asturias,Madrid,7,80,Cañada Edmundo Oller,Despacho Gordillo y asociados S.L.,95703030167,248
+03179,Salamanca,Zamora,Pontevedra,4,51,Cuesta Máxima Luz,Distribuciones Ayllón y asociados S.Coop.,72980350362,249
+51390,Palencia,Valladolid,Valladolid,1,51,Callejón Manolo Blanch,Mate y asociados S.A.,65008113054,250
+49966,Jaén,Ceuta,Cantabria,8,7,Plaza de José María Urrutia,Despacho Llamas y asociados S.A.,65379992995,253
+44466,Murcia,Ceuta,Toledo,6,95,Via Leonel Gracia,Servicios Toro & Asociados S.L.,43066019242,257
+35917,Almería,Guadalajara,Badajoz,7,50,Avenida de Carmela Sosa,Sotelo y Ros S.Coop.,33256378800,261
+49586,Albacete,Madrid,Cuenca,4,13,Urbanización Cándida Cases,Ruano & Asociados S.Com.,57027827123,274
+22168,Jaén,Cantabria,La Rioja,1,270,Glorieta de Anna Mancebo,Minería WT S.A.U,43197240252,278
+12783,Zaragoza,Zaragoza,La Rioja,1,91,Cuesta de Melisa Solera,Fábrica Carro S.L.N.E,71033634241,280
+48566,Cáceres,Valladolid,Tarragona,2,53,Camino de Jose Manuel Fuentes,Hugo Torrijos Recio S.Coop.,87830413770,285
+34420,Ourense,Alicante,Zaragoza,9,36,Vial Marcelino Acosta,Ángel Romeu Medina S.Com.,73622934987,289
+13240,Segovia,Huesca,Castellón,8,8,Cuesta Elvira Osorio,Restauración Ferrero S.A.,37153151959,290
+46538,Valencia,Huelva,León,6,1,Rambla de Domingo Manzano,Hotel TAB S.L.N.E,88271475675,292
+36691,Zamora,Madrid,Madrid,5,776,Via Evaristo Valenzuela,Farmaceútica Paniagua y asociados S.L.,87222282215,301
+36065,Madrid,Segovia,Sevilla,5,9,Urbanización de Victor Tejada,Torralba y Llorens S.Coop.,40732842993,302
+21032,Segovia,Badajoz,Lugo,6,39,Cuesta Esperanza Carbonell,Arroyo y Murcia S.Coop.,29810417144,306
+43831,Córdoba,Asturias,Huesca,1,37,Avenida Mónica Alcaraz,Ávila y asociados S.Com.,11127633917,311

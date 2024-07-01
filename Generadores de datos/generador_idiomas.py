@@ -45,4 +45,4 @@ with open(archivo_idiomas, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(idiomas_data)  # Escribir los datos
 
-print(f"Se generaron {num_records} registros y se exportaron a {archivo_idiomas}")
+print(f"{num_records} registros generados y exportados a {archivo_idiomas}")

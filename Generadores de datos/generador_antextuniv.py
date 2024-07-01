@@ -44,4 +44,4 @@ with open(archivo_extension, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(extension_data)  # Escribir los datos
 
-print(f"Se generaron {num_records} registros y se exportaron a {archivo_extension}")
+print(f"{num_records} registros generados y exportados a {archivo_extension}")
