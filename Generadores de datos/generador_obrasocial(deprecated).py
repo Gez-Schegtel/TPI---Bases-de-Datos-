@@ -1,3 +1,6 @@
+"""
+¡Atención! Este código no permite generar DNI's con más de un código de obra social "idos".
+"""
 import csv
 import random
 from faker import Faker
@@ -22,19 +25,23 @@ num_records = 1500
 if len(dni_list) < num_records:
     raise ValueError("El archivo 'profesores.csv' no contiene suficientes registros de DNI.")
 
-# Seleccionar 1500 DNI al azar para la tabla Obra_Social
+# Seleccionar 50 DNI únicos para la tabla Obra_Social
 dni_list = random.sample(dni_list, num_records)
 
 # Generar datos para la tabla Obra_Social
+# ¡Atenión! No controlamos "UniquenessException" porque los registros a generar no son muchos.
 obra_social_data = []
-for dni in dni_list:
-    num_idos = random.randint(1, 3)  # Generar entre 1 y 3 IDOS por cada DNI
-    for _ in range(num_idos):
-        idos = fake.unique.random_int(min=1, max=50000)  # Generar un IDOS único
-        obra_social_data.append({
-            'dni': dni,
-            'idos': idos
-        })
+idos_set = set()  # Conjunto para asegurar unicidad de idos. Es para usar después con "zip".
+while len(idos_set) < num_records:
+    idos_set.add(fake.unique.random_int(min=1, max=1000))
+
+#idos_list = list(idos_set)  # Convertir el conjunto a lista para iterar. ¡Atención! No es necesario, podemos usar el "set" directamente.
+
+for dni, idos in zip(dni_list, idos_set):
+    obra_social_data.append({
+        'dni': dni,
+        'idos': idos
+    })
 
 # Nombre del archivo CSV para la tabla Obra_Social
 archivo_obra_social = 'obra_social.csv'
@@ -48,4 +55,4 @@ with open(archivo_obra_social, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(obra_social_data)  # Escribir los datos
 
-print(f"{len(obra_social_data)} registros generados y exportados a {archivo_obra_social}")
+print(f"{num_records} registros generados y exportados a {archivo_obra_social}")

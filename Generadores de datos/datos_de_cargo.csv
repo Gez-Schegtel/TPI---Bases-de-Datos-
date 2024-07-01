@@ -1,0 +1,51 @@
+cargo,iddj,calle,provincia,reparticion,dependencia,cumple_horarios,organismo,localidad_cargo,numero
+Limpiador de fachadas,1,Alameda Salomé Escrivá,Cáceres,Construcción EIR S.Coop.,S.Com.,Sí,Despacho Peiró S.Com.,Sevilla,787
+Director de servicios de salud,2,Callejón de Jose Francisco Pons,Jaén,Simón Anguita Hidalgo S.L.,S.A.,No,Madrigal y asociados S.L.,Madrid,329
+Operador de instalaciones para la preparación de pasta para papel y papel,3,Ronda de Esther Lucas,Cádiz,Evangelina Echevarría Quesada S.L.,S.A.D,Sí,Noa Múñiz Paz S.L.,Ceuta,343
+Reponedor de estanterías,4,Callejón de Camilo Bertrán,Castellón,Compañía CDZM S.Com.,S.A.,Sí,Balduino Alvarado Cobo S.L.N.E,Málaga,153
+Perforador y sondista de pozos,5,Paseo Lázaro Dueñas,Tarragona,Banca Privada Vilar y asociados S.Coop.,S.L.U.,No,Hermanos Grande S.L.N.E,Santa Cruz de Tenerife,396
+"Operador de máquinas de embalaje, embotellamiento y etiquetado ",6,Acceso de Susanita Toledo,Ávila,Hnos Baró S.L.,S.A.,Sí,Farmaceútica Solís S.Com.,Zaragoza,189
+Entrevistador de encuestas,7,Vial Carmela Carretero,Tarragona,Instalaciones KI S.L.,S.L.,Sí,Servicios USH S.A.,Álava,661
+Bibliotecarios,8,Cañada de Amanda Calvet,Murcia,Construcción Galvez & Asociados S.L.,S.A.,No,Hnos Matas S.L.L.,Santa Cruz de Tenerife,995
+Empleado de servicios de correos,9,Glorieta Lupe Velasco,Murcia,Cortes y Santana S.L.U.,S.L.,No,Inversiones HO S.L.,Ávila,934
+Técnico en ingeniería de minas y metalurgia,10,Cuesta de Octavia Iñiguez,Córdoba,Revilla & Asociados S.L.N.E,S.A.,Sí,Francisco Jose Echevarría Caro S.A.,Soria,732
+Marinero de cubierta,11,Ronda de Julieta Navarro,Huelva,Cárdenas & Asociados S.L.,S.Coop.,Sí,Comercial Alcalde y asociados S.A.D,Guadalajara,317
+Urbanistas e ingenieros de tránsito,12,Acceso Narcisa Montesinos,Salamanca,Talleres Espinosa y asociados S.L.N.E,S.A.,No,Andreu y Castejón S.L.,Guipúzcoa,494
+Diseñador de bases de datos,13,Cañada Alma Coloma,Lleida,Infraestructuras FX S.Com.,S.Com.,Sí,Distribuciones Alemany S.Coop.,Cantabria,330
+Soldador y oxicortador,14,Plaza Manolo Cepeda,Jaén,Teresita Marco Armengol S.A.,S.Com.,No,Hermanos Campoy S.C.P,Jaén,201
+Empleado de ventanillas de informaciones,15,Acceso Odalys Benavente,Granada,Transportes SNWC S.Com.,S.L.N.E,No,Finanzas Española S.A.,Alicante,846
+Ingeniero de minas,16,Ronda Josué Uribe,Barcelona,Garrido y Atienza S.L.L.,S.L.N.E,Sí,Finanzas Iberia S.A.,Almería,796
+Nutricionista,17,Cañada de Haydée Sanmartín,Cantabria,Restauración Reina S.A.,S.L.L.,No,Plana y Juan S.L.,Barcelona,440
+Técnico en electrónica,18,Ronda de Goyo Cortina,Salamanca,Estévez y asociados S.Com.,S.L.,Sí,Minería Avanzadas S.Coop.,Ávila,944
+Peón de explotaciones ganaderas,19,Cañada María Carmen Ferreras,Teruel,Flores y Gallardo S.Com.,S.L.,Sí,Candelas Mur Campos S.Com.,Álava,132
+Director de ventas y comercialización,20,Ronda de Carlota Saldaña,Asturias,Tecnologías Jover S.L.N.E,S.L.N.E,Sí,Banco Quintero S.L.L.,Cádiz,958
+Albañil,21,Pasaje de Dimas Osorio,Barcelona,Comercial Duarte & Asociados S.A.,S.Com.,No,Uribe y asociados S.L.U.,Guadalajara,64
+Camarero de barra,22,Acceso de Noemí Piquer,Zaragoza,Familia Márquez S.L.L.,S.L.N.E,Sí,Infraestructuras Uriarte y asociados S.A.,Ávila,65
+Controlador de instalaciones de procesamiento de productos químicos,23,Glorieta de Montserrat Flor,Ciudad,Hnos Herrera S.Com.,S.Com.,No,Grupo Guerrero S.L.U.,Zaragoza,537
+Dentista,24,Rambla Aura Peral,Alicante,Garay y asociados S.A.,S.A.U,No,Comercializadora SSJZ S.Coop.,Cádiz,958
+Montador de estructuras metálicas,25,Pasadizo de Ernesto Aguilar,León,Andres & Asociados S.C.P,S.L.,Sí,Supermercados Maldonado & Asociados S.L.,Álava,653
+"Director de empresas de abastecimiento, distribución y afines",26,Glorieta Maximiliano Téllez,Girona,Hermanos Mate S.A.,S.L.N.E,No,Murillo y Peña S.Coop.,Asturias,951
+Ingeniero industrial,27,Callejón Luis Riera,Huelva,Desarrollo del Levante S.A.,S.Coop.,Sí,Salcedo & Asociados S.Com.,La Rioja,380
+Empalmador de cables,28,Via de Desiderio Maldonado,Valladolid,Carina Malo Salvador S.Coop.,S.Coop.,No,Hnos Vidal S.Com.,Girona,963
+Diseñador de bases de datos,29,Calle de Georgina Martorell,Castellón,Comercial Soler & Asociados S.L.,S.L.,Sí,Despacho Ibérica S.A.,Melilla,473
+Técnico en seguridad aeronáutica,30,Paseo Consuela Soto,Cádiz,Construcción HV S.Coop.,S.L.L.,Sí,Eloy Guardia Núñez S.L.L.,Santa Cruz de Tenerife,969
+Cajero de banco,31,C. Patricia Palomares,Castellón,Manufacturas Maza y asociados S.Coop.,S.L.L.,No,Hermanos Rubio S.C.P,Baleares,985
+"Director de empresas de abastecimiento, distribución y afines",32,Pasadizo Omar Casas,Ávila,Ovidio Duarte Sedano S.Coop.,S.C.P,Sí,Mesa & Asociados S.L.N.E,Málaga,880
+Técnico de laboratorio médico,33,Cuesta de Ramiro Planas,Burgos,Banco SI S.L.L.,S.A.,No,Comercializadora Iberia S.Com.,Sevilla,837
+Diseñador de prendas,34,Callejón de Ruth Cerro,Zaragoza,Barral y asociados S.Com.,S.A.,Sí,Quirino Abascal Tovar S.A.,Guipúzcoa,403
+Psicólogo,35,Camino de Toribio Garay,Cádiz,Talleres Conesa S.L.U.,S.L.,No,Consultoría GHC S.L.N.E,Málaga,770
+Laminador de vidrio,36,Ronda Heraclio Cruz,Castellón,Inversiones Inteligentes S.Com.,S.L.L.,No,Familia Frutos S.Com.,Asturias,944
+Minero,37,Pasaje de Trinidad Castell,Pontevedra,Manuela Roldán Torrent S.C.P,S.L.,No,Herranz y Garriga S.A.,Cuenca,901
+Oficial de las fuerzas armadas,38,C. de Marcos Posada,Ciudad,Comercial Rojas S.Com.,S.A.,Sí,Figueras y Montenegro S.L.L.,Albacete,838
+Operador de máquinas para elaborar alimentos y productos afines,39,Cuesta de Gloria Ibáñez,Sevilla,Comercializadora IG S.L.N.E,S.Com.,Sí,Farré y Castellanos S.A.,Cáceres,656
+Locutor de televisión,40,Avenida de Inocencio Reguera,Almería,Hnos Reig S.L.U.,S.Com.,No,Uriarte y Casares S.L.,Cádiz,763
+Gestor de aduana,41,Urbanización Micaela Pellicer,Soria,Ayuso & Asociados S.L.N.E,S.L.,No,Paz y Amat S.L.,Cádiz,464
+Lavandero,42,Via de Nacho Requena,Asturias,Suministros del Levante S.A.,S.A.T.,No,Rosenda Pereira Tejero S.Coop.,Salamanca,382
+Peón de explotaciones ganaderas,43,Pasadizo Milagros Suárez,Huesca,Promociones VUUQ S.A.,S.C.P,Sí,Hotel Reig y asociados S.Coop.,Huelva,398
+Encuadernador,44,Calle Eufemia Peral,Navarra,Modesta Cepeda Castellanos S.C.P,S.Com.,No,Martina Mas Piña S.A.,Lleida,911
+Receptor de apuestas,45,Calle Julio César Perera,Burgos,Comercializadora Internacionales S.A.,S.A.,Sí,Manufacturas Girona y asociados S.Com.,Baleares,595
+Bombero,46,Paseo Malena Collado,Lugo,Ascensión Hierro Grande S.L.N.E,S.Coop.,No,Manufacturas del Mediterráneo S.A.T.,Huesca,651
+Matemático,47,Cañada de Apolinar Valls,Ciudad,Hermanos Solís S.L.,S.L.,No,Espada y Caro S.L.,Teruel,377
+Mensajero,48,Callejón de Isidora Plaza,Ceuta,Mir y Cardona S.L.N.E,S.L.,Sí,Ballester & Asociados S.A.,Baleares,63
+Adivinador,49,Vial de Ruy Medina,Pontevedra,Instalaciones Boix S.L.,S.L.N.E,No,Ferrer y asociados S.L.,Zaragoza,262
+Controlador de procesos,50,Pasaje Adriana Ferrández,Cuenca,Julio César Burgos Morillo S.L.N.E,S.A.,No,Consultoría FJRH S.L.L.,Toledo,756

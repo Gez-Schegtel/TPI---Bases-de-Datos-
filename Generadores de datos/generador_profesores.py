@@ -12,7 +12,7 @@ barrios = ['Centro', 'Norte', 'Sur', 'Este', 'Oeste', 'Barrio 1', 'Barrio 2', 'B
 # Generar datos aleatorios
 def generar_datos():
     # Intentar generar valores únicos con múltiples intentos
-    max_attempts = 10000
+    max_attempts = 100000
     for _ in range(max_attempts):
         try:
             dni = fake.unique.random_int(min=10000000, max=99999999)
@@ -59,7 +59,7 @@ cabeceras = [
 ]
 
 # Cantidad de registros a generar
-cantidad_registros = 50000
+cantidad_registros = 500000
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_csv, mode='w', newline='', encoding='utf-8') as file:

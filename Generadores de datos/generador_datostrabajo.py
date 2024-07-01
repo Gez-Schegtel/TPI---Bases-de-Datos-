@@ -16,13 +16,13 @@ with open(archivo_obra_social, mode='r', encoding='utf-8') as file:
         idos_list.append(int(row['idos']))
 
 # Número de registros a generar
-num_records = 50
+num_records = 100
 
 # Comprobar que se leyeron suficientes idos
 if len(idos_list) < num_records:
     raise ValueError("El archivo 'obra_social.csv' no contiene suficientes registros de idos.")
 
-# Seleccionar 50 DNI únicos para la tabla Obra_Social
+# Seleccionar 100  DNI únicos para la tabla Obra_Social
 idos_list = random.sample(idos_list, num_records)
 
 # Generar datos para la tabla Datos_Trabajo

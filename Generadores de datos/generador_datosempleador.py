@@ -9,7 +9,7 @@ fake = Faker('es_ES')
 archivo_seguro_vida = 'seguro_de_vida.csv'
 
 # Número de archivos a generar
-num_records = 50
+num_records = 100
 
 # Leemos los idsv del archivo 'seguro_de_vida.csv"
 idsv_set = set()

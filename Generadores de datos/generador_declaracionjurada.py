@@ -11,12 +11,15 @@ with open(archivo_profesores, mode='r', encoding='utf-8') as file:
     for row in reader:
         dni_list.append(int(row['dni']))
 
+# Número de registros a crear.
+num_records = 500
+
 # Comprobar que se leyeron suficientes DNIs
-if len(dni_list) < 50:
+if len(dni_list) < num_records:
     raise ValueError("El archivo 'profesores.csv' no contiene suficientes registros de DNI.")
 
 # Seleccionar 50 DNI únicos para la tabla Declaracion_Jurada
-dni_list = random.sample(dni_list, 50)
+dni_list = random.sample(dni_list, num_records)
 
 # Generar datos para la tabla Declaracion_Jurada
 declaracion_jurada_data = []

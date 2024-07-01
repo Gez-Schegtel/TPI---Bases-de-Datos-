@@ -237,7 +237,7 @@ CREATE TABLE Pasividades (
     iddj INT,
     desde VARCHAR(255),
     causa VARCHAR(255),
-    suspendido VARCHAR(255),
+    suspendido BOOLEAN,
     institucion_abonante VARCHAR(255),
     PRIMARY KEY (regimen, iddj),
     CONSTRAINT fk_pasividades_iddj FOREIGN KEY (iddj) REFERENCES Declaracion_Jurada(iddj) ON DELETE CASCADE ON UPDATE CASCADE
