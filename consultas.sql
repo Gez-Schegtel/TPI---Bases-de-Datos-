@@ -110,7 +110,12 @@ WHERE p.dni IN (
     WHERE DATEDIFF(CURDATE(), ap.desde) >= 3650  -- 10 años en días aproximadamente
 );
 -- 4) Listar DNI y nombre de los docentes que presentaron más de un cargo docente en las declaraciones juradas de los últimos 3 años
- 
+SELECT DISTINCT dj.dni, p.nombre, p.apellido
+FROM Declaracion_Jurada dj
+INNER JOIN Profesores p ON dj.dni = p.dni
+GROUP BY dj.dni
+HAVING COUNT(dj.iddj) > 1 AND YEAR(dj.desde) >= YEAR(CURDATE()) - 3;
+
 -- 5) Listado de docentes cuya carga horaria supera las 20 horas semanales, en función de la última declaración jurada presentada:
 SELECT p.dni
 FROM Profesores p NATURAL JOIN Declaracion_Jurada d
@@ -119,8 +124,21 @@ WHERE d.fecha = (
     FROM Carga_Horaria c
     WHERE
 )
+--EN EL EJERCICIO 5 FALTA UN ATRIBUTO PARA PODER CALCULAR LAS HORAS SEMANALES
 
 -- 6) Apellido y nombre de aquellos docentes que poseen la máxima cantidad de cargos docentes actualmente:
+SELECT p.nombre, p.apellido
+FROM Profesores p
+JOIN Declaracion_Jurada dj ON p.dni = dj.dni
+GROUP BY p.dni
+HAVING COUNT(dj.iddj) = (
+    SELECT MAX(num_cargos)
+    FROM (
+        SELECT COUNT(dj.iddj) AS num_cargos
+        FROM Declaracion_Jurada dj
+        GROUP BY dj.dni
+    ) AS max_cargos
+);
 
 -- 7) Listado de docentes solteros/as (sin esposa/o e/o hijos a cargo en la obra social):
 SELECT *
@@ -143,6 +161,16 @@ WHERE p.dni IN (
 
 
 -- 9) Informar aquellos docentes que posean alguna persona del grupo familiar a cargo en la obra social que no es beneficiario del seguro de vida obligatorio:
+SELECT p.nombre, p.apellido
+FROM Profesores p
+WHERE p.dni IN (
+    SELECT DISTINCT f.dni
+    FROM Familiar f
+    WHERE f.dni NOT IN (
+        SELECT DISTINCT sv.dni
+        FROM Seguro_de_Vida sv
+    )
+);
 
 --10) Informar la cantidad de individuos asegurados por provincia:
 

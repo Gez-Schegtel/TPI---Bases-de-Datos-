@@ -8,6 +8,7 @@ fake = Faker('es_ES')  # Usar el local de España para datos más realistas en e
 
 # Lista de barrios predefinidos (puedes modificarla según tus necesidades)
 barrios = ['Centro', 'Norte', 'Sur', 'Este', 'Oeste', 'Barrio 1', 'Barrio 2', 'Barrio 3']
+domicilios = ['Laboral', 'Personal', 'Otro']
 
 # Generar datos aleatorios
 def generar_datos():
@@ -16,7 +17,7 @@ def generar_datos():
     for _ in range(max_attempts):
         try:
             dni = fake.unique.random_int(min=10000000, max=99999999)
-            cuil = fake.unique.random_int(min=20000000000, max=29999999999)
+            cuil = fake.unique.random_int(min=20000000000, max=29000000000)
             legajo = fake.unique.random_int(min=1000, max=9999999)
             break
         except UniquenessException:
@@ -24,7 +25,7 @@ def generar_datos():
     else:
         raise Exception("No se pudieron generar valores únicos después de múltiples intentos")
 
-    tipo = random.choice(['Laboral', 'Personal', 'Otro'])
+    tipo_domicilio = random.choice(domicilios)
     fecha_nacimiento = fake.date_of_birth(minimum_age=22, maximum_age=65)
     nombre = fake.first_name()
     apellido = fake.last_name()
@@ -43,7 +44,7 @@ def generar_datos():
 
     # Devolver valores, manejando el caso del piso como cadena vacía si es None
     return (
-        dni, tipo, fecha_nacimiento, nombre, apellido, localidad, departamento, 
+        dni, tipo_domicilio, fecha_nacimiento, nombre, apellido, localidad, departamento, 
         provincia, numero, piso if piso else '', codigo_postal, calle, edad, 
         cuil, inicio_actividad, estado_civil, sexo, barrio, legajo
     )
@@ -53,7 +54,7 @@ archivo_csv = 'profesores.csv'
 
 # Cabeceras de las columnas en el archivo CSV
 cabeceras = [
-    'dni', 'tipo', 'fecha_nacimiento', 'nombre', 'apellido', 'localidad', 
+    'dni', 'tipo_domicilio', 'fecha_nacimiento', 'nombre', 'apellido', 'localidad', 
     'departamento', 'provincia', 'numero', 'piso', 'codigo_postal', 'calle', 
     'edad', 'cuil', 'inicio_actividad', 'estado_civil', 'sexo', 'barrio', 'legajo'
 ]
