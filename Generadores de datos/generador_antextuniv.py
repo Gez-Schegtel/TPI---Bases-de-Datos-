@@ -25,18 +25,23 @@ if len(dni_list) < num_records:
 # Generar datos para la tabla Antecedentes_Extension_Universitaria
 extension_data = []
 for _ in range(num_records):
+    desde_date = faker.date_between(start_date='-20y', end_date='-1y')  # Fecha desde hace 20 años hasta hace 1 año
+    hasta_date = faker.date_between(start_date=desde_date, end_date='-1d')  # Fecha hasta desde la fecha desde hasta ayer
     extension_data.append({
         'acciones': faker.catch_phrase(),
         'cargo': faker.job(),
         'dedicacion': faker.random_element(elements=('Investigación', 'Docencia', 'Gestión')),
-        'dni': random.choice(dni_list)
+        'dni': random.choice(dni_list),
+        'desde': desde_date,
+        'hasta': hasta_date,
+        'id_antecedente': faker.unique.random_int(min=1, max=1000)
     })
 
 # Nombre del archivo CSV para la tabla Antecedentes_Extension_Universitaria
 archivo_extension = 'antecedentes_extension_universitaria.csv'
 
 # Cabeceras de las columnas en el archivo CSV
-cabeceras_extension = ['acciones', 'cargo', 'dedicacion', 'dni']
+cabeceras_extension = ['acciones', 'cargo', 'dedicacion', 'dni', 'desde', 'hasta', 'id_antecedente']
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_extension, mode='w', newline='', encoding='utf-8') as file:

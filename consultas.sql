@@ -2,7 +2,7 @@
 -- Inserción de datos
 
 INSERT INTO Profesores(dni, tipo_domicilio, fecha_nacimiento, nombre, apellido, localidad, departamento, provincia, numero, piso, codigo_postal, calle, edad, cuil, inicio_actividad, estado_civil, sexo, barrio, legajo) 
-VALUES (23123125,'Particular','1987-02-12','Josefa','Miranda','Resistencia','San Fernando','Chaco',1029,'1',3500,'Perugorria',37,20231231253,'2020-03-12', 'Soltera', 'X','Barrio Itatí',45564) 
+VALUES (23123125,'Particular','1987-02-12','Josefa','Miranda','Resistencia','San Fernando','Chaco',1029,'1',3500,'Perugorría',37,20231231253,'2020-03-12', 'Soltera', 'X','Barrio Itatí',45564) 
 
 INSERT INTO Idiomas(idioma, nivel, certificacion, institucion, dni) 
 VALUES ('Inglés','B2','Oxford','Oxford',23123125)
@@ -44,10 +44,8 @@ WHERE dni IN (
     FROM Datos_Trabajo
     WHERE presta_servicio_utn = 'True'
 );
- 
 
  --Borrado de filas
-
 
 DELETE FROM Dependencia
 WHERE idos IN (
@@ -82,3 +80,73 @@ WHERE cuit_cuil = 20304050607 AND idsv NOT IN (
 
 --Consultas SELECT
 
+
+-- 1) Listado de docentes que viven en una provincia distinta de aquella en la que trabajan.
+SELECT *
+FROM Profesores p INNER JOIN Declaracion_Jurada dj ON p.dni = dj.dni INNER JOIN Datos_de_Cargo dc ON dc.iddj = dj.iddj
+WHERE p.provincia <> dc.provincia;
+
+
+-- 2) Listado de docentes que poseen títulos de posgrado y no realizan tareas de investigación
+SELECT *
+FROM Profesores p
+WHERE p.dni IN (
+    SELECT DISTINCT t.dni
+    FROM Titulos t
+    WHERE t.nivel LIKE 'Maestría' OR t.nivel LIKE 'Doctorado'
+)
+AND p.dni NOT IN (
+    SELECT DISTINCT a.dni
+    FROM Actividad_e_Investigacion a
+);
+
+--3)Informar promedio de edad de los docentes que poseen más de 10 años de antecedentes como docentes:
+
+SELECT AVG(p.edad) AS promedio_edad
+FROM Profesores p
+WHERE p.dni IN (
+    SELECT ap.dni
+    FROM Antecedentes_Docentes ap
+    WHERE DATEDIFF(CURDATE(), ap.desde) >= 3650  -- 10 años en días aproximadamente
+);
+-- 4) Listar DNI y nombre de los docentes que presentaron más de un cargo docente en las declaraciones juradas de los últimos 3 años
+ 
+-- 5) Listado de docentes cuya carga horaria supera las 20 horas semanales, en función de la última declaración jurada presentada:
+SELECT p.dni
+FROM Profesores p NATURAL JOIN Declaracion_Jurada d
+WHERE d.fecha = (
+    SELECT MAX(c.horario)
+    FROM Carga_Horaria c
+    WHERE
+)
+
+-- 6) Apellido y nombre de aquellos docentes que poseen la máxima cantidad de cargos docentes actualmente:
+
+-- 7) Listado de docentes solteros/as (sin esposa/o e/o hijos a cargo en la obra social):
+SELECT *
+FROM Profesores p
+WHERE p.dni NOT IN (
+    SELECT DISTINCT f.dni
+    FROM Familiar f
+    WHERE f.parentesco IN ('Esposa', 'Esposo', 'Hijo', 'Hija')
+);
+
+
+-- 8) Cantidad de docentes cuyos hijos a cargo son todos menores de 10 años:
+SELECT COUNT(DISTINCT p.dni) AS cantidad
+FROM Profesores p
+WHERE p.dni IN (
+    SELECT DISTINCT f.dni
+    FROM Familiar f
+    WHERE YEAR(f.fecha_nacimiento) > YEAR(CURDATE()) - 10
+);
+
+
+-- 9) Informar aquellos docentes que posean alguna persona del grupo familiar a cargo en la obra social que no es beneficiario del seguro de vida obligatorio:
+
+--10) Informar la cantidad de individuos asegurados por provincia:
+
+SELECT d.provincia, COUNT(DISTINCT sv.dni) AS cantidad_individuos
+FROM Datos_del_Empleador d
+JOIN Seguro_de_Vida sv ON d.idsv = sv.idsv
+GROUP BY d.provincia;

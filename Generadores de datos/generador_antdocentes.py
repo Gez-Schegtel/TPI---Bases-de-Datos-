@@ -28,19 +28,24 @@ if len(dni_dedicacion_list) < num_records:
 # Generar datos para la tabla Antecedentes_Docentes
 antecedentes_docentes_data = []
 for _ in range(num_records):
+    desde_date = faker.date_between(start_date='-20y', end_date='-1y') 
+    hasta_date = faker.date_between(start_date=desde_date, end_date='-1d') 
     record = random.choice(dni_dedicacion_list)
     antecedentes_docentes_data.append({
         'unidad_academica': faker.company(),
         'cargo': faker.job(),
         'dedicacion': record['dedicacion'],
-        'dni': record['dni']
+        'dni': record['dni'],
+        'desde': desde_date,
+        'hasta': hasta_date,
+        'id_antecedente': faker.unique.random_int(min=1, max=1000)
     })
 
 # Nombre del archivo CSV para la tabla Antecedentes_Docentes
 archivo_antecedentes_docentes = 'antecedentes_docentes.csv'
 
 # Cabeceras de las columnas en el archivo CSV
-cabeceras_antecedentes_docentes = ['unidad_academica', 'cargo', 'dedicacion', 'dni']
+cabeceras_antecedentes_docentes = ['unidad_academica', 'cargo', 'dedicacion', 'dni', 'desde', 'hasta', 'id_antecedente']
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_antecedentes_docentes, mode='w', newline='', encoding='utf-8') as file:

@@ -139,10 +139,11 @@ CREATE TABLE Cursos_y_Conferencias (
 
 CREATE TABLE Actividades_y_Antecedentes (
     dedicacion VARCHAR(255),
-    hasta DATE,
-    desde DATE,
     dni INT,
-    PRIMARY KEY (dedicacion, dni),
+    desde DATE,
+    hasta DATE,
+    id_antecedente INT,
+    PRIMARY KEY (id_antecedente, dni),
     CONSTRAINT fk_actividades_dni FOREIGN KEY (dni) REFERENCES Profesores(dni) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
@@ -151,8 +152,11 @@ CREATE TABLE Antecedentes_Extension_Universitaria (
     cargo VARCHAR(255),
     dedicacion VARCHAR(255),
     dni INT,
-    PRIMARY KEY (dedicacion, dni),
-    CONSTRAINT fk_extension_dedicacion FOREIGN KEY (dedicacion) REFERENCES Actividades_y_Antecedentes(dedicacion) ON DELETE CASCADE ON UPDATE CASCADE,
+    desde DATE,
+    hasta DATE,
+    id_antecedente INT,
+    PRIMARY KEY (id_antecedente, dni),
+    CONSTRAINT fk_extension_id_antecedente FOREIGN KEY (id_antecedente) REFERENCES Actividades_y_Antecedentes(id_antecedente) ON DELETE CASCADE ON UPDATE CASCADE,
     CONSTRAINT fk_extension_dni FOREIGN KEY (dni) REFERENCES Actividades_y_Antecedentes(dni) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
@@ -161,8 +165,11 @@ CREATE TABLE Actividad_e_Investigacion (
     area_principal VARCHAR(255),
     dedicacion VARCHAR(255),
     dni INT,
-    PRIMARY KEY (dedicacion, dni),
-    CONSTRAINT fk_investigacion_dedicacion FOREIGN KEY (dedicacion) REFERENCES Actividades_y_Antecedentes(dedicacion) ON DELETE CASCADE ON UPDATE CASCADE,
+    desde DATE,
+    hasta DATE,
+    id_antecedente INT,
+    PRIMARY KEY (id_antecedente, dni),
+    CONSTRAINT fk_investigacion_id_antecedente FOREIGN KEY (id_antecedente) REFERENCES Actividades_y_Antecedentes(id_antecedente) ON DELETE CASCADE ON UPDATE CASCADE,
     CONSTRAINT fk_investigacion_dni FOREIGN KEY (dni) REFERENCES Actividades_y_Antecedentes(dni) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
@@ -171,8 +178,11 @@ CREATE TABLE Antecedentes_Docentes (
     cargo VARCHAR(255),
     dedicacion VARCHAR(255),
     dni INT,
-    PRIMARY KEY (dedicacion, dni),
-    CONSTRAINT fk_docentes_dedicacion FOREIGN KEY (dedicacion) REFERENCES Actividades_y_Antecedentes(dedicacion) ON DELETE CASCADE ON UPDATE CASCADE,
+    desde DATE,
+    hasta DATE,
+    id_antecedente INT,
+    PRIMARY KEY (id_antecedente, dni),
+    CONSTRAINT fk_docentes_id_antecedente FOREIGN KEY (id_antecedente) REFERENCES Actividades_y_Antecedentes(id_antecedente) ON DELETE CASCADE ON UPDATE CASCADE,
     CONSTRAINT fk_docentes_dni FOREIGN KEY (dni) REFERENCES Actividades_y_Antecedentes(dni) ON DELETE CASCADE ON UPDATE CASCADE
 );
 

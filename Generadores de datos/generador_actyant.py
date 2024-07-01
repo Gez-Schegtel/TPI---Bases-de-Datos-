@@ -29,16 +29,17 @@ for _ in range(num_records):
     hasta_date = faker.date_between(start_date=desde_date, end_date='-1d')  # Fecha hasta desde la fecha desde hasta ayer
     actividades_data.append({
         'dedicacion': faker.random_element(elements=('Investigación', 'Docencia', 'Gestión')),
+        'dni': random.choice(dni_list),
         'desde': desde_date,
         'hasta': hasta_date,
-        'dni': random.choice(dni_list)
+        'id_antecedente': faker.unique.random_int(min=1, max=1000)
     })
 
 # Nombre del archivo CSV para la tabla Actividades_y_Antecedentes
 archivo_actividades = 'actividades_y_antecedentes.csv'
 
 # Cabeceras de las columnas en el archivo CSV
-cabeceras_actividades = ['dedicacion', 'desde', 'hasta', 'dni']
+cabeceras_actividades = ['dedicacion', 'dni', 'desde', 'hasta', 'id_antecedente']
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_actividades, mode='w', newline='', encoding='utf-8') as file:

@@ -60,27 +60,27 @@ CF: dni => Profesores(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
 -- Clase padre.
-Actividades_y_Antecedentes(dedicacion: cadena(20), hasta: fecha, desde: fecha, dni: entero)
-CP: (dedicacion, dni)
+Actividades_y_Antecedentes(dedicacion: cadena(20), dni: entero, hasta: fecha, desde: fecha, id_antecedente: entero)
+CP: (id_antecedente, dni)
 CF: dni => Profesores(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
 -- Subclase de 'Actividades_y_Antecedentes':
-Antecedentes_Extension_Universitaria(acciones: cadena(20), cargo: cadena(20), dedicacion: cadena(20), dni: entero)
-CP: (dedicacion, dni)
-CF: dedicacion => Actividades_y_Antecedentes(dedicacion) EN BORRADO CASCADA EN ACTUALIZACION CASCADA, dni => Actividades_y_Antecedentes(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
+Antecedentes_Extension_Universitaria(acciones: cadena(20), cargo: cadena(20), dedicacion: cadena(20), dni: entero, hasta: fecha, desde: fecha, id_antecedente: entero)
+CP: (id_antecedente, dni)
+CF: id_antecedente => Actividades_y_Antecedentes(id_antecedente) EN BORRADO CASCADA EN ACTUALIZACION CASCADA, dni => Actividades_y_Antecedentes(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
 -- Subclase de 'Actividades_y_Antecedentes':
-Actividad_e_Investigacion(categoria: cadena(20), area_principal: cadena(20), dedicacion: cadena(20), dni: entero)
-CP: (dedicacion, dni)
-CF: dedicacion => Actividades_y_Antecedentes(dedicacion) EN BORRADO CASCADA EN ACTUALIZACION CASCADA, dni => Actividades_y_Antecedentes(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
+Actividad_e_Investigacion(categoria: cadena(20), area_principal: cadena(20), dedicacion: cadena(20), dni: entero, hasta: fecha, desde: fecha, id_antecedente: entero)
+CP: (id_antecedente, dni)
+CF: id_antecedente => Actividades_y_Antecedentes(id_antecedente) EN BORRADO CASCADA EN ACTUALIZACION CASCADA, dni => Actividades_y_Antecedentes(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
 -- Subclase de 'Actividades_y_Antecedentes':
-Antecedentes_Docentes(unidad_academica: cadena(20), cargo: cadena(20), dedicacion: cadena(20), dni: entero)
-CP: (dedicacion, dni)
-CF: dedicacion => Actividades_y_Antecedentes(dedicacion) EN BORRADO CASCADA EN ACTUALIZACION CASCADA, dni => Actividades_y_Antecedentes(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
+Antecedentes_Docentes(unidad_academica: cadena(20), cargo: cadena(20), dedicacion: cadena(20), dni: entero, hasta: fecha, desde: fecha, id_antecedente: entero)
+CP: (id_antecedente, dni)
+CF: id_antecedente => Actividades_y_Antecedentes(id_antecedente) EN BORRADO CASCADA EN ACTUALIZACION CASCADA, dni => Actividades_y_Antecedentes(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
 Datos_del_Empleador(codigo_postal: entero(5), provincia: cadena(20), localidad: cadena(20), departamento: cadena(20), numero: entero, piso: cadena(2), calle: cadena(20), razon_social: cadena(20), cuit_cuil: entero_grande, idsv: entero)
