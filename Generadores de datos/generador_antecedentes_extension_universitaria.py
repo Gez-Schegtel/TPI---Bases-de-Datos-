@@ -31,7 +31,6 @@ for _ in range(num_records):
     desde_date = faker.date_between(start_date='-20y', end_date='-1y')  # Fecha desde hace 20 años hasta hace 1 año
     hasta_date = faker.date_between(start_date=desde_date, end_date='-1d')  # Fecha hasta desde la fecha desde hasta ayer
     antecedente = random.choice(antecedentes_list) # Acá un par del diccionario {'dni': '<número>', 'id_antecedente': '<número>'} 
-    print(antecedente)
     extension_data.append({
         'acciones': faker.catch_phrase(),
         'cargo': faker.job(),

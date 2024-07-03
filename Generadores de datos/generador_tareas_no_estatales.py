@@ -13,7 +13,7 @@ iddj_list = []
 with open(archivo_declaracion_jurada, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        iddj_list.append(int(row['iddj']))
+        iddj_list.append(row['iddj'])
 
 # Generar datos para la tabla Tareas_No_Estatales
 tareas_no_estatales_data = []

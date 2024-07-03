@@ -13,7 +13,7 @@ dni_list = []
 with open(archivo_profesores, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        dni_list.append(int(row['dni']))
+        dni_list.append(row['dni'])
 
 # Número de registros a generar
 num_records = 100

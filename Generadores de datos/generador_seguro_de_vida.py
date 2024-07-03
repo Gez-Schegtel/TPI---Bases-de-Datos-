@@ -16,7 +16,7 @@ dni_list = []
 with open(archivo_profesores, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        dni_list.append(int(row['dni']))
+        dni_list.append(row['dni'])
 
 # Comprobar que se leyeron suficientes DNIs
 if len(dni_list) < num_records:

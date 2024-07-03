@@ -1,501 +1,501 @@
 cargo,iddj,calle,provincia,reparticion,dependencia,cumple_horarios,organismo,localidad_cargo,numero
-"Operador de máquinas de embalaje, embotellamiento y etiquetado ",1,Callejón Florencio Carmona,Baleares,Alimentación del Sur S.Coop.,S.Com.,Sí,Diez y Espinosa S.L.N.E,Palencia,260
-Operador de instalaciones para la preparación de pasta para papel y papel,2,Callejón Apolinar Catalá,Huesca,Banca Privada Gelabert & Asociados S.L.,S.L.N.E,No,Comercial Integrales S.L.N.E,Toledo,547
-Moldeador y machero,3,Calle de Aitor Ávila,Lugo,Frutos & Asociados S.L.,S.A.,Sí,Mena y Ferrer S.L.L.,Navarra,402
-Empleado de biblioteca,4,Camino de Fito Pera,Huesca,Servicios Iberia S.A.,S.L.N.E,Sí,Familia Priego S.L.,Alicante,888
-Técnico en documentación sanitaria,5,Via de Rosario Carranza,Las Palmas,Talleres Inteligentes S.L.U.,S.Coop.,No,Marquez y asociados S.L.,Toledo,21
-Técnico en asistencia al usuario de tecnología de la información y las comunicaciones,6,Paseo de Melchor Mena,Albacete,Modesto Ríos Salcedo S.L.,S.Coop.,No,Alimentación Morante y asociados S.Com.,Murcia,105
-Trabajador ambulante de servicios,7,Ronda Florentina Colomer,León,Sofía Escribano Pont S.L.L.,S.L.N.E,No,López y Saez S.L.,Zamora,148
-Sombrerero,8,Pasaje Yésica Vega,Barcelona,Alcaraz & Asociados S.Com.,S.A.,Sí,Supermercados QMQF S.L.L.,Valladolid,316
-Operador de instalaciones para la preparación de pasta para papel y papel,9,Cañada de Hernán Aguiló,Vizcaya,Fábrica Globales S.A.,S.Com.,Sí,Elba Isern Ferrando S.A.,Pontevedra,301
-Administrador de bases de datos,10,Paseo de Ale Figueras,Valencia,Piñeiro & Asociados S.L.,S.A.,No,Finanzas Española S.L.,Sevilla,926
-Director de investigación y desarrollo,11,Pasadizo Maxi Solano,Navarra,Comercial Río & Asociados S.Com.,S.L.,Sí,Ildefonso Tirado Porta S.Coop.,Albacete,532
-Ingeniero medioambiental,12,C. Cornelio Caparrós,Ciudad,Restauración AFJL S.A.D,S.A.,No,Comercializadora WSFW S.A.,Navarra,686
-Entrevistador de investigaciones de mercados,13,Rambla de Candelas Montenegro,Cádiz,Hnos Baró S.L.,S.Com.,Sí,Inversiones Ibérica S.L.N.E,Zaragoza,794
-Tenedor de libros,14,Vial Pastor Garcés,Asturias,Farmaceútica MFEA S.Com.,S.Coop.,No,Dalmau y Moles S.A.,Asturias,904
-Actuario,15,Callejón de Azahara Jódar,Girona,Consultoría Heras y asociados S.Com.,S.Com.,No,Ricarda Tello Peral S.A.D,La Coruña,179
-Desarrollador Web y multimedia,16,Vial Lara Alvarez,Guipúzcoa,Soluciones PC S.A.,S.Com.,Sí,Saez & Asociados S.Com.,Cantabria,750
-Chef,17,Pasaje Alex Asensio,Girona,Grupo Mayol S.L.N.E,S.A.,Sí,Ramiro Pinedo Barrena S.A.,Zaragoza,858
-Asesor financiero y en inversiones,18,Camino Sabas Ruano,Cádiz,Comercial Costa y asociados S.Com.,S.L.,No,Inversiones Montes S.A.,Huelva,580
-Revisor y cobrador de los transportes públicos,19,Urbanización de Hugo Aguiló,Madrid,Eustaquio Iñiguez Sanmartín S.A.,S.L.L.,Sí,Ruben Seguí Torralba S.Coop.,Huelva,343
-Ayudante de ambulancia,20,Ronda Begoña Flores,Cantabria,Promociones Castell S.Coop.,S.L.,Sí,Llobet y Beltrán S.Coop.,Cuenca,341
-Profesor de formación profesional,21,Pasadizo Teresita Carreras,Ávila,Familia Moll S.A.T.,S.C.P,Sí,Despacho del Norte S.C.P,Burgos,531
-Personal de pompas fúnebres y embalsamador,22,Glorieta Édgar Guzman,Asturias,Pulido y Pulido S.A.,S.A.,Sí,Familia Osuna S.Coop.,Alicante,721
-Profesional de la publicidad y la comercialización,23,Pasadizo de Nydia Alcázar,Teruel,Arias & Asociados S.C.P,S.Com.,No,Instalaciones Franco y asociados S.Coop.,Ávila,493
-Peón de jardinería y horticultura,24,Via Hilda Baena,Madrid,Consultoría YD S.L.L.,S.A.T.,Sí,Gloria Valenciano Castillo S.Com.,León,545
-Empleado de ventanillas de informaciones,25,Ronda de Gisela Castañeda,Madrid,Fábrica KH S.L.L.,S.L.,No,Comercial Blanch S.A.,Cantabria,756
-Peón de explotaciones ganaderas,26,Rambla Osvaldo Escamilla,León,Garay y Bermejo S.L.L.,S.Coop.,Sí,Coronado y asociados S.Com.,Valencia,27
-Mecánico y reparador de motores de avión,27,Via Adriana Orozco,Palencia,Oliver y Pont S.L.,S.L.U.,No,Construcción Española S.A.,Salamanca,65
-Agente de administración tributaria,28,C. de Priscila Tejero,Huelva,Llobet & Asociados S.L.,S.Com.,Sí,Infraestructuras Santamaria S.A.,Ciudad,948
-Operador de máquinas para fabricar productos fotográficos,29,Pasaje Simón Paz,Santa Cruz de Tenerife,Comercial STP S.L.,S.L.,Sí,Luís & Asociados S.Com.,Valencia,3
-Director de políticas y planificación,30,Glorieta Calisto Lobato,Toledo,Fábrica Cañas S.A.T.,S.L.L.,No,Talleres QHB S.L.,Lleida,149
-Cajero,31,Camino de Alondra Ledesma,Ciudad,Inmobiliaria ER S.A.,S.Coop.,Sí,Carnero y asociados S.L.,Huesca,985
-Comerciante de tiendas,32,Plaza Ruben Requena,Lleida,Talleres Blanca & Asociados S.Com.,S.A.,No,María Del Carmen Feijoo Hoyos S.A.,Cáceres,517
-Operador de máquinas de movimiento de tierras,33,Pasadizo Maricela Mate,Cáceres,Comercial Medina y asociados S.Com.,S.Coop.,Sí,Bermudez y asociados S.A.,Ourense,313
-Reparador de bicicletas,34,Ronda Elena Falcó,La Coruña,Banco Segura S.L.N.E,S.Com.,Sí,Banco Internacionales S.L.N.E,Zamora,756
-Técnico en ingeniería mecánica,35,C. Encarna Prat,La Rioja,Girona y asociados S.L.,S.Coop.,Sí,Suministros Integrales S.A.,Santa Cruz de Tenerife,696
-Lavandero,36,Avenida de Lisandro Elorza,Madrid,Hermanos Buendía S.L.,S.L.N.E,No,Mendoza y Falcó S.L.L.,Las Palmas,392
-Operador de grúas y aparatos elevadores,37,Ronda Tomasa Peralta,Lleida,Asdrubal Porras Abascal S.Coop.,S.Com.,Sí,Leal & Asociados S.Com.,Madrid,434
-Antropólogo,38,Avenida de Tomasa Bermúdez,Girona,Inversiones BWN S.Coop.,S.Com.,Sí,Infraestructuras Hervás S.L.,Alicante,735
-Agente inmobiliario,39,Glorieta de Faustino Andres,Salamanca,Lorenzo y asociados S.A.,S.Com.,No,Despacho Álamo S.A.U,Barcelona,321
-Dentista,40,Calle de Mauricio Elorza,Soria,Hnos Paz S.Com.,S.L.U.,No,Consultoría Pacheco S.A.,Palencia,292
-Profesional de ventas técnicas y médicas,41,Via Hortensia Olmo,Lugo,Alimentación Expósito S.A.,S.L.L.,Sí,Acuña y Montes S.Coop.,Santa Cruz de Tenerife,751
-Cajero de banco,42,Paseo de Aitor Beltran,Álava,Hermanos Heras S.Coop.,S.Coop.,Sí,Familia Hurtado S.L.,Teruel,481
-Prestamista,43,Cuesta de Gabriel Pulido,Segovia,Inversiones Dalmau & Asociados S.Coop.,S.A.,Sí,Restauración Lluch S.A.,Girona,213
-Soldador y oxicortador,44,Glorieta Ágata Puerta,Teruel,Samuel Vilanova Cuervo S.L.,S.Coop.,No,Ros y Donaire S.L.N.E,Las Palmas,743
-Maleter,45,Cañada Adoración Olivera,León,Cuadrado & Asociados S.A.T.,S.C.P,No,Grupo Salcedo S.L.N.E,Asturias,130
-Maestro de enseñanza primaria,46,Vial Fernanda Pons,Ourense,Mateo & Asociados S.Com.,S.Com.,Sí,Téllez y Milla S.L.N.E,Granada,702
-Gerente de hoteles o restaurantes,47,Pasadizo de Débora Bernal,Toledo,Marin & Asociados S.Coop.,S.L.L.,Sí,Familia Ortega S.C.P,Córdoba,280
-Representante comercial,48,Vial de Luis Ángel Luna,Albacete,Uriarte & Asociados S.Coop.,S.Com.,Sí,Suministros Carpio S.L.L.,Teruel,115
-Personal de pompas fúnebres y embalsamador,49,Cuesta de Apolonia Calleja,Badajoz,Talleres Méndez S.Coop.,S.L.N.E,No,Rojas y asociados S.L.,Valladolid,639
-Ingeniero medioambiental,50,Vial de Francisco Javier Araujo,Las Palmas,Comercial Alemán & Asociados S.A.,S.L.,Sí,Cortes & Asociados S.Coop.,Tarragona,173
-Recolector de basura y material reciclable,51,C. Gabriel Campo,Cádiz,Inmobiliaria PCKM S.Coop.,S.A.,Sí,Octavia Medina Cuenca S.A.,Ávila,237
-Tipógrafo,52,Camino de Hilario Riera,Jaén,Vila y Ariño S.L.N.E,S.Com.,No,Félix Pinilla Quintanilla S.A.,Las Palmas,654
-Técnico de radiodifusión y grabación audio visual,53,Urbanización de Manolo Morcillo,Las Palmas,Servicios JWHD S.A.,S.A.,Sí,Promociones Viña S.Com.,Álava,881
-Mecánico y ajustador electricista,54,Calle Apolinar Saavedra,Toledo,Grupo Barba S.L.,S.A.,No,Ligia Prieto Molins S.Com.,León,662
-Mecánico-montador de instalaciones de refrigeración y climatización,55,Ronda de Leandra Cortes,Navarra,Despacho del Levante S.L.N.E,S.A.,No,Arcelia Arranz Zorrilla S.Com.,Sevilla,52
-Empleado de centro de llamadas,56,Vial de Isabel Sastre,Girona,Diéguez y Bustamante S.C.P,S.L.N.E,Sí,Hermanos Melero S.L.,Huelva,185
-Capitán decubierta,57,Plaza de Encarna Gil,Salamanca,Farmaceútica Española S.L.,S.L.,Sí,Arranz & Asociados S.Coop.,Huelva,829
-Recepcionista de hoteles,58,Paseo Yago Calvo,La Coruña,Farmaceútica KBVZ S.Com.,S.L.L.,No,Transportes Internacionales S.A.,Melilla,694
-Fabricante de instrumentos musicales,59,Camino de Fátima Barceló,Cáceres,Fuentes y asociados S.L.,S.Com.,Sí,Comercial TU S.Coop.,Álava,151
-Peluqueros,60,Acceso Anunciación Galan,Cuenca,Banco del Levante S.Coop.,S.Com.,Sí,Banca Privada QBW S.L.,Álava,867
-Sombrerero,61,Urbanización Liliana Márquez,Badajoz,Farmaceútica Ibérica S.L.L.,S.A.,Sí,Compañía Bello S.A.,Lleida,246
-Secretario ejecutivo,62,Pasaje Eli Corbacho,Sevilla,Hermanos Ros S.Coop.,S.Com.,No,Restauración IL S.Coop.,Baleares,914
-Matemático,63,Camino Xavier Puerta,Burgos,Hnos Hernandez S.A.,S.L.L.,No,Familia Casanovas S.A.,Castellón,342
-Buzo,64,Acceso Marciano Malo,Girona,Cárdenas y Villegas S.Coop.,S.Coop.,No,Avilés y asociados S.A.T.,Zamora,959
-Peón de obras públicas y mantenimiento,65,Pasadizo de Itziar Larrañaga,Sevilla,Angelino Montaña Reyes S.L.,S.A.,No,Hnos Roda S.Com.,Navarra,656
-Ayudante de cocina,66,Cuesta de Sandalio Cortes,Guadalajara,Fábrica Inteligentes S.Com.,S.L.N.E,Sí,Instalaciones Guitart & Asociados S.L.N.E,Valencia,735
-Trabajador social de nivel medio,67,Vial Tecla Haro,Málaga,Maxi Ródenas Benitez S.Com.,S.A.,No,María Girón Bauzà S.A.,Almería,631
-Barrendero,68,Alameda de Octavio Vendrell,Huelva,Hnos Linares S.C.P,S.L.N.E,No,Soluciones Porcel S.A.,Burgos,480
-Director de políticas y planificación,69,Cañada de Maribel Carrillo,Cuenca,Sandra Ribera Cuenca S.L.,S.L.,Sí,Supermercados Ferrero S.Coop.,Lugo,440
-Mecánico y reparador de motores de avión,70,Urbanización de Emiliano Enríquez,Badajoz,Consultoría Andrade S.Coop.,S.L.N.E,No,Grupo Roldán S.Coop.,Girona,918
-Director de servicios de cuidados infantiles,71,Paseo Sabas Gomis,Burgos,Transportes Iberia S.L.L.,S.L.,Sí,Talleres NLH S.A.U,Baleares,599
-Oficinista general,72,Ronda Eliseo Alcalá,Granada,Promociones Falcó S.Coop.,S.L.N.E,No,Logística Integrales S.A.,Valladolid,566
-Montador de estructuras metálicas,73,Pasadizo de Marianela Camps,Pontevedra,Chaves y asociados S.L.N.E,S.Com.,No,Nicolás & Asociados S.Com.,Tarragona,121
-Bordador,74,C. de Edelmiro Izquierdo,Zaragoza,Distribuciones HSTA S.Com.,S.L.U.,Sí,Restauración Montserrat S.L.N.E,Sevilla,805
-Revisor y cobrador de los transportes públicos,75,Rambla de Pancho Rosell,Tarragona,Comercializadora Noriega S.A.,S.A.,Sí,Familia Jordán S.L.,Ciudad,401
-"Limpiador y asistente de oficinas, hoteles y otros establecimientos",76,Avenida Loida Ugarte,León,Villaverde y Escrivá S.L.,S.Coop.,Sí,Alimentación Pedrero y asociados S.Com.,Lugo,182
-Director de recursos humanos,77,Vial de Curro Belmonte,Córdoba,Despacho Lastra S.L.,S.L.,Sí,Comercializadora Tejero S.L.L.,Cádiz,374
-Afinador de instrumentos musicales,78,Cañada Eligio Barreda,Madrid,Hnos Corominas S.A.,S.L.,Sí,Servicios Avanzadas S.A.T.,Ourense,911
-Compositor,79,Plaza Juan Antonio Rivera,Pontevedra,Hotel Lladó y asociados S.Coop.,S.L.,No,Tecnologías España S.L.,Almería,667
-Detective,80,Rambla de Morena Lerma,Teruel,Consultoría NZR S.A.,S.L.N.E,No,Alimentación Integrales S.A.,Zamora,114
-Supervisor de la construcción,81,Cañada de Amanda Benavente,Asturias,Infraestructuras Iberia S.A.,S.Com.,No,Logística PT S.Coop.,Ceuta,532
-Coreógrafo,82,Rambla Jacinta Doménech,Pontevedra,Bernat y Solana S.Coop.,S.Coop.,Sí,Banco KV S.Coop.,Baleares,457
-Ingeniero electrónico,83,Camino Clímaco Gallardo,Teruel,Familia Carreras S.L.U.,S.A.,No,María Jesús Salamanca Madrigal S.Coop.,Salamanca,912
-Operario del tratamiento de la madera,84,Alameda de Bibiana Baena,Málaga,Emilia Chamorro Tudela S.L.U.,S.C.P,Sí,Hermanos Manzanares S.L.N.E,Segovia,596
-"Operador de máquinas de embalaje, embotellamiento y etiquetado ",85,Plaza Nélida Expósito,Almería,Olivé & Asociados S.A.T.,S.Coop.,Sí,Hermanos Folch S.Com.,La Coruña,750
-Profesor de artes,86,Camino de Sonia Checa,Burgos,Hermanos Ballester S.A.,S.L.,No,Juan Francisco Benet Mendizábal S.L.N.E,Salamanca,264
-Médico especialista,87,Paseo de Arcelia Iñiguez,Jaén,Construcción Carbajo S.L.,S.A.,No,Santos Saez Aguilar S.L.U.,Córdoba,529
-Director de publicidad y relaciones públicas,88,Camino de José Antonio Blazquez,Cáceres,Farmaceútica FU S.L.N.E,S.L.L.,Sí,Tecnologías del Norte S.L.N.E,Córdoba,664
-Zoólogo,89,Callejón de Roque Guerra,Almería,Familia Redondo S.C.P,S.A.,Sí,Promociones BYT S.L.L.,Murcia,342
-Parquetero y colocador de suelos,90,Calle de Fausto Sanz,Murcia,Vargas y Galindo S.Com.,S.A.,No,Inversiones Checa y asociados S.Coop.,Toledo,390
-Entrevistador de encuestas,91,Camino Bernardita Jerez,Castellón,Domingo y asociados S.L.N.E,S.C.P,No,Instalaciones Solé & Asociados S.Coop.,Navarra,674
-Técnico en ingeniería civil,92,Vial de Lope Villalonga,Girona,Elvira Barrena Ramón S.A.,S.Coop.,No,Rocamora & Asociados S.Coop.,Almería,281
-"Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",93,Avenida María Manuela Narváez,Zaragoza,Pina & Asociados S.C.P,S.L.L.,Sí,Amalia Taboada Tello S.A.,Castellón,354
-Director de servicios de tecnología de la información y las comunicaciones,94,Cuesta Juan Bautista Laguna,Murcia,Consultoría Ibérica S.C.P,S.L.N.E,No,Servicios Española S.L.N.E,Teruel,252
-Técnico forestal,95,Via de Juan Antonio Jover,Alicante,Hermanos Ibañez S.L.,S.L.,No,Desarrollo OT S.A.,Murcia,956
-Agente de maniobras,96,Rambla de Inmaculada Diéguez,Lleida,Hnos Sevillano S.Coop.,S.L.N.E,No,Farmaceútica JWH S.A.,Ávila,872
-Bordador,97,Cuesta de Dulce Bosch,Barcelona,Virginia Flor Pozo S.Coop.,S.L.,Sí,Servicios YPA S.L.L.,Pontevedra,770
-Trabajador de cuidados personales en instituciones,98,Cuesta de Paco Santiago,Guipúzcoa,Esteve & Asociados S.Coop.,S.L.N.E,Sí,Suministros Cisneros S.Coop.,Cáceres,557
-Técnico en redes y sistemas de computadores,99,Plaza Modesto Vives,Santa Cruz de Tenerife,Oliver y Ledesma S.A.,S.A.,Sí,Banca Privada Álvaro S.C.P,Guadalajara,239
-Cocinero,100,Camino Viviana Ordóñez,Madrid,Consultoría OWC S.L.L.,S.A.,No,Consultoría Mir & Asociados S.L.,Cantabria,753
-Catador de alimentos y bebidas,101,Camino Marcos Plaza,Badajoz,Banca Privada Carballo y asociados S.L.,S.L.,No,Banco Jara S.L.,Santa Cruz de Tenerife,270
-Cocinero de comidas rápidas,102,Glorieta Carlito Martínez,Zaragoza,Hermanos Font S.L.L.,S.A.,No,Inmobiliaria Olivares & Asociados S.L.U.,Huesca,181
-Profesional de nivel medio de enfermería,103,Via de Cirino Gimenez,Madrid,Mateos y Vallejo S.L.N.E,S.L.,Sí,Finanzas Segura S.L.L.,Segovia,984
-Botánico,104,Camino Jenny Ros,Valladolid,Desarrollo Recio & Asociados S.A.,S.Coop.,No,Armas y Niño S.L.N.E,Las Palmas,246
-Profesional de la salud y la higiene laboral y ambiental,105,Callejón Martín Seguí,Álava,Jonatan Martín Lopez S.L.L.,S.A.,No,Lisandro Anglada Varela S.C.P,Murcia,176
-Dibujante técnico,106,Camino de Genoveva Taboada,León,Clarisa Andres Guitart S.L.N.E,S.L.N.E,Sí,Ramón y Llopis S.Coop.,Ourense,416
-Grabador de piedra,107,Cañada Josefa Luján,Alicante,Compañía Ribas & Asociados S.Coop.,S.Com.,Sí,Villalonga y Peña S.Coop.,La Coruña,948
-Técnico de telecomunicaciones,108,Urbanización de Heraclio Otero,Guadalajara,Banco Estrada S.Coop.,S.Coop.,Sí,Luís y Cruz S.L.,Toledo,106
-Modisto,109,Cañada María Ángeles Canet,Baleares,Gilabert y Solera S.Coop.,S.L.,Sí,Alimentación Lozano S.Com.,Teruel,813
-Profesional de medicina alternativa,110,Pasaje de Raimundo Pujol,Navarra,Mas y Galindo S.Com.,S.Coop.,No,Hermanos Gual S.A.,Soria,504
-Personas que realizan trabajos varios,111,Paseo de Ileana Barral,Navarra,Perez & Asociados S.Com.,S.A.,No,Banca Privada LCEW S.A.,Cádiz,66
-Tasador,112,C. de Luis Ángel Gonzalo,Granada,Grupo Landa S.L.,S.L.N.E,No,Inmobiliaria Benavent y asociados S.L.L.,La Rioja,724
-Policías,113,Camino Joaquín Aller,Lugo,Rosa Leon Goñi S.A.,S.Coop.,No,Hotel Lorenzo S.L.,Segovia,942
-Asistente de venta,114,Alameda Simón Sanabria,Cuenca,Distribuciones Rivas S.L.,S.Coop.,No,Alimentación Nicolás & Asociados S.L.N.E,Málaga,482
-Técnico en química industrial,115,Camino Malena Duarte,Guadalajara,Inmobiliaria IIYT S.L.L.,S.A.,Sí,Farmaceútica AZO S.L.,Asturias,513
-Pescador de agua dulce y en aguas costeras,116,Camino Fernanda Coloma,Vizcaya,Ruperta Anaya Company S.L.N.E,S.Coop.,No,Farmaceútica Sedano & Asociados S.A.,Málaga,54
-"Limpiador y asistente de oficinas, hoteles y otros establecimientos",117,Acceso Lino Rueda,Murcia,Despacho Internacionales S.C.P,S.C.P,Sí,Supermercados QBSE S.Com.,Valencia,821
-Astrólogo,118,Glorieta Haroldo Bravo,Guadalajara,Andrade y asociados S.C.P,S.C.P,No,Comercializadora Puerta S.L.,Melilla,437
-Profesional de medicina alternativa,119,Cuesta de Nando Sanmartín,Cuenca,Minería Cazorla y asociados S.Coop.,S.L.L.,Sí,Huertas y asociados S.A.,Guipúzcoa,723
-Prestamista,120,Via Rosa María Criado,Salamanca,Rosselló y Vera S.L.L.,S.Coop.,No,Inmobiliaria Montesinos S.Coop.,Lleida,105
-Agente de seguros,121,Via de Bernardino Boix,Alicante,Mena & Asociados S.A.,S.Coop.,Sí,Soluciones Perera S.A.,León,353
-Profesional de nivel medio de enfermería,122,Pasadizo de Chuy Coloma,Huesca,Joaquina Méndez Araujo S.A.,S.A.,No,Reinaldo Cobo Piquer S.Com.,Guipúzcoa,880
-Conductor de camiones pesados,123,Rambla de Geraldo Bernad,Lleida,Soluciones Villena S.Coop.,S.Com.,Sí,Soluciones Ibéricos S.L.,Cantabria,169
-Director de explotaciones de minería,124,Cañada Tatiana Acevedo,Badajoz,Familia Rodríguez S.Coop.,S.Coop.,Sí,Hipólito Sureda Salgado S.A.,Santa Cruz de Tenerife,235
-Técnico de laboratorio médico,125,Rambla de Javier Saez,Sevilla,Gámez y asociados S.Com.,S.Com.,Sí,Alimentación Piñol y asociados S.L.,Segovia,395
-Encuadernador,126,Rambla de Emelina Barreda,Santa Cruz de Tenerife,Hotel DC S.A.,S.L.,No,Banca Privada Palma S.A.,Guadalajara,81
-Profesional de la salud y la higiene laboral y ambiental,127,Avenida de Eliseo Aramburu,Almería,Fábrica Sosa S.L.L.,S.L.,No,Montoya y asociados S.L.,Toledo,164
-Instructor en tecnologías de la información,128,Vial de Ruben Cal,Sevilla,Grupo Rebollo S.L.,S.Coop.,No,Construcción USIB S.L.N.E,Alicante,55
-Economista,129,Rambla Silvio Ortega,Lleida,Banca Privada del Sur S.Com.,S.C.P,No,Farmaceútica Gimenez S.Coop.,Valencia,335
-Actor,130,Callejón de Cristian Corral,Burgos,Hermanos Corominas S.Coop.,S.L.L.,No,Piña y Cerdán S.L.N.E,Las Palmas,795
-Practicante y asistente médico,131,Camino Sol Almazán,Albacete,Manuel & Asociados S.Coop.,S.Coop.,Sí,Infraestructuras Caro y asociados S.A.,Burgos,651
-Educador para necesidades especiales,132,Callejón de Sol Marco,Palencia,Elorza & Asociados S.L.,S.L.,No,Ariel Pedrero Amador S.L.L.,Jaén,816
-Camarero de mesa,133,Urbanización Lope Menéndez,Navarra,Finanzas Inteligentes S.L.N.E,S.A.,Sí,Samu Esteban Villaverde S.Coop.,Badajoz,715
-Apicultor,134,Ronda Elisabet Trillo,Cádiz,Familia Criado S.Coop.,S.A.T.,No,Supermercados Villalobos y asociados S.L.,Valencia,205
-Ingeniero químico,135,Glorieta de David Sevillano,La Rioja,Desarrollo Avanzadas S.Coop.,S.L.,Sí,Soluciones Guardiola S.L.N.E,Alicante,542
-Desarrollador Web y multimedia,136,Paseo de Blas Tamarit,Ávila,Logística Godoy y asociados S.L.,S.L.N.E,Sí,Servicios VQ S.A.,Pontevedra,57
-Vendedor ambulantes de productos comestibles,137,Cuesta de Noemí Arco,Málaga,Infraestructuras Bautista & Asociados S.L.,S.Com.,No,Figuerola y asociados S.L.,Barcelona,327
-Conductor de autobús,138,C. de Aitana Bermudez,Tarragona,Fábrica Avanzadas S.A.,S.A.U,No,Inversiones QY S.L.,Córdoba,577
-Desarrollador Web y multimedia,139,Callejón de Abraham Pombo,Valladolid,Despacho Contreras & Asociados S.Com.,S.Coop.,Sí,Farmaceútica Sans y asociados S.A.T.,Ourense,127
-Peón de obras públicas y mantenimiento,140,Urbanización de Silvestre Martí,Córdoba,Banco Alvarado & Asociados S.A.,S.A.,No,Fábrica ZY S.L.N.E,Tarragona,285
-Gorjadore,141,Ronda de Mariano Rivero,Lugo,Instalaciones Bueno & Asociados S.Coop.,S.A.,No,Desarrollo Ibérica S.A.,Zaragoza,145
-Profesor de artes,142,Plaza de Trinidad Planas,Jaén,Morillo y asociados S.L.,S.L.,Sí,Despacho Pardo y asociados S.Com.,Cádiz,887
-Auxiliar laico de las religión,143,Paseo Eusebia Castro,Vizcaya,Familia Barranco S.A.,S.Coop.,Sí,Farmaceútica Globales S.Com.,Melilla,888
-Guardián de prisión,144,Pasaje Bonifacio Samper,Ciudad,Jafet Tomas Bayona S.Coop.,S.L.N.E,Sí,Despacho Carmona & Asociados S.A.,Ourense,398
-Director de servicios de cuidados infantiles,145,Plaza Paulino Velasco,Palencia,Familia Morera S.Coop.,S.L.,No,Consultoría AUHQ S.Coop.,Guadalajara,902
-Limpiador de fachadas,146,Avenida Federico Ibañez,La Rioja,Piñol y asociados S.L.,S.Com.,No,Comercializadora Villegas S.A.,Teruel,620
-Trabajador agropecuario de subsistencia,147,Via de Marino Esteve,Lleida,Instalaciones Calleja y asociados S.L.,S.L.U.,No,Distribuciones Españolas S.L.L.,Navarra,430
-Agente de compras,148,Vial de Begoña Gabaldón,Valencia,Bolaños y Villegas S.L.N.E,S.L.,No,Jerez & Asociados S.L.U.,Teruel,624
-Soplador de vidrio,149,Pasadizo Clementina Llabrés,Álava,María Franco Uribe S.Com.,S.Coop.,Sí,Hermanos Andrés S.Coop.,Lugo,605
-Desarrollador Web y multimedia,150,Avenida Soledad Badía,Vizcaya,Farmaceútica Españolas S.A.,S.Coop.,No,Manufacturas Canales S.L.L.,La Rioja,173
-Profesional de partería,151,Rambla de Ismael Nuñez,Badajoz,Banca Privada Castellana S.A.,S.Com.,No,Grupo Orozco S.A.,Guadalajara,633
-Maestro de enseñanza primaria,152,Cuesta de Clementina Ros,Salamanca,Promociones Integrales S.A.,S.L.,No,Banco Quintero & Asociados S.A.,Zaragoza,782
-Conductor de tranvía,153,Acceso Lucho Botella,Jaén,Roura y Alfonso S.Com.,S.L.,No,Hnos Luís S.A.,Segovia,668
-Mecánico-montador de instalaciones de refrigeración y climatización,154,Callejón de Miguel Ángel Jaén,Vizcaya,Servicios AH S.Com.,S.A.,No,Comercial Castellana S.L.N.E,Zamora,643
-Operador de instalaciones de producción de energía,155,Pasaje Nydia Rovira,Cáceres,Leoncio Crespi Canals S.L.N.E,S.Com.,Sí,Calvo y Castells S.L.N.E,Navarra,217
-Herrero,156,Rambla Dorotea Araujo,Lugo,Industrias PKI S.C.P,S.L.,Sí,Paulino Pineda Romero S.Com.,Palencia,912
-Expendedor de gasolineras,157,Via de Amelia Marti,Valladolid,Familia Monreal S.L.,S.L.,No,Garrido y asociados S.Com.,Cantabria,401
-Vendedor ambulantes de productos comestibles,158,C. Jenny Seco,Barcelona,María Manuela Ríos Luque S.L.L.,S.Com.,Sí,Suministros XR S.A.,Málaga,63
-Asistente farmacéutico,159,Cañada Modesto Sierra,Palencia,Industrias OOU S.A.D,S.L.,Sí,Nieto & Asociados S.L.N.E,Murcia,27
-Fontanero,160,Urbanización de Odalis Gabaldón,Álava,Tecnologías NI S.A.,S.Com.,Sí,Manufacturas Seco & Asociados S.L.N.E,Zamora,146
-Agente de aduanas,161,Ronda Violeta Sotelo,La Coruña,Cuesta y Fabregat S.L.,S.L.N.E,No,Hnos Viña S.Coop.,Girona,464
-Guardia de protección,162,Pasaje de Natalio Borja,Jaén,Inmobiliaria Cortina y asociados S.Coop.,S.L.,No,Compañía Iberia S.A.T.,Lleida,279
-Peón de explotaciones agrícolas,163,Avenida de Leyre Camacho,Vizcaya,Familia Tejero S.L.,S.L.N.E,No,Transportes del Sur S.A.,Burgos,885
-Aparejador,164,C. Rogelio Morante,Valladolid,Azcona y asociados S.L.N.E,S.L.N.E,Sí,Alvarado y asociados S.A.,Madrid,135
-Diseñador multimedia,165,Calle de David Arnau,Toledo,Familia Luna S.Com.,S.L.L.,No,Familia Santamaría S.A.,Palencia,483
-Maleter,166,Rambla de Iván Bello,Cuenca,Logística del Levante S.Com.,S.L.,Sí,Banco Jara S.A.,Cádiz,376
-Locutor de televisión,167,Acceso de Baudelio Barragán,Castellón,Violeta Arjona Serna S.L.,S.A.T.,No,Supermercados Querol y asociados S.L.N.E,Huelva,47
-Contable,168,C. de Benjamín Peñalver,Palencia,Talleres Prieto S.L.N.E,S.Com.,No,Familia Amorós S.Com.,Lleida,852
-Joyero,169,Plaza Manola Tejero,Pontevedra,Logística Mayoral & Asociados S.Coop.,S.A.,Sí,Casado & Asociados S.Coop.,Las Palmas,48
-Conductor de autobús,170,Camino Ariel Plana,Baleares,Familia Benavides S.Coop.,S.Com.,No,Servicios Velasco S.Com.,Toledo,286
-Chef,171,Vial Aristides Oliva,Lleida,Desarrollo Ávila S.A.U,S.L.N.E,No,Rojas & Asociados S.A.,Málaga,721
-Operador de máquinas de movimiento de tierras,172,Alameda Heraclio Luna,Las Palmas,Farmaceútica Chico S.Com.,S.A.,No,Restauración Coloma & Asociados S.A.,Barcelona,798
-Director de políticas y planificación,173,Pasadizo de Amor Donaire,Huelva,Restauración Alvarez S.L.,S.A.U,Sí,Banco IF S.Coop.,Ávila,883
-Audiólogo,174,Ronda de Aroa Hoyos,Ourense,Valcárcel y Cases S.Com.,S.L.N.E,No,Amores & Asociados S.A.,La Coruña,259
-Carnicero,175,Paseo Clímaco Jódar,Valladolid,Román & Asociados S.Com.,S.L.N.E,Sí,Construcción del Noroeste S.A.,Cádiz,984
-Detective,176,Pasaje Amor Flor,Cuenca,Aliaga & Asociados S.L.,S.L.,No,Juan Antonio Espejo Lumbreras S.L.L.,Albacete,214
-Instructor de educación física y actividades recreativas,177,Pasaje de Ceferino Escolano,Castellón,Soluciones Benet y asociados S.L.,S.A.,No,Inmobiliaria del Norte S.Com.,Ávila,500
-Supervisor de la construcción,178,Camino Quirino Benavides,Pontevedra,Hotel AI S.L.N.E,S.Coop.,Sí,Promociones AS S.L.N.E,Toledo,641
-Geólogo,179,Alameda Áurea López,Cuenca,Transportes Piquer & Asociados S.Coop.,S.A.,No,Castillo y Comas S.Com.,Salamanca,767
-Personal directivo de la administración pública,180,Plaza de Elba Hernandez,Las Palmas,Distribuciones Botella y asociados S.Com.,S.Coop.,Sí,Juanito Lledó Vidal S.Coop.,León,28
-"Director de empresas de abastecimiento, distribución y afines",181,Plaza Mirta Segarra,Navarra,Supermercados Castellana S.C.P,S.L.N.E,Sí,Ágata Canet Barrena S.Coop.,Cádiz,130
-Técnico en aparatos de diagnóstico y tratamiento médico,182,Calle de Irene Viana,Jaén,Promociones LHFI S.L.,S.A.,No,Hermanos Coll S.L.,Baleares,78
-Guardián de prisión,183,Plaza Jenny Baquero,Madrid,Instalaciones Céspedes & Asociados S.Coop.,S.Com.,No,Servicios Almagro S.Com.,Tarragona,321
-Profesional de nivel medio de medicina tradicional y alternativa,184,Urbanización Fermín Adadia,Álava,Pina y Martí S.Coop.,S.L.N.E,Sí,Comercial Ribes & Asociados S.L.N.E,Ceuta,838
-Profesional de la publicidad y la comercialización,185,Paseo de Jose Ignacio Ballesteros,Toledo,Comercial Integrales S.L.,S.L.N.E,Sí,Consultoría Pellicer & Asociados S.L.N.E,Badajoz,328
-"Operador de máquinas pulidoras, galvanizadoras y recubridoras de metales ",186,Pasaje de América Tejero,Las Palmas,Alimentación WN S.Coop.,S.L.,Sí,Suministros Losa S.A.,Asturias,975
-Ensamblador de equipos electrónicos,187,Glorieta de Aristides Tejada,Pontevedra,Restauración Internacionales S.L.,S.Coop.,Sí,Lago y Barberá S.Coop.,Huesca,231
-Técnico en ingeniería mecánica,188,Acceso de Marcia Losa,Jaén,Supermercados Ricart y asociados S.L.U.,S.A.,Sí,Construcción Ayala y asociados S.Com.,Cádiz,101
-Preparador y elaborador de tabaco y sus productos,189,Urbanización de Fabiana Romeu,Sevilla,Paredes & Asociados S.C.P,S.A.T.,Sí,Transportes RI S.A.,Tarragona,459
-Ayudante de cámara,190,Avenida de Flor Martin,La Coruña,Transportes Niño y asociados S.L.N.E,S.Coop.,No,Aroca y Jaén S.Coop.,Teruel,934
-Trabajador pecuario de subsistencia,191,Plaza Nicodemo Valderrama,La Rioja,Construcción Llorente & Asociados S.Coop.,S.A.,Sí,Despacho Oliver & Asociados S.L.N.E,Tarragona,752
-Meteorólogo,192,Cañada de Cayetano Redondo,Toledo,Esteve y Marqués S.A.,S.A.,No,Despacho Solsona & Asociados S.Coop.,Madrid,3
-Técnico en química industrial,193,Avenida Vinicio Alcántara,Cuenca,Tecnologías Montaña y asociados S.L.N.E,S.L.,No,Cruz Ureña Fajardo S.A.,Valladolid,500
-Técnico en redes y sistemas de computadores,194,Pasaje Gabino Valle,Málaga,Alimentación SK S.C.P,S.Com.,Sí,Grupo Valcárcel S.L.,Murcia,517
-Chapista,195,Plaza Silvia Carretero,Valladolid,Industrias Andrade & Asociados S.Com.,S.A.,Sí,Finanzas Palomo y asociados S.A.,Murcia,316
-Peón de obras públicas y mantenimiento,196,Alameda Wilfredo Pou,Lleida,Reyna Albero Feliu S.A.,S.L.,Sí,Hnos Sarabia S.Coop.,Ciudad,931
-Tenedor de libros,197,Ronda de Edgardo Fuster,Toledo,Malo y asociados S.A.,S.A.,Sí,Hermanos Márquez S.L.L.,Álava,390
-Miembro del poder legislativo,198,Calle de Raimundo Avilés,Palencia,Duarte y Andreu S.A.U,S.A.,Sí,Marín y asociados S.A.D,Ceuta,80
-Empleado encargado de las nóminas,199,Callejón de Olegario Frías,Valencia,Manufacturas Grau S.Coop.,S.L.,No,Consultoría Feliu S.Coop.,Pontevedra,150
-Supervisor de secretaría,200,Cuesta Feliciana Lorenzo,Sevilla,Barrena y Luís S.Com.,S.L.,Sí,Promociones Villalobos y asociados S.Coop.,Lleida,568
-Zoólogo,201,Plaza Andrés Felipe Vicente,Guadalajara,Compañía del Mediterráneo S.L.L.,S.A.,Sí,Hnos Porras S.L.,Huesca,333
-Mecánico y reparador de instrumentos de precisión,202,Via de Guadalupe Llamas,Guipúzcoa,Inversiones Gonzalo S.L.N.E,S.A.,No,Graciela Estevez Pareja S.L.,Santa Cruz de Tenerife,532
-Oficinista general,203,Cuesta de Plinio Noguera,Murcia,Banca Privada Pagès & Asociados S.Com.,S.Com.,Sí,Banca Privada Carbajo & Asociados S.L.,Valencia,757
-Profesional de nivel medio de servicios estadísticos o matemáticos,204,Alameda David Tomas,Cuenca,Servicios YQ S.L.L.,S.A.,No,Consultoría Ibérica S.L.L.,La Rioja,103
-Guardián de prisión,205,C. Juliana Sobrino,Granada,Gelabert y Bernat S.L.,S.A.,Sí,Industrias Avanzadas S.Com.,Segovia,220
-Asistente farmacéutico,206,Pasadizo Chucho Canales,Guadalajara,Montoya y Verdejo S.L.U.,S.Coop.,No,Banco Samper y asociados S.Com.,Segovia,606
-Techador,207,Via Sarita Gelabert,Ávila,Comercial del Mediterráneo S.L.N.E,S.L.N.E,No,Hnos Jove S.C.P,Huesca,506
-Oficial de las fuerzas armadas,208,C. de Angélica Gallart,Palencia,Cabrero y Mayo S.L.,S.L.,No,Hermanos Arenas S.Com.,Lugo,658
-Operador de máquinas de vapor y calderas,209,Alameda Teófilo Esteban,Córdoba,Inmobiliaria Aller y asociados S.Com.,S.Coop.,Sí,Distribuciones Romeu y asociados S.Com.,Álava,730
-Comerciante de tiendas,210,C. de Vito Gutierrez,Albacete,Compañía Batalla & Asociados S.L.,S.Com.,Sí,Hotel LF S.L.N.E,Ourense,714
-Diseñador de prendas,211,Cañada Ismael Costa,Cádiz,Tristán Valentín Capdevila S.A.,S.L.L.,No,Tecnologías Crespo S.L.,Murcia,613
-Diseñador de bases de datos,212,Vial de Paloma Ortega,Ciudad,Checa y asociados S.Coop.,S.L.,Sí,Comercial TR S.L.N.E,Sevilla,385
-Cajero,213,Cañada Jacinto Capdevila,Badajoz,Suministros Agullo S.Coop.,S.A.,No,Buenaventura Larrea Verdú S.Coop.,Guipúzcoa,825
-Oficial de las fuerzas armadas,214,Pasadizo de Griselda Pina,Lugo,Lamas & Asociados S.A.,S.L.N.E,Sí,Servicios Sastre S.Coop.,Huesca,616
-Repartidor,215,Camino Crescencia Pineda,Cádiz,Capdevila y Palomo S.Com.,S.A.T.,No,Alimentación Belmonte & Asociados S.Coop.,Huesca,435
-Clasificador de productos,216,Cuesta de María Carmen Nuñez,La Coruña,Hotel Española S.Com.,S.L.L.,Sí,Familia Tejero S.A.T.,Burgos,211
-Profesional religioso,217,Acceso de Cosme Belmonte,Zamora,Palacios & Asociados S.C.P,S.L.N.E,Sí,Castejón y Echevarría S.A.,Girona,696
-Administrador de bases de datos,218,Acceso de Camila Santamaría,Lleida,Banca Privada Cuadrado S.Com.,S.L.L.,No,Calleja & Asociados S.A.,Huelva,26
-Controlador de procesos,219,Avenida de Eva Corominas,León,Logística Gálvez & Asociados S.Com.,S.L.,No,Jovita Bernat Carballo S.Com.,Vizcaya,667
-Agente de bolsa,220,Urbanización de Gaspar Alvarado,Castellón,Finanzas Mateu y asociados S.C.P,S.L.N.E,Sí,Hermanos Chaves S.A.,Zaragoza,643
-Piloto de aviación,221,Glorieta Eladio Torres,Ourense,Familia Avilés S.L.,S.L.L.,No,Hermanos Aragón S.L.U.,Ourense,918
-Geólogo,222,Alameda de Abril Bayona,Ávila,Consultoría Osorio S.A.,S.Com.,No,Grupo Iniesta S.A.,Burgos,447
-Empleado de ventanillas de informaciones,223,Rambla de Danilo Haro,Jaén,Azorin & Asociados S.Coop.,S.Coop.,Sí,Familia Pujadas S.L.,Castellón,925
-Técnico de telecomunicaciones,224,C. Judith Garzón,Lugo,Familia Calzada S.Coop.,S.Coop.,No,Servicios Española S.L.,Málaga,893
-Cartógrafo,225,Camino de Ruth Córdoba,Baleares,Vicente y Aroca S.Coop.,S.Coop.,Sí,Despacho Ferrero & Asociados S.C.P,Ourense,584
-Profesional de medicina alternativa,226,Urbanización Aarón Bárcena,León,Servicios WPC S.L.L.,S.Coop.,Sí,Familia Milla S.L.N.E,Asturias,850
-Empleado de control de abastecimientos e inventario,227,Plaza de Fabio Benitez,La Rioja,María Manuela Ordóñez Julián S.L.,S.Coop.,No,Grupo Cobos S.L.,Pontevedra,986
-Locutor de televisión,228,Pasaje de Jesusa Albero,Guipúzcoa,Hnos Flores S.Com.,S.Com.,No,Cánovas & Asociados S.A.D,La Coruña,501
-Ingeniero electrónico,229,Paseo Natalia Uriarte,Huesca,Humberto Anguita Torralba S.L.,S.A.,No,Logística AYU S.Com.,Toledo,478
-Ingeniero metalúrgico,230,Calle Cayetano Espejo,Baleares,Alfonso Aznar Olivé S.L.N.E,S.A.,No,Finanzas Ballesteros y asociados S.Com.,La Coruña,818
-Audiólogo,231,Calle de Camila Campo,Sevilla,Tecnologías IDXY S.Com.,S.Coop.,No,Despacho Españolas S.Coop.,Málaga,585
-Fontanero,232,Vial Mauricio Bolaños,Valencia,Evangelina Ribas Casares S.Coop.,S.L.,Sí,Hotel Palmer y asociados S.L.,Valladolid,303
-Catador de alimentos y bebidas,233,C. Sosimo Sevilla,Badajoz,Minería del Norte S.Com.,S.Com.,No,Familia Landa S.L.,Asturias,612
-Vendedor de quioscos y de puestos de mercado,234,C. Julie Prado,Cáceres,Victoriano Granados Rosado S.L.L.,S.Com.,Sí,Coca & Asociados S.L.L.,Zamora,382
-Operador de instalaciones de procesamiento de la madera,235,Plaza de Agapito Posada,Ourense,Comercializadora NJY S.A.T.,S.Coop.,Sí,Quesada y asociados S.L.L.,Ciudad,124
-Limpiador de fachadas,236,Avenida Margarita Pinedo,Ourense,Supermercados Globales S.L.L.,S.Com.,No,Carrillo & Asociados S.A.,Almería,97
-Catador de alimentos y bebidas,237,C. Heliodoro Fabregat,Ávila,Pallarès y Blanco S.L.L.,S.Coop.,No,Hermanos Taboada S.C.P,Melilla,694
-Especialista en tratamientos de belleza,238,Calle Aránzazu Lucas,Lugo,Talleres Internacionales S.L.L.,S.C.P,No,Fábrica QHR S.L.,Valencia,302
-Calderero,239,Urbanización Elba Garcia,Murcia,Vera Escalona Abella S.L.,S.L.,No,Transportes Española S.A.U,Cádiz,201
-Empleado encargado de las nóminas,240,Via de Telmo Raya,Girona,Natanael Quero Luna S.A.,S.A.,Sí,Hotel del Levante S.Com.,Burgos,591
-Profesional de ventas de tecnología de la información y las comunicaciones,241,Glorieta Cintia Calvet,Salamanca,Pascual y Roig S.A.,S.Com.,Sí,Soluciones MF S.Coop.,Cuenca,648
-Ingeniero de minas,242,Plaza Miguela Pombo,Guipúzcoa,Banca Privada HSB S.L.N.E,S.Coop.,Sí,Hnos Peralta S.Coop.,Guadalajara,231
-Técnico de prótesis médicas y dentales,243,Glorieta Teobaldo Arias,Albacete,Gimeno y Sanz S.L.,S.L.,No,Inmobiliaria Seguí y asociados S.A.T.,Guipúzcoa,408
-Modisto,244,C. Clara Montesinos,Tarragona,Hnos Raya S.C.P,S.C.P,Sí,Despacho HQ S.L.,Salamanca,479
-Profesional de partería,245,Via de Cleto Cáceres,Girona,Celestina Crespi Torre S.L.L.,S.L.N.E,No,Codina y Valera S.Coop.,La Rioja,449
-Pescador de alta mar,246,Cuesta Anastasio Palma,Córdoba,Moliner y Pérez S.Coop.,S.Coop.,No,Hnos Benavent S.L.N.E,Madrid,525
-Pescador de alta mar,247,Urbanización de Perlita Moreno,Palencia,Ariel Carretero Carpio S.L.,S.A.D,No,Pacífica Gonzalez Rueda S.Com.,Huesca,90
-Empleado de servicios de correos,248,Ronda de Luis Ángel Cabanillas,La Rioja,Palomo y asociados S.L.,S.Com.,No,Infraestructuras Lledó & Asociados S.C.P,La Rioja,575
-Operador de instalaciones de procesamiento de minerales y rocas,249,Alameda María Fernanda Gutierrez,Ourense,Consultoría Españolas S.L.,S.A.,Sí,Talleres Vergara S.Coop.,León,376
-Controlador de tráfico aéreo,250,Via de Vasco Moles,Segovia,Pelayo y Echevarría S.Coop.,S.L.U.,No,Hnos Gallardo S.A.U,Sevilla,766
-Empleado de servicios de correos,251,Ronda Rufina Alfonso,León,Transportes Miranda y asociados S.L.L.,S.L.N.E,No,Banco Mir S.L.L.,La Coruña,378
-Cocinero,252,Pasadizo de Hermenegildo Ramírez,Jaén,Codina y Becerra S.Com.,S.A.,No,Meléndez y Frutos S.Coop.,Valladolid,258
-Meteorólogo,253,Urbanización de Manu Colom,Navarra,Yago Zamora Llopis S.L.,S.L.N.E,Sí,Hotel UGEJ S.L.,Lugo,36
-Actor,254,Cuesta Bautista Alcalde,Melilla,Tolosa y Aragonés S.L.,S.Com.,No,Alimentación Iberia S.A.,Burgos,692
-Trabajador de explotaciones de acuicultura,255,Acceso Víctor Moraleda,Castellón,Frutos y Puerta S.L.,S.Com.,No,Quirós y Pereira S.Coop.,Segovia,67
-Agente de aduanas,256,Alameda de Asunción Villaverde,Ourense,Logística KXQB S.Coop.,S.Coop.,Sí,Inmobiliaria Dalmau S.L.,Murcia,358
-Empleado de agencia de viajes,257,Pasadizo de Carolina Gelabert,Las Palmas,Batalla & Asociados S.A.,S.L.N.E,Sí,Manuel y Canet S.Com.,Barcelona,864
-Clasificador de desechos,258,Via Román Fuente,Murcia,Armas & Asociados S.L.N.E,S.A.,Sí,Compañía León S.L.,Valladolid,892
-Grabador de piedra,259,Ronda Valentina Bayo,Ciudad,Familia Amo S.A.,S.L.N.E,No,Despacho Palacios S.A.,Navarra,231
-Guardia de protección,260,Glorieta Ariadna Osorio,Badajoz,Distribuciones Avanzadas S.C.P,S.A.,No,Villar y asociados S.Coop.,Toledo,403
-Agente de compras,261,Calle Lino Gargallo,León,Promociones Aller S.L.N.E,S.Coop.,No,Franco y Colom S.A.,Asturias,105
-Empleado de control de abastecimientos e inventario,262,Plaza Albino Gil,Lugo,Finanzas Campillo & Asociados S.C.P,S.Coop.,Sí,Logística Integrales S.Coop.,Pontevedra,206
-Cajero de banco,263,Camino de Rosaura Calvet,Alicante,Compañía JG S.A.,S.A.,No,Grupo Uribe S.C.P,Pontevedra,874
-Contable,264,Via de Lourdes Tenorio,Lugo,Grupo Alcalá S.A.,S.A.,No,Finanzas FMW S.A.,Ourense,733
-Cantante,265,Cuesta de Carmen Andreu,Huesca,Farmaceútica Pinedo & Asociados S.Com.,S.Com.,No,Construcción Oller & Asociados S.A.,Burgos,442
-Lingüista,266,Cuesta de Edgardo Benavent,León,Marisa Gálvez Gallardo S.L.N.E,S.A.,Sí,Construcción Losada y asociados S.Coop.,Córdoba,680
-Abogado,267,Plaza Ariadna Prats,Guipúzcoa,Industrias BQQE S.Com.,S.L.,No,Familia Coll S.Coop.,Soria,812
-Profesional de la publicidad y la comercialización,268,Cañada Yésica Jódar,Cáceres,Transportes Múgica y asociados S.A.,S.A.,Sí,Burgos y Quintero S.L.N.E,Lugo,86
-Recepcionista,269,Urbanización de Candelas Roma,La Rioja,Agapito Cases Caparrós S.L.N.E,S.Com.,Sí,Teruel y Roldán S.L.N.E,Baleares,869
-Profesional de ventas técnicas y médicas,270,Paseo Zacarías Llobet,Barcelona,Desarrollo QP S.L.N.E,S.Com.,Sí,Consultoría Mas S.A.,Badajoz,447
-Profesor de universidades y de la enseñanza superior,271,Paseo de Febe Caballero,Álava,Soluciones del Sur S.L.,S.A.,No,Logística IES S.L.,La Rioja,969
-Ebanista,272,Via de Viviana Figueroa,Soria,Inmobiliaria Castelló & Asociados S.A.,S.L.L.,Sí,Hnos Mármol S.Com.,Guipúzcoa,349
-"Redactor de carteles, pintor decorativos y grabador",273,Cuesta de Miriam Gomis,Málaga,Hnos Rodriguez S.A.,S.A.T.,Sí,Cazorla & Asociados S.Coop.,Murcia,26
-Auxiliar laico de las religión,274,Via de Concha Saldaña,Zaragoza,Manufacturas DFX S.A.T.,S.Com.,No,Comercializadora Reguera y asociados S.A.,Ciudad,270
-Electrotécnico,275,Pasadizo Feliciana Romeu,Vizcaya,Manufacturas Guerra S.L.,S.Com.,No,Villegas y Cuenca S.L.N.E,Lugo,721
-Empleado de biblioteca,276,Urbanización de Jordi Grande,León,Familia Pizarro S.L.N.E,S.Com.,Sí,Promociones Saura y asociados S.L.,Pontevedra,675
-Químico,277,C. de Fausto Acero,Teruel,Hotel Españolas S.Com.,S.A.U,No,Soluciones JK S.L.L.,Valencia,901
-Recepcionista,278,Calle de Nadia Sanmiguel,Murcia,Familia Poza S.C.P,S.L.,Sí,Inmobiliaria TYZM S.L.,Burgos,41
-Conductor de vehículos y máquinas de tracción animal,279,Paseo Merche Nebot,Madrid,Talleres del Sur S.A.,S.A.,No,Palomares y Cordero S.Coop.,Valencia,74
-Locutor de radio,280,Pasaje de Gervasio Amo,León,Servicios Osuna y asociados S.L.,S.Com.,Sí,Benítez & Asociados S.L.,Almería,990
-Codificador de datos,281,Avenida René Ariza,Valencia,Minería Hernández S.A.,S.Com.,Sí,Alimentación Ugarte & Asociados S.Coop.,Santa Cruz de Tenerife,248
-"Operador de incineradores, instalaciones de tratamiento de agua",282,Callejón Jorge Nadal,Navarra,Reina Roselló Vallejo S.L.N.E,S.L.,No,Hotel Cid & Asociados S.Coop.,Almería,399
-Inspector medioambiental y afines,283,Alameda de Elodia Batalla,Cuenca,Tecnologías AAH S.Coop.,S.Coop.,Sí,Suministros JZC S.A.,Palencia,569
-Instalador y reparador en tecnología de la información y las comunicaciones,284,Pasaje Adelina Villena,Almería,Finanzas VU S.Coop.,S.A.,Sí,Comercializadora Pellicer & Asociados S.A.,Badajoz,328
-Operador de telar y otras máquinas tejedoras,285,Alameda de Tania Llamas,Baleares,María Belén Arteaga Blázquez S.A.,S.C.P,No,Comercial VTGS S.Coop.,Zamora,350
-Maleter,286,C. de Magdalena Rosales,Albacete,Banca Privada Ramón S.Coop.,S.Com.,Sí,Rosa Saura Iriarte S.Coop.,Melilla,0
-Mecánico y reparador de vehículos de motor,287,Paseo de Teófila Revilla,Melilla,Familia Urrutia S.L.,S.Coop.,No,Timoteo Giménez Flor S.L.,León,742
-Diseñador gráfico,288,Alameda Alfredo Cervantes,Alicante,Arteaga y Godoy S.L.,S.Com.,Sí,Amada Taboada Iglesia S.L.,La Coruña,423
-Abogado,289,Plaza Sergio Estévez,Soria,Tecnologías Segovia & Asociados S.L.U.,S.L.,Sí,Ayala & Asociados S.Coop.,Murcia,568
-Agente de servicios de seguridad social,290,Cuesta Trinidad Sánchez,Santa Cruz de Tenerife,Restauración Morales S.L.L.,S.A.,No,Larrea y Jordán S.L.,Guadalajara,121
-Mecánico y reparador en electrónica,291,Cuesta Clotilde Jáuregui,Baleares,Godoy & Asociados S.Coop.,S.Coop.,Sí,Inmobiliaria Internacionales S.Com.,Zamora,157
-Grabador de datos,292,Alameda Prudencia Meléndez,Vizcaya,Hnos Tomas S.Com.,S.Com.,No,Promociones Internacionales S.L.,Córdoba,926
-Gerente de comercios al por mayor y al por menor,293,Callejón Che Cabo,Baleares,Miguela Cañellas Llano S.Coop.,S.C.P,No,Briones y Baró S.L.,León,42
-Joyero,294,Rambla Jose Miguel Ayala,Córdoba,Soluciones Barranco S.Coop.,S.L.N.E,No,Hotel Adadia y asociados S.L.,Cádiz,220
-Profesor de universidades y de la enseñanza superior,295,Cañada de Clotilde Giménez,Almería,Familia Rodrigo S.L.L.,S.Coop.,No,Distribuciones Inteligentes S.L.N.E,Navarra,502
-Peón forestales,296,Acceso de Chita Falcó,Sevilla,Amorós y asociados S.A.D,S.C.P,No,Martín y Serrano S.L.,Álava,595
-Vendedor puerta a puerta,297,Pasadizo de Leonardo Pla,Santa Cruz de Tenerife,Familia Viñas S.Coop.,S.C.P,Sí,Girona y Pi S.Com.,Sevilla,691
-Psicólogo,298,Callejón de Elena Alcázar,Soria,Alimentación Avanzadas S.Coop.,S.Coop.,No,Figuerola & Asociados S.L.N.E,Álava,266
-Instructor de educación física y actividades recreativas,299,Avenida de Sara Larrea,Soria,Navarrete y Mercader S.L.,S.Com.,No,Promociones XMM S.Com.,Barcelona,162
-Cocinero de comidas rápidas,300,Callejón de Pelayo Velasco,Lugo,Matías Lamas Luna S.Coop.,S.Com.,Sí,Eduardo Benito Jerez S.Com.,Córdoba,472
-Profesional de nivel medio en actividades culturales y artísticas,301,Camino de Pía España,Huelva,Trini Luís Samper S.Coop.,S.A.T.,Sí,Inversiones Rebollo S.A.T.,Melilla,292
-Trabajador de cuidados personales a domicilio,302,Urbanización Marina Cabo,Guipúzcoa,Benigna Bastida Salazar S.L.,S.Coop.,No,Juliá y Lopez S.Com.,León,115
-Profesor de universidades y de la enseñanza superior,303,Callejón Saturnino Barba,Toledo,Calzada y asociados S.L.N.E,S.Coop.,No,Inversiones GGQ S.Coop.,Guadalajara,771
-Técnico en asistencia al usuario de tecnología de la información y las comunicaciones,304,Vial José María Peña,Zaragoza,Chus Lerma Sanz S.L.N.E,S.C.P,No,Falcó y Vizcaíno S.Com.,Cuenca,808
-Psicólogo,305,Cañada de Albano Arranz,Valencia,Hnos Pastor S.L.N.E,S.Coop.,No,Fábrica Ibéricos S.Com.,Albacete,577
-Ggeofísico,306,Vial de Alba Isern,Cantabria,Manufacturas Aparicio S.Com.,S.A.,Sí,Supermercados del Levante S.L.,Madrid,311
-Director de políticas y planificación,307,Glorieta de Basilio Bermejo,Madrid,Villalba & Asociados S.A.,S.A.,Sí,Barreda y asociados S.Com.,Ourense,43
-Ingeniero en telecomunicaciones,308,Ronda Marcela Font,Huelva,Hnos Águila S.L.,S.L.,Sí,Batalla y Cáceres S.L.L.,La Rioja,868
-Profesor de universidades y de la enseñanza superior,309,Calle de Julio Calzada,Jaén,Hnos Haro S.L.L.,S.Com.,Sí,Palomar y Aguirre S.C.P,Guipúzcoa,236
-Repartidor,310,Acceso de Osvaldo Busquets,Vizcaya,Cuadrado y Guzman S.Com.,S.L.U.,Sí,Consultoría Carranza & Asociados S.A.,Ceuta,85
-Desarrollador Web y multimedia,311,Paseo Celia Alonso,Jaén,Marisa Amorós Franco S.L.N.E,S.L.,Sí,Flora Planas Samper S.A.,Ourense,634
-Zoólogo,312,Vial Morena Pol,La Coruña,Distribuciones YHDZ S.A.,S.L.,Sí,Construcción Rojas y asociados S.L.L.,Cádiz,982
-Ebanista,313,Glorieta de Damián Pareja,Baleares,Servicios del Sur S.Coop.,S.L.N.E,Sí,Comercializadora Inteligentes S.Coop.,Las Palmas,150
-Profesional de partería,314,Callejón María José García,Melilla,Echevarría y Barbero S.L.L.,S.A.,No,Mancebo y Terrón S.L.L.,Alicante,885
-Marinero de cubierta,315,Via Raquel Pacheco,Albacete,Erasmo Lerma Burgos S.Com.,S.L.,Sí,Farmaceútica TDAJ S.A.U,Lleida,50
-Operador de máquinas para fabricar productos fotográficos,316,Pasadizo Viviana Escribano,Pontevedra,Hnos Bautista S.Com.,S.L.L.,Sí,Hermanos Molina S.Coop.,Huesca,163
-Adivinador,317,Alameda de Celso Cañizares,Badajoz,Compañía del Levante S.Com.,S.L.N.E,Sí,Pombo & Asociados S.Com.,Girona,285
-Técnico de la Web,318,Rambla de Eutropio Mínguez,La Rioja,Industrias IL S.L.N.E,S.A.,Sí,Tecnologías Moraleda S.C.P,Lleida,596
-Pulidor de metales y afilador de herramientas,319,Pasaje de Juliana Salinas,Pontevedra,Mayoral y Ariño S.C.P,S.L.N.E,Sí,Industrias Internacionales S.L.,Jaén,534
-Urbanistas e ingenieros de tránsito,320,Ronda Salomé Osorio,Barcelona,Banco Julián S.L.L.,S.L.,Sí,Promociones Españolas S.C.P,Murcia,754
-Director de servicios de tecnología de la información y las comunicaciones,321,Acceso Mateo Manso,Huelva,Finanzas WTKV S.Coop.,S.Com.,Sí,Banca Privada LQ S.L.U.,Albacete,134
-Bordador,322,Acceso Guillermo Galindo,Ávila,Elorza y Rojas S.A.,S.A.,Sí,Distribuciones Iberia S.Com.,Málaga,622
-Empleado de control de abastecimientos e inventario,323,Paseo Maura Múñiz,Teruel,Promociones Agullo & Asociados S.A.,S.L.U.,No,Almeida y Belmonte S.Coop.,Tarragona,965
-Técnico en ciencias biológicas,324,Glorieta de Hilario Dávila,Sevilla,Restauración Delgado y asociados S.Coop.,S.A.,No,Marino Posada Zapata S.Coop.,Tarragona,511
-Cuidador de animales,325,Alameda Hilario Falcó,Álava,Humberto Iborra Cueto S.L.,S.L.,Sí,Juan Carlos Casas Pulido S.L.N.E,Málaga,346
-Electricista de obras,326,Acceso Teresita Ribes,Valencia,Salgado & Asociados S.C.P,S.A.,No,Distribuciones YEZK S.Com.,Pontevedra,315
-Cajero de banco,327,Calle Onofre Fabra,Palencia,Banco Roselló S.A.,S.L.U.,Sí,Emilia Baquero Cañete S.A.,León,302
-Instalador de material aislante y de insonorización,328,Calle Jose Francisco Barranco,Zamora,Alimentación NA S.A.T.,S.Com.,No,Logística Sans & Asociados S.Coop.,Asturias,400
-Afinador de instrumentos musicales,329,Pasaje Hermenegildo Berrocal,Granada,Dolores Toledo Alcaraz S.Coop.,S.Coop.,Sí,Hotel IN S.A.,Ávila,255
-Estadístico,330,Urbanización Jerónimo Peinado,Valladolid,Jiménez y Baró S.L.,S.A.,Sí,Gonzalo y Gimenez S.L.N.E,Cuenca,996
-Agente de servicios de seguridad social,331,Avenida Leonardo Reina,Sevilla,Rufina Blázquez Iglesia S.A.T.,S.L.,Sí,Farmaceútica del Norte S.A.,Almería,696
-Trabajador agrícola de subsistencia,332,Alameda Anastasia Zabaleta,Guadalajara,Dorita Sarabia Salgado S.Com.,S.A.,No,Jonatan Cañizares Expósito S.Coop.,La Coruña,798
-Director de publicidad y relaciones públicas,333,Camino de Emiliana Arcos,Barcelona,Soluciones Españolas S.L.L.,S.L.,Sí,Logística del Levante S.A.,Melilla,574
-"Empleado de servicios estadísticos, financieros y de seguros",334,Rambla Ani Madrigal,Badajoz,Durán & Asociados S.Coop.,S.A.,Sí,Banco del Norte S.Com.,Cantabria,73
-Acarreador de agua,335,Camino de Beatriz Dominguez,Almería,Crespo & Asociados S.Coop.,S.Com.,Sí,Distribuciones del Noroeste S.Com.,Huesca,302
-Peón de minas y canteras,336,Cañada de Manu Abascal,Segovia,Hermanos Velasco S.C.P,S.A.,No,Gonzalo Guitart Sola S.Com.,Ourense,524
-Recolector de basura y material reciclable,337,Cañada Guiomar Coca,Zamora,Alimentación STU S.L.L.,S.Coop.,Sí,Comercial OFPD S.A.,Pontevedra,221
-Cuidador de animales,338,Avenida de María José Valle,Segovia,Minería Alarcón y asociados S.L.,S.Coop.,No,Logística Flores S.A.,Sevilla,575
-Agente de servicios de expedición de licencias y permisos,339,Camino de Ligia Martín,Girona,Comercializadora ADZ S.A.,S.L.L.,Sí,Grupo Andrade S.A.U,Segovia,741
-Vendedor por teléfono,340,Acceso de Selena Girón,Salamanca,Maxi Soto Alfonso S.L.N.E,S.L.,Sí,Abella & Asociados S.Com.,Alicante,185
-Clasificador de productos,341,Cañada de Manuel Jara,Las Palmas,Banca Privada HOD S.A.,S.Com.,Sí,Hermanos Pozuelo S.A.,Santa Cruz de Tenerife,265
-Representante comercial,342,Cuesta de Purificación Palau,Albacete,Familia Murillo S.Coop.,S.L.,Sí,Grupo Narváez S.Com.,Cádiz,97
-Gestor de aduana,343,Plaza de Fabiana Sanchez,Alicante,Suministros Alarcón & Asociados S.L.,S.L.,No,Salinas y Miranda S.Com.,Asturias,901
-Director de ventas y comercialización,344,Glorieta de Clara Carro,Ávila,Despacho del Levante S.A.,S.L.,Sí,Cortés y asociados S.C.P,Murcia,380
-Asistente veterinario,345,Calle de Benito Ortuño,Alicante,Manufacturas Batlle & Asociados S.Coop.,S.Com.,No,Lara Palmer Sainz S.A.,Ávila,306
-Profesional de la protección medioambiental,346,Urbanización de Martina Lobato,Huesca,Porfirio Campillo Vara S.Com.,S.Coop.,Sí,Instalaciones Campo y asociados S.L.,Castellón,473
-Técnico en aparatos de diagnóstico y tratamiento médico,347,Rambla de Pascuala Amador,Lleida,Infraestructuras Internacionales S.L.,S.A.,Sí,Compañía UYS S.Coop.,Murcia,827
-Bibliotecarios,348,Rambla Juanita Ferreras,Granada,Escudero y Mayol S.L.,S.L.N.E,Sí,Infraestructuras Novoa S.A.U,Sevilla,483
-Analista de sistemas,349,Cañada de Onofre Daza,Lugo,Guillén y asociados S.L.,S.L.,Sí,Banca Privada Parra S.L.,Baleares,893
-Soldador y oxicortador,350,Callejón de Joaquina Piñeiro,Ceuta,Logística Integrales S.L.N.E,S.L.,No,Elba Aramburu Bertrán S.Com.,Toledo,903
-Vendedor ambulantes de productos comestibles,351,Urbanización Lucho Neira,Cuenca,Despacho Aznar y asociados S.Coop.,S.Coop.,Sí,Alimentación Clemente S.Com.,La Rioja,225
-Vendedor por teléfono,352,Cuesta de Esmeralda Alegria,Zaragoza,Instalaciones Vallés y asociados S.A.,S.A.,No,Vicente y Seco S.Com.,Pontevedra,893
-Mecánico y reparador de máquinas agrícolas e industriales,353,Acceso de Maximiano Uría,Sevilla,Zabala y asociados S.L.N.E,S.Coop.,Sí,Soluciones del Levante S.L.,Tarragona,389
-Empleado de servicios de transporte,354,Paseo de Victorino Aguilar,Ceuta,Transportes JVFC S.Coop.,S.A.U,Sí,Despacho ZCC S.L.,Barcelona,877
-Actor,355,Rambla de Natividad Andrés,Albacete,Pardo & Asociados S.A.,S.Coop.,Sí,Hnos Roman S.A.U,Alicante,65
-Fumigador,356,C. Fanny Casado,Salamanca,Soluciones Bou S.Com.,S.Com.,No,Talleres Tejedor S.C.P,Melilla,204
-Fisioterapeuta,357,C. de Florencia Gascón,Vizcaya,Desarrollo Jover & Asociados S.A.,S.Coop.,Sí,Juliá y asociados S.Coop.,Lugo,636
-Dentista,358,Cuesta de Manu Nogués,Salamanca,Tecnologías Morera S.Com.,S.L.N.E,Sí,Guzman & Asociados S.Coop.,León,454
-Empleado de centro de llamadas,359,C. Marcelino Aparicio,Cantabria,Emma Cobos Roma S.Coop.,S.Com.,No,Lasa y Pineda S.L.L.,Ceuta,3
-Técnico en optometría y ópticos,360,Avenida de Manuel Corbacho,Albacete,Gracia & Asociados S.L.,S.L.,Sí,Compañía NG S.C.P,Salamanca,234
-Desarrollador de software,361,Cañada de León Prats,Santa Cruz de Tenerife,Compañía EJB S.L.,S.A.,No,Frías & Asociados S.L.N.E,Huesca,846
-Cocinero de comidas rápidas,362,Via Diana Caro,Segovia,Prieto y Escalona S.Coop.,S.A.,Sí,Tecnologías JP S.Coop.,Zaragoza,400
-Chapista,363,Plaza de Che Amo,Valencia,Blanca Isern Exposito S.Com.,S.L.,Sí,Consultoría PYKW S.L.N.E,Lugo,417
-Entrenador deportivo,364,Via de Juan Francisco Royo,Ourense,Castañeda & Asociados S.L.,S.A.,No,Transportes SS S.L.N.E,Almería,405
-Laminador de vidrio,365,Vial de Xiomara Neira,Granada,Talleres Planas & Asociados S.L.,S.Com.,Sí,Inmobiliaria Varela S.Coop.,Ourense,182
-Botánico,366,Plaza de Clara Figueroa,Valladolid,Fábrica del Noroeste S.Com.,S.A.,No,Construcción Noguera S.A.,León,104
-Grabador de datos,367,Cañada de Sergio Domínguez,Lleida,Martin Garmendia Cózar S.A.,S.A.,Sí,Supermercados Inteligentes S.A.,Huesca,26
-Productor y trabajador calificado de explotaciones agropecuarias mixtas,368,Alameda Toni Galán,Madrid,Distribuciones JKE S.A.U,S.Com.,Sí,Hnos Castells S.C.P,Murcia,569
-Técnico de laboratorio médico,369,Ronda de Brunilda Calvet,La Rioja,Vigil y Barragán S.A.,S.C.P,Sí,Maxi Paredes Vallés S.L.L.,Badajoz,454
-Vendedor ambulantes (excluyendo de comida),370,Pasaje Artemio Olivera,Málaga,Giménez & Asociados S.L.,S.L.N.E,No,Transportes MG S.Coop.,León,137
-Empleado de contabilidad y cálculo de costos,371,Callejón Sigfrido Melero,Cantabria,Borrego y Vives S.Coop.,S.L.,Sí,Farmaceútica Espinosa S.Coop.,Badajoz,898
-Músico,372,Pasaje de Ciro Cazorla,Málaga,Dulce Miró Nuñez S.L.L.,S.Coop.,No,Alberto Arregui Lopez S.Com.,Alicante,809
-Avicultor,373,Pasadizo de Maximiliano Toledo,Melilla,Banca Privada WHK S.C.P,S.Com.,Sí,Fábrica Ibéricos S.Com.,Huelva,833
-Carpintero,374,Paseo Sarita Acevedo,Teruel,Nogueira & Asociados S.Coop.,S.Coop.,Sí,Finanzas VBF S.A.,Girona,328
-Camarero de barra,375,Glorieta de Marisa Pacheco,Murcia,Comercial Carbajo S.Coop.,S.L.,Sí,Noguera y Solé S.L.U.,La Coruña,60
-Policías,376,Vial Maite Gárate,La Rioja,Consultoría Española S.L.,S.L.,No,Construcción PEMJ S.L.N.E,Asturias,56
-Peluqueros,377,Paseo Ángel Tapia,Barcelona,Otero y Arnaiz S.A.,S.A.,Sí,Suministros Mateo S.Com.,Valladolid,99
-Secretario jurídicos,378,Vial Diana Camps,Valladolid,Compañía Castellana S.L.,S.Com.,Sí,Ferrán y asociados S.L.,Albacete,585
-Zoólogo,379,Via de Candelaria Pedro,La Coruña,Alberto y Revilla S.L.,S.Coop.,No,Canet y Pelayo S.A.,Vizcaya,54
-Bailarín,380,Calle de Chus Camino,Tarragona,Mateos & Asociados S.L.,S.A.,Sí,Construcción Española S.L.,Santa Cruz de Tenerife,336
-Telefonista,381,Camino de Amaro Sanjuan,Guadalajara,Llano y asociados S.Com.,S.L.,No,Grupo Izaguirre S.L.L.,Toledo,59
-Albañil,382,Glorieta de Socorro Olivé,Asturias,Rico & Asociados S.L.N.E,S.L.,Sí,Farmaceútica YLZ S.L.,Baleares,987
-Chapista,383,Alameda de Lorenza Llanos,Cáceres,Hnos Alvarado S.L.,S.C.P,No,Finanzas Cerro S.A.,Málaga,992
-Maquinista de locomotoras,384,Rambla de Pedro Santamaría,Guipúzcoa,Inmobiliaria DDYK S.L.,S.A.,No,Inmobiliaria Sobrino S.Coop.,Zamora,563
-Peón de carga,385,Callejón de Hortensia Campo,La Coruña,Minería del Noroeste S.Coop.,S.A.,Sí,Plinio Bellido Canals S.Coop.,Melilla,251
-Operador de máquinas para elaborar alimentos y productos afines,386,Calle Víctor Miralles,Girona,Murillo y Tejedor S.L.L.,S.A.,Sí,Inmobiliaria OTY S.Coop.,Cáceres,686
-Profesional de ventas técnicas y médicas,387,Acceso de Andrés Felipe Frutos,La Rioja,Fábrica Uría S.L.L.,S.A.,Sí,Hnos Céspedes S.Coop.,La Coruña,387
-Bombero,388,Paseo Virgilio Mínguez,Huelva,Cristian Caballero Rincón S.L.N.E,S.Com.,No,Banca Privada FY S.Coop.,Segovia,324
-Cristalero,389,Urbanización Anselmo Sancho,Sevilla,Benitez & Asociados S.L.N.E,S.L.,No,Minería JSN S.Com.,Cáceres,119
-Artesano,390,Calle de Alonso Pineda,Ceuta,Mariño & Asociados S.L.N.E,S.Com.,No,Cid y asociados S.C.P,Castellón,702
-Constructor de casas,391,Acceso de Manuelita Nevado,Alicante,Acedo y asociados S.Com.,S.A.,Sí,Comercial Samper & Asociados S.Com.,Málaga,738
-Tipógrafo,392,Via Reinaldo Gallo,Alicante,Alicia Vilanova Alsina S.A.,S.Com.,Sí,Instalaciones HI S.Coop.,Ceuta,472
-Médico general,393,Paseo de Mohamed Ferrando,Santa Cruz de Tenerife,Promociones Blázquez y asociados S.L.,S.L.,Sí,Minería Escrivá S.A.,Álava,665
-Guía de turismo,394,Rambla Clementina Baquero,Ávila,Construcción Mármol y asociados S.A.,S.Coop.,Sí,Distribuciones NCOS S.Coop.,La Rioja,180
-Recolector de dinero en aparatos de venta automática y lector de medidores,395,Rambla América Ortega,Murcia,Infraestructuras Puerta S.A.,S.Coop.,Sí,Bermejo y Villegas S.A.,Baleares,786
-Minero,396,Pasaje Eufemia Trujillo,Córdoba,Domingo Villalba Monreal S.Com.,S.Com.,Sí,Familia Cabrera S.Coop.,Zaragoza,942
-Gerente de comercios al por mayor y al por menor,397,Camino Azucena Bustamante,Huelva,Familia Comas S.A.T.,S.A.,No,Logística Vazquez y asociados S.Com.,Valladolid,847
-Ingeniero en telecomunicaciones,398,C. de María Luisa Saura,Guadalajara,Tecnologías Serra S.L.,S.L.N.E,No,Inversiones del Norte S.A.,Zaragoza,46
-Fontanero,399,Rambla de Judith Almazán,Segovia,Minería Feijoo y asociados S.Com.,S.A.,No,Hnos Daza S.C.P,Melilla,169
-Profesional de nivel medio de enfermería,400,Pasadizo Galo Cabeza,La Rioja,Saez y asociados S.Com.,S.L.N.E,No,Vaquero y Cámara S.A.,Valencia,97
-Ingeniero civil,401,Paseo de Jesús Sabater,Santa Cruz de Tenerife,Manufacturas LERO S.Coop.,S.Com.,No,Inmobiliaria MIR S.L.,Tarragona,195
-Zapatero,402,Calle de Aarón Ordóñez,Ceuta,Bertrán y asociados S.L.N.E,S.Com.,No,Vicente y Gordillo S.Coop.,Teruel,690
-"Gerente de centros deportivos, de esparcimiento y culturales",403,Glorieta de Dimas Bustamante,Burgos,Bárcena y Bejarano S.Coop.,S.C.P,No,Transportes Hurtado S.A.U,Ávila,688
-Regulador y operador de máquinas de labrar madera,404,Urbanización Marc Trujillo,Zaragoza,Albert Manzano Morante S.Com.,S.Coop.,Sí,Suministros Arenas S.Com.,Lleida,245
-Diseñador de interior,405,Plaza de Osvaldo Redondo,Girona,Supermercados VUVX S.Coop.,S.Com.,Sí,Finanzas Ibérica S.Coop.,Palencia,514
-Capitán decubierta,406,Camino de Martina Mascaró,Ceuta,Comercial Inteligentes S.L.N.E,S.A.,No,Banca Privada LBN S.Coop.,Pontevedra,558
-Mensajero,407,Pasadizo Alberto Estevez,Huelva,Luque y Alonso S.L.,S.L.L.,Sí,Paniagua y Sola S.L.,Madrid,278
-Adivinador,408,Vial Tadeo Donoso,Cuenca,Familia Exposito S.L.L.,S.C.P,Sí,Sanmiguel y asociados S.Coop.,Álava,836
-Mayordomo doméstico,409,Pasaje de Haroldo Aragón,Tarragona,Farmaceútica Ibéricos S.L.,S.L.,Sí,Banca Privada Internacionales S.A.,Madrid,877
-Gerente de hoteles o restaurantes,410,Plaza de Wálter Alsina,Salamanca,Inversiones Pons & Asociados S.L.,S.Com.,Sí,Construcción Inteligentes S.Coop.,Ávila,297
-Techador,411,Glorieta de Rolando Montes,Ceuta,Servicios CPP S.Com.,S.L.,No,Industrias Ibéricos S.L.U.,Santa Cruz de Tenerife,405
-Director de servicios de salud,412,Cañada de Cristian Suarez,Madrid,Despacho Neira & Asociados S.Com.,S.L.U.,No,Farmaceútica Ibérica S.L.L.,Málaga,837
-Empleado de agencia de viajes,413,Calle Baldomero Piñeiro,Zamora,Carolina Castrillo Prieto S.L.,S.L.N.E,Sí,Minería Avanzadas S.A.,Ourense,161
-Profesional de nivel medio del derecho y servicios legales,414,Glorieta de Calixta Egea,Teruel,Telmo Osorio Rius S.L.L.,S.L.,No,Fortunata Leiva Barón S.Coop.,Huelva,147
-Lavador de vehículos,415,Rambla Atilio Cuevas,Toledo,Logística Peñalver & Asociados S.L.N.E,S.A.,Sí,Moles y asociados S.A.,Almería,860
-Ayudante de cámara,416,Avenida de Teo Fabregat,León,Inmobiliaria WQV S.L.N.E,S.Coop.,No,Suministros Española S.L.,Zaragoza,753
-"Gerente de centros deportivos, de esparcimiento y culturales",417,Urbanización Alfonso Calzada,La Coruña,Azorin y Solera S.A.,S.Com.,No,Agustín y Prat S.C.P,Málaga,33
-Historiador,418,Callejón Ruperta Jiménez,Málaga,Inmobiliaria Mendizábal S.A.T.,S.Com.,No,Minería MSF S.Coop.,Álava,250
-Camarero de barra,419,Alameda Nidia Llabrés,Asturias,Servicios Espejo y asociados S.A.T.,S.L.,Sí,Andrés & Asociados S.A.,Cuenca,61
-Delineante,420,C. Maxi Lucas,Málaga,Giménez & Asociados S.A.T.,S.Coop.,Sí,Promociones del Noroeste S.A.,Pontevedra,569
-Sociólogo,421,Via Primitiva Sobrino,Girona,Blanca y Segura S.Coop.,S.Com.,Sí,Manufacturas WLFY S.L.N.E,Sevilla,5
-Tenedor de libros,422,Camino de Jacinto Carrión,Valladolid,Restauración Lago S.A.,S.Coop.,No,Hermanos Vidal S.A.,Huesca,428
-Operador de máquinas para elaborar alimentos y productos afines,423,Plaza Candela Peiró,Alicante,Promociones Rodriguez y asociados S.Com.,S.A.U,No,Consultoría MWC S.L.,Valencia,774
-Director de políticas y planificación,424,C. de Sonia Alegria,Santa Cruz de Tenerife,Suministros Cuenca S.A.,S.L.L.,Sí,Alimentación Española S.L.,Jaén,993
-Zoólogo,425,Ronda Evita Isern,Ourense,Restauración Balaguer & Asociados S.Com.,S.A.,Sí,Logística Costa y asociados S.Com.,Jaén,61
-Ggeofísico,426,Cuesta de Candela Sotelo,Pontevedra,Talleres Iberia S.L.N.E,S.A.,No,Grupo Alcalde S.Coop.,Alicante,679
-Operador de instalaciones para la preparación de pasta para papel y papel,427,Camino de Noelia Tejada,Sevilla,Supermercados Esteban S.Com.,S.Coop.,No,Desarrollo Robles S.A.,Badajoz,62
-Dinamitero,428,Urbanización Dalila Laguna,Toledo,Gonzalo & Asociados S.L.L.,S.L.U.,No,Promociones GL S.L.,Albacete,491
-Mecánico y reparador en electrónica,429,Glorieta Sergio Arnaiz,La Coruña,Suministros Viana y asociados S.L.N.E,S.L.,No,Industrias Inteligentes S.A.,Jaén,691
-Tasador,430,Via de Roldán Otero,Cuenca,Familia Perales S.A.,S.A.,No,Logística Jimenez S.L.,Tarragona,969
-Cocinero de comidas rápidas,431,Avenida de Ema Guardia,Álava,Mir y Naranjo S.Com.,S.Coop.,Sí,Suministros VV S.A.U,Palencia,900
-Director de teatro,432,Vial Yésica Arregui,Huesca,Fábrica Menendez & Asociados S.L.,S.A.,No,Sanchez y Elías S.L.L.,Lleida,135
-Especialista en políticas y servicios de personal,433,Avenida de Agustina Navarrete,Albacete,Hnos Juárez S.A.,S.A.,No,Consultoría Castellana S.Com.,Zaragoza,643
-Arquitecto,434,Camino Eduardo Carbajo,Segovia,Despacho LN S.A.,S.L.N.E,Sí,Amando Montserrat Corbacho S.A.T.,Salamanca,597
-Mandader,435,Rambla de Dafne Sebastián,Guipúzcoa,Santamaria y Porcel S.Coop.,S.L.N.E,No,Despacho del Sur S.L.N.E,Jaén,498
-Profesional de la publicidad y la comercialización,436,Calle Marcos Bueno,Ciudad,Áurea Luís Toledo S.Com.,S.A.,No,Servicios Blanch S.A.,Teruel,262
-Guardafrenos,437,C. de Bernardino Cabañas,Castellón,Hnos Palomar S.L.,S.L.,Sí,Hnos Lobato S.Com.,Palencia,636
-Herrero,438,Urbanización Isaura Prats,Huelva,Medina y Mate S.Coop.,S.L.N.E,Sí,Soluciones Girona & Asociados S.L.L.,León,696
-Guardagujas,439,Vial de Cesar Porcel,Castellón,Comercial Blasco S.L.,S.Coop.,No,Nebot y Lopez S.L.,La Coruña,146
-Locutor de radio,440,Pasaje Manuela Benet,Toledo,Martí y Martín S.A.,S.Coop.,No,Servicios IB S.L.,Melilla,395
-Profesional de medicina alternativa,441,Calle Luisina Lumbreras,Lleida,Compañía Españolas S.A.,S.A.,Sí,Talleres Española S.Com.,Burgos,293
-Operario en cemento armado y enfoscador,442,Glorieta de Tere Quesada,Cantabria,Servicios Mayo & Asociados S.A.,S.L.N.E,Sí,Serna y asociados S.L.,Huesca,359
-Auxiliar de servicio de abordo,443,Acceso de Bonifacio Alcalá,Cantabria,Ciro Sancho Barranco S.A.D,S.A.,Sí,Marino Sebastián Llorente S.A.,Albacete,102
-"Director de empresas de abastecimiento, distribución y afines",444,Acceso de Dulce Fuente,Cantabria,Hotel Garay S.Com.,S.C.P,No,Tecnologías Tomas S.Coop.,León,628
-Técnico en ciencias biológicas,445,Ronda Pepe Sotelo,Ceuta,Restauración Castellana S.Com.,S.A.,Sí,Logística KLD S.C.P,Huesca,727
-Repartidor,446,Plaza Paulino Zamora,Murcia,Encarna Escrivá Noriega S.L.,S.L.,Sí,Hermanos Valverde S.A.T.,Cádiz,426
-Trabajador de cuidados personales en instituciones,447,Calle de Juan Manuel Calleja,Tarragona,Suministros VQP S.A.,S.L.L.,Sí,Inmobiliaria OMT S.C.P,Alicante,456
-Profesor de artes,448,Rambla de Isidoro Marcos,Lleida,Minería Arregui y asociados S.L.,S.A.,Sí,Mariana Marí Gallego S.Coop.,Lleida,95
-Director de investigación y desarrollo,449,Pasaje Hermenegildo Ponce,Jaén,Valero Cobo Baena S.L.U.,S.L.N.E,Sí,Construcción López y asociados S.L.,Tarragona,321
-Decorador de interior,450,Pasaje Amelia Bejarano,Pontevedra,Restauración Guzmán & Asociados S.L.,S.Coop.,Sí,Logística Alemán & Asociados S.C.P,Jaén,919
-Profesor de enseñanza secundaria,451,Plaza de Encarna Ferrando,Guipúzcoa,Restauración Crespo y asociados S.A.,S.L.,Sí,Solana & Asociados S.L.L.,Huesca,68
-Matemático,452,Ronda de Santos Cañellas,Valladolid,Manufacturas PL S.Coop.,S.A.,Sí,Brígida Trillo Peralta S.C.P,Navarra,856
-Peluqueros,453,Plaza Candelaria Cuadrado,Badajoz,Clarisa Chacón Nicolau S.A.,S.A.,No,Desarrollo Vélez S.Com.,Jaén,201
-Pescador de agua dulce y en aguas costeras,454,Paseo Jessica Porras,Huesca,Comercializadora Ros y asociados S.L.N.E,S.Coop.,No,Arnau y asociados S.L.N.E,La Rioja,489
-Herramentista,455,Calle Felipa Coronado,Cantabria,Manufacturas GOH S.Com.,S.A.T.,No,Tomás y Maestre S.Coop.,Alicante,810
-"Técnico en galerías de arte, museos y bibliotecas",456,Alameda Manolo Carbajo,Murcia,Marita Fuente Navarrete S.Com.,S.Com.,No,Promociones ZCPX S.Com.,Badajoz,294
-Químico,457,C. de Tatiana Pulido,Guipúzcoa,Grupo Álvarez S.A.,S.A.,Sí,Talleres SXD S.A.,León,197
-Ggeofísico,458,Rambla de Amanda Beltran,León,Felisa Cruz Español S.Com.,S.A.,Sí,Cánovas y Viña S.L.N.E,Huelva,534
-Instructor de autoescuela,459,Paseo de Jordana Salazar,Almería,Suministros OQQ S.A.T.,S.L.,Sí,Hermanos Gonzalez S.L.,Cuenca,575
-Trabajador de cuidados personales en instituciones,460,Paseo de Sabina Palau,Sevilla,Tur y asociados S.A.,S.L.N.E,Sí,Ester Antón Abella S.L.,Burgos,252
-Técnico de telecomunicaciones,461,Urbanización de Ángeles Portillo,Málaga,Palmer y Armas S.Coop.,S.L.L.,No,Supermercados Mínguez & Asociados S.Coop.,Huesca,819
-Pescadero,462,Paseo Joan Sainz,Castellón,Farmaceútica Españolas S.L.L.,S.Coop.,No,Restauración Guitart & Asociados S.L.U.,Las Palmas,208
-Conductor de taxis,463,Alameda de Yésica Redondo,Melilla,Despacho Marco y asociados S.Com.,S.Coop.,Sí,Restauración Quesada & Asociados S.Coop.,Toledo,722
-Entrevistador de encuestas,464,Cuesta de Inés Campo,Vizcaya,Transportes CLT S.A.,S.A.,Sí,Comercializadora Ramón & Asociados S.A.,Burgos,758
-Operador de instalaciones de procesamiento de metales,465,Avenida Eloy Pinto,Jaén,Minería Alberto S.A.,S.Com.,Sí,Logística Somoza S.L.L.,Navarra,347
-Cocinero,466,Alameda María Rosell,Girona,Mate y asociados S.Coop.,S.A.,No,Juan Antonio Barón Sobrino S.Coop.,Cáceres,71
-Conserje,467,Camino de Ani Quero,Almería,Marcio Hervás Cabañas S.L.N.E,S.L.,Sí,Hotel Inteligentes S.L.,Zaragoza,701
-Analista de sistemas,468,Alameda Juanito Sastre,Ourense,Beltrán & Asociados S.Com.,S.L.N.E,Sí,Sastre & Asociados S.L.,Tarragona,117
-Perforador y sondista de pozos,469,Cañada de Rosario Gil,Málaga,Fernandez y asociados S.Coop.,S.Com.,No,Julieta Cerro Lobo S.Coop.,Ciudad,235
-"Operario de la conservación de frutas, legumbres y verduras",470,Plaza Bienvenida Pinto,Salamanca,Tadeo Sarabia Díaz S.Com.,S.L.U.,No,Hotel Galván y asociados S.Coop.,Álava,387
-Gorjadore,471,Alameda Joaquín Gomila,Valladolid,Distribuciones Mayoral S.A.,S.A.,No,Hnos Montenegro S.A.U,Valladolid,141
-Recolector de basura y material reciclable,472,Cañada de Haroldo Quintanilla,Las Palmas,Luis Ángel Galván Morillo S.Coop.,S.L.N.E,Sí,Consultoría RO S.Coop.,Baleares,752
-Director de empresas de construcción,473,Camino de Olimpia Cazorla,Navarra,Fábrica ILI S.L.N.E,S.L.,Sí,Suárez y asociados S.Coop.,Girona,848
-Gorjadore,474,Cañada Adelina Somoza,Barcelona,Banca Privada Nevado S.L.N.E,S.Coop.,No,Pineda y Morante S.L.,Lleida,681
-Sombrerero,475,Acceso de Visitación Robles,Barcelona,Hermanos Villalonga S.Coop.,S.L.U.,Sí,Construcción Piñeiro S.Coop.,Valencia,344
-Oficial de préstamos y créditos,476,Plaza de Bienvenida Villaverde,Vizcaya,Martirio Perea Manrique S.A.,S.L.,No,Pina y asociados S.A.,Cáceres,310
-Pescador de agua dulce y en aguas costeras,477,Glorieta Roque Carbonell,Málaga,Transportes Inteligentes S.C.P,S.A.,Sí,Promociones Españolas S.L.,Álava,539
-Declarante de aduana,478,Ronda de Francisco Jose Mateo,Almería,Instalaciones Ibérica S.A.T.,S.L.N.E,No,Banco Iberia S.A.U,Albacete,857
-Profesional de medicina,479,Alameda Marisa Delgado,Palencia,Finanzas HJ S.A.,S.A.T.,No,Farmaceútica del Noroeste S.L.L.,Guipúzcoa,20
-Director de cine,480,Via de Agustina Guitart,Zamora,Hermanos Segura S.A.,S.L.,No,Hermanos Menéndez S.L.N.E,Burgos,40
-Peón forestales,481,Cañada Miguel Ángel Martí,Cádiz,Grupo Manzano S.Coop.,S.L.L.,Sí,Tecnologías del Sur S.L.N.E,Burgos,496
-"Redactor de carteles, pintor decorativos y grabador",482,Pasadizo Tatiana Cisneros,Girona,Instalaciones Caparrós S.A.,S.L.,No,Servicios SC S.L.,Málaga,382
-Operador de máquinas para fabricar productos de material plástico,483,Cuesta de Jafet Barrera,Navarra,Iris Feliu Cantón S.C.P,S.A.U,Sí,Construcción QDNJ S.A.,Jaén,991
-Director de servicios de cuidado de las personas de edad,484,Cuesta de Genoveva Nicolau,León,Comercial LYVT S.L.L.,S.A.,No,Familia Ricart S.Com.,Cádiz,912
-Comerciante de tiendas,485,Alameda Amor Romero,Lugo,Fábrica Villaverde S.Com.,S.A.U,Sí,Eustaquio Rodríguez Díez S.Com.,Girona,851
-Agente de bolsa,486,Cañada de Ileana Sarabia,Zamora,Martin & Asociados S.L.N.E,S.C.P,No,Manufacturas CU S.L.L.,Huelva,663
-Lingüista,487,Callejón de Luciano Álvarez,Palencia,Hnos Almansa S.Coop.,S.L.N.E,No,Alimentación WGD S.C.P,Pontevedra,333
-Secretario ejecutivo,488,Paseo Azeneth Carrasco,Navarra,Alimentación QD S.Coop.,S.L.L.,No,Contreras y Otero S.A.,Guipúzcoa,981
-Director de servicios de salud,489,Plaza de Amílcar Valentín,Albacete,Logística LRFQ S.Com.,S.C.P,No,Familia Barrera S.Coop.,Lugo,783
-Periodista,490,Rambla de Andrea Bertrán,Madrid,Prieto y asociados S.Coop.,S.A.,Sí,Familia Guillen S.Coop.,Melilla,174
-Director de explotaciones de minería,491,Alameda Leonardo Landa,Almería,Olivares y asociados S.Coop.,S.L.N.E,Sí,Familia Azorin S.Com.,Huelva,677
-Chapista,492,Ronda Magdalena Arnal,Barcelona,Banca Privada Globales S.A.T.,S.L.,No,Cano y asociados S.A.,Cáceres,215
-Peón de explotaciones de cultivos mixtos y ganaderos,493,Via Sosimo Contreras,Tarragona,Arenas y Ojeda S.Com.,S.L.L.,No,Mendizábal y Alcalá S.L.N.E,Huelva,192
-"Limpiador y asistente de oficinas, hoteles y otros establecimientos",494,C. de Dani Iborra,Córdoba,Fátima Diez Expósito S.Coop.,S.L.N.E,No,Grupo Rueda S.A.,La Coruña,219
-Costurero,495,Callejón de María Teresa Baró,Guadalajara,Grupo Roig S.A.,S.A.,No,Apolonia Terrón Cañete S.Coop.,Barcelona,585
-Conserje,496,Pasadizo Loida Machado,Ávila,Peinado & Asociados S.L.N.E,S.Com.,Sí,Grupo Iborra S.L.,Vizcaya,26
-Profesor de idiomas,497,Glorieta Gema Barral,Burgos,Banco HSF S.Com.,S.Coop.,Sí,Tomás y asociados S.L.N.E,Zaragoza,787
-Profesional de nivel medio de servicios estadísticos o matemáticos,498,Urbanización de Isaac Gracia,Palencia,Vicente & Asociados S.Coop.,S.Coop.,No,Mascaró y Bilbao S.L.N.E,Cáceres,707
-Calderero,499,Pasadizo de Yésica Casal,Cáceres,Rosado y Pardo S.L.U.,S.L.,Sí,Construcción Moraleda & Asociados S.Com.,La Rioja,397
-Deshollinador,500,Alameda de Nélida Albero,Valladolid,Soluciones Cabanillas S.L.U.,S.Com.,Sí,Hotel Castañeda y asociados S.C.P,Huelva,936
+Profesional de medicina alternativa,1,Cañada Mario Gelabert,Granada,Soluciones Valera S.L.,S.Com.,Sí,Talleres YJE S.L.,Ourense,605
+Conserje,2,Pasadizo Candelas Andrade,Guipúzcoa,Valentín y asociados S.Coop.,S.Com.,Sí,Minería Abella S.Coop.,Ciudad,240
+Historiador,3,Cuesta Rosalía Carmona,Baleares,Casanovas y Puerta S.L.U.,S.C.P,Sí,Construcción MFB S.L.,Álava,143
+Ingeniero medioambiental,4,Urbanización María Cristina Galan,Segovia,Grupo Priego S.Coop.,S.Com.,No,Pinto y asociados S.L.N.E,Lleida,333
+Diseñador de productos,5,Cañada de Josefa Amorós,Cantabria,Instalaciones Echeverría S.L.,S.C.P,No,Tecnologías UEVM S.L.,Huelva,726
+Estadístico,6,Plaza Abril Avilés,Badajoz,Banco Gutiérrez S.Coop.,S.A.,No,Soluciones Campos y asociados S.L.,Cáceres,33
+Vendedor de comidas al mostrador,7,Camino Álvaro Ocaña,Jaén,Roxana Abad Cabello S.Com.,S.L.,No,Baños y asociados S.A.,Teruel,140
+Agrónomo,8,Paseo de Toño Baquero,Lleida,Consultoría Piquer S.Com.,S.Coop.,No,Inversiones Alemán y asociados S.A.,Murcia,894
+Ensamblador de equipos eléctricos,9,Via Eli Alberola,Alicante,Construcción VXG S.A.U,S.Com.,Sí,Instalaciones ZEB S.A.,Tarragona,692
+Técnico en electrónica,10,Acceso Anna Falcón,Huelva,Hnos Villar S.Com.,S.L.U.,Sí,Hnos Galan S.L.L.,Guipúzcoa,606
+Agente de empleo,11,Acceso de Hortensia Antón,Málaga,Tecnologías del Levante S.L.L.,S.Coop.,No,Vilanova y asociados S.Com.,Badajoz,800
+Operador de máquinas lavarropas,12,Calle Cecilio Ayala,Ourense,Juárez y Conde S.L.U.,S.L.N.E,No,Tecnologías Arranz S.A.,Badajoz,612
+Peón de obras públicas y mantenimiento,13,Calle de Fortunata Tomas,Lleida,Alimentación Integrales S.A.,S.Com.,Sí,Consultoría BADJ S.L.L.,Cádiz,656
+Profesor de música,14,Plaza Flor Ribas,Las Palmas,Natividad Requena Bueno S.A.D,S.Coop.,No,Comas y asociados S.Coop.,Baleares,305
+Fabricante de instrumentos musicales,15,Ronda de Yolanda Lasa,Guadalajara,Familia Milla S.Com.,S.L.,Sí,Hnos Olmo S.Coop.,León,551
+Profesional de medicina alternativa,16,Paseo de César Andres,Huelva,Finanzas Española S.L.,S.C.P,Sí,Dora Pineda Jódar S.L.,Málaga,275
+Mandader,17,C. de Régulo Sancho,Ourense,Despacho Royo S.Com.,S.L.,No,Manufacturas Ramón S.L.,Barcelona,18
+Barrendero,18,Glorieta de Gustavo Arjona,Almería,Demetrio Caro Llorens S.C.P,S.A.,Sí,Inversiones Jover y asociados S.L.L.,Tarragona,131
+Profesional de nivel medio en actividades culturales y artísticas,19,Acceso Artemio Valcárcel,Navarra,Minería Integrales S.A.,S.A.,No,Finanzas Integrales S.Coop.,Valladolid,838
+Inspector de policía,20,Urbanización Eusebio Martin,Ciudad,Hotel XE S.Com.,S.Coop.,No,Comercial Españolas S.L.,Cantabria,460
+Supervisor de industria manufacturera,21,Calle Águeda Antúnez,Guadalajara,Salud Segura Guijarro S.L.,S.Coop.,Sí,Perez y asociados S.Com.,Murcia,674
+Albañil,22,Camino Visitación Rubio,Santa Cruz de Tenerife,Industrias Ordóñez S.L.N.E,S.A.,No,Industrias JMES S.Coop.,Las Palmas,44
+Diseñador gráfico,23,Plaza Teo Acero,Navarra,Comercializadora Velasco & Asociados S.L.,S.L.,Sí,Minería Arias S.L.U.,Asturias,704
+Coreógrafo,24,Paseo de Renato Suárez,Burgos,Pareja y Cobo S.Coop.,S.L.,Sí,Compañía Torralba S.L.L.,La Coruña,462
+Desarrollador de software,25,Via Eleuterio Amor,Salamanca,Construcción Campo S.L.,S.Com.,No,Puga & Asociados S.L.L.,Ceuta,321
+Peón de obras públicas y mantenimiento,26,C. Manuela Pastor,León,Talleres Campos S.L.L.,S.L.N.E,No,Instalaciones QQKB S.Com.,Barcelona,157
+Ingeniero industrial,27,Via Florinda Ibañez,Ourense,Compañía TG S.L.,S.Coop.,No,Inversiones Ibañez & Asociados S.L.N.E,Ávila,894
+Secretario ejecutivo,28,C. Desiderio Borrás,Girona,Familia Asensio S.L.N.E,S.Com.,Sí,Hotel RBCR S.Coop.,Toledo,124
+Ebanista,29,Urbanización de Augusto Enríquez,Cádiz,Bonet y Benito S.C.P,S.Com.,Sí,Hnos Cózar S.Coop.,Murcia,655
+Guardia de protección,30,Avenida de Serafina Tejero,Castellón,Alimentación QDV S.L.N.E,S.Coop.,Sí,Abril y asociados S.Coop.,Almería,465
+"Operario de la conservación de frutas, legumbres y verduras",31,C. Iván Luz,Sevilla,Logística Mora S.L.L.,S.Coop.,No,Criado y Gaya S.Com.,Murcia,284
+Periodista,32,Callejón de Eric Carrillo,Pontevedra,Familia Feijoo S.Com.,S.Coop.,Sí,Familia Ferrándiz S.L.L.,Toledo,456
+Recepcionista,33,Calle de Edgardo Riera,Almería,Supermercados Avanzadas S.L.L.,S.Coop.,No,Faustino Guerrero Guzmán S.A.D,Alicante,479
+Auxiliar laico de las religión,34,Acceso Fortunata Cerro,Zamora,Supermercados del Mediterráneo S.Com.,S.A.T.,Sí,Solé y Tormo S.A.,León,142
+Revisor y cobrador de los transportes públicos,35,Pasadizo Carmelita Montoya,La Rioja,Comercializadora UV S.L.,S.Com.,No,Supermercados Calvo S.A.T.,Granada,841
+Jefe de pequeñas poblaciones,36,Camino Amalia Pons,Ciudad,Meléndez y Morillo S.Com.,S.L.,Sí,Talleres Ríos & Asociados S.L.L.,Álava,908
+Fabricante de instrumentos musicales,37,Alameda Mohamed Palau,Palencia,Desarrollo Rincón S.Coop.,S.L.,No,Desarrollo VRHT S.Com.,Burgos,211
+Conductor de motocicletas,38,Via de Nadia Núñez,Teruel,Zabala y Malo S.A.T.,S.L.N.E,No,Hermanos Porcel S.C.P,Burgos,38
+Gerente de comercios al por mayor y al por menor,39,Pasaje de Rufina Bilbao,Almería,Fábrica Martí S.A.,S.Com.,No,Industrias Luque & Asociados S.L.N.E,Cuenca,436
+Moldeador y machero,40,Paseo Gregorio Amat,Santa Cruz de Tenerife,Inversiones Lobato & Asociados S.Coop.,S.A.,No,Banca Privada Manrique & Asociados S.Coop.,Teruel,890
+Constructor de casas,41,Vial Josefa Esteban,Segovia,Hermanos Benavent S.A.,S.Com.,No,Industrias Castellana S.L.L.,Castellón,827
+Camarero de barra,42,Cuesta Ariadna Pardo,Cantabria,Parra y Cerezo S.A.D,S.Coop.,Sí,Ojeda y Martín S.Com.,Huesca,397
+"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos",43,Callejón Purificación Borrás,Tarragona,Servicios Burgos & Asociados S.C.P,S.L.N.E,No,Inmobiliaria Cueto & Asociados S.Coop.,Cuenca,788
+Revocador,44,Vial José Ángel Galván,Valencia,Bernal y Escalona S.Com.,S.A.T.,Sí,Consultoría Armas S.L.,Soria,537
+Colchonero,45,Paseo Buenaventura Riera,Barcelona,Hotel Calvet S.L.L.,S.L.N.E,No,Familia Cuevas S.C.P,Jaén,802
+"Empleado de servicios estadísticos, financieros y de seguros",46,Calle Anabel Franco,Soria,Escalona y Seco S.Com.,S.A.T.,No,Blanes y Aguilera S.A.,Tarragona,584
+Tipógrafo,47,Acceso de Alejo Carmona,Alicante,Alsina & Asociados S.L.,S.Coop.,No,Machado y Arroyo S.A.,Navarra,484
+Meteorólogo,48,C. de Rufina Cañete,Granada,Arribas y asociados S.Com.,S.Coop.,No,Áurea Bermudez Pedraza S.A.,Sevilla,611
+Agente de empleo,49,Acceso de Cloe Lorenzo,Las Palmas,Banco del Noroeste S.L.N.E,S.L.N.E,No,Comercial Pi S.L.,Santa Cruz de Tenerife,1
+Profesor de música,50,Avenida Matilde Hidalgo,Girona,Comercializadora AXX S.Com.,S.L.,No,Pazos y asociados S.C.P,Cádiz,150
+Sombrerero,51,Cuesta Belen Fuente,Valencia,Finanzas DKZO S.L.,S.A.,Sí,Logística Avanzadas S.L.,Castellón,37
+Profesional de nivel medio de partería,52,Urbanización de Evelia Tapia,Barcelona,Tecla Corbacho Soto S.Coop.,S.L.,No,Logística Carvajal y asociados S.L.,Guipúzcoa,139
+Peón de jardinería y horticultura,53,Alameda Chus Laguna,Ourense,Inversiones FFHY S.Com.,S.A.,No,Banca Privada WY S.L.,Tarragona,305
+Técnico en seguridad aeronáutica,54,Pasaje de Azahara Aller,Pontevedra,Ponce y Ariza S.L.L.,S.Coop.,Sí,Compañía Mercader S.Coop.,Salamanca,416
+"Modelo de moda, arte y publicidad",55,Glorieta Sara Pazos,Álava,Supermercados Vallés S.L.N.E,S.L.,Sí,Familia Andres S.Com.,Granada,422
+Técnico de prótesis médicas y dentales,56,Pasaje de Eladio Iglesia,Madrid,Arce y asociados S.A.T.,S.A.,No,Ortiz y asociados S.Coop.,Melilla,145
+Herrero,57,Callejón de Gala Agustín,Almería,Flores y asociados S.L.,S.L.N.E,No,Abad y Camino S.Com.,Girona,22
+Herramentista,58,Pasadizo Berta Gilabert,Tarragona,Hermanos Mayo S.Com.,S.C.P,Sí,Alimentación SMI S.L.,Asturias,693
+Profesional de nivel medio de servicios estadísticos o matemáticos,59,Alameda Inés Torrents,Melilla,Guijarro & Asociados S.A.,S.Coop.,No,Esteve y Blázquez S.L.N.E,Las Palmas,185
+Cajero,60,Via Adela Cruz,La Coruña,Banca Privada Espinosa y asociados S.L.N.E,S.L.,No,Comercial Globales S.L.N.E,Pontevedra,441
+Conductor de autobús,61,Pasaje de Aarón Calleja,Cantabria,Supermercados del Levante S.Coop.,S.Coop.,Sí,Inmobiliaria Guitart S.Coop.,Teruel,205
+Profesional de nivel medio de servicios estadísticos o matemáticos,62,C. de Ruperto Roldan,Barcelona,Alberdi & Asociados S.A.,S.A.D,No,Roberto Recio Coloma S.L.N.E,Cádiz,58
+Conductor de vehículos y máquinas de tracción animal,63,Pasadizo Begoña Codina,Alicante,Inversiones Recio S.Coop.,S.L.,Sí,Maribel Castro Hurtado S.L.N.E,Jaén,598
+Operador de máquinas para fabricar productos de caucho,64,Alameda de Manolo Tormo,Girona,Pintor y Acosta S.L.U.,S.Com.,Sí,Eufemia Solé Sala S.A.,Toledo,717
+Técnico de prótesis médicas y dentales,65,Cañada Curro Vara,Ourense,Hermanos Cornejo S.Com.,S.L.,No,Alimentación del Levante S.C.P,Soria,652
+Profesional de nivel medio de medicina tradicional y alternativa,66,Vial de Marisela Raya,Tarragona,Banca Privada Pacheco S.Com.,S.A.,No,Hermanos Huertas S.L.N.E,Valencia,258
+Alfarero,67,Urbanización de Victoriano Llamas,Huesca,Infraestructuras DT S.Coop.,S.Coop.,No,Martinez & Asociados S.Com.,Burgos,395
+Minero,68,C. Francisca Solé,Vizcaya,Infraestructuras Feijoo S.L.N.E,S.Com.,No,Hnos Cantero S.Com.,Cáceres,507
+Profesional de ventas técnicas y médicas,69,Via de Pía Amigó,Albacete,Cordero y Casas S.Com.,S.L.N.E,No,Campoy & Asociados S.Coop.,Guadalajara,666
+Operador de máquinas para fabricar productos de papel,70,Paseo de Nicolasa Ayuso,Álava,Soledad Villalba Villalonga S.Com.,S.Com.,No,Transportes LP S.Coop.,Huesca,143
+Buzo,71,Camino de Sebastián Mateos,Madrid,Hnos Borja S.A.,S.L.U.,No,Tello & Asociados S.A.T.,Zaragoza,52
+Electricista de obras,72,Rambla de Belén Oliveras,Ávila,Infraestructuras Guzman & Asociados S.L.,S.L.,No,Pozuelo y Requena S.Coop.,León,466
+Profesor de formación profesional,73,Plaza de Armida Uría,Badajoz,Alemany y Atienza S.A.,S.A.,No,Micaela Canet Gomila S.A.,Girona,342
+Corrector de pruebas de imprenta,74,Alameda de Martin Escribano,Baleares,Compañía Cortés S.L.L.,S.Com.,No,Familia Salvà S.A.T.,Almería,560
+Barrendero,75,Vial Chus Durán,Ciudad,Inversiones del Noroeste S.L.,S.Com.,No,Bou & Asociados S.C.P,Álava,98
+Químico,76,Ronda de Édgar Pina,Teruel,Construcción Internacionales S.L.,S.L.L.,Sí,Narváez & Asociados S.L.N.E,Vizcaya,632
+Gestor de aduana,77,Rambla de Cirino Vives,Zaragoza,Familia Aller S.L.L.,S.Coop.,Sí,Farmaceútica Iberia S.Coop.,Alicante,570
+Gorjadore,78,Plaza Casandra Porta,Las Palmas,Manufacturas Velázquez S.Com.,S.Coop.,No,Marquez y Valls S.L.N.E,Palencia,961
+Periodista,79,Pasaje Marino Segarra,León,Casares y Fernandez S.L.,S.A.,No,Fábrica Globales S.L.,Barcelona,117
+Filósofo,80,Pasadizo de Jose Ignacio Caro,Guadalajara,Trini Ferrera Tejada S.Com.,S.L.,No,Banca Privada Cánovas S.Com.,La Coruña,925
+Vendedor de comidas al mostrador,81,Paseo de David Bernad,Castellón,Barceló y Estevez S.Coop.,S.L.N.E,No,Pareja y Puga S.L.L.,Huesca,374
+Actor,82,Via de Concha Cabañas,Barcelona,Elena Cañizares Bayón S.A.,S.Com.,Sí,Segura & Asociados S.A.,Granada,208
+Conductor de vehículos accionados a pedal o a brazo,83,Pasadizo de Leire Agustín,Cádiz,Hervás y Carbó S.L.,S.L.,No,Finanzas ET S.Com.,Pontevedra,296
+Codificador de datos,84,Paseo Godofredo Andreu,Valladolid,José Manuel Iriarte Muñoz S.A.T.,S.L.,No,Comercial Avanzadas S.Coop.,Valencia,140
+Consignatario,85,Urbanización Rolando Bustos,Ávila,Alcalde & Asociados S.L.L.,S.Com.,Sí,Farmaceútica del Norte S.A.T.,Asturias,177
+Tenedor de libros,86,C. Irene Gutiérrez,Álava,Agudo y asociados S.L.U.,S.Coop.,No,Hotel Olivera S.L.,Almería,470
+Director de servicios de tecnología de la información y las comunicaciones,87,Avenida de Gonzalo Landa,Vizcaya,Servicios Santana & Asociados S.Coop.,S.L.,No,Posada y Llobet S.L.,Murcia,443
+Geólogo,88,Camino de Gonzalo Tovar,Teruel,Soluciones del Norte S.A.,S.L.,No,Consultoría Mosquera S.Coop.,Segovia,883
+Supervisor de tiendas y almacenes,89,Cuesta Estefanía Pina,Teruel,Catalán & Asociados S.A.,S.L.L.,No,Servicios García & Asociados S.A.,Albacete,301
+Instructor de educación física y actividades recreativas,90,Via Araceli Real,Almería,Servicios Giralt S.Coop.,S.Coop.,Sí,Banca Privada Palacio S.L.L.,Álava,696
+Mensajero,91,Acceso Elba Conde,Huesca,Logística Española S.Com.,S.L.L.,Sí,Segura y asociados S.Com.,Lleida,295
+Joyero,92,Ronda de Narciso Castañeda,Guadalajara,Soluciones Saura S.L.,S.A.,Sí,Compañía Arrieta & Asociados S.C.P,Córdoba,933
+Operador de instalaciones de producción de energía,93,Pasaje de Tatiana Pastor,Girona,Hermanos Hernandez S.A.,S.L.,Sí,Restauración KYOD S.L.,Pontevedra,530
+Lingüista,94,Urbanización de Baltasar Antúnez,Granada,Soluciones CF S.Coop.,S.A.,No,Industrias Españolas S.A.,Tarragona,859
+Matemático,95,Camino Raúl Miralles,Granada,Hotel del Noroeste S.L.,S.A.,No,Perez y Caro S.L.L.,Cádiz,948
+Director de servicios de bienestar social,96,Vial de Charo Solano,Zamora,Desarrollo Avanzadas S.Coop.,S.Coop.,Sí,Tecnologías EVMU S.A.,Cáceres,19
+Árbitro deportivo,97,Camino Marcial Ripoll,Huesca,Arias & Asociados S.A.,S.Com.,No,Fábrica del Norte S.C.P,Córdoba,41
+Profesional del trabajo social,98,Cuesta Valentina Millán,Palencia,Verónica Sanchez Vilaplana S.L.N.E,S.L.,Sí,Hoyos y asociados S.Com.,Las Palmas,663
+Perforador y sondista de pozos,99,Ronda Encarna Herranz,Las Palmas,Finanzas AA S.Coop.,S.Coop.,No,Conesa y Vega S.Com.,Las Palmas,870
+Dibujante técnico,100,Alameda Anastasia Barbero,Lleida,Instalaciones del Noroeste S.A.,S.Coop.,Sí,Arregui y asociados S.L.,Albacete,231
+Maestro de enseñanza primaria,101,Paseo de Febe Quiroga,Teruel,Logística del Levante S.Coop.,S.L.U.,Sí,Consultoría Rivero S.L.,Ciudad,528
+Técnico en seguridad aeronáutica,102,Paseo de Martina Vallejo,Girona,Grupo Río S.A.,S.Coop.,No,Manufacturas Amigó S.L.L.,Teruel,581
+Asistente fisioterapeuta,103,Cuesta de Ligia Lobo,Albacete,Checa & Asociados S.A.,S.L.,Sí,Logística LR S.L.U.,Badajoz,123
+"Gerente de sucursales de bancos, de servicios financieros y de seguros",104,Paseo Sergio Blanch,Guadalajara,Angulo y asociados S.A.,S.Coop.,No,Promociones Rosell & Asociados S.A.,Valladolid,792
+Entrenador deportivo,105,Pasadizo Ángel Aragonés,Salamanca,Olivares y asociados S.A.,S.A.,Sí,Familia Aguiló S.L.,Toledo,209
+Conductor de autobús,106,Acceso de Aura Vega,Asturias,Comercializadora KQ S.L.,S.L.N.E,No,Inmobiliaria Olmo & Asociados S.Coop.,Melilla,603
+Ayudante de ambulancia,107,Alameda de Reina Benavent,Zaragoza,Grupo Chaparro S.Com.,S.A.,No,Inversiones Zabaleta & Asociados S.L.N.E,Ceuta,840
+Supervisor de industria manufacturera,108,Cuesta de Agustina Bueno,Zamora,Almazán y Cano S.A.T.,S.L.N.E,No,Grupo Losa S.A.,Alicante,386
+Reparador de bicicletas,109,Callejón Federico Tejedor,Murcia,Cecilia Casal Ochoa S.Coop.,S.A.,Sí,Familia Milla S.C.P,Asturias,417
+Director financiero,110,Alameda de Victoriano Jordán,Guadalajara,Manufacturas OFY S.Coop.,S.C.P,No,Salinas y Codina S.A.T.,Ciudad,723
+Tapicero,111,Via de Epifanio Llabrés,Palencia,Construcción Aranda & Asociados S.A.,S.L.U.,Sí,Hnos Ramis S.Coop.,Girona,789
+Inspector de policía,112,Cuesta de Amelia Vara,La Rioja,Restauración Marco S.L.N.E,S.Com.,Sí,Hnos Nebot S.L.,Huesca,492
+Peón forestales,113,Camino de Gracia Rueda,Pontevedra,Instalaciones Globales S.L.U.,S.A.,No,Familia Maestre S.L.L.,Tarragona,42
+Moldeador y machero,114,Pasadizo de Apolonia Guerra,Las Palmas,Olalla Mir Jover S.L.,S.A.U,No,Acero y Cortina S.L.,Huesca,732
+Mayordomo doméstico,115,Via Cirino Baena,Ourense,Transportes SCR S.A.D,S.A.,No,Tecnologías Integrales S.Com.,Girona,797
+Lavandero,116,Acceso de Ángeles Macias,Huesca,Torres & Asociados S.A.,S.Coop.,No,Brunilda Valls Pedro S.L.,Girona,106
+Mensajero,117,Cuesta de Noa Ledesma,Tarragona,Familia Arnal S.A.,S.L.N.E,No,Torrens & Asociados S.L.,Ciudad,266
+Profesor de idiomas,118,Cañada Rafa Fuente,Melilla,Hotel Gomis S.Coop.,S.L.,No,Tecnologías Barceló & Asociados S.Coop.,Lleida,668
+Conductor de vehículos accionados a pedal o a brazo,119,Glorieta de Marino Escamilla,Valladolid,Logística Diaz & Asociados S.L.N.E,S.L.,No,Reig y Albero S.A.,Baleares,306
+Mecánico-montador de instalaciones de refrigeración y climatización,120,Calle Florencia Valbuena,Granada,Familia Collado S.Com.,S.A.,Sí,Infraestructuras Gallo S.Coop.,Ourense,585
+Corrector de pruebas de imprenta,121,Avenida de Ramona Yáñez,La Rioja,Anacleto Tena Escrivá S.A.,S.A.,Sí,Victoriano Gálvez Gámez S.Coop.,La Rioja,981
+Gestor de aduana,122,Ronda Ana Sofía Baquero,La Coruña,Roldán y Mulet S.L.L.,S.L.N.E,No,Hnos Rocamora S.Com.,Cáceres,740
+Ingeniero electrónico,123,Plaza de Amador Arce,Sevilla,Pol y Valbuena S.A.,S.L.,Sí,Molins y Landa S.L.N.E,Segovia,828
+Practicante paramédico,124,Cuesta Severino Cerezo,Baleares,Hermanos Borrego S.A.T.,S.Coop.,No,Compañía HW S.L.,Cantabria,337
+Regulador y operador de máquinas de labrar madera,125,Camino Cruz Juliá,Baleares,Pallarès y asociados S.A.U,S.A.,No,Pomares y Diego S.L.,Ávila,253
+Director de ventas y comercialización,126,Cañada de Victor Polo,Granada,Inmobiliaria RHL S.A.D,S.A.,No,Construcción Cáceres S.L.,La Rioja,535
+Modisto,127,Camino Cebrián Ramis,Zaragoza,Despacho Miró y asociados S.L.N.E,S.Coop.,No,Manufacturas SHM S.A.,Pontevedra,368
+Guardagujas,128,Glorieta Bernardita Luque,Sevilla,Industrias Gilabert y asociados S.A.T.,S.L.N.E,Sí,Páez y asociados S.L.N.E,Almería,45
+"Gerente de centros deportivos, de esparcimiento y culturales",129,Glorieta Teresa Rivas,Navarra,Transportes Manjón y asociados S.L.N.E,S.A.,No,Familia Cisneros S.A.,Málaga,710
+Cortador de vidrio,130,Vial de Humberto Lloret,Lleida,Minería GMV S.Com.,S.Com.,Sí,López y asociados S.Com.,Cuenca,139
+Declarante de aduana,131,Cuesta Ariel Laguna,Palencia,Fábrica Figueras S.L.N.E,S.Coop.,Sí,Instalaciones Globales S.A.,Zamora,745
+Historiador,132,C. de Ruy Gomis,Palencia,Transportes BUYC S.L.N.E,S.Com.,No,Guzmán y Sans S.Com.,Segovia,254
+Criador de ganado,133,C. de Elba Villaverde,Valladolid,Construcción Avanzadas S.L.,S.A.,No,Finanzas ORG S.C.P,Soria,174
+Ayudante de cocina,134,Acceso de Celia Iriarte,La Coruña,Casares y Exposito S.L.,S.Com.,No,Transportes Chamorro S.A.,Granada,456
+Clasificador de desechos,135,Alameda de Natividad Casanova,Lleida,Transportes Tovar & Asociados S.L.U.,S.L.,No,Luciana Ojeda Montalbán S.A.,León,691
+Jefe de pequeñas poblaciones,136,Glorieta de Eloísa Artigas,Ciudad,Hotel Avanzadas S.L.,S.Com.,No,Banco Cortés S.A.,Las Palmas,688
+Recepcionista,137,Pasadizo de Reyes Dominguez,Navarra,Suárez y asociados S.A.T.,S.Coop.,Sí,Talleres Canals & Asociados S.Coop.,Ceuta,183
+Ayudante de ambulancia,138,C. de Francisco Jose Portillo,Lleida,Soluciones Berenguer S.Coop.,S.Com.,No,Farmaceútica Mena S.L.,Guadalajara,556
+Recepcionista de hoteles,139,Cuesta Elodia León,Baleares,Promociones FMQ S.Coop.,S.A.,No,Palomino y Perea S.A.,Tarragona,513
+Diseñador gráfico,140,Calle de Ricardo Téllez,Córdoba,Chamorro y asociados S.Com.,S.L.,No,Fortunata Giner Paredes S.A.T.,Lugo,702
+Vendedor ambulantes de productos comestibles,141,Pasaje de Daniel Araujo,Lugo,Industrias Mateo S.L.,S.Com.,No,Alimentación Españolas S.L.N.E,Ávila,164
+Operador de máquinas para fabricar productos de papel,142,Avenida de Celia Carranza,Jaén,Alimentación Vega y asociados S.Com.,S.A.,No,Tur y asociados S.L.,Albacete,297
+Operario del tratamiento de la madera,143,Via Bernardino Lago,Málaga,Pi y Torrent S.A.,S.Coop.,No,Lobato y asociados S.A.,Badajoz,97
+Profesional de nivel medio del derecho y servicios legales,144,Camino de Yolanda Chacón,Segovia,Cerezo y asociados S.L.,S.L.N.E,No,Fábrica Domingo S.Coop.,Sevilla,249
+Grabador de piedra,145,Plaza de Balduino Andres,Granada,Familia Barceló S.L.L.,S.L.N.E,Sí,Alfonso & Asociados S.L.,Sevilla,890
+Miembro de las fuerzas armadas,146,Vial Florentina Roldán,Melilla,Transportes Iberia S.L.,S.A.,Sí,Giralt y Acevedo S.L.L.,Ceuta,516
+Trabajador comunitario de la salud,147,Cuesta de Jesusa Bernad,Murcia,Ródenas y Vives S.Coop.,S.Coop.,No,Transportes Española S.Com.,Girona,719
+Limpiador y asistente doméstico,148,Ronda Azahar Mancebo,Cuenca,Sancho y Barriga S.A.,S.Coop.,Sí,Grupo Velasco S.L.L.,Valladolid,157
+Fabricante de instrumentos musicales,149,C. Jose Ramón Iglesias,Ciudad,Lillo y Ortiz S.Coop.,S.A.,Sí,Domínguez y asociados S.L.N.E,Ourense,111
+Operador de grúas y aparatos elevadores,150,Callejón de Nicodemo Sevilla,Almería,Finanzas Perea y asociados S.Com.,S.A.,No,Genoveva Morera Valle S.L.,Madrid,173
+Empleado de biblioteca,151,Avenida de Octavio Nogueira,Madrid,Transportes Maldonado S.A.,S.L.,No,Instalaciones UQ S.L.L.,Santa Cruz de Tenerife,697
+Ingeniero civil,152,Urbanización de Valentina Español,Asturias,Teo Oliva Cáceres S.A.,S.Com.,No,Ribera y Garcés S.Coop.,Toledo,689
+Cocinero,153,C. de Epifanio Herranz,Las Palmas,Hnos Fabra S.Com.,S.L.N.E,Sí,Industrias Iberia S.L.,Baleares,195
+Profesional de ventas de tecnología de la información y las comunicaciones,154,Calle Berto Cueto,Tarragona,Flora Méndez Marín S.A.,S.A.,No,Familia Montserrat S.Coop.,Tarragona,846
+Técnico forestal,155,Alameda de Eligia Salvà,Almería,Familia Feliu S.Coop.,S.L.L.,No,Familia Martin S.L.,Valladolid,302
+Operador de telar y otras máquinas tejedoras,156,Glorieta de Macario Coca,Ourense,Infraestructuras OXDS S.L.,S.A.,Sí,Benítez & Asociados S.Coop.,Palencia,502
+Agente de aduanas,157,Plaza de Casemiro Vergara,La Rioja,Arregui y asociados S.L.,S.L.,No,Grupo Lillo S.L.,Lugo,802
+Compositor,158,Glorieta Isaías Aragón,Melilla,Carvajal y asociados S.Coop.,S.Com.,No,Olivares & Asociados S.L.,Málaga,461
+Técnico en ciencias biológicas,159,Via Marisa Español,Palencia,Pascuala Durán Frías S.L.,S.A.D,Sí,Familia Segura S.L.L.,Baleares,978
+Operador de instalaciones de refinación de petróleo y gas natural,160,C. Damián Escolano,Cáceres,Infraestructuras Carrasco & Asociados S.L.,S.A.,Sí,Promociones WRHI S.L.,Lugo,72
+Optometrista,161,Pasadizo Juanito Arrieta,Sevilla,Ismael Chico Quirós S.L.,S.A.,Sí,Transportes IEA S.L.N.E,Melilla,670
+Herramentista,162,Camino Albina Díaz,Ciudad,Desarrollo RO S.Coop.,S.A.,Sí,Banco Artigas y asociados S.L.,Álava,307
+Médico general,163,Pasaje Pascual Serra,León,Consultoría FL S.L.N.E,S.L.L.,No,Suministros Españolas S.Coop.,Ceuta,83
+Técnico en redes y sistemas de computadores,164,Urbanización de Tomasa Otero,Cuenca,Luis Ángel Luna Correa S.L.,S.Com.,Sí,Consultoría OJDI S.L.,Huesca,36
+Ayudante de odontología,165,Paseo Eufemia Carranza,Lleida,Llopis y asociados S.Coop.,S.L.,No,Construcción WUKS S.Com.,Melilla,187
+Secretario jurídicos,166,Pasadizo de Cristina Carbó,Huelva,Maldonado y asociados S.L.,S.L.U.,Sí,Industrias MDP S.Coop.,Navarra,338
+Miembro del poder legislativo,167,C. Zaida Mendizábal,León,Grupo Cabezas S.Coop.,S.Coop.,Sí,Suministros Integrales S.L.,Álava,932
+Ingeniero medioambiental,168,Vial de Nico Esteve,Málaga,Familia Sosa S.Coop.,S.Com.,Sí,Benet y Cantón S.Com.,Alicante,643
+Ingeniero mecánico,169,Vial de Florentino Román,Ciudad,Promociones QK S.C.P,S.Com.,Sí,Grupo Barreda S.A.,Palencia,38
+Director de recursos humanos,170,Calle Paula Marí,Zaragoza,Industrias TJ S.A.,S.A.,Sí,Supermercados Asensio S.Coop.,La Rioja,361
+Dibujante técnico,171,Acceso Sandra Prat,Badajoz,Promociones Globales S.L.U.,S.A.,Sí,Banca Privada Amigó S.L.N.E,Zamora,625
+Inspector de policía,172,Pasaje de Dionisio Galán,Córdoba,Banca Privada NVHG S.L.,S.A.,Sí,Hermanos Arnaiz S.L.,Cantabria,112
+Peón de carga,173,Plaza de Jenny Carrera,Valladolid,Banca Privada Guerra y asociados S.A.,S.Com.,Sí,Hermanos Pomares S.L.,Segovia,727
+Profesor de universidades y de la enseñanza superior,174,Pasadizo Dorotea Heredia,Girona,Arsenio Berrocal Valcárcel S.L.,S.L.L.,Sí,Despacho Castells y asociados S.Com.,Pontevedra,976
+Técnico en ingeniería mecánica,175,Glorieta Tamara Mata,Soria,Gutiérrez & Asociados S.C.P,S.A.,Sí,Jordá y Jerez S.L.L.,Baleares,178
+Practicante paramédico,176,Cañada Eugenio Escudero,Valencia,Servicios HPA S.L.U.,S.L.,No,Restauración Escribano S.A.T.,Baleares,519
+Soplador de vidrio,177,C. de Carlito Huerta,Granada,Compañía Mercader & Asociados S.Coop.,S.Com.,Sí,Tecnologías del Norte S.A.T.,Álava,147
+Conductor de taxis,178,Glorieta Aránzazu Abellán,Cantabria,Gomila & Asociados S.Com.,S.A.U,Sí,Alimentación Expósito y asociados S.L.N.E,Soria,57
+Director financiero,179,Vial Paz Jurado,Palencia,Judith Orozco Viana S.A.,S.A.,No,Alberto y Niño S.Coop.,Jaén,201
+Entrenador deportivo,180,Vial de Anna Cerezo,Ávila,Suministros Portero S.L.N.E,S.A.,No,Comercializadora Folch & Asociados S.L.N.E,Madrid,911
+"Operador de máquinas de embalaje, embotellamiento y etiquetado ",181,Alameda de Julieta Cobos,Cádiz,Servicios Alegria S.L.L.,S.L.,No,Farmaceútica Bayo S.Coop.,Cantabria,569
+Instructor en tecnologías de la información,182,Ronda de Melchor Alvarez,Jaén,Álvaro y asociados S.Coop.,S.A.,Sí,Leonardo Velázquez Cáceres S.A.,Tarragona,345
+Mecánico y reparador de motores de avión,183,Calle Josué Company,Granada,Distribuciones CHU S.L.,S.Com.,No,Farmaceútica Españolas S.Coop.,Castellón,364
+Profesional de medicina,184,Cuesta Maximiano Menendez,Ciudad,Torrecilla & Asociados S.Com.,S.A.,No,Bueno y Casanova S.A.,Navarra,262
+Optometrista,185,Acceso Eleuterio Carpio,Almería,Cazorla y asociados S.L.N.E,S.A.,No,Alimentación OQAO S.A.U,Asturias,698
+Director de servicios de cuidados infantiles,186,Alameda de Roldán Juan,Toledo,Banco Globales S.L.,S.Coop.,Sí,Despacho Pereira S.A.,Segovia,412
+Perforador y sondista de pozos,187,Glorieta Lino Seco,Melilla,Suministros Estévez & Asociados S.A.,S.L.,Sí,Virgilio Enríquez Cabrero S.Coop.,Barcelona,641
+Detective,188,Pasaje de Alfredo Ropero,Segovia,Alimentación Bastida y asociados S.Coop.,S.L.U.,Sí,Compañía Rebollo & Asociados S.L.N.E,Baleares,422
+Operador de máquinas para fabricar productos de material plástico,189,Callejón Encarnacion Ordóñez,Murcia,Montoya y Cantón S.Coop.,S.Com.,Sí,Gallardo y Planas S.A.,Asturias,547
+Peón de explotaciones de cultivos mixtos y ganaderos,190,Rambla de Sabas Rocamora,Jaén,Infraestructuras DMW S.Com.,S.A.,Sí,Consultoría del Noroeste S.L.,Burgos,907
+Profesional de ventas técnicas y médicas,191,Alameda Adriana Cifuentes,La Coruña,Emelina Quesada Murcia S.L.,S.L.U.,Sí,José Manuel Escalona Melero S.A.,Ceuta,163
+Electricista de obras,192,C. Martín Tejera,Cantabria,Hotel Azcona & Asociados S.Coop.,S.C.P,No,Mendizábal y Céspedes S.L.N.E,Valladolid,647
+Trabajador forestal calificado,193,Paseo de Marc Bernad,Toledo,Ani Castilla Cobos S.L.,S.L.,Sí,Muro y Abad S.L.,Valladolid,133
+"Gerente de centros deportivos, de esparcimiento y culturales",194,Alameda de Sebastián Cantón,Guadalajara,Transportes Integrales S.Coop.,S.L.N.E,Sí,Alimentación Carpio S.L.N.E,Castellón,606
+Pulidor de metales y afilador de herramientas,195,Pasaje Rafael España,León,Promociones Españolas S.A.U,S.C.P,Sí,Hermanos Gimenez S.Coop.,Ourense,458
+Operador de máquinas de movimiento de tierras,196,Ronda Fernanda Bastida,Murcia,Supermercados IOVL S.L.,S.L.L.,Sí,Iniesta y Sales S.Com.,Huelva,946
+Director de industrias manufactureras,197,Pasadizo de Eleuterio Agustín,Albacete,Inmobiliaria Verdejo & Asociados S.A.,S.Coop.,No,Fábrica UUF S.A.,Ávila,306
+"Redactor de carteles, pintor decorativos y grabador",198,Avenida de Casandra Pastor,Soria,Minería del Noroeste S.Com.,S.L.,No,Valenzuela y Tur S.L.L.,Jaén,493
+Guardia de protección,199,Alameda Jose Egea,Almería,Hnos Cantón S.A.,S.C.P,Sí,Supermercados FCDU S.L.,Alicante,879
+Suboficial de las fuerzas armadas,200,Via Severino Cadenas,Huesca,Grupo Almeida S.A.D,S.Com.,No,Sevilla y asociados S.Com.,Lugo,442
+Actuario,201,Glorieta de Ambrosio Elorza,Murcia,Alberdi y Bonilla S.A.,S.L.,Sí,Inmobiliaria Inteligentes S.A.,Madrid,776
+Analista de gestión y organización,202,Vial Leocadia Gámez,Soria,Armas y Durán S.L.,S.A.,Sí,Pascual Bou Gomez S.L.N.E,Cuenca,552
+Camarero de barra,203,Alameda de Felisa Valero,Cáceres,Distribuciones Sanz y asociados S.C.P,S.L.N.E,No,Instalaciones Comas y asociados S.L.,Guadalajara,864
+Deportista,204,Cuesta Nereida Gracia,Castellón,Finanzas Españolas S.L.L.,S.A.,Sí,Hnos Raya S.A.,Álava,257
+"Pescador, cazador, tramperos y recolector de subsistencia",205,Cuesta de Pelayo Angulo,León,Torrens & Asociados S.Coop.,S.A.,No,Samuel Puig Lasa S.Com.,Álava,968
+Instalador y reparador en tecnología de la información y las comunicaciones,206,Paseo Ramiro Moreno,Ourense,Feliciano Poza Araujo S.C.P,S.Com.,No,Suministros WKBQ S.A.,Sevilla,757
+Ingeniero civil,207,Plaza de Víctor Duque,Melilla,Industrias Avanzadas S.L.N.E,S.Com.,No,Consultoría LHU S.A.,Baleares,197
+Agente de administración tributaria,208,Rambla de María Dolores Herranz,Álava,Paulina Campo Arana S.L.,S.Com.,No,Mascaró y Mulet S.Com.,La Rioja,423
+Operario en cemento armado y enfoscador,209,Pasadizo de Herminio Baeza,Cádiz,Promociones Estrada S.L.L.,S.Com.,No,Adán y asociados S.A.,Las Palmas,657
+Cuidador de niños,210,Via de Ignacia Millán,Badajoz,Farmaceútica Globales S.C.P,S.Com.,No,Tecnologías Amigó y asociados S.A.,Álava,254
+Historiador,211,Pasaje Natalio Mancebo,Valencia,Hnos Contreras S.A.,S.L.,Sí,Mendizábal y Fábregas S.Com.,Lugo,248
+Pescador de agua dulce y en aguas costeras,212,Callejón Jaime Dominguez,Barcelona,Rovira y asociados S.L.,S.Coop.,Sí,Menendez & Asociados S.L.,La Coruña,845
+Revocador,213,Acceso de Blas Salom,Salamanca,Hnos Badía S.L.N.E,S.L.N.E,No,Familia Beltrán S.L.N.E,León,410
+Operador de instalaciones mineras,214,Urbanización Remedios Pozuelo,Albacete,Galvez y Cuervo S.L.,S.L.N.E,Sí,Peiró y Llano S.A.,Guadalajara,633
+Optometrista,215,Urbanización Tomasa Olivares,Cádiz,Navarrete & Asociados S.A.U,S.Coop.,No,Carrasco y Castrillo S.L.U.,Castellón,64
+Técnico de radiodifusión y grabación audio visual,216,Cañada Roberta Tomás,Toledo,Ani Nebot Español S.L.,S.L.,Sí,Sarita Alberto Alemán S.L.N.E,Segovia,523
+Pescador de agua dulce y en aguas costeras,217,Pasadizo Dorita Galiano,Almería,Buendía y Castillo S.Com.,S.L.U.,No,Consultoría Villalonga & Asociados S.L.L.,Cuenca,408
+Electrotécnico,218,Alameda Esperanza Figuerola,Alicante,Hnos Fuente S.L.N.E,S.L.,No,Tiburcio Esparza Capdevila S.Com.,Burgos,790
+Empleado de ventanillas de informaciones,219,Vial Albano Balaguer,Granada,Fabregat y Hurtado S.A.T.,S.Coop.,Sí,Comercial Chacón S.A.,Ávila,134
+Biólogo,220,Cañada de Bernarda Barón,Tarragona,Consultoría Andreu S.L.,S.L.,Sí,Supermercados Navas & Asociados S.L.N.E,Guipúzcoa,275
+Abogado,221,Vial Maribel Barón,La Coruña,Manufacturas Planas y asociados S.A.,S.A.,No,Coello y Alvarez S.L.,Valencia,491
+Bordador,222,Alameda de Ulises Díaz,La Coruña,Banca Privada Castellana S.Coop.,S.C.P,Sí,Hermanos Vizcaíno S.A.,Huesca,955
+"Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",223,Vial Jenaro Arce,Vizcaya,Despacho Iberia S.A.,S.A.,Sí,Ricart y Molins S.Coop.,Murcia,533
+Médico general,224,Avenida Marcelo Moll,Zaragoza,Tecnologías AU S.A.,S.L.,No,Parra y Pujadas S.A.,La Rioja,621
+Ingeniero mecánico,225,Alameda de Ovidio Hierro,Madrid,Peral y Niño S.Com.,S.L.,No,Flora Pastor Robledo S.L.,La Rioja,295
+Profesional de medicina alternativa,226,Cañada de Cecilio Baeza,La Coruña,Restauración Ibérica S.A.,S.L.N.E,No,Rico y asociados S.L.,Palencia,846
+Diseñador de interior,227,Acceso Octavia Morell,Badajoz,Sedano y Aguado S.L.N.E,S.Com.,Sí,Manufacturas del Sur S.L.,La Rioja,89
+Ensamblador de maquinaria mecánica,228,Callejón Paulino Prada,Lleida,Logística Ortuño y asociados S.L.N.E,S.A.,Sí,Flor Quevedo Alemany S.Com.,Zaragoza,565
+"Empleado de servicios estadísticos, financieros y de seguros",229,Ronda Noa Garmendia,Girona,Hnos Sanabria S.Com.,S.A.,No,Compañía López S.L.L.,Zaragoza,839
+Profesor de formación profesional,230,Plaza Olga Reyes,Murcia,Logística VCO S.Com.,S.L.,Sí,Rogelio Verdejo Espada S.Coop.,Valladolid,712
+Ayudante de ambulancia,231,Plaza de Milagros Jódar,Las Palmas,Hermanos Riquelme S.Coop.,S.A.U,Sí,Hermanos Piquer S.L.N.E,Cáceres,461
+Director de recursos humanos,232,Via Gracia Guardia,Lugo,Alexandra Benito Girón S.Coop.,S.L.N.E,Sí,Despacho Españolas S.Coop.,Burgos,709
+Operador de instalaciones de producción de energía,233,Cuesta de Nazaret Lopez,La Coruña,Mateo Llorente Álvaro S.L.,S.C.P,No,Hnos Agustín S.A.,Burgos,771
+Guardafrenos,234,Vial Quique Lluch,Almería,Despacho NFE S.A.,S.C.P,Sí,Abellán y Arellano S.A.,Cantabria,416
+Empleado de contabilidad y cálculo de costos,235,Acceso Pastor Rey,Córdoba,Hnos Izaguirre S.A.T.,S.A.,Sí,Logística Bermúdez S.L.N.E,La Rioja,874
+Mayordomo doméstico,236,Camino Ciríaco Luna,Ourense,Suministros Jover y asociados S.Com.,S.A.,Sí,Instalaciones Sala y asociados S.C.P,Valencia,606
+Agente de maniobras,237,Vial de Miriam Ortuño,Salamanca,Jove y Parejo S.Coop.,S.L.L.,Sí,Infraestructuras OEZ S.L.N.E,Castellón,105
+Instalador y reparador en tecnología de la información y las comunicaciones,238,Glorieta de Rodolfo Anguita,Las Palmas,Despacho Integrales S.L.,S.Com.,No,Instalaciones Valera & Asociados S.A.D,Zamora,680
+Camarero de barra,239,Paseo Aura Gimeno,Cantabria,Grupo Capdevila S.L.U.,S.L.L.,No,Restauración XPWM S.A.,Alicante,301
+Agente de aduanas,240,Urbanización Salomé Verdú,Valencia,Banca Privada del Norte S.L.,S.L.,No,Banco QYF S.Com.,Lugo,778
+Ecónomo y mayordomos domésticos,241,Pasaje Vasco Navas,Valencia,Rey y asociados S.Com.,S.Coop.,No,Servicios Benítez S.A.,Barcelona,208
+Miembro de las fuerzas armadas,242,Ronda de Maxi Berenguer,Murcia,Hernando y asociados S.Coop.,S.L.N.E,Sí,Aguado y Bilbao S.Coop.,Zaragoza,631
+Operador de máquinas para la fabricación de calzado,243,Ronda de Martina Peiró,Huelva,Águila y Botella S.A.,S.L.,No,Promociones Vazquez & Asociados S.L.L.,Tarragona,410
+Camarero de mesa,244,Urbanización Dora Torrijos,Guadalajara,Flavia Sacristán Ruiz S.Com.,S.Coop.,Sí,Banca Privada BUK S.L.,Cuenca,689
+Diseñador gráfico,245,Via de Angélica Palomo,Huesca,Costa & Asociados S.Com.,S.A.T.,Sí,Quevedo y Larrea S.L.N.E,León,767
+Director de producción agropecuaria y silvicultura,246,Camino Curro Ribas,Sevilla,Supermercados del Mediterráneo S.L.L.,S.C.P,No,Compañía Requena S.Coop.,Zaragoza,577
+Repartidor,247,Cañada de Marisela Agudo,Lugo,Marcelino Ferrero Briones S.L.,S.Com.,No,Industrias Vilanova y asociados S.Coop.,La Rioja,416
+Clasificador de productos,248,Urbanización de Fabiola Guzmán,Ciudad,Hnos Lillo S.A.,S.A.,No,Logística Gálvez S.L.,Ourense,842
+Chapista,249,Via Melisa Calderon,Cuenca,Logística HP S.Coop.,S.L.N.E,Sí,Soluciones FQ S.L.N.E,Salamanca,126
+Grabador de piedra,250,Vial Vera Nadal,Albacete,Herberto Castrillo Molina S.L.U.,S.A.,No,Minería Alberto S.L.N.E,Navarra,278
+Administrador de bases de datos,251,Ronda de Urbano Larrañaga,Sevilla,Herrero y asociados S.L.,S.L.N.E,No,Gil Campo Farré S.Com.,Almería,128
+Entrevistador de investigaciones de mercados,252,Plaza Aura Feijoo,Álava,Peláez y Valderrama S.A.,S.Com.,Sí,Familia Sosa S.A.,Zaragoza,484
+Encuadernador,253,Alameda de Claudio Tejada,Madrid,Tecnologías Campillo S.A.,S.L.N.E,Sí,Gual y Soriano S.Com.,Segovia,442
+Botánico,254,Glorieta de Severino Barceló,Burgos,Lorenza Figueroa Solsona S.Coop.,S.Coop.,Sí,Bárbara Guillen Gordillo S.A.,Cantabria,317
+Artista plástico,255,Paseo de Venceslás Osuna,Tarragona,Talleres Avanzadas S.L.L.,S.Com.,Sí,Corbacho & Asociados S.A.,León,428
+Ingeniero medioambiental,256,Ronda Trini Almagro,Burgos,Desarrollo Españolas S.Com.,S.Coop.,No,Barceló & Asociados S.A.T.,Huesca,216
+Guardagujas,257,Vial de Claudia Amorós,Melilla,Consultoría Barceló & Asociados S.L.,S.A.,Sí,Asdrubal Hernando Recio S.Coop.,Palencia,369
+Barrendero,258,Pasadizo Francisco Jose Quiroga,Navarra,Distribuciones Aramburu & Asociados S.Com.,S.L.N.E,No,Farmaceútica Globales S.C.P,Navarra,187
+Recolector de dinero en aparatos de venta automática y lector de medidores,259,Vial Verónica Lucena,León,Hermanos Pereira S.Com.,S.L.N.E,Sí,Manufacturas Iberia S.L.N.E,Ourense,63
+Profesional de relaciones públicas,260,Rambla de Hipólito Benavente,Barcelona,Restauración Jiménez S.L.N.E,S.A.,Sí,Finanzas Iberia S.Com.,Valencia,892
+Ayudante de ambulancia,261,Urbanización de Bautista Marqués,Pontevedra,Ribes & Asociados S.A.,S.L.L.,No,Soto y asociados S.L.N.E,Valencia,665
+Maleter,262,Calle de Jafet Alba,Melilla,Transportes Llorens & Asociados S.Coop.,S.Com.,Sí,Logística Ruiz y asociados S.A.,Granada,705
+Diseñador de productos,263,Rambla Encarna Pascual,Palencia,Comercial NUP S.Com.,S.Coop.,Sí,Jeremías Rivera Puente S.A.,Málaga,809
+Gestor de aduana,264,Callejón Rosa Alcalde,Guipúzcoa,Hermanos Jiménez S.L.N.E,S.L.L.,Sí,Isabel Pera Alemán S.C.P,Sevilla,513
+Deshollinador,265,Acceso Eliseo Riera,Valencia,Aguilar y asociados S.C.P,S.A.,Sí,Promociones Ibañez S.L.,Alicante,509
+Contable,266,Urbanización de Tito Vega,Castellón,Mariscal y asociados S.L.,S.Com.,No,Instalaciones Arroyo S.L.,Toledo,454
+Trabajador agrícola de subsistencia,267,Alameda Liliana Gracia,Las Palmas,Despacho Alcaraz S.A.T.,S.Com.,No,Banca Privada del Noroeste S.L.,Navarra,461
+Tipógrafo,268,Vial de Anselma Morillo,Zaragoza,Ana Belén Solís Andreu S.Com.,S.L.N.E,No,Construcción Feijoo y asociados S.A.,Alicante,729
+Profesional de relaciones públicas,269,Alameda de Ruben Calderon,Badajoz,Comercial Gimenez S.Coop.,S.A.,No,Minería Muñoz & Asociados S.A.,Teruel,196
+Albañil,270,Calle de Charo Goicoechea,Ceuta,Inmobiliaria Moya & Asociados S.L.L.,S.A.T.,Sí,Inversiones Alarcón S.C.P,Melilla,941
+Fotógrafo,271,Pasaje Silvio Ballester,Castellón,Uribe y Mendoza S.A.,S.Com.,Sí,Llamas y asociados S.Coop.,Melilla,302
+Optometrista,272,C. María Manuela Bautista,Cantabria,Inversiones Avanzadas S.L.,S.A.,No,Farmaceútica JNWS S.A.T.,Santa Cruz de Tenerife,967
+Operador de autoelevadoras,273,Cuesta Lorena Luna,Granada,Hermanos Río S.L.L.,S.L.,No,Transportes Esteban y asociados S.Coop.,Segovia,907
+Agente de maniobras,274,Plaza de Herberto Ibáñez,Navarra,Construcción LZP S.A.,S.Coop.,No,Barba y Tolosa S.L.N.E,Murcia,565
+Lingüista,275,Rambla Luna Bastida,Ciudad,Ribes y Bou S.A.,S.A.,No,Alimentación BKPO S.A.,Murcia,283
+Carpintero,276,Paseo de Eligia Bertrán,Lugo,Manufacturas Armas y asociados S.L.,S.A.,Sí,Hnos Enríquez S.Com.,Sevilla,181
+Instructor de autoescuela,277,Cuesta Jose Barral,Murcia,Martí y asociados S.Coop.,S.L.,Sí,Consultoría KT S.Coop.,Cádiz,551
+Cortador de vidrio,278,Vial Hernán Aparicio,Asturias,Farmaceútica Noriega S.C.P,S.Com.,No,Comercial Sáez & Asociados S.L.N.E,Segovia,684
+Auxiliar de servicio de abordo,279,C. Óscar Carpio,Valencia,Hnos Yáñez S.L.N.E,S.A.,Sí,Consultoría Andrade S.Com.,Sevilla,465
+Electricista de obras,280,Cuesta de Ramón Cerdán,Huelva,Tecnologías Mesa S.A.T.,S.L.,Sí,Grupo Llobet S.C.P,Zaragoza,985
+Operador de telar y otras máquinas tejedoras,281,Pasadizo Ruy Sabater,Valencia,Familia Rosell S.L.,S.L.,Sí,Victor Roman Olivera S.L.N.E,Melilla,648
+Perforador y sondista de pozos,282,Plaza de Ana Belén Montoya,Cantabria,Jenny Rodrigo Arco S.L.N.E,S.A.,No,Calderón & Asociados S.Com.,Lugo,773
+Operador de instalaciones para la preparación de pasta para papel y papel,283,Rambla Inés Rosado,Ceuta,Restauración Guitart S.L.L.,S.A.,No,Manufacturas del Sur S.Coop.,Sevilla,440
+Orfebre,284,Cañada de León Asensio,Soria,Fuente y Hidalgo S.A.,S.A.,Sí,Desarrollo Company S.Coop.,Ourense,636
+Asistente veterinario,285,Rambla de Noemí Salvà,Badajoz,Pedro Farré Hidalgo S.L.,S.Coop.,Sí,Suministros Llorente & Asociados S.Coop.,Zamora,639
+Fisioterapeuta,286,Ronda Guiomar Moraleda,Navarra,Aznar y Verdejo S.Com.,S.L.,No,Suministros LA S.A.,Sevilla,953
+Técnico en operaciones de tecnología de la información y las comunicaciones,287,Pasadizo de Bonifacio Arias,Jaén,Talleres YTLW S.L.,S.L.,No,Promociones ID S.L.,Ceuta,485
+Biólogo,288,Cañada de Chus Fonseca,Ourense,Tecnologías Escudero y asociados S.A.,S.A.,No,Hnos Rodrigo S.L.N.E,Valladolid,813
+Peón de obras públicas y mantenimiento,289,Cañada Cebrián Baró,Girona,Familia Batalla S.C.P,S.L.,Sí,Hnos Olmo S.L.U.,Alicante,714
+Nutricionista,290,C. Rosa María Martínez,Sevilla,Desarrollo Torres y asociados S.L.,S.L.N.E,Sí,Barragán y asociados S.L.L.,Asturias,588
+Fumigador,291,Plaza Ambrosio Abella,Soria,Logística Comas S.C.P,S.L.,Sí,Leandro Esteve Vega S.Com.,Huesca,664
+Mecánico y reparador en electrónica,292,Vial Cebrián Ramírez,Cantabria,Familia Gisbert S.Coop.,S.L.N.E,No,Distribuciones Arteaga & Asociados S.Com.,Málaga,896
+"Operador de máquinas de preparación de fibras, hilado y devanado",293,Vial de María Antúnez,Sevilla,Fábrica VJY S.L.,S.L.U.,Sí,Supermercados Avanzadas S.A.,Murcia,862
+Técnico en seguridad aeronáutica,294,Paseo Isa Acevedo,Ourense,Minería Zapata S.Coop.,S.L.L.,Sí,Almansa y Peláez S.C.P,Asturias,592
+Profesor de universidades y de la enseñanza superior,295,Camino de Isidro Santamaria,Murcia,Hnos Cerdá S.Coop.,S.A.T.,No,Desarrollo Peral S.Coop.,Lleida,482
+Agente de bolsa,296,Pasadizo de Juan Antonio Osuna,Castellón,Valeria Nieto Garzón S.L.N.E,S.Com.,Sí,Mauricio Rocha Vicens S.Coop.,Granada,610
+Bibliotecarios,297,Pasaje de Camilo Torrens,Baleares,Supermercados Jove S.L.L.,S.Coop.,No,Transportes Rey & Asociados S.L.N.E,Girona,207
+Instalador y reparador en tecnología de la información y las comunicaciones,298,Glorieta Gabriela Granados,Zamora,Finanzas Blázquez y asociados S.L.N.E,S.Com.,Sí,Banca Privada GQ S.Com.,Vizcaya,162
+Constructor de casas,299,Alameda Teobaldo Calzada,Las Palmas,Santamaría y asociados S.L.,S.L.,No,Industrias VUW S.Coop.,Salamanca,548
+Conductor de motocicletas,300,Cuesta de Fátima Cabrera,Barcelona,Olmo y asociados S.A.,S.Coop.,Sí,Comercializadora KMSX S.L.,Guipúzcoa,684
+Chef,301,Acceso Buenaventura Saura,León,Logística del Levante S.L.L.,S.C.P,Sí,Comercializadora Maza y asociados S.A.,Cádiz,46
+Dentista,302,Urbanización Héctor Mendez,La Rioja,Hnos Pou S.A.,S.C.P,Sí,Amaro Cruz Tudela S.Coop.,Castellón,147
+Ingeniero industrial,303,Callejón Ovidio Álvaro,Almería,Rivera y asociados S.Com.,S.Com.,No,Familia Lago S.A.,Cáceres,318
+Camarero de barra,304,Cañada Águeda Vara,León,Ciríaco Badía Llanos S.Com.,S.A.T.,Sí,Salom & Asociados S.Coop.,Sevilla,889
+Ensamblador de equipos eléctricos,305,Avenida Osvaldo Benavent,Asturias,Logística KH S.Com.,S.Coop.,Sí,Industrias XKD S.L.,Santa Cruz de Tenerife,7
+Ingeniero electricista,306,Camino de María Ángeles Murillo,Soria,Finanzas Vallés & Asociados S.Coop.,S.A.D,No,Maxi Izaguirre Monreal S.Com.,Baleares,695
+Instalador y reparador en tecnología de la información y las comunicaciones,307,Glorieta Imelda Canales,Girona,Soluciones Sola S.Com.,S.L.,No,Manufacturas Mayo & Asociados S.L.L.,Asturias,944
+Platero,308,Callejón de Joel Busquets,Tarragona,Inversiones Casares y asociados S.L.N.E,S.Com.,Sí,Hnos Zurita S.Com.,Ávila,324
+Suboficial de las fuerzas armadas,309,Glorieta de Nazario Alvarado,Madrid,Selena Cortes Planas S.L.N.E,S.L.,No,Promociones Carrillo & Asociados S.A.,Cádiz,702
+Filósofo,310,Rambla de Teodora Pujol,Huelva,Servicios Sosa y asociados S.A.,S.Coop.,Sí,Hotel NU S.L.,Valencia,500
+Grabador de piedra,311,Urbanización Josefa Echevarría,Ciudad,Comercial Gallo S.A.,S.Com.,Sí,Anguita & Asociados S.Com.,Teruel,672
+Asesor de inversiones,312,Glorieta de Íñigo Carro,Girona,Amaya Egea Sierra S.A.,S.A.U,No,Distribuciones Almansa S.L.L.,Castellón,567
+Herramentista,313,C. de Lupe Juan,Cuenca,Reyes Marí Iglesia S.A.T.,S.Coop.,Sí,Restauración Puga S.L.,Soria,246
+Fabricante de instrumentos musicales,314,Camino Susanita Calleja,Álava,Soluciones IQN S.A.,S.Coop.,No,Instalaciones Barceló S.C.P,Álava,232
+Patronista y cortador de tela,315,Avenida de Áurea Arnaiz,Madrid,Vera y asociados S.L.N.E,S.A.,Sí,Hnos Zamorano S.C.P,Tarragona,56
+Mampostero,316,Glorieta Martin Cantón,Valladolid,Hurtado y Benavente S.A.,S.Com.,Sí,Inmobiliaria GZEH S.L.,Teruel,733
+Deportista,317,Ronda de Paloma Iglesia,Zaragoza,Farmaceútica Chamorro & Asociados S.L.,S.Coop.,Sí,Velázquez y asociados S.Coop.,Las Palmas,24
+Carpintero,318,Rambla de Dionisia Manjón,Las Palmas,Hermanos Mayo S.L.N.E,S.Com.,No,Logística Seguí y asociados S.Com.,Burgos,837
+Profesional de relaciones públicas,319,Pasaje Eugenio Hernandez,Girona,Nidia Márquez Ledesma S.L.N.E,S.Com.,No,Albert Belda Alberto S.A.,Jaén,478
+Técnico en asistencia al usuario de tecnología de la información y las comunicaciones,320,Urbanización Cleto Arjona,Huesca,Cañete y asociados S.Coop.,S.L.,No,Recio y Palomino S.Coop.,Cuenca,392
+Carnicero,321,Pasadizo de Héctor Báez,Cáceres,Familia Sanabria S.L.,S.Coop.,Sí,Pacífica Miró Montaña S.L.,La Coruña,487
+Cortador de vidrio,322,Acceso Encarnita Peláez,Zamora,Tecnologías FQQ S.L.,S.A.,No,Construcción Agullo S.L.N.E,La Rioja,425
+Historiador,323,Cuesta Íñigo Pedrero,Las Palmas,Inmobiliaria NMV S.Com.,S.A.,Sí,Seco y Paz S.Com.,Cuenca,423
+Ggeofísico,324,Pasaje Lucas Ibáñez,Ávila,Torrens & Asociados S.Com.,S.Coop.,Sí,Consultoría Vilaplana S.L.,Valencia,33
+Desarrollador de software,325,Cañada Ramón Pagès,La Rioja,Hnos Calvet S.Com.,S.Com.,No,Restauración Gimenez S.C.P,Salamanca,717
+Recolector de leña,326,Avenida de Camilo Serrano,Sevilla,Hnos Saez S.L.U.,S.Coop.,Sí,Martinez y Torrijos S.Com.,Almería,276
+Profesor de música,327,Calle Julián Gomez,León,Logística López S.A.T.,S.L.,No,Hermanos Estévez S.Coop.,Cádiz,943
+Carnicero,328,Cañada de Cecilio Parra,Palencia,Maricruz Duarte Mulet S.L.L.,S.A.,Sí,Servicios Niño S.L.N.E,Ourense,0
+Ingeniero en telecomunicaciones,329,Avenida Xiomara Reig,Toledo,Revilla & Asociados S.Com.,S.L.,No,Ribes y asociados S.L.L.,Salamanca,335
+Revisor y cobrador de los transportes públicos,330,Callejón Nicolasa Jove,Almería,Azorin y Batlle S.L.,S.L.,Sí,Comercializadora ANP S.A.,Toledo,629
+Peón de explotaciones agrícolas,331,Ronda de Domingo Castillo,Álava,Chita Piñeiro Villanueva S.L.,S.L.N.E,No,Comercial WMIN S.A.,Cádiz,675
+Especialista en métodos pedagógicos,332,Camino Isidoro Gomila,Jaén,Soluciones PBNI S.Com.,S.A.,Sí,Compañía Alcalde y asociados S.L.U.,León,883
+Conserje,333,C. de Godofredo Cervera,Vizcaya,Servicios Carrillo S.C.P,S.A.,Sí,Manufacturas WJYN S.L.,Tarragona,204
+Técnico en redes y sistemas de computadores,334,Via de Manu Sánchez,Soria,Flavio Murcia Villalonga S.Coop.,S.Com.,Sí,Wálter Segura Carrera S.Com.,Guadalajara,648
+Catador de bebidas,335,Via Arturo Estévez,Salamanca,Hermanos Mayol S.L.,S.Coop.,Sí,Tecnologías Olivera S.A.,Álava,130
+Capitán decubierta,336,Ronda de Américo Barrena,Valencia,Transportes Guardiola S.L.,S.A.,No,Hnos Urrutia S.C.P,Castellón,332
+Profesor de idiomas,337,Via Silvio Ariño,Huelva,Mulet & Asociados S.Com.,S.A.,Sí,Despacho Corbacho & Asociados S.L.,Sevilla,457
+Gorjadore,338,Callejón de Fanny Blasco,Zaragoza,Rosario Echeverría Agudo S.Coop.,S.L.,No,Miró & Asociados S.L.N.E,Valladolid,231
+Nutricionista,339,Glorieta de Teobaldo Cerdá,La Rioja,Consultoría Española S.A.T.,S.A.,Sí,Inversiones Santiago S.L.,Sevilla,726
+Controlador de plagas y malas hierbas,340,Camino de Moisés Arévalo,Las Palmas,Roura & Asociados S.Com.,S.L.N.E,No,Manufacturas Romero S.A.,Granada,948
+Operador de grúas y aparatos elevadores,341,Cañada de Jose Antonio Godoy,Asturias,Exposito y Calzada S.Com.,S.L.,No,Despacho Alcalde S.C.P,Granada,523
+Peón de pesca y acuicultura,342,Plaza de Isabela Acedo,Valencia,Alimentación TW S.Coop.,S.L.N.E,Sí,Jordá y Rovira S.Coop.,Guadalajara,191
+Herramentista,343,Pasaje Felipe Terrón,Málaga,Tecnologías Molins S.Coop.,S.Com.,No,Despacho Girón S.L.L.,Vizcaya,525
+Técnico en ingeniería civil,344,Calle Miguel Cánovas,Navarra,Supermercados Peñas y asociados S.L.,S.L.N.E,No,Carnero y Clemente S.A.T.,Badajoz,224
+Mayordomo doméstico,345,Paseo de Rosalina Silva,Lleida,Vicenta Vergara Viña S.Coop.,S.Coop.,No,Industrias Cabañas & Asociados S.Coop.,Zaragoza,374
+Escritor,346,Avenida Bernarda Losa,Tarragona,Otero y asociados S.Com.,S.A.,No,Finanzas Ibéricos S.Com.,Granada,194
+Personal de pompas fúnebres y embalsamador,347,Rambla de Amancio Vaquero,Asturias,Bartolomé & Asociados S.Com.,S.L.U.,Sí,Farmaceútica Soler y asociados S.C.P,Asturias,18
+Especialista en formación del personal,348,Via Rico Montes,Las Palmas,Tecnologías Morillo y asociados S.L.,S.Com.,No,Aznar y Solé S.A.,Guipúzcoa,638
+Lingüista,349,Via de Donato Guerrero,Navarra,Alvarez y Vidal S.L.,S.Com.,No,Minería Globales S.L.N.E,Guipúzcoa,192
+Peón de explotaciones ganaderas,350,Urbanización de Maite Giménez,Navarra,Transportes QLJ S.Com.,S.A.,Sí,Contreras y Rosales S.L.N.E,Córdoba,368
+Vendedor de comidas al mostrador,351,Vial de Rodrigo Ortega,Las Palmas,Elisa Feliu Merino S.L.,S.Com.,Sí,Gordillo & Asociados S.L.,Barcelona,169
+Entrenador deportivo,352,Glorieta Baudelio Antúnez,Murcia,Agullo y asociados S.L.,S.C.P,Sí,Comercial DAK S.L.,Valladolid,224
+Sociólogo,353,Avenida Ramiro Caro,Granada,Guillen & Asociados S.A.,S.A.,No,Porfirio Álamo Mesa S.L.,Barcelona,722
+Asistente de venta,354,Via de Mayte Benavent,Santa Cruz de Tenerife,Logística Ibérica S.L.,S.C.P,No,Hnos Chaparro S.L.,Almería,908
+Cuidador de niños,355,Acceso Albert Andrés,Zamora,Transportes Mata y asociados S.L.U.,S.L.,No,Inmobiliaria ORP S.A.,Barcelona,668
+Diseñador de bases de datos,356,C. Apolinar Plana,Ceuta,Soluciones Española S.Coop.,S.Com.,No,Banca Privada Díez y asociados S.L.N.E,Cádiz,249
+Actor,357,C. de Blanca Rozas,Asturias,Desarrollo Olivares S.A.,S.L.U.,No,Acedo & Asociados S.A.,Alicante,908
+Director de industrias manufactureras,358,Acceso de Alicia Fonseca,Ourense,Hermanos Sacristán S.Com.,S.Com.,Sí,Infraestructuras del Levante S.Coop.,Valladolid,77
+Trabajador de explotaciones de acuicultura,359,Callejón Aitor Dalmau,León,Alimentación Quintanilla y asociados S.A.D,S.Coop.,No,Hnos Calderón S.L.,Asturias,8
+Desarrollador Web y multimedia,360,C. de María Dolores Bermudez,Jaén,Vilar y asociados S.Com.,S.A.,Sí,Cepeda y Acuña S.L.L.,Granada,979
+Deshollinador,361,Cuesta de Cecilia Viñas,Girona,Nogués y asociados S.Coop.,S.L.N.E,No,Jonatan Alemán Caro S.Com.,Vizcaya,593
+Catador de alimentos y bebidas,362,Pasaje Hernán Verdugo,Cádiz,Carro y Valderrama S.A.T.,S.L.,Sí,Infraestructuras CA S.L.,Madrid,19
+Operador de máquinas de coser,363,Glorieta de Manu Sans,Alicante,Báez y asociados S.C.P,S.L.,No,Distribuciones Bou S.A.,Cantabria,564
+Mecánico y reparador de motores de avión,364,Paseo Tecla Silva,Almería,Dafne Alarcón Tello S.L.,S.L.L.,No,Farmaceútica Inteligentes S.L.N.E,Lleida,926
+Operador de instalaciones mineras,365,Acceso Felicidad Frías,Guipúzcoa,Ochoa y asociados S.A.,S.L.,Sí,Fábrica Integrales S.L.,Vizcaya,900
+Ingeniero en telecomunicaciones,366,Rambla de Visitación Escrivá,Madrid,Alimentación Llobet S.L.N.E,S.L.U.,No,Farmaceútica Lucena y asociados S.Com.,Vizcaya,86
+Sericultor,367,Cuesta de Luisa Domingo,Badajoz,Comercial Prats S.A.T.,S.Coop.,No,Manufacturas Ibañez y asociados S.L.L.,Huelva,943
+Oficial de cubierta,368,Glorieta de Leandro Bastida,Cádiz,Transportes FUB S.Com.,S.C.P,Sí,Blanco & Asociados S.A.,Madrid,926
+Técnico agropecuario,369,Callejón Ámbar Nadal,Navarra,Restauración Saura S.L.N.E,S.L.,Sí,Encarnacion Carnero Múñiz S.Coop.,Huesca,273
+Herrero,370,Callejón Evangelina Alvarez,Santa Cruz de Tenerife,Construcción Verdú y asociados S.L.L.,S.Coop.,Sí,Zaira Pavón Meléndez S.A.,Burgos,231
+Gerente general,371,Avenida de Clemente Jara,Valladolid,Áurea Yuste Oller S.A.,S.Coop.,No,Fábrica Gimeno y asociados S.L.L.,Guipúzcoa,845
+Director de servicios de bienestar social,372,Acceso Albino Agustí,Salamanca,Patiño & Asociados S.L.,S.Coop.,Sí,Alfredo Cases Gisbert S.A.,La Coruña,539
+Farmacéutico,373,Alameda de Angélica Quirós,Melilla,Herberto Bastida Prada S.A.,S.A.,Sí,Gisela Marqués Bauzà S.Com.,Ourense,844
+Guía de turismo,374,Callejón de Macarena Barranco,Jaén,Manufacturas IW S.Coop.,S.L.,No,Inmobiliaria Internacionales S.L.L.,Murcia,96
+Técnico en aparatos de diagnóstico y tratamiento médico,375,Via de Salomé Pulido,La Rioja,Distribuciones Españolas S.Com.,S.A.,Sí,Mena y Isern S.L.U.,Cuenca,910
+Reparador de bicicletas,376,Via Humberto Galán,Salamanca,Aitor Buendía Olivera S.L.,S.Com.,Sí,Logística del Mediterráneo S.Coop.,Girona,939
+Albañil,377,Vial de Amanda Azcona,Málaga,Grupo Abellán S.L.,S.A.D,No,Comercial Goñi y asociados S.L.,León,373
+Empleado de agencia de viajes,378,Cañada Ciriaco Bernal,La Coruña,Desarrollo Ocaña S.L.,S.Com.,Sí,Hermanos Ballesteros S.L.,León,510
+Profesional en redes de computadores,379,Ronda de Rolando Coloma,Granada,Construcción Diéguez S.Com.,S.Com.,Sí,Pascual y Álvarez S.L.,Salamanca,304
+Peón de pesca y acuicultura,380,Acceso Manolo Salom,Girona,Despacho Cueto S.A.,S.Com.,No,Manufacturas Andrade & Asociados S.L.N.E,Guadalajara,491
+Telefonista,381,Alameda Marc Barral,Cantabria,Hoz y Ferrer S.Coop.,S.Coop.,Sí,Grupo Vara S.A.U,Badajoz,330
+Agricultor,382,Paseo de Abilio Mur,Salamanca,Familia Heras S.A.,S.A.,No,Expósito y asociados S.A.,Guadalajara,341
+Empleado encargado de las nóminas,383,Plaza Natalio Estevez,Ciudad,Infraestructuras LNY S.Coop.,S.Com.,No,Servicios del Noroeste S.Com.,Murcia,902
+Perforador y sondista de pozos,384,Rambla de Pepe Girón,Alicante,Comercial Avanzadas S.L.N.E,S.A.T.,No,Ferrándiz & Asociados S.Coop.,Huelva,618
+Ayudante de ambulancia,385,Vial de Juan Francisco Pagès,Cádiz,Arcos y Ibáñez S.L.,S.Coop.,No,Durán & Asociados S.L.U.,Lleida,45
+Historiador,386,Calle Cristian Frutos,Toledo,Grupo Sastre S.L.,S.Com.,Sí,Hermanos Sosa S.L.,Granada,623
+Profesional de nivel medio en actividades culturales y artísticas,387,Via Isaura Uría,Baleares,Jose Angel Casas Calderón S.C.P,S.Com.,No,Encarnita Robledo Alegria S.Com.,Huelva,226
+Director de empresas de construcción,388,C. Estrella Martin,Huelva,Seco y Cano S.L.L.,S.L.U.,No,Talleres del Sur S.Coop.,Navarra,383
+Expendedor de gasolineras,389,Camino Águeda Juan,Pontevedra,Quique Torrent Álvaro S.L.N.E,S.A.,Sí,Finanzas DSW S.Com.,Santa Cruz de Tenerife,935
+Agente de empleo,390,Paseo de Reynaldo Galván,Cádiz,Hnos Giner S.A.,S.C.P,No,Distribuciones Ramirez & Asociados S.A.,Barcelona,953
+Conductor de motocicletas,391,Urbanización de Macarena Balaguer,Cantabria,Logística Paredes S.L.N.E,S.L.,Sí,Hermanos Valverde S.L.L.,Segovia,203
+Cocinero,392,Alameda Ariel Calderón,Melilla,Charo Alegria Bertrán S.Com.,S.C.P,No,Supermercados ZY S.A.,Albacete,976
+Soldador y oxicortador,393,Cuesta de Bernardino Flores,Córdoba,Gámez & Asociados S.Coop.,S.Com.,No,Manufacturas Ibéricos S.A.,La Rioja,708
+Instalador de material aislante y de insonorización,394,Via de Juan Bellido,León,Familia Carrillo S.Com.,S.A.,No,Infraestructuras Pineda & Asociados S.L.N.E,Jaén,805
+Asistente de venta,395,Urbanización Rosalina Vendrell,Lugo,Jose Antonio Arias Ródenas S.L.N.E,S.L.L.,Sí,Restauración Inteligentes S.Com.,Zamora,457
+Profesional de nivel medio de enfermería,396,Urbanización de Román Barrena,Burgos,Comercial VPC S.A.,S.Com.,Sí,Granados y asociados S.L.L.,Almería,389
+Operador de maquinaria agrícola y forestal móvil,397,Acceso Wilfredo Carpio,La Coruña,Brunilda Cobos Moliner S.L.L.,S.Coop.,Sí,Cuadrado & Asociados S.Coop.,Guadalajara,311
+Fontanero,398,Via Aurora Agudo,Las Palmas,Vilaplana y Otero S.Coop.,S.A.,No,Felipa Toledo Jurado S.Com.,Guadalajara,54
+Operario de la elaboración de productos lácteos,399,Pasaje de Che Español,Lleida,Mármol y Llamas S.A.,S.A.,Sí,Construcción Blanes y asociados S.L.L.,Pontevedra,243
+Técnico en aparatos de diagnóstico y tratamiento médico,400,Calle de Esteban Adán,Guipúzcoa,Promociones Parejo S.Com.,S.Com.,No,Maximiliano Clavero Bravo S.L.N.E,Huelva,104
+Instructor de educación física y actividades recreativas,401,Vial de Marcos Ariño,Barcelona,Hnos Sedano S.L.,S.A.,Sí,Llamas & Asociados S.L.N.E,Córdoba,935
+Abogado,402,C. Encarna Valle,Granada,Talleres Nebot y asociados S.A.,S.Coop.,No,Ángela Mulet Salazar S.L.N.E,Ourense,103
+Mecánico y reparador de instrumentos de precisión,403,Camino Zaida Pinilla,Valladolid,Pelayo & Asociados S.Coop.,S.L.,No,Calzada y asociados S.L.,Las Palmas,410
+Astrólogo,404,Plaza de Juan Antonio Nebot,Murcia,Calderon y Nicolás S.A.U,S.L.N.E,Sí,Construcción Gual S.A.,Lleida,362
+Deshollinador,405,Paseo Dominga Monreal,Valencia,López y asociados S.Com.,S.A.,Sí,Instalaciones Angulo S.Coop.,Segovia,674
+Director de ventas y comercialización,406,Via de Curro Sanz,Valladolid,Comercializadora PU S.A.,S.A.,No,Alejandro Prat Plana S.L.N.E,Murcia,694
+Secretario médicos,407,C. de Segismundo Leon,Barcelona,Cuevas & Asociados S.A.,S.L.N.E,No,Comercializadora Frías y asociados S.Coop.,Burgos,854
+Ayudante de cocina,408,Rambla Severo Ferrera,Castellón,Gracia Vaquero Mate S.L.,S.L.,Sí,Compañía EM S.A.,Murcia,812
+Agente de compras,409,Alameda Lupe Pino,Palencia,Transportes Ibéricos S.L.U.,S.L.N.E,No,Rosa y asociados S.Com.,Albacete,893
+Director de servicios de cuidados infantiles,410,Plaza de Ale Ribas,Soria,Guitart y Prado S.Com.,S.L.L.,No,Alimentación Avanzadas S.Com.,Alicante,831
+Director de publicidad y relaciones públicas,411,Vial Asdrubal Manrique,Soria,Consultoría OZ S.L.,S.L.N.E,No,Arnaiz y Heredia S.L.N.E,Burgos,145
+Profesional de nivel medio de partería,412,Paseo de Imelda Garcia,Cáceres,Vilar y Gisbert S.L.,S.L.N.E,No,Familia Quintana S.Coop.,Guadalajara,534
+Profesional de nivel medio del derecho y servicios legales,413,Alameda de Rosa Mateu,Asturias,Industrias AYQC S.Coop.,S.Coop.,Sí,Valero Bernad Reyes S.A.,Alicante,606
+Guardián de prisión,414,Alameda Fanny Feijoo,Valladolid,Logística OKFS S.L.,S.L.U.,No,Celia Anaya Gimeno S.L.,Zaragoza,244
+Profesional de nivel medio de enfermería,415,Urbanización Estela Vicente,Lugo,Mar Diaz Polo S.A.,S.L.N.E,No,Beltrán y asociados S.L.,Palencia,846
+Albañil,416,Rambla de Ariel Castro,Murcia,Farmaceútica Real S.L.,S.Coop.,Sí,Áurea Montenegro Losada S.L.,Huelva,833
+Criador de ganado,417,Callejón de Eligia Casal,Córdoba,Supermercados Almagro & Asociados S.L.N.E,S.L.,No,Logística Bejarano y asociados S.Com.,Lugo,46
+Guía de turismo,418,Pasadizo de Tiburcio Gomez,Jaén,Construcción Tello y asociados S.A.,S.Coop.,Sí,Morell y asociados S.L.,Girona,29
+Asesor de inversiones,419,C. Eusebia Poza,Salamanca,Inmobiliaria CSSO S.L.L.,S.A.T.,Sí,Conde y Sandoval S.A.,Valencia,242
+Empacador manual,420,Camino Rafael Ledesma,Zaragoza,Supermercados Pablo S.A.,S.Com.,No,Ureña y Coello S.Coop.,Albacete,785
+Programador de aplicaciones,421,Via Rolando Meléndez,Navarra,Banco Carbó S.A.,S.L.,Sí,Tomasa Codina Herrero S.Coop.,Las Palmas,866
+Fumigador,422,Via de Salud Marqués,Huelva,Tito Trillo Piñol S.C.P,S.L.N.E,Sí,Grupo Cortés S.L.N.E,Vizcaya,929
+Artesano,423,Calle de Segismundo Luís,Baleares,Piquer y Nuñez S.L.,S.Coop.,No,Castell y Sáenz S.L.N.E,Tarragona,714
+Auxiliar de servicio de abordo,424,Urbanización Victorino Barrena,Ourense,Hnos Lorenzo S.L.,S.A.,No,Iñiguez y Blazquez S.Com.,Guadalajara,355
+Agente de aduanas,425,Glorieta Balduino Casado,Tarragona,Esteban Valderrama Marti S.Com.,S.C.P,Sí,Logística QW S.Coop.,Málaga,503
+Peón forestales,426,Via Casemiro Requena,Córdoba,Hnos Canales S.L.N.E,S.L.,No,Farmaceútica AL S.L.,Álava,829
+Operador de maquinaria agrícola y forestal móvil,427,Calle Guiomar Antúnez,Palencia,Augusto Castellanos Millán S.L.N.E,S.A.,No,Gonzalo Osuna Domingo S.A.,Valladolid,844
+Tronzador,428,Calle de Rosa Arnau,Murcia,Transportes Ugarte S.L.N.E,S.Coop.,Sí,Alimentación Soriano y asociados S.Com.,Guipúzcoa,795
+Detective,429,C. de Angelita Macías,Santa Cruz de Tenerife,Hnos Perera S.Coop.,S.C.P,Sí,Chaves & Asociados S.L.L.,Guadalajara,870
+Director de políticas y planificación,430,Vial Nuria Palmer,Valencia,Compañía YU S.Com.,S.A.,No,Ballesteros y Zorrilla S.A.,Álava,517
+Clasificador de productos,431,Callejón Camila Moya,Alicante,Augusto Marqués Hoz S.L.N.E,S.Coop.,Sí,Haro y asociados S.A.,Ávila,596
+Comerciante de tiendas,432,Pasadizo de Georgina Solana,Ceuta,Compañía Azcona y asociados S.L.,S.Com.,No,Inversiones Globales S.L.L.,Asturias,255
+Diseñador de interior,433,Cañada Gerardo Avilés,Guadalajara,Lucila Pardo Torrijos S.L.N.E,S.A.,No,Finanzas Ponce S.L.L.,Guadalajara,927
+Juez,434,Via Lope Ferreras,Cádiz,Hnos García S.A.,S.L.,Sí,Construcción del Norte S.L.,Zaragoza,73
+Lavador de ventanas,435,Glorieta Marciano Mármol,Huesca,Vall & Asociados S.Coop.,S.L.,No,Supermercados PRLC S.L.L.,Madrid,101
+Agente de empleo,436,Plaza Tadeo Huguet,Tarragona,Inversiones Globales S.L.,S.Com.,No,Construcción Gaya S.L.,Valladolid,679
+Técnico en redes y sistemas de computadores,437,Camino de Emiliano Solera,Jaén,Banco Tamayo & Asociados S.C.P,S.L.L.,Sí,Mayoral y asociados S.L.N.E,Ciudad,168
+Empleado de archivos,438,Ronda de Evangelina Bru,Girona,Farmaceútica SAT S.L.L.,S.L.N.E,No,Suministros Integrales S.L.N.E,Segovia,586
+Matemático,439,Avenida de Melania Querol,La Rioja,Fanny Campillo Ferrán S.L.,S.L.L.,Sí,Comercializadora Revilla S.L.,Albacete,235
+Botánico,440,Calle Angelita Diego,Málaga,Servicios Castellana S.A.,S.A.,No,Rodríguez y Quero S.A.,Cantabria,729
+Personal de limpieza,441,Avenida de Verónica Pelayo,Málaga,Luján y Montaña S.A.,S.A.,Sí,Soluciones Iberia S.A.,Valencia,652
+Analista financiero,442,Pasaje Juan Carlos Piquer,Murcia,Inversiones Castellana S.L.N.E,S.L.L.,Sí,Transportes Española S.A.,Valencia,982
+Agente inmobiliario,443,Cañada de Nilo Esteve,Lugo,Despacho Torres S.Coop.,S.L.,Sí,Construcción Españolas S.L.,Teruel,527
+Locutor de televisión,444,Via Luis Ángel Moreno,Asturias,Desarrollo Arévalo y asociados S.Com.,S.A.,Sí,Soluciones Mur & Asociados S.L.,La Rioja,84
+Profesional en redes de computadores,445,Acceso Roldán Vázquez,Valladolid,Jose Angel Morcillo Priego S.A.,S.C.P,Sí,Amo & Asociados S.L.,Melilla,0
+Director de ventas y comercialización,446,C. Roberto Andrés,Girona,Compañía Ibéricos S.L.N.E,S.L.,No,Nuñez y Sánchez S.L.N.E,Guipúzcoa,341
+Mecánico y ajustador electricista,447,Pasadizo Vera Ugarte,Salamanca,Infraestructuras SUY S.L.U.,S.A.,Sí,Banca Privada HOA S.Coop.,Ourense,599
+Profesional de nivel medio del derecho y servicios legales,448,Callejón de Pilar Diéguez,Albacete,Inmobiliaria Guillen S.Coop.,S.L.,No,Humberto Ávila Ortuño S.L.,Jaén,652
+Clasificador de productos,449,C. Verónica Gibert,Huesca,Grupo Rodriguez S.A.,S.A.U,No,Barba y asociados S.A.,Guipúzcoa,921
+Especialista en políticas y servicios de personal,450,Avenida de Joaquina Castell,Zaragoza,Grupo Jordá S.A.,S.A.,No,Cobos y asociados S.A.U,Vizcaya,591
+Director de ventas y comercialización,451,C. de Olga Somoza,Cáceres,Graciana Oller Maldonado S.L.,S.L.,Sí,Isabel Ferrán Borrego S.L.,Córdoba,872
+Profesional de nivel medio de medicina tradicional y alternativa,452,Pasaje Anselmo Ávila,Cáceres,Talleres Galan S.A.,S.L.,No,Nidia Jiménez Carbó S.L.,Badajoz,420
+Grabador de datos,453,Cuesta Severiano Chaves,Cáceres,Hermanos Valderrama S.A.,S.A.T.,Sí,Industrias Jover y asociados S.A.,Álava,200
+Declarante de aduana,454,Rambla de Pío Patiño,Ceuta,Finanzas Alberdi y asociados S.Coop.,S.A.,No,Pablo y Morales S.Coop.,Soria,924
+Empleado de ventanillas de informaciones,455,Calle Ainara Bou,Madrid,Grupo Cabeza S.A.,S.L.,Sí,Supermercados Villaverde y asociados S.A.,Las Palmas,68
+Técnico en aparatos de diagnóstico y tratamiento médico,456,Glorieta de Adelaida Cuenca,La Coruña,Madrigal y Zamorano S.A.T.,S.L.,Sí,Familia Contreras S.L.,Sevilla,903
+Empleado de centro de llamadas,457,Plaza Jose Miguel Cañete,Huelva,Despacho Sans S.Coop.,S.A.,Sí,Miranda & Asociados S.Coop.,Alicante,702
+Cartógrafo,458,Urbanización Venceslás Iborra,La Coruña,Figueroa y Palau S.L.N.E,S.L.U.,Sí,Familia Alcántara S.Com.,Badajoz,542
+"Modelo de moda, arte y publicidad",459,Pasaje Carlos Porta,Girona,Rivero y Almagro S.A.,S.C.P,Sí,Hotel OUDB S.Com.,Vizcaya,726
+Trabajador ambulante de servicios,460,C. de Marcela Estevez,Las Palmas,Alimentación AM S.L.,S.L.,No,Eulalia Saldaña Maestre S.Coop.,Álava,618
+Mayordomo doméstico,461,Alameda de Tomás Goicoechea,Ávila,Transportes Fortuny y asociados S.A.,S.Com.,Sí,Barrios y asociados S.L.,Cádiz,518
+Conductor de motocicletas,462,C. Estefanía Font,Las Palmas,Manufacturas Benito y asociados S.Com.,S.A.,Sí,Tecnologías Rocamora y asociados S.L.N.E,Cádiz,707
+Tenedor de libros,463,Cuesta Carlos Arenas,Albacete,Zaida Campillo Escrivá S.L.,S.Com.,No,Solano & Asociados S.L.N.E,Cáceres,382
+Entrevistador de encuestas,464,Pasadizo Toni Ávila,Ourense,Juan Pablo Núñez Mesa S.Coop.,S.A.,No,Compañía Cañellas y asociados S.L.N.E,Asturias,279
+Grabador de datos,465,Avenida de Juan Pablo Montaña,Cuenca,Morcillo y Calvo S.A.,S.L.,Sí,Alimentación WYVL S.Com.,Almería,729
+Cazador,466,Pasadizo Lino Jover,La Coruña,Maxi Iriarte Checa S.L.U.,S.Coop.,Sí,Anselma Bárcena Higueras S.L.N.E,Ciudad,254
+Deshollinador,467,Plaza León Díez,Tarragona,Infraestructuras Ibáñez S.L.,S.L.N.E,Sí,Coronado y asociados S.L.U.,Valladolid,729
+Zapatero,468,Pasaje Silvio Velasco,Ciudad,Consultoría Hernández S.L.N.E,S.L.U.,Sí,Servicios Aranda & Asociados S.L.N.E,Baleares,838
+Piloto de aviación,469,Pasadizo de Jose Luis Arellano,Zaragoza,Promociones Globales S.L.L.,S.Com.,Sí,Narváez & Asociados S.L.N.E,Cáceres,696
+Fotógrafo,470,Camino Celestino Casares,Málaga,Banco Aroca & Asociados S.A.,S.Com.,No,Restauración Juan y asociados S.L.,Madrid,83
+Técnico en ciencias biológicas,471,Via de Roberto Cuesta,Madrid,Consultoría Palomo S.Coop.,S.Coop.,Sí,Alimentación Prieto y asociados S.A.,La Coruña,206
+Peón de la construcción de edificios,472,Callejón de Dimas España,Málaga,Industrias Almeida S.A.U,S.A.,No,Comercial Barranco y asociados S.L.,Lleida,574
+Conductor de vehículos accionados a pedal o a brazo,473,Alameda de Águeda Cánovas,Salamanca,Rosell & Asociados S.Com.,S.L.L.,Sí,Instalaciones OHJ S.L.N.E,Badajoz,148
+Cazador,474,C. de Onofre Barros,Tarragona,Industrias Torrens & Asociados S.C.P,S.A.,Sí,Hermanos Pozuelo S.L.,Málaga,257
+Conductor de automóviles,475,Glorieta de Luis Miguel Sevillano,Baleares,Amor Plana Mateu S.A.,S.L.,No,Cristian Galan Lladó S.A.,Segovia,4
+Profesional religioso,476,Camino de Casandra Mendez,Lleida,Servicios Salvador S.L.,S.L.,Sí,Moya y Cerro S.Coop.,Castellón,785
+Comerciante de tiendas,477,Rambla de Josefina Corbacho,Cádiz,Comercializadora NPXA S.L.N.E,S.L.N.E,No,Vaquero y asociados S.Com.,Vizcaya,659
+Adivinador,478,Avenida de Francisco Cortés,Huelva,Nicolasa Velasco Rueda S.Coop.,S.A.,No,Bernat y asociados S.L.,Zamora,436
+Actuario,479,Alameda de Albert Palomar,Guipúzcoa,Infraestructuras Figuerola y asociados S.L.U.,S.L.N.E,Sí,Promociones OKYP S.L.,Ciudad,859
+Profesor de artes,480,Vial Claudia Tudela,Cantabria,Finanzas del Mediterráneo S.C.P,S.Com.,Sí,Banca Privada Planas y asociados S.L.,Alicante,826
+Empleado de archivos,481,Callejón de Marisol Balaguer,Ceuta,Familia Codina S.Com.,S.Coop.,No,Hnos Roma S.Com.,Segovia,816
+Entrenador deportivo,482,Plaza Teo Cuesta,Cuenca,Compañía Ariño y asociados S.Coop.,S.Com.,Sí,Distribuciones Cifuentes y asociados S.L.,Almería,957
+Gerente general,483,Pasaje Luz Chamorro,Tarragona,Promociones del Norte S.Coop.,S.Com.,Sí,Hotel Mateu y asociados S.Coop.,Almería,527
+Ingeniero medioambiental,484,Callejón Alba Aliaga,Valladolid,Marianela Riquelme Costa S.Com.,S.A.,No,Logística Ballester S.L.L.,Álava,611
+Encuadernador,485,Avenida Tatiana Julián,Sevilla,Suministros Godoy & Asociados S.L.N.E,S.A.,No,Banca Privada UEI S.Coop.,Cantabria,254
+Corrector de pruebas de imprenta,486,Acceso de Félix Arregui,Santa Cruz de Tenerife,Neira y Roldán S.Coop.,S.Com.,No,Ríos & Asociados S.L.L.,Toledo,855
+Trabajador forestal calificado,487,Vial de Hugo Roig,Madrid,Finanzas Comas y asociados S.L.,S.Coop.,Sí,Alimentación Españolas S.A.U,Burgos,327
+Guardagujas,488,Acceso de Cornelio Manrique,Girona,Industrias Amigó & Asociados S.Com.,S.A.,No,Fábrica WG S.A.,Granada,92
+Director de servicios de salud,489,Vial de Malena Mora,Cuenca,Arévalo y Salamanca S.A.,S.Coop.,Sí,Finanzas Paredes S.Coop.,Pontevedra,667
+Declarante de aduana,490,Alameda de Desiderio Tormo,Ávila,Maxi Pelayo Valls S.L.,S.Coop.,Sí,Familia Ochoa S.L.,Huesca,181
+Físico,491,Glorieta Goyo Acedo,Ciudad,Suministros Verdugo y asociados S.A.,S.Coop.,No,Distribuciones Españolas S.A.,Valladolid,147
+Cajero,492,Camino Sergio Jove,Zaragoza,Olivera y Cobo S.Com.,S.A.,No,Farmaceútica SA S.A.,Álava,832
+Perforador y sondista de pozos,493,C. Teobaldo Guerrero,Málaga,Supermercados Iberia S.C.P,S.A.,No,Inmobiliaria Barranco S.A.,Badajoz,152
+Mensajero,494,Pasaje Andrea Reguera,Guipúzcoa,Inversiones Avanzadas S.A.,S.Com.,Sí,Desarrollo LMX S.Com.,Melilla,349
+Director de servicios de salud,495,Acceso Raimundo Álvarez,Álava,Marqués y asociados S.L.L.,S.L.N.E,No,Isaura Gómez Zabala S.L.N.E,La Rioja,770
+Conductor de vehículos accionados a pedal o a brazo,496,Pasadizo Modesta Sacristán,Castellón,Industrias Valcárcel S.L.U.,S.Com.,Sí,Leonor Capdevila Calvet S.L.N.E,Sevilla,204
+Profesor de formación profesional,497,Callejón Albino Escolano,Murcia,Almeida y asociados S.L.,S.L.N.E,Sí,Azorin y Prada S.A.,Ciudad,764
+Organizador de conferencias y eventos,498,Pasaje Borja Álamo,Ceuta,Comercial Avanzadas S.L.,S.A.T.,Sí,Hnos Iborra S.Com.,Burgos,822
+Director de publicidad y relaciones públicas,499,Calle Noé Pedrero,Barcelona,Hermanos Rojas S.Coop.,S.L.,No,Francisco Moreno Ferreras S.Com.,Lugo,774
+Barrendero,500,Callejón de Evita Valle,Pontevedra,Inversiones LWTO S.L.N.E,S.A.,No,Restauración XQH S.L.,Lugo,30
