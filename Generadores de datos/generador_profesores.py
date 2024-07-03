@@ -9,6 +9,9 @@ fake = Faker('es_ES')  # Usar el local de España para datos más realistas en e
 # Lista de barrios predefinidos (puedes modificarla según tus necesidades)
 barrios = ['Centro', 'Norte', 'Sur', 'Este', 'Oeste', 'Barrio 1', 'Barrio 2', 'Barrio 3']
 domicilios = ['Laboral', 'Personal', 'Otro']
+estados_civiles = ['Soltero', 'Casado', 'Divorciado', 'Viudo']
+sexos = ['F', 'M']
+pisos = [None, '1A', '2B', '3C', '4D']
 
 # Generar datos aleatorios
 def generar_datos():
@@ -17,13 +20,13 @@ def generar_datos():
     for _ in range(max_attempts):
         try:
             dni = fake.unique.random_int(min=10000000, max=99999999)
-            cuil = fake.unique.random_int(min=20000000000, max=29000000000)
+            cuil = fake.unique.random_int(min=20000000000, max=29999999999)
             legajo = fake.unique.random_int(min=1000, max=9999999)
             break
         except UniquenessException:
             fake.unique.clear() # Es necesario "reiniciar el generador" cuando hay alguna falla
     else:
-        raise Exception("No se pudieron generar valores únicos después de múltiples intentos")
+        raise Exception("No se pudieron generar valores únicos después de múltiples intentos.")
 
     tipo_domicilio = random.choice(domicilios)
     fecha_nacimiento = fake.date_of_birth(minimum_age=22, maximum_age=65)
@@ -33,13 +36,13 @@ def generar_datos():
     departamento = fake.state()
     provincia = fake.state()
     numero = random.randint(1, 9999)
-    piso = random.choice([None, '1A', '2B', '3C', '4D'])
+    piso = random.choice(pisos)
     codigo_postal = random.randint(1000, 9999)
     calle = fake.street_name()
     edad = random.randint(22, 65)
     inicio_actividad = fake.date_between(start_date='-30y', end_date='today')
-    estado_civil = random.choice(['Soltero', 'Casado', 'Divorciado', 'Viudo'])
-    sexo = random.choice(['M', 'F'])
+    estado_civil = random.choice(estados_civiles)
+    sexo = random.choice(sexos)
     barrio = random.choice(barrios)  # Utilizar la lista de barrios predefinidos
 
     # Devolver valores, manejando el caso del piso como cadena vacía si es None
@@ -60,7 +63,7 @@ cabeceras = [
 ]
 
 # Cantidad de registros a generar
-cantidad_registros = 50000
+cantidad_registros = 10000
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_csv, mode='w', newline='', encoding='utf-8') as file:

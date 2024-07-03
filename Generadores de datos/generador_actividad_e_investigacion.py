@@ -8,21 +8,22 @@ faker = Faker('es_ES')
 # Nombre del archivo CSV con los datos de Actividades_y_Antecedentes
 archivo_actividades = 'actividades_y_antecedentes.csv'
 
-# Leer los DNIs y dedicaciones de la tabla Actividades_y_Antecedentes
-dni_dedicacion_list = []
+# Leer los DNIs, dedicaciones y id_antecedente de la tabla Actividades_y_Antecedentes
+antecedentes_list = []
 with open(archivo_actividades, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        dni_dedicacion_list.append({
+        antecedentes_list.append({
             'dni': int(row['dni']),
-            'dedicacion': row['dedicacion']
+            'dedicacion': row['dedicacion'],
+            'id_antecedente': int(row['id_antecedente'])
         })
 
 # Número de registros a generar
 num_records = 100
 
 # Verificar que hay suficientes registros en la tabla
-if len(dni_dedicacion_list) < num_records:
+if len(antecedentes_list) < num_records:
     raise ValueError(f"La tabla '{archivo_actividades}' no contiene suficientes registros.")
 
 # Generar datos para la tabla Actividad_e_Investigacion
@@ -30,7 +31,7 @@ actividad_investigacion_data = []
 for _ in range(num_records):
     desde_date = faker.date_between(start_date='-20y', end_date='-1y') 
     hasta_date = faker.date_between(start_date=desde_date, end_date='-1d') 
-    record = random.choice(dni_dedicacion_list)
+    record = random.choice(antecedentes_list)
     actividad_investigacion_data.append({
         'categoria': faker.word(),
         'area_principal': faker.catch_phrase(),
@@ -38,7 +39,7 @@ for _ in range(num_records):
         'dni': record['dni'],
         'desde': desde_date,
         'hasta': hasta_date,
-        'id_antecedente': faker.unique.random_int(min=1, max=1000)
+        'id_antecedente': record['id_antecedente']
     })
 
 # Nombre del archivo CSV para la tabla Actividad_e_Investigacion
