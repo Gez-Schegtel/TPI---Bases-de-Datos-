@@ -22,7 +22,7 @@ dni_list = []
 with open(archivo_profesores, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        dni_list.append(int(row['dni'])) # Crea una lista con todos los dni's. 
+        dni_list.append(int(row['dni']))  # Crea una lista con todos los dni's.
 
 # Comprobar que se leyeron suficientes DNIs
 if len(dni_list) < num_records:
@@ -33,14 +33,14 @@ idos_list = []
 with open(archivo_obra_social, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        idos_list.append(int(row['idos']))
+        idos_list.append(int(row['idos']) if row['idos'] else None)
 
 # Leer los idsv del archivo de Seguro de Vida
 idsv_list = []
 with open(archivo_seguro_vida, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        idsv_list.append(int(row['idsv']))
+        idsv_list.append(int(row['idsv']) if row['idsv'] else None)
 
 # Generar datos para la tabla Familiar
 familiar_data = []
@@ -60,8 +60,8 @@ for _ in range(num_records):
         raise Exception("No se pudieron generar valores únicos después de múltiples intentos")
 
     dni = random.choice(dni_list)
-    idos = random.choice(idos_list)
-    idsv = random.choice(idsv_list)
+    idos = random.choice(idos_list) if random.random() > 0.2 else None  # 20% de probabilidad de ser None
+    idsv = random.choice(idsv_list) if random.random() > 0.2 else None  # 20% de probabilidad de ser None
     familiar_data.append({
         'apellido': fake.last_name(),
         'parentesco': random.choice(parentescos),
@@ -73,7 +73,7 @@ for _ in range(num_records):
         'dni': dni,
         'idsv': idsv,
         'porcentaje': round(random.uniform(10, 100), 2),  # Valor de porcentaje entre 10 y 100
-        'domicilio' : fake.address()
+        'domicilio': fake.address()
     })
 
 # Nombre del archivo CSV para la tabla Familiar
@@ -83,7 +83,7 @@ archivo_familiar = 'familiar.csv'
 cabeceras_familiar = [
     'apellido', 'parentesco', 'tipo_documento', 'nro_documento', 'nombre', 
     'fecha_nacimiento', 'idos', 'dni', 'idsv', 'porcentaje', 'domicilio'
-    ]
+]
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_familiar, mode='w', newline='', encoding='utf-8') as file:
