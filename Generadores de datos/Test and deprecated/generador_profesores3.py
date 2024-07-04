@@ -14,7 +14,7 @@ sexos = ['F', 'M']
 pisos = [None, '1A', '2B', '3C', '4D']
 
 # Nombre del archivo CSV
-archivo_profesores = 'profesores.csv'
+archivo_profesores = 'profesores3.csv'
 
 # Cabeceras de las columnas en el archivo CSV
 cabeceras_profesores = [
