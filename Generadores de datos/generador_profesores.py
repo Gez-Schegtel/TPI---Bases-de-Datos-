@@ -24,7 +24,7 @@ cabeceras_profesores = [
 ]
 
 # Cantidad de registros a generar
-cantidad_registros = 4500000
+cantidad_registros = 450000
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_profesores, mode='w', newline='', encoding='utf-8') as file:
