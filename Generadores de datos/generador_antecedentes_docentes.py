@@ -15,6 +15,7 @@ with open(archivo_actividades, mode='r', encoding='utf-8') as file:
     for row in reader:
         antecedentes_list.append({
             'dni': int(row['dni']),
+            'dedicacion': row['dedicacion'],
             'id_antecedente': int(row['id_antecedente'])
         })
 
@@ -34,11 +35,11 @@ for _ in range(num_records):
     antecedentes_docentes_data.append({
         'unidad_academica': faker.company(),
         'cargo': faker.job(),
-        'dedicacion': faker.random_element(elements=('Investigación', 'Docencia', 'Gestión')), 
-        'dni': antecedente['dni'], # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'dni'.
+        'dedicacion': antecedente['dedicacion'],
+        'dni': antecedente['dni'],
         'desde': desde_date,
         'hasta': hasta_date,
-        'id_antecedente': antecedente['id_antecedente'] # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'id_antecedente'.
+        'id_antecedente': antecedente['id_antecedente']
     })
 
 # Nombre del archivo CSV para la tabla Antecedentes_Docentes

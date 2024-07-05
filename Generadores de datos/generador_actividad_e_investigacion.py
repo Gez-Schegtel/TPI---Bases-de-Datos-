@@ -15,6 +15,7 @@ with open(archivo_actividades, mode='r', encoding='utf-8') as file:
     for row in reader:
         antecedentes_list.append({
             'dni': int(row['dni']),
+            'dedicacion': row['dedicacion'],
             'id_antecedente': int(row['id_antecedente'])
         })
 
@@ -34,7 +35,7 @@ for _ in range(num_records):
     actividad_investigacion_data.append({
         'categoria': faker.word(),
         'area_principal': faker.catch_phrase(),
-        'dedicacion': faker.random_element(elements=('Investigación', 'Docencia', 'Gestión')),
+        'dedicacion': antecedente['dedicacion'],
         'dni': antecedente['dni'], # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'dni'.
         'desde': desde_date,
         'hasta': hasta_date,

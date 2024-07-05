@@ -1,21 +1,21 @@
 codigo_postal,provincia,localidad,departamento,numero,piso,calle,razon_social,cuit_cuil,idsv
-03206,Barcelona,Ávila,Guadalajara,3,3,Ronda Curro Izquierdo,Hermanos Baró S.L.,78906325248,19456
-04827,Toledo,Castellón,Ciudad,7,6,Vial Merche Vicente,Consultoría MK S.Com.,99860020228,33286
-06319,Valladolid,Tarragona,Cádiz,1,89,Paseo Inés Sanchez,Talleres VO S.Coop.,73094333572,43526
-51309,Baleares,Vizcaya,Granada,7,912,Urbanización Dani Fuente,Comercializadora Ibérica S.L.,71013531288,25096
-39343,Barcelona,Álava,Cantabria,2,8,Cañada de Javi Sanmartín,Familia Vélez S.L.N.E,48205127074,1546
-09680,Cantabria,Girona,Ceuta,2,84,Calle de Bernardo Valera,Suministros KN S.Com.,53406663718,34829
-51144,Zaragoza,Huelva,Madrid,4,15,Cuesta de Natanael Donaire,Hermanos Vazquez S.A.,72809756796,13842
-44117,Salamanca,Teruel,Las Palmas,4,92,Cañada Isidro Palomo,Cayetano Llorens Simó S.A.,44070164016,45586
-16434,Málaga,Ceuta,Guipúzcoa,2,359,Pasaje de Elba Font,Banca Privada Españolas S.A.,72569027836,6676
-22686,León,Cáceres,La Coruña,7,70,Pasaje de Odalys Villalba,Banca Privada Bellido S.A.,82869435390,29715
-03504,Palencia,Toledo,Albacete,9,73,Pasaje de Virgilio Lasa,Manufacturas Coca & Asociados S.C.P,28233001948,34838
-36985,Huelva,Badajoz,Jaén,1,8,Glorieta de Héctor Plaza,Fuente & Asociados S.A.,45002593887,20499
-27442,Pontevedra,Almería,Salamanca,6,58,Cuesta Luisina Verdugo,Malo y Donoso S.A.,22187254114,9750
-20966,Sevilla,Murcia,Málaga,9,40,Pasaje Juan Manuel Aguiló,Infraestructuras Porcel S.A.,87298151400,3107
-21769,Huesca,Guipúzcoa,Las Palmas,6,90,Callejón Loida Alcántara,Luz Linares Falcó S.A.T.,16185868397,30755
-30378,La Rioja,Girona,Ávila,7,256,C. Jafet Crespo,Distribuciones Villalobos S.A.,98398663026,2597
-02658,Ávila,Girona,Córdoba,6,98,Pasadizo Caridad Espada,Industrias Cabo & Asociados S.A.,82128221049,13350
-40416,Zaragoza,Guadalajara,Valladolid,2,950,Cañada Natalia Lastra,Marqués y Manzano S.L.N.E,64013116028,21542
-41120,Álava,Zamora,Guipúzcoa,9,89,C. de Dan Camacho,Minería BS S.A.,62820985853,13355
-17402,Zaragoza,Cuenca,Córdoba,4,94,Paseo Silvio Moreno,Alemany y asociados S.L.,92780445310,29229
+05830,Teruel,Guipúzcoa,Zaragoza,9,9,Urbanización Regina Blanch,Grupo Castillo S.A.,63444671489,8194
+39846,La Rioja,Badajoz,Córdoba,1,71,Cañada Jose Francisco Neira,Emilia Alvarez Aguirre S.A.T.,71281107716,30723
+47364,Melilla,Melilla,Ourense,1,22,Plaza Jaime Gaya,Inmobiliaria SQDC S.A.,59941997703,38404
+47819,Lleida,La Coruña,Navarra,5,8,Cañada de Vera Pizarro,Grupo Cano S.L.,50172717068,2565
+14447,La Coruña,Málaga,Baleares,6,150,Cañada de Beatriz Márquez,Desarrollo Cañellas S.L.,48397539862,33292
+16340,Barcelona,Teruel,Santa Cruz de Tenerife,4,331,Paseo Nilda Herrera,Pujol & Asociados S.A.,80962384025,34829
+33805,Valencia,Albacete,Almería,1,64,Rambla Manola Pina,Distribuciones del Mediterráneo S.A.,15667273115,43534
+32447,Guipúzcoa,Alicante,Ávila,9,12,Alameda Gala Aragonés,Inmobiliaria Internacionales S.L.N.E,35652443421,22557
+16916,Girona,La Coruña,Guadalajara,6,64,Glorieta María Somoza,Familia Pozo S.L.N.E,58958529058,25637
+48321,Las Palmas,Cuenca,La Rioja,6,524,Camino Sabas Esparza,Tecnologías del Levante S.A.,67965743789,41511
+35956,Navarra,Sevilla,Barcelona,2,3,Plaza Xavier Ramirez,Restauración ZR S.L.N.E,25995402418,22056
+10285,Zaragoza,Burgos,Cáceres,4,361,Via de María Dolores Muro,Inmobiliaria Ramírez & Asociados S.Com.,87709210823,48685
+11388,Salamanca,La Coruña,Almería,4,20,Cuesta de Graciela Sánchez,Guillen & Asociados S.Com.,31594746312,27184
+34637,Segovia,Cuenca,Huesca,4,402,C. de Leocadia Gallardo,Alegre & Asociados S.L.,81445106378,38450
+33831,Lugo,Lleida,Las Palmas,4,141,Cañada Lourdes Ureña,Rivera y Vallejo S.L.N.E,16944612948,1076
+05968,Navarra,Melilla,Burgos,2,426,Ronda de Fidela Seguí,Cabeza y Folch S.Coop.,52910993365,13885
+28187,Toledo,Lleida,Vizcaya,4,618,Pasadizo de Jesús Hernando,Desarrollo Diéguez S.L.L.,40707821681,27711
+36762,Guadalajara,Girona,Soria,6,69,Cuesta de Horacio Artigas,Coello y Boix S.L.L.,81930870001,19010
+35011,Sevilla,Madrid,Las Palmas,3,26,Rambla de Pelayo Barbero,Bosch & Asociados S.L.,78856066810,28230
+48696,La Coruña,Murcia,Granada,8,3,Paseo Marianela Arteaga,Hnos Font S.Com.,52485245951,49225

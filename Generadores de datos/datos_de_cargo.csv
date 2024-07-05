@@ -1,21 +1,21 @@
 cargo,iddj,calle,provincia,reparticion,dependencia,cumple_horarios,organismo,localidad_cargo,numero
-"Limpiador y asistente de oficinas, hoteles y otros establecimientos",11128,Camino de Marcelino Morcillo,Navarra,Grupo Sainz S.Coop.,S.A.T.,Sí,Minería del Sur S.L.,Girona,477
-Expendedor de gasolineras,13732,Rambla Cirino Serra,Huesca,África Posada Noriega S.L.N.E,S.L.N.E,No,Roca y asociados S.C.P,Cáceres,402
-Peluqueros,1723,Cañada Reyes Gutierrez,Zamora,Gelabert & Asociados S.A.,S.L.,Sí,Familia Diéguez S.Coop.,La Coruña,667
-Químico,10323,Glorieta de Herminio Múgica,Toledo,Comercializadora UJUH S.Com.,S.Com.,Sí,Finanzas Españolas S.L.,Badajoz,831
-Catador de bebidas,18137,Acceso Sandra Luz,Barcelona,Industrias Mariscal y asociados S.Com.,S.C.P,No,Construcción VFE S.Com.,Huelva,319
-Techador,3128,Acceso Miguel López,Cáceres,Talleres Tovar S.A.U,S.A.,No,Distribuciones Valle S.Com.,Valencia,127
-Antropólogo,12739,Alameda Miguela Álamo,Ávila,Despacho Internacionales S.L.U.,S.L.,No,Fábrica Ortuño & Asociados S.L.L.,La Coruña,622
-Técnico en ciencias físicas y químicas,4648,C. Gil Diéguez,Lleida,Minería del Levante S.Coop.,S.L.,No,Roldán Pulido Infante S.L.L.,Cáceres,572
-Operador de máquinas para elaborar alimentos y productos afines,5916,Calle de Palmira Jerez,Lleida,Talleres Somoza y asociados S.C.P,S.Com.,No,Moliner y Lillo S.L.L.,Melilla,448
-Director de teatro,6349,Pasadizo Lola Carrillo,Guipúzcoa,Grupo Cortes S.L.,S.L.,No,Banca Privada del Mediterráneo S.Com.,Zamora,933
-Clasificador de desechos,2039,Vial Merche Galindo,Málaga,Muñoz y Sabater S.Coop.,S.Com.,Sí,Instalaciones YM S.L.,Guipúzcoa,833
-Director de investigación y desarrollo,1988,Acceso Juliana Landa,Las Palmas,Segura y Sáenz S.L.,S.Coop.,No,Acosta y asociados S.Coop.,Córdoba,928
-Director de investigación y desarrollo,1157,Alameda de Nieves Huerta,Sevilla,Hnos Téllez S.A.,S.L.N.E,No,Salamanca y Peña S.L.,Baleares,549
-Técnico en asistencia al usuario de tecnología de la información y las comunicaciones,1147,Paseo Lázaro Diaz,Almería,Suministros EOW S.Coop.,S.A.,Sí,Hnos Acedo S.A.,Valladolid,699
-Montador de estructuras metálicas,6795,Paseo de Álvaro Alfonso,Asturias,Finanzas Pulido & Asociados S.Com.,S.A.,No,Familia Saez S.Coop.,Guipúzcoa,664
-Empleado de biblioteca,8877,Urbanización Diego Ferrándiz,Ourense,Consultoría Badía S.L.,S.A.T.,Sí,Promociones Querol y asociados S.A.,Pontevedra,420
-Lingüista,5759,Calle Lucio Colom,Vizcaya,Manufacturas Coll S.L.,S.A.,Sí,Hermanos Zapata S.L.L.,Burgos,803
-Mampostero,10669,Ronda Plinio Llabrés,Baleares,Cruz y Alsina S.Coop.,S.Com.,Sí,Desarrollo Pinilla y asociados S.A.,Tarragona,243
-Director de teatro,13921,Rambla de Agustina Polo,León,Nogués y Gutierrez S.L.N.E,S.C.P,Sí,Inversiones Puente S.L.,Girona,24
-Ingeniero civil,19480,Paseo de Celestina Gimenez,León,Hermanos Narváez S.L.L.,S.L.N.E,Sí,Banco Ferreras S.L.L.,Albacete,106
+Clasificador de desechos,15752,Acceso de Natanael Gil,Ávila,Angélica Grau Márquez S.L.,S.L.L.,Sí,Manufacturas BMUS S.L.N.E,Navarra,91
+Cuidador de animales,14821,Ronda de Fátima Colom,Baleares,Banco Gimeno y asociados S.C.P,S.L.,Sí,Familia Arrieta S.C.P,Málaga,670
+Montador de estructuras metálicas,17475,Via de Arcelia Montaña,León,José Mari Borja Ríos S.L.,S.Coop.,Sí,Instalaciones JJPO S.L.,Ávila,127
+Prestamista,7555,Camino de Anita Miguel,Asturias,Agullo y asociados S.L.L.,S.L.,No,Wilfredo Toledo Canals S.C.P,Pontevedra,545
+Profesor de enseñanza secundaria,19451,Camino Gala Duarte,Asturias,Compañía RDLL S.A.,S.L.,No,Hnos Valverde S.A.,Asturias,342
+Analista financiero,6575,Cuesta de Maristela Mariscal,Baleares,Comercializadora Castellana S.L.,S.Com.,No,Comercializadora Español y asociados S.L.,Huelva,662
+Criador de ganado,9500,Cañada de Angelino Trillo,Soria,Benavente y asociados S.Com.,S.L.,No,Alimentación XZZ S.L.,Córdoba,854
+Encuadernador,5597,Avenida Agapito Buendía,Palencia,Alimentación del Levante S.A.,S.Com.,No,Restauración Gabaldón & Asociados S.A.,Cádiz,328
+Corrector de pruebas de imprenta,1406,Acceso de Albert Bermudez,Las Palmas,Hermanos Querol S.Com.,S.A.T.,Sí,Servicios Tamayo y asociados S.A.,Alicante,992
+Profesional de nivel medio del derecho y servicios legales,17335,Ronda Marina Garriga,Pontevedra,Morillo y Carreño S.A.T.,S.Coop.,No,Grupo Dalmau S.L.U.,Ávila,145
+Operario de la elaboración de productos lácteos,12965,Vial de Marcio Calvo,Burgos,Inversiones Falcó & Asociados S.A.T.,S.L.,No,Grupo Vázquez S.A.,Barcelona,157
+Ingeniero de minas,18155,Pasadizo de Mónica Molins,Alicante,Servicios INQ S.A.,S.Com.,Sí,Hotel Navarro S.A.,Vizcaya,196
+Cantante,6934,Acceso de Cándido Raya,Ourense,Calixta Macías Vélez S.C.P,S.A.,Sí,Instalaciones Díez S.L.N.E,Álava,211
+Profesor de música,9338,Calle Gastón Collado,Murcia,Logística Española S.A.,S.C.P,No,Roma & Asociados S.L.N.E,Zaragoza,444
+Especialista en políticas y servicios de personal,19315,Cuesta Jacinta Carrión,Santa Cruz de Tenerife,Transportes Ibérica S.L.,S.A.,No,Acevedo & Asociados S.L.,Córdoba,948
+Minero,5088,Via Encarnación Vicens,Tarragona,Hotel OM S.Com.,S.A.,No,Consultoría Fuente y asociados S.L.,Huesca,857
+Agente de servicios de expedición de licencias y permisos,17460,Cuesta Eutimio Borrell,Guipúzcoa,Alimentación Adán & Asociados S.Coop.,S.A.,No,Transportes ZK S.A.D,Girona,47
+Conductor de autobús,16636,Camino de Benigno Valero,Huelva,Compañía PJ S.Coop.,S.A.,Sí,Minería IUM S.L.L.,Cádiz,736
+Acarreador de agua,2164,Vial de Jose Muñoz,Cantabria,Grupo Goicoechea S.L.,S.L.N.E,No,Soler y asociados S.Com.,Lugo,612
+Director de producción agropecuaria y silvicultura,4566,Paseo de Prudencio Jimenez,Segovia,Servicios Globales S.L.,S.L.N.E,No,Inversiones Arjona & Asociados S.A.D,Málaga,161

@@ -14,7 +14,8 @@ with open(archivo_actividades, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
         antecedentes_list.append({
-            'dni': row['dni'], 
+            'dni': row['dni'],
+            'dedicacion': row['dedicacion'],
             'id_antecedente': row['id_antecedente']
         })
 
@@ -34,7 +35,7 @@ for _ in range(num_records):
     extension_data.append({
         'acciones': faker.catch_phrase(),
         'cargo': faker.job(),
-        'dedicacion': faker.random_element(elements=('Investigación', 'Docencia', 'Gestión')),
+        'dedicacion': antecedente['dedicacion'],
         'dni': antecedente['dni'], # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'dni'.
         'desde': desde_date,
         'hasta': hasta_date,
