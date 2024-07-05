@@ -30,15 +30,15 @@ extension_data = []
 for _ in range(num_records):
     desde_date = faker.date_between(start_date='-20y', end_date='-1y')  # Fecha desde hace 20 años hasta hace 1 año
     hasta_date = faker.date_between(start_date=desde_date, end_date='-1d')  # Fecha hasta desde la fecha desde hasta ayer
-    antecedente = random.choice(antecedentes_list) # Acá un par del diccionario {'dni': '<número>', 'id_antecedente': '<número>'} 
+    antecedente = random.choice(antecedentes_list) # Acá selecciona un par del diccionario {'dni': '<número>', 'id_antecedente': '<número>'} 
     extension_data.append({
         'acciones': faker.catch_phrase(),
         'cargo': faker.job(),
         'dedicacion': faker.random_element(elements=('Investigación', 'Docencia', 'Gestión')),
-        'dni': antecedente['dni'],
+        'dni': antecedente['dni'], # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'dni'.
         'desde': desde_date,
         'hasta': hasta_date,
-        'id_antecedente': antecedente['id_antecedente']
+        'id_antecedente': antecedente['id_antecedente'] # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'id_antecedente'.
     })
 
 # Nombre del archivo CSV para la tabla Antecedentes_Extension_Universitaria

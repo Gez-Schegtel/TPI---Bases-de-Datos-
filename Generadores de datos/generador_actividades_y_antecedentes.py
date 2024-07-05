@@ -32,7 +32,7 @@ for _ in range(num_records):
         'dni': random.choice(dni_list),
         'desde': desde_date,
         'hasta': hasta_date,
-        'id_antecedente': faker.unique.random_int(min=1, max=1000)
+        'id_antecedente': faker.unique.random_int(min=1, max=50000)
     })
 
 # Nombre del archivo CSV para la tabla Actividades_y_Antecedentes
