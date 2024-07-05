@@ -1,21 +1,21 @@
 apellido,parentesco,tipo_documento,nro_documento,nombre,fecha_nacimiento,idos,dni,idsv,porcentaje,domicilio
-Macias,Padre,DNI,12690456,Ligia,1963-03-01,3794,36734224,16614,15.61,Cuesta Marcial Duque 16 Puerta 9 
-Olivera,Hija,CI,41728171,Abilio,1978-08-11,11723,34807987,10580,10.11,Acceso de José Manuel Rosell 9
-Barrena,Hermano,CI,20328398,María,1999-03-30,13723,11057888,43089,43.06,Cuesta de Toribio Jerez 43
-Atienza,Esposa,Pasaporte,61161304,Joan,1982-05-01,34385,84846161,29999,92.3,Plaza de Buenaventura Múgica 55
-Narváez,Esposo,CI,14407890,José Luis,1927-09-16,32949,81026290,1383,21.87,Callejón Pascuala Quero 4
-Amorós,Hermano,Pasaporte,39287984,Ignacio,1940-04-30,30209,48971735,16225,18.0,Glorieta de Luis Morán 82 Apt. 61 
-Fabregat,Madre,Pasaporte,22730404,Inmaculada,1990-01-18,13226,58337543,17176,11.38,Vial de Rosenda Puig 539
-Madrid,Hija,CI,10965323,Emilio,1996-03-01,2675,94284661,18929,89.77,Avenida Aránzazu Ruano 24
-Amaya,Hijo,DNI,13414209,Vicente,1996-03-01,18141,41770494,10312,12.06,Calle José Antonio Fiol 3 Puerta 0 
-Carrillo,Hermano,DNI,76592122,Toni,1963-01-28,35652,72252063,729,80.23,Rambla de Cristian Zamorano 52 Piso 8 
-Rueda,Hermano,DNI,64260089,Rosario,2001-07-14,20611,85969768,26640,18.62,Pasadizo Charo Miranda 208
-Cisneros,Hija,Pasaporte,46888962,Simón,1965-12-07,36649,96087547,43035,84.21,Alameda Alcides Mosquera 74
-Verdú,Hijo,DNI,61343475,José María,1964-10-25,5259,12342156,17221,89.29,Pasadizo Elena Herrero 21
-Asensio,Hermano,DNI,98986269,Sofía,1952-01-21,46115,72643161,32259,95.36,Callejón de Anita Castellanos 526 Piso 1 
-Angulo,Hermano,Pasaporte,66201613,Vasco,1953-06-22,26590,87417537,37911,95.94,Callejón de Eutropio Cañellas 21 Puerta 6 
-Pinedo,Esposo,CI,54428147,Aurelio,1990-05-29,3929,98249347,30904,74.83,Via Fortunata Roda 57 Puerta 8 
-Juan,Madre,CI,65683620,Teresa,1965-03-16,40000,83528436,6005,11.61,Rambla Ascensión Prado 1 Apt. 09 
-Matas,Hermana,DNI,46761455,Alondra,1976-05-21,28837,51529325,22752,75.09,Camino Bernarda Cuervo 10 Puerta 0 
-Torralba,Madre,DNI,97866500,Genoveva,1967-10-13,42637,24168851,36778,43.46,Via de Anselmo Catalán 94
-Piquer,Hermana,DNI,78758535,María Del Carmen,1977-07-01,17001,17219906,21352,91.29,Alameda de María Reyes 12
+Bernat,Padre,DNI,17084329,Reina,1931-02-23,47775,33812425,17973,31.91,Glorieta de Leonor Hurtado 37
+Perales,Hermana,DNI,59684132,Ale,1976-01-15,20110,61755740,39129,69.06,Ronda de Bonifacio Bauzà 8 Apt. 96 
+Ponce,Esposo,DNI,13909895,Eulalia,1925-03-30,9660,84827480,8324,86.9,Cañada Teófilo Cantón 17 Apt. 64 
+Mariscal,Madre,Pasaporte,90318130,Ámbar,1960-03-20,1773,38743294,35965,25.82,Urbanización de Milagros Vilalta 6 Piso 7 
+Gallart,Madre,DNI,18829706,Jose Luis,1948-05-20,13763,59373786,37907,60.98,Avenida de Javi Gabaldón 25
+Falcón,Hijo,CI,51718166,Constanza,2022-06-08,6592,45327672,14789,52.36,Vial de Estefanía Gascón 512 Puerta 9 
+Manzano,Madre,DNI,98567091,Andrea,1980-06-03,11620,37882186,46759,47.33,Glorieta de Elvira Arnaiz 75 Puerta 1 
+Morcillo,Esposa,DNI,54792108,Ruperta,1972-09-19,14023,79350584,3760,24.35,C. Amílcar Baena 48 Apt. 42 
+Ayllón,Hijo,CI,25270068,Emilio,1968-12-20,29050,36775551,48499,82.23,Ronda de Luis Ángel Granados 11
+Hernández,Hermano,DNI,61513060,Soledad,1963-01-29,36438,40436249,8438,29.34,Pasadizo de Socorro Palomares 25 Apt. 52 
+Durán,Hermana,CI,31669918,Paulino,1981-06-09,37265,33758438,11292,40.93,Rambla de Agustina Gallo 3
+Gomez,Esposa,CI,87671163,Reyes,1969-07-15,39635,35162013,18166,85.05,Alameda de Purificación Tudela 21 Apt. 00 
+Benet,Hermano,DNI,69532851,Adrián,2007-09-10,36027,46224667,36882,33.51,Plaza Maite Gonzalez 12 Puerta 0 
+Castañeda,Padre,CI,18627367,Paca,1991-04-21,10988,99630751,36370,85.18,C. de Azeneth Roldan 33 Puerta 4 
+Feijoo,Padre,DNI,21410244,Hilario,2014-08-27,29260,86939924,35641,80.83,Glorieta Andrés Cadenas 145 Piso 9 
+Gallo,Hermano,CI,27905715,Vanesa,1925-06-14,45248,48088521,29722,65.26,Ronda de Jennifer Haro 75
+Sainz,Esposo,CI,39272236,Silvio,1969-06-28,42554,62770423,35464,87.28,Camino Ruth Espada 1
+Villegas,Hermano,DNI,91838536,Gastón,2012-05-29,20947,45809105,39869,36.41,Callejón de Clímaco Salvador 87 Puerta 6 
+Talavera,Hijo,Pasaporte,65514180,Carlota,1985-06-10,48262,76291532,31786,87.52,Vial Emiliana Fabregat 535
+López,Padre,Pasaporte,32046704,Cloe,1955-04-24,40195,78590493,2968,52.03,Pasadizo de Quique Miralles 39 Piso 4 

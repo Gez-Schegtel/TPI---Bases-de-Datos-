@@ -1,6 +1,7 @@
 import csv
 import random
 from faker import Faker
+from faker.exceptions import UniquenessException
 
 # Inicializar Faker en español
 fake = Faker('es_ES')
@@ -28,9 +29,21 @@ obra_social_data = []
 for dni in dni_list:
     num_idos = random.randint(1, 3)  # Generar entre 1 y 3 "idsv" por cada DNI
     for _ in range(num_idos):
+
+        # Intentar generar valores únicos con múltiples intentos
+        max_attempts = 100000
+        for _ in range(max_attempts):
+            try:
+                idos = fake.unique.random_int(min=1, max=50000)
+                break
+            except UniquenessException:
+                fake.unique.clear() # Es necesario "reiniciar el generador" cuando hay alguna falla
+        else:
+            raise Exception("No se pudieron generar valores únicos después de múltiples intentos.")
+
         obra_social_data.append({
             'dni': dni,
-            'idos': fake.unique.random_int(min=1, max=50000)  # Generar un "idos" único. El máx puede ser un problema si hay muchos profesores. Controlar.
+            'idos': idos  # Generar un "idos" único. El máx puede ser un problema si hay muchos profesores. Controlar.
         })
 
 # Nombre del archivo CSV para la tabla Obra_Social

@@ -1,21 +1,21 @@
 codigo_postal,provincia,localidad,departamento,numero,piso,calle,razon_social,cuit_cuil,idsv
-22303,Toledo,Asturias,Guadalajara,5,69,Plaza Ernesto Pardo,Grupo Estrada S.A.,26390089984,35328
-37109,Jaén,Álava,Cantabria,9,62,Via Clementina Narváez,Desarrollo Internacionales S.L.,91198868238,26625
-27403,Soria,Barcelona,Ávila,7,39,Callejón de Guadalupe Riba,Martinez y asociados S.L.,14127967390,24065
-03719,Segovia,Tarragona,Girona,7,18,Camino de Macarena Villalba,Vergara y asociados S.Com.,14885755554,32259
-47669,Almería,Salamanca,Burgos,4,89,Callejón de Lupe Olivares,Familia Hernandez S.L.,33480826915,43524
-18438,Zaragoza,Cáceres,Asturias,9,5,Pasaje de Encarna Ugarte,Álamo y asociados S.Com.,10496869818,25092
-01951,Toledo,Toledo,Zaragoza,3,95,Cuesta Gaspar Ortiz,Eliana Bayo Azcona S.L.,83399215423,1551
-41711,Álava,Almería,Teruel,2,9,Camino de Nicolasa Azcona,Familia Escamilla S.L.N.E,12348100802,3600
-31180,Tarragona,León,Alicante,3,83,C. Jafet Suárez,Puga y asociados S.A.U,37871000009,7697
-10630,Zaragoza,Zaragoza,Las Palmas,3,38,Calle Amor Canet,Construcción Inteligentes S.Coop.,63473609689,38417
-16111,Santa Cruz de Tenerife,Palencia,Lleida,8,92,Acceso de Carlos Rubio,Elías Barrera Amador S.A.,78913276126,26640
-12866,Valladolid,Burgos,Girona,7,1,Vial de Máximo Manzanares,Infraestructuras RVCH S.A.,21348399327,37911
-13902,Segovia,Melilla,Santa Cruz de Tenerife,9,899,Pasaje de África Piquer,Hermanos Barros S.Com.,49226629984,32793
-46742,Vizcaya,Murcia,Málaga,8,30,Vial Sebastián Montalbán,Yéssica Cid Huerta S.L.,93333421410,43035
-07406,Salamanca,Lugo,Álava,7,96,Glorieta Juana Polo,Grupo Montero S.L.,67254829286,39965
-12023,León,Huesca,Murcia,9,875,Calle Chus Barrio,Hnos Méndez S.A.,95581383273,47648
-07869,Albacete,Guipúzcoa,Salamanca,9,52,Glorieta Charo Vaquero,Farmaceútica PLMW S.L.,45625319405,1572
-14822,Ciudad,Murcia,Valladolid,9,92,Camino de Juan Carlos Godoy,Fidel Torrecilla Cadenas S.A.,94014050415,35365
-46964,Badajoz,Ciudad,Teruel,2,698,Alameda de Eliana Borrego,Despacho Españolas S.L.L.,96947864310,21541
-11797,Sevilla,Ávila,Jaén,3,513,Pasadizo Sandra Pintor,Familia Tello S.Coop.,59506836351,8241
+11215,La Rioja,Tarragona,Santa Cruz de Tenerife,1,3,Callejón de Juan Pablo Vilalta,Castañeda y asociados S.A.,79763665678,1
+32053,Málaga,Zaragoza,Alicante,5,67,Urbanización Alondra Iñiguez,Comercial Aznar S.A.,50920673297,2
+05229,Alicante,Huelva,Cáceres,5,87,Glorieta Alma Carrasco,Compañía NUBD S.Coop.,58006497431,3
+29966,Granada,Huesca,Barcelona,9,15,C. Marcia Puga,Familia Domínguez S.Coop.,98371543964,4
+20515,Pontevedra,Soria,Guadalajara,1,45,Ronda de José Mari Goicoechea,Gimenez y Zabaleta S.L.U.,35412559136,5
+14162,Jaén,Asturias,León,5,21,Cuesta de Ámbar Barón,Vicente Godoy Alcalá S.A.,41798924970,6
+36932,Albacete,Cuenca,Burgos,1,17,Vial de Rodrigo Pujadas,Farmaceútica Álamo & Asociados S.L.,50194223662,7
+21477,Ourense,Baleares,Málaga,3,2,Cuesta César Rojas,Barriga & Asociados S.A.,25755479092,8
+19608,La Coruña,Palencia,Melilla,2,43,Camino Chuy Mayoral,Suárez & Asociados S.Coop.,53608898103,9
+50917,León,Pontevedra,Albacete,2,46,Alameda Marciano Zorrilla,Farmaceútica VJ S.Com.,86240717245,10
+33890,Cáceres,Zamora,Barcelona,4,94,Alameda Pepe Sanabria,Promociones JQ S.L.L.,80695038157,11
+20999,Zamora,Zamora,Badajoz,6,80,Camino Sebastián Correa,Banca Privada Roldan & Asociados S.A.,61174214493,12
+11501,Guipúzcoa,Almería,Navarra,3,59,Glorieta Matilde Saez,Inversiones Castellana S.A.T.,80671099880,13
+01040,Pontevedra,Burgos,Valencia,8,59,Camino Joel Tejada,Infraestructuras Oller & Asociados S.L.N.E,28643269481,14
+42478,Baleares,Melilla,Ciudad,8,7,Plaza Rolando Salinas,Pizarro y Mesa S.L.L.,18588886765,15
+45225,Valencia,Castellón,Ourense,3,892,Paseo Erasmo Leiva,Comercial Gisbert S.L.,68772071405,16
+40597,Jaén,Sevilla,Zamora,5,35,Ronda Nélida Arjona,Consultoría Carrasco y asociados S.Com.,16479523826,17
+02547,Teruel,Zamora,La Coruña,8,86,Via de Calixta Mármol,Hnos Roura S.Coop.,30077538809,18
+28395,Guadalajara,Cantabria,Burgos,6,41,Callejón de Mateo Tejedor,Hnos Carretero S.L.,31770768763,19
+21753,Murcia,Cantabria,Pontevedra,4,33,C. Ernesto Muro,Amanda Maestre Peláez S.L.,93217103615,20

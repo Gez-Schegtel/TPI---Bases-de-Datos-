@@ -1,21 +1,21 @@
 cargo,iddj,calle,provincia,reparticion,dependencia,cumple_horarios,organismo,localidad_cargo,numero
-Peón de explotaciones agrícolas,14050,Cuesta de Ignacia Garmendia,Valladolid,Restauración TP S.A.,S.A.,No,Inmobiliaria Ibérica S.L.L.,Cáceres,419
-Calderero,3676,Pasadizo de Martín Baró,Ceuta,Instalaciones Iberia S.L.,S.A.,Sí,Compañía Castellana S.Com.,Lleida,290
-Gerente de comercios al por mayor y al por menor,11561,Paseo Anunciación Llamas,Las Palmas,Familia Isern S.A.,S.L.L.,No,Construcción Ibéricos S.A.,León,407
-Empleado de contabilidad y cálculo de costos,11870,Via de Felicidad Barbero,La Coruña,Solé y asociados S.L.,S.L.,Sí,Logística Galiano & Asociados S.L.L.,Ávila,385
-Actor,18442,Paseo de María José Osorio,La Rioja,Promociones Ávila S.L.L.,S.A.T.,No,Manufacturas XM S.L.,Huesca,865
-Avicultor,12486,Acceso de Florentina Baena,Granada,Carvajal y Nieto S.A.,S.L.U.,No,Inmobiliaria Requena S.Coop.,León,293
-Operador de máquinas de tratamiento de pieles y cueros,16689,Plaza Prudencia Acosta,Valladolid,Olga Macias Herranz S.Coop.,S.L.L.,Sí,Servicios Gabaldón S.L.N.E,Vizcaya,798
-Curtidor,13033,Paseo de Enrique Pintor,Guadalajara,Hnos Diego S.L.N.E,S.Com.,Sí,Lupe Posada Donoso S.L.,Almería,41
-Personal de pompas fúnebres y embalsamador,2937,Via Severino Ortiz,Vizcaya,Rosa Caparrós Segarra S.Com.,S.L.,No,Grupo Garzón S.A.,Asturias,29
-Expendedor de gasolineras,1183,Callejón Juan Francisco Torrents,Badajoz,Pascual Ferrera Redondo S.A.,S.A.D,Sí,Inversiones Flor y asociados S.A.,Sevilla,278
-Peón de pesca y acuicultura,8532,Paseo Edu Fabregat,La Rioja,Morillo y asociados S.Com.,S.L.,Sí,Soluciones Gascón y asociados S.A.,Granada,474
-Trabajador pecuario de subsistencia,4755,Calle de Marcelino Adadia,Soria,Manufacturas QJ S.A.,S.Coop.,Sí,Supermercados Abellán & Asociados S.L.N.E,Lleida,269
-Pulidor de vidrio,6120,Camino Cosme Casanova,Vizcaya,Comercializadora Perales S.Com.,S.L.L.,No,Grupo Matas S.Com.,Barcelona,744
-Personal de limpieza,1305,C. de Nieves Agustí,Palencia,Supermercados del Norte S.A.,S.A.,No,Teodora Arnaiz Juliá S.L.,Valladolid,258
-Tramper,10519,Urbanización Eusebia Gibert,Cáceres,Palma & Asociados S.Com.,S.Coop.,No,Tamarit y Azcona S.A.,Huesca,633
-Prestamista,2306,Glorieta de Pascuala Villa,Zamora,Suministros Simó & Asociados S.L.N.E,S.A.,No,Grupo Carballo S.L.,Guadalajara,126
-Meteorólogo,11260,Paseo Roldán Gelabert,Granada,Familia Ramos S.Com.,S.A.,Sí,Hermanos Ródenas S.L.L.,Madrid,79
-Trabajador de explotaciones de acuicultura,15068,Cuesta de Emperatriz Barral,Las Palmas,Inmobiliaria Linares y asociados S.L.N.E,S.Coop.,Sí,Hnos Gallart S.A.,Ourense,999
-Barrendero,2838,Avenida de Reyes Ariza,Alicante,Angelina Bermudez Pomares S.A.,S.L.,Sí,Banco Integrales S.Com.,Cádiz,965
-Ingeniero en telecomunicaciones,7820,C. Maximiliano Fiol,Almería,Talleres del Levante S.L.,S.L.L.,Sí,Logística ZL S.L.N.E,Guipúzcoa,759
+Peón de obras públicas y mantenimiento,10714,Glorieta Clotilde Escudero,Badajoz,Farmaceútica Ibérica S.Com.,S.Com.,Sí,Alimentación Torrent S.Coop.,Guipúzcoa,623
+Operador de máquinas para fabricar productos de caucho,14863,Alameda de Hilario Casanova,Alicante,Distribuciones Españolas S.Coop.,S.A.,Sí,Cecilia Antón Arenas S.L.,Cantabria,152
+Lavador de vehículos,4949,Avenida de Leonardo Camps,Badajoz,Familia Gual S.Com.,S.Coop.,No,Losada y asociados S.L.L.,Melilla,120
+Técnico en optometría y ópticos,13468,Plaza de Tatiana Fabra,Zamora,Conde y Bello S.Com.,S.L.,Sí,Finanzas Borrego y asociados S.L.N.E,Guipúzcoa,706
+Trabajador ambulante de servicios,11065,Callejón Flora Carrillo,Ourense,Juan Carlos Garmendia Lerma S.L.L.,S.Com.,No,Jessica Barreda Arias S.A.,Baleares,42
+Herrero,17085,C. de Teodora Rivera,Las Palmas,Supermercados IQQY S.Coop.,S.L.,No,Goyo Hernando Goñi S.L.N.E,Albacete,542
+Herrero,19874,Plaza de José Antonio Zapata,León,Distribuciones Hervia y asociados S.Com.,S.L.L.,No,Supermercados Castro S.L.N.E,Madrid,424
+Mampostero,6966,Cañada de Íñigo Vera,Toledo,Instalaciones Ibérica S.L.L.,S.L.,No,Amigó y Aramburu S.L.N.E,Málaga,346
+Perforador y sondista de pozos,4974,Rambla de Luisina Badía,Jaén,Sara Morera Ferrández S.Coop.,S.Com.,No,Infante & Asociados S.Coop.,Ávila,37
+"Operario de la conservación de frutas, legumbres y verduras",2006,Alameda Custodio Rodríguez,Ceuta,Blas Armengol Torrecilla S.A.U,S.L.L.,Sí,Infraestructuras HAIZ S.Coop.,Madrid,357
+Técnico en aparatos de diagnóstico y tratamiento médico,9124,Camino Nacio Avilés,Sevilla,Grupo Naranjo S.L.N.E,S.Coop.,No,Inmobiliaria Ibéricos S.Coop.,Segovia,832
+Técnico en aparatos de diagnóstico y tratamiento médico,8946,Glorieta Consuela Bilbao,Burgos,Logística Nicolás S.Com.,S.Coop.,Sí,Instalaciones Diez y asociados S.Coop.,Santa Cruz de Tenerife,911
+Director de servicios de tecnología de la información y las comunicaciones,12860,Pasaje Lorenzo Mas,Burgos,Banca Privada Ibéricos S.Com.,S.L.,Sí,Martín y Amo S.A.,Álava,526
+Fontanero,7188,Acceso de Héctor Molina,Granada,Comercial Colomer y asociados S.L.,S.L.L.,No,Suministros Iñiguez S.Coop.,Valencia,579
+Guardagujas,15808,Pasaje de Nazaret Vizcaíno,Murcia,Inversiones GQV S.L.N.E,S.L.N.E,No,Hernández & Asociados S.L.U.,Segovia,312
+Operador de máquinas de vapor y calderas,10990,C. Felix Seguí,Álava,Talleres MQEZ S.L.,S.Coop.,Sí,Tecnologías PGRO S.Com.,Tarragona,921
+"Operario de la conservación de frutas, legumbres y verduras",4588,Plaza Marino Ribes,Las Palmas,Industrias Iberia S.L.L.,S.A.,No,Murcia & Asociados S.C.P,La Coruña,236
+Director de servicios de bienestar social,13089,Callejón de Segismundo Pino,Palencia,Servicios Alberdi S.Coop.,S.Com.,No,Desarrollo OO S.L.L.,Cádiz,900
+Oficial de las fuerzas armadas,5207,Camino Almudena Carbonell,Huesca,Suministros Almazán S.A.,S.L.,Sí,Industrias del Norte S.A.,Almería,128
+Ayudante de cámara,7932,Cuesta Edgardo Ferrer,Murcia,Soluciones SPKC S.L.N.E,S.L.,Sí,Instalaciones ZPM S.A.,Cuenca,0
