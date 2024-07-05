@@ -1,5 +1,5 @@
 
--- Creamos la base de datos si no existe y luego la seleccionamos.
+/* Creamos la base de datos si no existe y luego la seleccionamos. */
 CREATE DATABASE IF NOT EXISTS TPI;
 USE TPI;
 
