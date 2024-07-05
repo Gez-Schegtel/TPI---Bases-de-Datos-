@@ -13,7 +13,7 @@ iddj_list = []
 with open(archivo_declaracion_jurada, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        iddj_list.append(int(row['iddj'])) # Acá no hace falta convertilo a entero, pero lo hacemos por seguridad.
+        iddj_list.append(row['iddj']) # Acá no hace falta convertilo a entero, pero lo hacemos por seguridad.
 
 # Número de registros a generar
 cantidad_registros = 20
@@ -23,16 +23,14 @@ carga_horaria_data = []
 
 # Generar datos para la tabla Carga_Horaria
 for _ in range(cantidad_registros):
-    carga_horaria_data = [
-        {
+    carga_horaria_data.append ({
             'dia': faker.day_of_week(),
             'lugar': faker.city(),
             'horario': faker.time(),
             'nombre_catedra': faker.job(),
             'horas_clase': faker.random_int(min=1, max=6), 
             'iddj': random.choice(iddj_list)
-        }
-    ]
+    })
 
 # Nombre del archivo CSV para la tabla Carga_Horaria
 archivo_carga_horaria = 'carga_horaria.csv'

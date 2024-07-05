@@ -1,5 +1,4 @@
 import csv
-import random
 from faker import Faker
 
 # Inicializar Faker en español
@@ -21,8 +20,8 @@ for iddj in iddj_list:
     tareas_no_estatales_data.append({
         'fecha_ingreso': faker.date_this_decade(),
         'lugar_presta_servicio': faker.company(),
-        'autonomia': random.choice(['Sí', 'No']),
-        'relacion_dependencia': random.choice(['Dependiente', 'Independiente']),
+        'autonomia': faker.random_element(elements=('Sí', 'No')),
+        'relacion_dependencia': faker.random_element(elements=('Dependiente', 'Independiente')),
         'funcion': faker.job(),
         'iddj': iddj
     })

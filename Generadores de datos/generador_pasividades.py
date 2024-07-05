@@ -1,5 +1,4 @@
 import csv
-import random
 from faker import Faker
 
 # Inicializar Faker en español
@@ -13,7 +12,7 @@ iddj_list = []
 with open(archivo_declaracion_jurada, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        iddj_list.append(int(row['iddj']))
+        iddj_list.append(row['iddj'])
 
 # Generar datos para la tabla Pasividades
 pasividades_data = []
@@ -23,7 +22,7 @@ for iddj in iddj_list:
         'iddj': iddj,
         'desde': faker.date_this_decade(),
         'causa': faker.sentence(nb_words=3),
-        'suspendido': random.choice([True, False]),
+        'suspendido': faker.boolean(),
         'institucion_abonante': faker.company()
     })
 

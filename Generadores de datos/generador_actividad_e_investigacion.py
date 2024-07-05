@@ -28,19 +28,27 @@ if len(antecedentes_list) < num_records:
 
 # Generar datos para la tabla Actividad_e_Investigacion
 actividad_investigacion_data = []
-for _ in range(num_records):
-    desde_date = faker.date_between(start_date='-20y', end_date='-1y') 
-    hasta_date = faker.date_between(start_date=desde_date, end_date='-1d') 
+pares_generados = set()
+
+while len(actividad_investigacion_data) < num_records:
+    desde_date = faker.date_between(start_date='-20y', end_date='-1y')
+    hasta_date = faker.date_between(start_date=desde_date, end_date='-1d')
     antecedente = random.choice(antecedentes_list)
-    actividad_investigacion_data.append({
-        'categoria': faker.word(),
-        'area_principal': faker.catch_phrase(),
-        'dedicacion': antecedente['dedicacion'],
-        'dni': antecedente['dni'], # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'dni'.
-        'desde': desde_date,
-        'hasta': hasta_date,
-        'id_antecedente': antecedente['id_antecedente'] # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'id_antecedente'.
-    })
+    
+    # Crear un par de (dni, id_antecedente) para verificar duplicados
+    par = (antecedente['dni'], antecedente['id_antecedente'])
+    
+    if par not in pares_generados:
+        pares_generados.add(par)
+        actividad_investigacion_data.append({
+            'categoria': faker.word(),
+            'area_principal': faker.catch_phrase(),
+            'dedicacion': antecedente['dedicacion'],
+            'dni': antecedente['dni'],
+            'desde': desde_date,
+            'hasta': hasta_date,
+            'id_antecedente': antecedente['id_antecedente']
+        })
 
 # Nombre del archivo CSV para la tabla Actividad_e_Investigacion
 archivo_actividad_investigacion = 'actividad_e_investigacion.csv'

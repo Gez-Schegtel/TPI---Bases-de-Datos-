@@ -1,5 +1,4 @@
 import csv
-import random
 from faker import Faker
 
 # Inicializar Faker en español
@@ -13,7 +12,7 @@ iddj_list = []
 with open(archivo_declaracion_jurada, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        iddj_list.append(int(row['iddj']))
+        iddj_list.append(row['iddj'])
 
 # Generar datos para la tabla Datos_de_Cargo
 datos_cargo_data = []
@@ -25,7 +24,7 @@ for iddj in iddj_list:
         'provincia': faker.state(),
         'reparticion': faker.company(),
         'dependencia': faker.company_suffix(),
-        'cumple_horarios': random.choice(['Sí', 'No']),
+        'cumple_horarios': faker.random_element(elements=('Sí', 'No')),
         'organismo': faker.company(),
         'localidad_cargo': faker.city(),
         'numero': faker.random_number(digits=3)

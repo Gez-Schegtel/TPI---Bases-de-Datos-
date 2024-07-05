@@ -1,3 +1,7 @@
+"""
+¡Cuidado! Este código puede llegar a generar pares de 'dni'-'id_antecedente' iguales, rompiendo así la restricción de clave primaria.
+"""
+
 import csv
 import random
 from faker import Faker
@@ -28,25 +32,19 @@ if len(antecedentes_list) < num_records:
 
 # Generar datos para la tabla Antecedentes_Extension_Universitaria
 extension_data = []
-used_pairs = set()  # Conjunto para rastrear pares de 'dni'-'id_antecedente' usados
-
-while len(extension_data) < num_records:
+for _ in range(num_records):
     desde_date = faker.date_between(start_date='-20y', end_date='-1y')  # Fecha desde hace 20 años hasta hace 1 año
     hasta_date = faker.date_between(start_date=desde_date, end_date='-1d')  # Fecha hasta desde la fecha desde hasta ayer
-    antecedente = random.choice(antecedentes_list)
-    pair = (antecedente['dni'], antecedente['id_antecedente'])
-
-    if pair not in used_pairs:  # Verifica si el par no está ya usado
-        used_pairs.add(pair)  # Añade el par al conjunto de usados
-        extension_data.append({
-            'acciones': faker.catch_phrase(),
-            'cargo': faker.job(),
-            'dedicacion': antecedente['dedicacion'],
-            'dni': antecedente['dni'],
-            'desde': desde_date,
-            'hasta': hasta_date,
-            'id_antecedente': antecedente['id_antecedente']
-        })
+    antecedente = random.choice(antecedentes_list) # Acá selecciona un par del diccionario {'dni': '<número>', 'id_antecedente': '<número>'} 
+    extension_data.append({
+        'acciones': faker.catch_phrase(),
+        'cargo': faker.job(),
+        'dedicacion': antecedente['dedicacion'],
+        'dni': antecedente['dni'], # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'dni'.
+        'desde': desde_date,
+        'hasta': hasta_date,
+        'id_antecedente': antecedente['id_antecedente'] # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'id_antecedente'.
+    })
 
 # Nombre del archivo CSV para la tabla Antecedentes_Extension_Universitaria
 archivo_extension = 'antecedentes_extension_universitaria.csv'

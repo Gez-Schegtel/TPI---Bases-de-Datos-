@@ -1,101 +1,101 @@
 dni,tipo_domicilio,fecha_nacimiento,nombre,apellido,localidad,departamento,provincia,numero,piso,codigo_postal,calle,edad,cuil,inicio_actividad,estado_civil,sexo,barrio,legajo
-55812864,Otro,1989-02-14,Amanda,Montenegro,Cáceres,Málaga,Murcia,1745,,7886,Via de Nicolasa Montoya,64,22395068922,2004-09-19,Casado,F,Este,5815224
-16353912,Personal,1980-07-16,Amador,Cruz,Salamanca,Teruel,Ourense,342,,1869,Alameda Zacarías Anguita,37,26279274835,2016-01-07,Soltero,F,Oeste,288579
-49306697,Laboral,1977-11-14,Débora,Carnero,Burgos,Baleares,Almería,332,1A,1823,Ronda de Victoriano Agudo,44,20290453784,2004-04-29,Soltero,F,Este,4539646
-58024518,Otro,1978-04-05,Epifanio,Requena,Burgos,Badajoz,Burgos,2320,1A,4125,Pasadizo Paulina Valencia,57,20341774242,2000-08-07,Casado,M,Centro,7309784
-19588355,Personal,2000-08-17,Irene,Lledó,León,Vizcaya,Cáceres,3005,2B,2542,Alameda Emma Maza,22,23725105367,2006-07-06,Casado,F,Sur,4062616
-97169064,Personal,1968-09-14,Eloísa,Corbacho,Huesca,Córdoba,Vizcaya,2405,2B,2034,Ronda Heriberto Cerdán,54,20556606228,2011-09-18,Soltero,M,Oeste,3178440
-22257214,Otro,1989-05-14,Jerónimo,Tejera,Sevilla,Zamora,Cáceres,9182,2B,8652,Pasaje Claudia Calderón,42,29980283979,2005-03-02,Viudo,M,Oeste,8171734
-11873610,Personal,1970-08-23,Casandra,Torrent,Málaga,La Rioja,Girona,916,,4398,Pasadizo de Nazaret Valentín,23,24293143815,2005-07-03,Divorciado,M,Barrio 1,670769
-32051600,Otro,1988-11-15,Luís,Ugarte,Palencia,Melilla,Girona,4969,3C,8696,Ronda Marcelo Canals,23,24035903123,1999-11-25,Viudo,F,Este,2401786
-66984409,Laboral,1990-02-25,Charo,Gelabert,Cantabria,Guipúzcoa,Cuenca,2797,3C,8424,Via de Viviana Báez,49,26912474842,2019-03-12,Divorciado,M,Oeste,5768261
-91354145,Laboral,1980-04-14,Juan Antonio,Díez,Jaén,Salamanca,Valladolid,5156,1A,3585,Avenida de Pánfilo Montserrat,25,26176127870,1998-04-04,Viudo,M,Barrio 2,5773216
-19084525,Personal,1983-09-22,Florentina,Bonilla,Teruel,Melilla,Asturias,1431,2B,6656,Camino de Ernesto Pareja,53,28601876247,1996-11-27,Viudo,F,Oeste,9351141
-48943768,Laboral,1967-04-26,Hilario,Santamaria,Zamora,Lugo,Melilla,8993,,4230,Via de Luís Manjón,31,24413870374,2000-07-25,Casado,M,Norte,1405351
-23468092,Personal,1974-09-16,Alma,Guijarro,Cantabria,Ourense,Álava,3848,2B,2769,Glorieta de Flavio Noriega,26,25386936063,2007-11-06,Viudo,F,Barrio 1,8384139
-59111114,Laboral,1988-12-24,Francisco Javier,Borja,Navarra,Lugo,Ceuta,5021,,8086,Callejón de Nadia Mayol,61,20024878469,2023-05-08,Soltero,M,Este,9342000
-53478204,Personal,1998-08-01,Vera,Carballo,Almería,Baleares,Málaga,7724,2B,6936,Pasadizo Yésica Blanes,39,20481215233,2011-11-23,Divorciado,M,Norte,7839342
-64018914,Personal,2001-03-31,Chema,Cantón,Palencia,Soria,Almería,5599,3C,5061,Cañada León Sanabria,27,23883380102,2013-09-18,Divorciado,M,Norte,6184654
-88057125,Personal,1958-09-06,Brígida,Segovia,León,Cádiz,Granada,5899,1A,2496,Via de Eustaquio Malo,59,25217065271,1997-05-02,Casado,F,Oeste,4365022
-36580673,Otro,1961-01-15,Juan Francisco,Abella,Teruel,Guipúzcoa,Murcia,9769,,6732,Rambla de Bernardo Falcón,37,21287288377,2020-08-20,Divorciado,M,Oeste,3507357
-27512093,Personal,1993-08-09,Priscila,Feliu,Ávila,Almería,Vizcaya,6866,1A,4579,Alameda Bienvenida Montalbán,51,20515067023,2011-04-03,Soltero,M,Barrio 2,4010820
-79561241,Personal,1979-09-22,Sebastián,Reyes,Ceuta,Vizcaya,Teruel,8787,4D,8872,Rambla Zacarías Castilla,35,25757493696,2024-01-14,Viudo,F,Centro,6356705
-24404794,Laboral,1973-10-04,Mario,Melero,Santa Cruz de Tenerife,Ciudad,Granada,4703,3C,7398,Urbanización Fátima Carretero,54,20534558342,2014-06-04,Divorciado,F,Barrio 2,6112517
-29997615,Laboral,2002-04-07,Malena,Gutierrez,Sevilla,Asturias,Sevilla,2715,4D,9410,Via Hipólito Coloma,40,23221745026,2019-12-21,Viudo,F,Este,4583250
-80219895,Laboral,1981-12-26,Ricardo,Garrido,Valladolid,Lugo,Murcia,5944,,8959,Camino de Juan Francisco Montes,60,27458280767,2001-04-30,Viudo,M,Centro,6610507
-51261811,Laboral,1985-01-22,Marisa,Robledo,Ourense,Huelva,Segovia,9844,3C,1357,Paseo Calista Gallo,47,24060285567,2009-01-17,Divorciado,M,Barrio 2,7093774
-35372460,Laboral,1969-08-19,Jovita,Barrera,La Rioja,Guipúzcoa,La Coruña,5938,,3012,Avenida Guillermo Benito,64,29329665093,2016-06-20,Viudo,F,Barrio 1,6821874
-53837057,Laboral,1964-03-06,Bautista,Verdú,Palencia,Lleida,Tarragona,7173,4D,2680,Callejón Nilda Vázquez,39,22806455146,2018-07-20,Casado,M,Oeste,9773977
-95912282,Laboral,1979-03-08,Rico,Gámez,Baleares,Soria,Palencia,3436,2B,7844,Avenida de Cristina Oller,30,23320795659,2015-11-19,Divorciado,M,Sur,3504548
-23365813,Otro,1997-07-30,Armando,Páez,Granada,Santa Cruz de Tenerife,Barcelona,9628,1A,9844,Via de Anna Ródenas,61,20416088146,2023-02-28,Soltero,M,Norte,407629
-41109326,Otro,1971-11-03,Josep,Benito,Baleares,Las Palmas,Málaga,9492,,3459,Camino Ricarda Agullo,37,21335327652,2012-02-18,Soltero,M,Barrio 1,4468434
-25319882,Personal,1991-10-03,Josep,Giralt,Cáceres,Cuenca,Palencia,619,4D,2022,Cañada Guillermo Armengol,55,29892640217,1996-11-06,Casado,M,Este,8000019
-99514502,Otro,1999-07-21,Rita,Rodriguez,Ávila,Albacete,Zamora,8576,2B,9926,Acceso de Virginia Calzada,55,23286733058,2022-01-09,Divorciado,F,Este,8360745
-10556044,Otro,1967-07-01,Ismael,Rodrigo,Almería,Ceuta,Granada,3661,,8361,Calle Asunción Blázquez,34,22297146797,2017-11-03,Divorciado,F,Barrio 3,3137133
-50254849,Otro,1959-04-10,Benigna,Canals,Soria,Melilla,Córdoba,5752,2B,1375,Avenida de Amílcar Escamilla,50,25356078639,2008-01-20,Casado,F,Barrio 1,7984898
-55246663,Laboral,1988-08-04,Lidia,Nicolau,León,Málaga,Madrid,525,,4111,Avenida de Alex Olivera,44,23517464060,2006-09-14,Viudo,F,Norte,8005152
-49338668,Personal,1983-11-21,Urbano,Comas,Barcelona,León,Valladolid,4449,4D,7956,Cañada Silvia Martínez,54,29091994556,2004-03-14,Divorciado,F,Barrio 2,6973586
-98146813,Laboral,1972-02-18,Prudencia,Iriarte,Vizcaya,Cáceres,Vizcaya,26,1A,8659,Urbanización de Jose Manuel Cózar,60,27457418511,2000-08-05,Casado,F,Sur,6494203
-78392421,Personal,1977-04-03,León,Tejera,Ávila,León,Ciudad,7462,3C,2551,Vial Aroa Guillen,60,24944534244,1999-02-02,Soltero,F,Oeste,8270421
-79597319,Laboral,1977-03-07,Salomón,Carreño,Lleida,Barcelona,Barcelona,9178,3C,9939,Camino Zaida Puig,39,20859097160,2012-07-26,Casado,F,Este,1883069
-21575857,Otro,1970-01-17,Juan Carlos,Huerta,Ciudad,Teruel,Melilla,6270,,4339,Camino Abilio Gilabert,57,20869946436,1998-07-19,Casado,F,Sur,1975547
-21977955,Personal,1989-06-13,Violeta,Arias,Valladolid,Teruel,Burgos,2198,,4898,Calle David Cáceres,60,28182173284,1996-12-02,Casado,M,Sur,3079394
-49327558,Laboral,1960-01-24,Marcos,Luís,Sevilla,Tarragona,Soria,5960,,6203,Urbanización de Esther Castellanos,48,21032164416,1999-02-10,Divorciado,F,Oeste,185989
-86660910,Personal,1997-09-12,Encarnita,Sanmiguel,La Rioja,Lleida,Valencia,4043,2B,6148,Alameda de Nereida Escrivá,45,21837782731,1998-05-20,Soltero,M,Este,6868104
-65770725,Laboral,1961-02-20,Francisco Jose,Criado,Barcelona,Córdoba,Palencia,8128,2B,9463,Calle Soraya Pou,28,20194523566,2008-11-13,Viudo,F,Norte,3223245
-51596401,Personal,1969-04-26,Manuela,Fajardo,Cádiz,Córdoba,Melilla,3971,1A,4376,Calle Hernán Fuster,31,29175716379,2023-01-19,Divorciado,M,Oeste,2350831
-36605380,Personal,1983-10-06,Rosario,Hierro,Salamanca,Cáceres,Cáceres,8843,4D,9882,Alameda María Dolores Plana,46,28865242691,2006-08-04,Soltero,F,Barrio 3,7112427
-35049147,Otro,1978-07-25,Amalia,Salcedo,Soria,Barcelona,Lleida,5336,,3107,Avenida Bienvenida Pascual,24,29052877454,2018-12-04,Soltero,M,Oeste,758009
-93283136,Otro,1985-04-30,Buenaventura,Borja,Lugo,Cantabria,Cantabria,9433,1A,4890,Via de Arsenio Robles,37,24779803794,2008-03-10,Divorciado,M,Sur,7862598
-76129181,Laboral,1983-03-05,Jose Ramón,Barceló,Las Palmas,Guadalajara,Salamanca,8636,,2211,C. de Raúl Palomares,43,26836863265,1995-09-20,Viudo,F,Este,3892753
-92141259,Personal,1990-12-01,Casemiro,Castilla,León,Tarragona,Málaga,8712,1A,9543,Alameda Amparo Luz,49,25265253398,2024-02-15,Viudo,F,Barrio 3,705565
-12415007,Laboral,1986-06-01,Horacio,Borrego,Lugo,Granada,Valladolid,790,1A,4220,Alameda Baudelio Carro,45,23555720469,2010-03-12,Soltero,F,Barrio 2,6518910
-18713014,Personal,1975-06-22,Lupe,Cervantes,Guipúzcoa,Santa Cruz de Tenerife,Madrid,1269,3C,9274,Camino de Gilberto Maestre,27,27620781576,2020-03-07,Casado,M,Centro,3871670
-95179661,Laboral,1998-07-25,Mohamed,Alcalde,Murcia,Sevilla,Guadalajara,5534,4D,1350,Pasaje Roberta Anglada,47,23480085759,2018-09-27,Viudo,F,Centro,2402072
-31386225,Laboral,1971-06-05,Cándido,Donaire,Baleares,Granada,Castellón,676,,8651,Vial Roberta Pol,46,22633363260,2000-04-08,Divorciado,F,Barrio 3,1741258
-69473518,Laboral,1972-03-16,Sonia,Nogués,Segovia,Cantabria,Castellón,7196,3C,6385,C. Seve Orozco,37,27780517141,2021-12-28,Soltero,F,Barrio 2,9350524
-89669950,Otro,1968-03-04,Irene,Pou,Las Palmas,Pontevedra,Jaén,7257,,9517,Pasadizo Ángeles Salvà,24,27136369782,1997-05-01,Viudo,F,Barrio 1,3687531
-45253023,Personal,1975-10-26,Eustaquio,Valls,Palencia,Zaragoza,Navarra,431,,1921,Vial Victor Manuel Andres,45,29636319685,2011-01-27,Divorciado,M,Barrio 1,5246929
-83077791,Otro,1979-10-16,María Teresa,Falcón,Córdoba,Cáceres,Granada,2093,3C,8082,Pasadizo de Manu Padilla,43,22534489740,2005-04-11,Viudo,M,Sur,9378545
-21201301,Otro,1976-03-16,Samuel,Torrents,Toledo,Castellón,Ceuta,1421,,6641,Alameda de Dani Francisco,28,20803763078,2014-03-02,Casado,M,Sur,1973403
-32316018,Laboral,1986-02-02,Flora,Álamo,Navarra,Cáceres,Sevilla,9404,1A,8446,Plaza de Adela Berenguer,55,24303733839,2001-07-21,Soltero,M,Sur,781593
-78037483,Laboral,1979-10-05,Marc,Zaragoza,La Coruña,Zamora,Valencia,2370,,7829,Callejón de Nico Silva,34,22844581413,2011-10-23,Divorciado,M,Oeste,1577381
-11162157,Personal,1996-02-16,Cintia,Ferrera,Jaén,Badajoz,Zaragoza,5809,3C,8635,Alameda Asdrubal Roldán,38,24633441872,2016-12-06,Viudo,M,Norte,1094035
-41881907,Personal,1958-12-06,Sebastián,Higueras,Baleares,Baleares,Guadalajara,6222,2B,6594,Plaza Nerea Quirós,25,20322709749,2014-08-27,Viudo,F,Sur,4396348
-60196855,Laboral,1958-09-18,Jonatan,Montenegro,Santa Cruz de Tenerife,Baleares,Zamora,5896,,5033,Camino Godofredo Montaña,25,29346685542,1998-01-29,Soltero,M,Barrio 3,3201548
-85903611,Otro,2001-12-05,Alba,Pla,Lleida,Cáceres,Cádiz,7948,,4724,Alameda de Oriana Camps,28,23157307900,2003-09-08,Viudo,M,Oeste,2076198
-14214997,Laboral,2002-02-08,Macaria,Coronado,Guadalajara,Tarragona,León,1108,4D,2520,Via de Berta Pinedo,29,25998398358,2005-08-20,Casado,F,Oeste,1857965
-92330832,Otro,1990-02-02,Juanita,Molins,Pontevedra,Pontevedra,Granada,1192,,6795,Glorieta de Paca Marquez,51,28112267618,2003-08-29,Casado,F,Centro,4592590
-86566590,Personal,1958-11-15,Gilberto,Fuente,Guipúzcoa,Alicante,Las Palmas,715,,8794,Urbanización de Selena Amor,61,25114244991,2008-09-02,Divorciado,M,Sur,7922859
-84874099,Otro,1981-10-22,Jose Francisco,Roda,Burgos,Sevilla,Valladolid,8697,,7180,Avenida de Florencia Múñiz,36,28507172763,1995-01-30,Soltero,M,Centro,3475755
-34625886,Otro,1994-03-09,Selena,Chacón,Barcelona,La Rioja,Barcelona,8478,4D,2082,Urbanización de Pacífica Mayol,35,27977297737,2019-04-10,Divorciado,M,Norte,8273822
-81185857,Otro,1998-11-12,Juan Bautista,Balaguer,Álava,Valencia,Guipúzcoa,5643,1A,5215,Callejón Gema Gálvez,29,23095900196,2002-04-26,Casado,F,Centro,2306433
-84939011,Otro,1963-01-27,Arturo,Santana,Jaén,Vizcaya,Teruel,8473,4D,7872,Pasaje de Cirino Nogueira,47,21344163888,1998-11-18,Casado,M,Barrio 1,9566672
-78073678,Laboral,1992-04-06,Lalo,Peláez,Cáceres,La Rioja,Girona,2088,1A,2203,Via de José Luis Garcés,58,22830599070,1997-04-21,Soltero,F,Oeste,1213242
-93094895,Laboral,1974-10-18,Leyre,Fiol,Teruel,Zaragoza,Santa Cruz de Tenerife,57,2B,2511,Plaza Leire Lillo,26,25524805100,1997-07-11,Divorciado,F,Barrio 2,4311211
-11272103,Personal,1985-01-27,Charo,Martínez,Almería,Segovia,Santa Cruz de Tenerife,4800,3C,8477,Vial de Casemiro Gutiérrez,55,27010073434,2001-11-20,Casado,M,Barrio 1,2150779
-63814308,Personal,1992-07-05,Adalberto,Figuerola,Valladolid,Málaga,Ávila,7482,2B,3450,Callejón Heriberto Montenegro,32,25884941920,2014-01-03,Viudo,M,Barrio 3,9076828
-18687114,Personal,1989-11-19,Javiera,Planas,Guipúzcoa,La Rioja,Almería,3761,3C,6641,Glorieta de Francisca Coronado,44,25276922797,1998-02-21,Divorciado,M,Este,3232588
-67724575,Otro,1999-05-27,Lucila,Moreno,Teruel,Pontevedra,La Coruña,1448,,9715,Plaza de Ana Valenzuela,42,21262587017,2015-08-06,Divorciado,F,Este,4791125
-68481835,Personal,1998-05-30,Bienvenida,Martorell,Albacete,Álava,Segovia,3069,2B,6924,Cañada de Marisol Mayoral,51,20752196791,2019-12-24,Divorciado,F,Centro,6334881
-37568179,Otro,1965-09-06,César,Caparrós,Alicante,Cuenca,La Coruña,86,1A,6609,Camino de Fernando Azcona,47,24977594780,2006-04-06,Soltero,F,Centro,3078698
-49877629,Laboral,1973-08-27,Remedios,Valero,Pontevedra,Cáceres,Tarragona,8646,3C,1870,Ronda de Enrique Rey,41,26502463313,2020-07-05,Soltero,F,Este,4335216
-34690721,Personal,1979-02-28,Apolinar,Suárez,Ávila,Guadalajara,Huelva,3835,4D,3012,Camino de Eugenia Jerez,26,29409883991,2015-10-29,Divorciado,M,Barrio 3,9052954
-18135693,Otro,1997-06-15,Nereida,Serrano,Lleida,Santa Cruz de Tenerife,Lugo,6054,2B,3054,Avenida de Regina Alvarez,39,29638949463,2018-03-19,Soltero,F,Centro,7336056
-74613383,Personal,1990-10-13,Clímaco,Franch,Las Palmas,Vizcaya,Zamora,6991,4D,3700,Plaza Buenaventura Cañellas,55,29252502500,2000-08-03,Soltero,F,Este,6341877
-12342448,Laboral,2001-12-07,Amílcar,Valera,Cantabria,Alicante,Murcia,887,,4771,Pasadizo de Isabel Godoy,60,22181435669,2014-12-06,Casado,M,Este,9848354
-69157089,Laboral,1972-11-08,Aránzazu,Fernández,Castellón,Palencia,Barcelona,9393,,2391,Calle Bernarda Bello,35,25041777001,2013-01-11,Divorciado,M,Barrio 1,3294639
-97795252,Laboral,1967-06-03,Calista,Ruano,La Coruña,Huelva,Guipúzcoa,9235,,2387,Callejón de Juan Manuel Gárate,36,29046795226,2009-09-10,Soltero,F,Barrio 2,4942832
-39848017,Otro,1978-11-29,Tiburcio,Benet,La Coruña,Cantabria,Madrid,239,2B,1478,Vial de Chus Martín,36,22238609476,2018-09-24,Divorciado,F,Barrio 3,7106030
-23614312,Laboral,1965-12-03,Aránzazu,Patiño,Cádiz,Ceuta,Asturias,3201,,4654,Camino Jose Angel Rodriguez,38,23772046599,2001-07-02,Soltero,F,Este,6213670
-94188781,Laboral,1991-02-07,Guadalupe,Gascón,Cáceres,Ourense,Alicante,9475,3C,2677,Calle de Amílcar Pérez,63,24928582214,1996-07-21,Viudo,M,Centro,5982298
-95057854,Personal,1992-07-12,Elisa,Valverde,Guadalajara,Guipúzcoa,Guadalajara,8724,,6726,Rambla Íñigo Villalonga,37,26556592454,2022-03-31,Soltero,M,Norte,8644476
-44039131,Laboral,1976-11-19,Flavio,Goicoechea,Tarragona,Álava,León,8507,4D,9800,Vial José Luis Roman,62,25951553677,1995-05-11,Divorciado,M,Oeste,6667782
-39201807,Laboral,1961-01-15,Jacobo,Albero,Lleida,Córdoba,Soria,4003,2B,3682,Callejón Ramiro Izaguirre,28,20546051017,2001-05-12,Divorciado,M,Este,620791
-81207516,Personal,1991-07-12,Concepción,Lago,Ávila,Cantabria,Castellón,4786,,8677,Acceso Genoveva Urrutia,36,22282019356,2010-09-08,Divorciado,M,Este,8705901
-70298725,Laboral,1961-12-21,Ainoa,Donaire,Lleida,Segovia,Barcelona,8896,3C,5071,Pasadizo de Nazario Otero,55,22156830065,2008-03-08,Divorciado,M,Barrio 1,9344337
-32166586,Otro,1969-12-05,Román,Vera,Almería,Murcia,Huelva,4344,1A,1731,C. Teresa Piñol,42,25673409689,2004-10-01,Divorciado,F,Barrio 1,3890466
-32860000,Personal,1975-02-02,Severiano,Blasco,Lleida,Cantabria,Almería,816,,4893,Rambla de Hugo Sotelo,30,27113973280,2024-03-07,Casado,F,Barrio 1,2034656
-70207234,Otro,1982-02-20,Clara,Vall,Granada,Madrid,Granada,7204,,3205,Cuesta de Bernabé Losa,22,29211606234,2022-02-08,Soltero,F,Centro,7754235
-12179917,Laboral,1975-01-20,Teresa,Marco,La Coruña,León,Tarragona,5533,,9006,Acceso de Imelda Abril,26,21238800583,2000-08-07,Divorciado,M,Barrio 1,7999512
-63175652,Otro,1958-09-29,Noemí,Figueroa,Ceuta,Lugo,La Coruña,484,2B,6515,Callejón Custodia Lladó,37,20368633885,2013-08-09,Divorciado,F,Barrio 3,2691225
+36298860,Laboral,1998-03-24,Maura,Bermúdez,Alicante,Ceuta,Ávila,1073,4D,8380,Via de Celia Raya,37,21575086899,2015-12-26,Viudo,M,Barrio 3,4089073
+34051603,Laboral,1979-06-14,Adalberto,Landa,León,Albacete,Badajoz,8564,3C,2118,Alameda Noemí Vázquez,31,20555721728,1998-03-07,Soltero,M,Barrio 1,9111220
+53840274,Otro,1999-08-15,Francisco Jose,Morcillo,La Coruña,Jaén,Almería,976,1A,2808,Paseo de Adelia Trillo,23,27779313642,2021-12-09,Casado,F,Centro,6491271
+47256202,Personal,1986-01-28,Manola,Martorell,Almería,Ciudad,Álava,4898,,5612,Acceso de Nilda Riba,50,20517933154,2019-08-30,Divorciado,M,Barrio 1,4463116
+23686528,Personal,1988-11-04,Samanta,Mendoza,León,León,Navarra,9747,3C,4392,Callejón Paulino Fortuny,22,26316880648,1995-04-07,Viudo,F,Sur,7552718
+29850832,Otro,1965-08-15,Magdalena,Ribas,Segovia,León,Huesca,2468,3C,5046,Avenida de Salud Diéguez,32,29996840205,2006-05-14,Divorciado,F,Norte,8431148
+26851217,Otro,1994-08-25,Juan Pablo,Parra,Barcelona,Almería,Toledo,6624,1A,5288,Paseo Eligio Mur,31,26605408812,2008-10-01,Casado,M,Barrio 2,8354533
+87881352,Personal,1982-03-21,Venceslás,Marin,Murcia,Barcelona,Palencia,9594,4D,1220,Via Javiera Ángel,33,21864415671,2000-10-30,Divorciado,F,Barrio 3,3392154
+16215870,Laboral,1997-11-12,Irma,Expósito,Lleida,Granada,Lugo,5389,,6123,Vial de Encarnita Arana,53,23947200705,2001-01-19,Soltero,M,Oeste,4914591
+43373144,Personal,2002-06-05,Zacarías,Olmo,Valladolid,Jaén,Guadalajara,6985,,7754,Urbanización Cruz Gonzalez,37,23278512556,1995-03-15,Divorciado,M,Barrio 3,9212649
+74646441,Personal,1982-02-12,Aitor,Milla,Ciudad,Guipúzcoa,Huesca,16,2B,5218,Urbanización de Rómulo Carro,31,29395173914,2005-06-13,Divorciado,M,Sur,7123998
+85765888,Laboral,1963-02-11,Renata,Pelayo,Segovia,Segovia,Albacete,9958,,4762,Plaza de Curro Tolosa,65,20557190509,2019-02-25,Divorciado,F,Sur,422938
+11894380,Otro,1990-07-26,Vanesa,Campoy,Álava,Cuenca,Valencia,3575,2B,6042,Callejón Evita Tenorio,51,26244758744,2010-01-25,Soltero,F,Barrio 2,3604669
+43409640,Personal,2001-02-18,Felipa,Barrena,Santa Cruz de Tenerife,Badajoz,Sevilla,3670,2B,3295,Urbanización Ovidio Segura,32,29448906221,1996-01-18,Soltero,M,Barrio 2,2420930
+32132341,Personal,1966-05-22,Fortunato,Cid,Cáceres,Madrid,Cáceres,729,4D,6158,Pasadizo de Eusebio Quirós,57,27734826218,1994-12-01,Viudo,F,Barrio 2,7833799
+82788040,Laboral,1968-10-25,Marcio,Ropero,Asturias,Vizcaya,León,6979,,5228,Calle Cruz Ariño,29,24478420994,2016-06-17,Soltero,M,Oeste,6010576
+98204982,Personal,1979-07-04,Gonzalo,Garay,Jaén,Teruel,Palencia,2021,1A,4046,Cuesta Berta Marcos,59,22258651199,2002-07-28,Casado,M,Sur,9095073
+46490940,Laboral,1997-01-09,Nazaret,Porta,Huelva,Tarragona,Guipúzcoa,279,1A,6944,Pasaje Isidoro Noriega,50,20558691795,2004-12-11,Casado,M,Centro,5114119
+86290957,Personal,1964-12-16,Eligia,Quintanilla,La Rioja,Cádiz,Murcia,4345,2B,5979,Vial Begoña Romeu,31,25432282444,2010-11-23,Casado,M,Norte,8046838
+88785107,Laboral,1982-09-04,Carina,Leal,Cantabria,Málaga,Huelva,6632,4D,8489,Cañada Gala Porras,65,23243785857,2013-10-30,Divorciado,F,Sur,8422790
+25203340,Laboral,1979-10-06,Cruz,Blanch,Tarragona,Lleida,Cuenca,566,2B,6505,Calle de María Cristina Arribas,57,26090656129,2011-01-16,Divorciado,F,Norte,9213474
+46839307,Personal,1999-12-07,Adelia,Cornejo,Guadalajara,Segovia,Las Palmas,36,,5169,Plaza Roxana Páez,55,25517378302,2002-02-01,Soltero,M,Barrio 1,2083894
+42829644,Personal,1977-07-13,Cristóbal,Alvarado,Vizcaya,Málaga,Pontevedra,4550,2B,4022,C. de Noa Vigil,43,22453182797,2022-01-25,Divorciado,F,Oeste,9383269
+23281600,Personal,1995-01-07,Adán,Rodriguez,Navarra,Asturias,Vizcaya,845,1A,5089,Alameda de Rosalía Palomares,42,21685069762,2019-12-19,Divorciado,M,Barrio 3,3868360
+36537191,Personal,1989-01-08,Jessica,Cózar,Ciudad,Las Palmas,Asturias,9263,,5738,Acceso de Cipriano Crespi,47,25639623575,2022-04-17,Divorciado,M,Barrio 1,9408129
+86127582,Otro,1961-09-24,Rebeca,Cazorla,Segovia,Cuenca,Zaragoza,9021,,1374,Avenida de Heraclio Maza,29,21660188266,2004-02-29,Divorciado,M,Barrio 3,3392360
+46202618,Personal,1983-01-20,Tania,Portero,Barcelona,Castellón,Huesca,8032,,6867,Paseo de Óscar Lucena,57,28026206603,2004-03-09,Viudo,F,Este,1598655
+60081861,Laboral,1992-09-14,Elisa,Ferrández,Ourense,La Coruña,Madrid,77,2B,1425,Camino de Julián Almagro,51,24186684683,2009-10-02,Viudo,M,Barrio 1,2723356
+93966344,Otro,1959-01-14,Violeta,Carvajal,Albacete,Toledo,Vizcaya,772,,3068,Calle Luís Bolaños,51,24432189915,2014-09-09,Viudo,F,Barrio 1,1494242
+23945763,Personal,1978-06-08,Fidela,Gallardo,Las Palmas,Alicante,Salamanca,244,,8737,Avenida de Julia Melero,36,20276200785,2015-12-13,Viudo,F,Este,7955627
+37995367,Laboral,1999-02-22,Marco,Bolaños,Albacete,Zaragoza,León,8582,2B,5083,Pasadizo Lorena Córdoba,23,29527684376,1999-07-14,Soltero,M,Este,6244403
+65397119,Otro,1997-05-22,Cleto,Carlos,Sevilla,Lugo,Guipúzcoa,742,,3348,Avenida Desiderio Llopis,35,23400821050,1996-12-03,Divorciado,F,Barrio 2,3271861
+19085487,Laboral,1978-03-31,Eustaquio,Vives,Badajoz,Barcelona,Barcelona,951,2B,1529,Alameda de Ulises Noguera,37,26422998614,2003-01-11,Viudo,M,Centro,4675513
+30205629,Otro,1987-05-30,Marcelo,Morante,Palencia,Cáceres,Segovia,3032,,8884,Glorieta Amando Pol,27,25257171698,2010-09-04,Casado,F,Centro,553205
+72416642,Laboral,1964-05-08,Francisco Jose,Amigó,Burgos,Huelva,Navarra,927,2B,1406,Cañada Heraclio Cañellas,58,23059736580,1995-07-02,Soltero,F,Barrio 2,755914
+63059751,Laboral,1980-01-01,Gaspar,Falcón,Soria,Palencia,La Coruña,8278,,5770,Calle Amalia Rivero,45,24766529143,2022-01-24,Divorciado,F,Barrio 2,5409852
+69406141,Personal,1979-10-21,Carmelita,Escudero,Madrid,Valencia,Ávila,304,2B,4325,Camino de Marisol Palma,28,20233030151,2002-12-17,Divorciado,M,Barrio 3,6082840
+54734332,Personal,1974-01-01,Jose Angel,Baños,Córdoba,Melilla,Cádiz,4768,4D,2163,Acceso Manuela Avilés,37,20391965878,2011-05-22,Divorciado,F,Este,1481341
+37782511,Laboral,1989-03-22,Félix,Balaguer,Castellón,Cantabria,Teruel,4057,2B,5745,Cañada de Domingo Méndez,64,26200303365,2009-12-27,Divorciado,M,Barrio 1,8187377
+12886138,Laboral,2000-03-31,Primitiva,Aranda,Almería,Vizcaya,Vizcaya,4380,1A,7460,Paseo de Alcides Villalba,38,22456065681,2004-01-23,Soltero,F,Barrio 1,5153007
+10107327,Personal,1987-11-13,Gonzalo,Cruz,Navarra,Álava,Huelva,4252,4D,2571,Alameda de Ileana Luz,27,28882677832,2007-12-28,Divorciado,M,Centro,8767336
+81126326,Personal,1982-11-05,Micaela,Báez,Valencia,Málaga,Cáceres,4344,4D,8940,Pasaje de Eutropio Camino,45,20372736611,2003-10-13,Viudo,F,Este,3164227
+35353238,Laboral,2000-10-29,Úrsula,Andrés,Teruel,Burgos,Palencia,9132,,7457,Rambla de Aníbal Portillo,50,24219280655,1995-03-23,Viudo,M,Oeste,9542044
+87168275,Laboral,1994-12-21,Miguela,Manjón,Cáceres,Alicante,Córdoba,7265,2B,9606,Calle de Primitiva Milla,53,25709656151,1997-05-21,Soltero,M,Oeste,15879
+91817058,Laboral,1997-01-14,Faustino,Zorrilla,Granada,Lugo,La Rioja,5661,,4619,Vial Andrea Borrego,42,22621375387,2023-05-06,Viudo,F,Sur,9869457
+53814582,Laboral,1988-02-11,Erasmo,Riera,Soria,Melilla,Valladolid,5914,2B,7797,Glorieta de Isidro Prado,61,22722662691,2015-08-06,Viudo,M,Barrio 1,4284234
+30845463,Laboral,1983-10-03,Miguel,Saez,León,Las Palmas,Toledo,8321,,8615,Glorieta Teófila Alvarado,54,22740285375,2019-03-20,Soltero,M,Barrio 1,6013330
+14118057,Otro,1979-12-05,Andrés,Codina,Ciudad,Huelva,Córdoba,4582,1A,5393,Urbanización Felipe Martorell,65,20973421358,2010-01-19,Soltero,M,Barrio 2,3908985
+72103549,Laboral,1985-11-29,Eleuterio,Madrigal,Palencia,Granada,Lugo,5411,,9701,Cañada de Hermenegildo Estrada,33,29452352425,2009-12-26,Casado,F,Barrio 2,6359214
+59402042,Otro,1964-06-24,Adrián,Páez,Cáceres,Badajoz,Tarragona,5795,,8313,Urbanización Demetrio Carnero,43,28555294446,2007-02-18,Casado,F,Barrio 1,6690045
+46587616,Laboral,1995-08-19,Marisol,Bernat,Cádiz,Barcelona,Málaga,7614,4D,4431,Callejón de Ligia Solsona,63,22505687477,2019-12-14,Divorciado,F,Norte,6508003
+78173602,Laboral,1972-05-11,Gil,Toro,Santa Cruz de Tenerife,Almería,Álava,4288,4D,7505,Via Nazaret Campillo,50,20199436514,2013-07-09,Viudo,F,Sur,1693279
+65565577,Laboral,1980-09-02,Roque,Romero,Las Palmas,Lleida,Murcia,7301,,3025,Vial Rolando Tolosa,63,29348865772,2010-09-29,Viudo,M,Barrio 2,147718
+63951738,Otro,1977-06-24,Emelina,Reyes,Madrid,Navarra,Ciudad,5644,1A,1943,Callejón Alex Garzón,27,27994577680,2022-08-21,Casado,F,Este,5888493
+86910864,Personal,1973-05-28,Nilda,Cid,Toledo,Cádiz,Lleida,7825,,4614,Calle Isabela Porcel,61,21224749294,2013-01-03,Viudo,F,Barrio 2,9770850
+98291914,Otro,1968-06-21,Antonio,Lara,Lleida,Las Palmas,Lugo,1147,3C,1150,Paseo de Constanza Garcés,57,27147169344,2019-12-13,Divorciado,M,Barrio 2,4266767
+18186285,Otro,2001-07-16,Teobaldo,Villanueva,Navarra,Santa Cruz de Tenerife,Alicante,124,,1431,Camino de Rita Crespo,57,25363981423,2000-03-16,Viudo,F,Barrio 1,503892
+27211078,Laboral,1971-07-27,Nereida,Iglesias,Pontevedra,Zaragoza,Cuenca,1703,4D,1432,Paseo Miguel Sainz,33,21757974098,2017-07-19,Divorciado,M,Sur,564884
+87821454,Otro,1997-01-02,Tere,Castell,Cádiz,Álava,Melilla,5942,2B,5961,Alameda Ángela Bárcena,33,20946484271,2017-02-03,Viudo,F,Este,3659727
+52773341,Otro,1980-12-15,Isaac,Contreras,Ávila,Tarragona,Pontevedra,7544,2B,9261,Via de Ana Sofía Osorio,46,25436283120,2007-02-18,Soltero,F,Barrio 1,8362663
+61381710,Personal,1985-02-03,Isaac,Valentín,Valladolid,Burgos,Guipúzcoa,4539,,7990,Camino Sandra Alonso,44,22442856223,2007-10-19,Casado,M,Barrio 3,5548683
+94061326,Laboral,1991-11-20,Herberto,Abella,Murcia,Ávila,Murcia,2806,4D,6403,Acceso de Amaro Torrijos,58,28174619807,2002-11-22,Viudo,F,Norte,16726
+52745868,Otro,1978-04-16,Norberto,Cerdán,Cádiz,Murcia,La Rioja,428,1A,1396,Camino de Rosendo Fortuny,40,25605538463,2016-07-26,Divorciado,M,Oeste,5033541
+29424183,Otro,1990-09-08,América,Puerta,Melilla,Cantabria,La Coruña,2471,4D,5551,Pasadizo René Rios,58,27971908517,2007-09-27,Casado,F,Barrio 2,9325593
+79600428,Personal,1993-07-08,Joan,Morell,Salamanca,Murcia,Zamora,901,4D,6297,Vial Hipólito Pallarès,35,26732321266,2013-06-26,Viudo,F,Oeste,3226884
+62101445,Otro,1990-08-26,Alejandro,Muro,Cádiz,Ceuta,Baleares,7784,,4887,Alameda de Paulina Martín,27,26536745378,2008-01-01,Casado,F,Oeste,1108240
+41835581,Laboral,1970-10-05,Luz,Esparza,Córdoba,Baleares,Badajoz,3731,4D,6190,C. Adolfo Lara,36,22402500491,2006-02-04,Soltero,M,Este,3281911
+14115807,Otro,1978-11-09,Dominga,Cuéllar,Córdoba,Málaga,Cádiz,5068,3C,4676,Callejón de Gracia Amigó,52,24919066749,2023-02-25,Viudo,M,Norte,445745
+77424833,Otro,1989-10-31,Asunción,Valls,Albacete,Ourense,Zaragoza,159,3C,3435,Avenida Lara Gallo,42,28668277729,1994-09-20,Divorciado,F,Este,2335968
+90546350,Otro,1998-06-23,Renato,Salas,La Coruña,Girona,Barcelona,8749,3C,9358,Pasadizo Chuy Marqués,60,21233691824,2018-10-18,Viudo,F,Norte,5976495
+70577328,Otro,1992-06-16,Trinidad,Cabrera,León,Ciudad,Córdoba,3744,,3890,Ronda Cesar Perales,42,21950997547,2020-01-28,Divorciado,M,Barrio 1,8934153
+66144052,Otro,1963-08-18,Roberta,Vilalta,Ourense,Málaga,Córdoba,5,3C,3425,Cuesta Carmen Alcalde,54,27826354938,2013-10-24,Divorciado,F,Este,1973183
+66075666,Personal,1961-01-30,Luis,Figueras,Badajoz,Vizcaya,Melilla,9379,,2279,Urbanización Aitana Sandoval,32,26953531228,1995-09-06,Casado,M,Barrio 1,2409322
+84109732,Personal,1991-08-20,Óscar,Valera,Valladolid,Palencia,Tarragona,1983,,9879,Glorieta de Alex Cabrero,34,25076381690,1999-05-27,Divorciado,M,Norte,9837275
+97773718,Otro,1974-02-25,Teófilo,Barba,Pontevedra,Las Palmas,Toledo,8783,1A,3262,Paseo de Andrés Felipe Cobos,54,21910203373,2009-12-02,Soltero,F,Sur,1867898
+58762599,Otro,1991-03-24,Anacleto,Chico,Cuenca,Zaragoza,Burgos,8078,3C,1558,Paseo de Sancho Vaquero,30,26224246238,2003-07-22,Viudo,F,Norte,2579286
+85910398,Otro,1961-01-29,Rocío,Arregui,Cádiz,Pontevedra,Lleida,8028,,7115,Plaza de Isaac Reguera,26,26879575727,2011-01-04,Divorciado,F,Este,2566832
+56074354,Laboral,1990-09-22,Maxi,Alfaro,Salamanca,Lleida,Cuenca,7628,1A,7405,Pasaje Iris Lerma,41,23660712903,2001-12-01,Divorciado,M,Barrio 3,6838006
+87420109,Otro,1960-11-04,Maxi,Valverde,Huesca,Pontevedra,Segovia,5181,4D,1829,Calle de Sergio Baeza,35,22073324012,1998-04-29,Casado,M,Barrio 2,3420225
+72549272,Laboral,1978-06-22,Pelayo,Acevedo,Ourense,Córdoba,Álava,8520,1A,1728,Paseo de Angelina Armas,38,24070107808,2022-06-08,Divorciado,M,Sur,2324356
+98677469,Laboral,1986-06-17,Haydée,Mancebo,Pontevedra,Pontevedra,Palencia,763,4D,1102,Camino de Conrado Bru,24,27603413824,2008-09-03,Divorciado,M,Barrio 2,210753
+39781445,Otro,1979-07-22,Jesús,Collado,Lleida,Salamanca,Salamanca,6918,4D,8364,Camino de Nidia Murcia,45,27631909016,2004-12-22,Divorciado,F,Barrio 3,2785026
+79962565,Personal,2000-06-17,Amaro,Sarmiento,Navarra,Lleida,Cádiz,6056,3C,1783,Pasadizo Luisa Gomila,51,22351085433,2003-07-07,Divorciado,F,Sur,7459184
+96416240,Laboral,1975-01-23,Nélida,Juárez,Las Palmas,Melilla,Lugo,1482,2B,3254,Paseo Herminio Pujadas,26,27760809504,2011-04-25,Viudo,F,Oeste,4982494
+37268266,Otro,1965-10-23,Aníbal,Parejo,Ávila,Girona,Lugo,4951,2B,6806,Ronda Glauco Tovar,49,22177526019,2017-12-12,Viudo,F,Este,8843918
+93138554,Otro,1999-10-24,Cloe,Sanchez,Alicante,Lleida,Soria,7626,4D,1067,Alameda de Miguel Calzada,33,28460178332,1995-10-29,Divorciado,M,Barrio 1,2469414
+61710614,Personal,1995-03-17,Beatriz,Arteaga,Ourense,Toledo,Cantabria,133,,8957,Camino Omar Carreras,59,21451500565,2009-06-22,Viudo,M,Oeste,3466628
+59059530,Otro,1973-10-22,Julio,Otero,Zaragoza,Ávila,Vizcaya,7798,2B,7254,Acceso de Victor Manuel Buendía,60,28166471815,2001-04-11,Viudo,M,Barrio 3,4819097
+28493798,Laboral,2000-05-28,Nando,Ríos,Navarra,Soria,Málaga,9344,1A,9446,Acceso Ramiro Flor,43,29186044432,2020-09-07,Viudo,M,Barrio 2,1825452
+38076244,Laboral,1999-05-11,Felicidad,Quero,Cantabria,Jaén,Guadalajara,1449,,3710,Callejón de Camilo Alberola,59,24332378787,2024-06-22,Soltero,F,Norte,9846465
+67766796,Laboral,1970-12-13,María Teresa,Borrell,Navarra,Ceuta,Álava,2998,,3571,Acceso Toribio Madrigal,43,26258184975,2005-12-05,Viudo,F,Barrio 1,5968420
+70048581,Otro,1984-09-20,Luciano,Comas,Lugo,Burgos,Álava,5961,4D,7681,Vial Roxana Valera,63,26613895521,2010-02-11,Casado,F,Oeste,1434635
+92358720,Otro,1968-02-27,Carlota,Maza,Ciudad,Asturias,Albacete,1028,2B,2114,Calle Lisandro Vila,40,25538460557,1994-08-19,Casado,F,Este,357938
+92637556,Personal,1987-05-10,Florentina,Sánchez,Madrid,Zaragoza,Melilla,2704,,8715,Camino Nicolás Huerta,38,23656193611,2001-09-23,Soltero,M,Barrio 1,10867
+70983721,Personal,1990-05-04,Águeda,Arranz,Baleares,Albacete,Soria,211,2B,5909,C. de Juanito Madrid,47,21615892428,1998-10-11,Casado,F,Barrio 2,8554773
+12723165,Personal,1970-11-20,Tomasa,Company,Guipúzcoa,Lugo,Lugo,5982,1A,5797,Cuesta Joaquina Gaya,48,27351063744,2002-06-21,Viudo,M,Norte,629873
+22254270,Otro,1977-01-14,Micaela,Ferrández,Soria,Melilla,Zaragoza,6348,4D,2030,Camino Loreto Escobar,33,28796136682,1997-03-29,Soltero,M,Norte,3009428
+85959130,Otro,1992-07-10,Leire,Espejo,Segovia,Ceuta,Ceuta,3616,,1802,Vial de Elodia Sales,46,27927889627,2016-01-30,Soltero,M,Oeste,2427742
+68184355,Personal,1970-12-12,Olimpia,Iriarte,Castellón,Cádiz,Tarragona,2129,,3499,Plaza Marisa Gual,28,23884703273,2000-04-06,Viudo,F,Oeste,5309558
+50112439,Personal,1976-08-19,Gil,Martin,Cáceres,Álava,Barcelona,5812,3C,3977,Avenida Judith Ballester,58,21328465507,2018-04-04,Casado,M,Oeste,9881982

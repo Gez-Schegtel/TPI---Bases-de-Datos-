@@ -79,7 +79,7 @@ for _ in range(num_records):
         'dni': dni,
         'idsv': idsv,
         'porcentaje': round(random.uniform(10, 100), 2),  # Valor de porcentaje entre 10 y 100
-        'domicilio': fake.address().replace('\n', ' ')  # Reemplazar saltos de línea con espacios
+        'domicilio': fake.street_address()  # Reemplazar saltos de línea con espacios
     })
 
 # Nombre del archivo CSV para la tabla Familiar

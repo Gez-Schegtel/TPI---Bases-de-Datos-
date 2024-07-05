@@ -1,21 +1,21 @@
 cargo,iddj,calle,provincia,reparticion,dependencia,cumple_horarios,organismo,localidad_cargo,numero
-Clasificador de desechos,15752,Acceso de Natanael Gil,Ávila,Angélica Grau Márquez S.L.,S.L.L.,Sí,Manufacturas BMUS S.L.N.E,Navarra,91
-Cuidador de animales,14821,Ronda de Fátima Colom,Baleares,Banco Gimeno y asociados S.C.P,S.L.,Sí,Familia Arrieta S.C.P,Málaga,670
-Montador de estructuras metálicas,17475,Via de Arcelia Montaña,León,José Mari Borja Ríos S.L.,S.Coop.,Sí,Instalaciones JJPO S.L.,Ávila,127
-Prestamista,7555,Camino de Anita Miguel,Asturias,Agullo y asociados S.L.L.,S.L.,No,Wilfredo Toledo Canals S.C.P,Pontevedra,545
-Profesor de enseñanza secundaria,19451,Camino Gala Duarte,Asturias,Compañía RDLL S.A.,S.L.,No,Hnos Valverde S.A.,Asturias,342
-Analista financiero,6575,Cuesta de Maristela Mariscal,Baleares,Comercializadora Castellana S.L.,S.Com.,No,Comercializadora Español y asociados S.L.,Huelva,662
-Criador de ganado,9500,Cañada de Angelino Trillo,Soria,Benavente y asociados S.Com.,S.L.,No,Alimentación XZZ S.L.,Córdoba,854
-Encuadernador,5597,Avenida Agapito Buendía,Palencia,Alimentación del Levante S.A.,S.Com.,No,Restauración Gabaldón & Asociados S.A.,Cádiz,328
-Corrector de pruebas de imprenta,1406,Acceso de Albert Bermudez,Las Palmas,Hermanos Querol S.Com.,S.A.T.,Sí,Servicios Tamayo y asociados S.A.,Alicante,992
-Profesional de nivel medio del derecho y servicios legales,17335,Ronda Marina Garriga,Pontevedra,Morillo y Carreño S.A.T.,S.Coop.,No,Grupo Dalmau S.L.U.,Ávila,145
-Operario de la elaboración de productos lácteos,12965,Vial de Marcio Calvo,Burgos,Inversiones Falcó & Asociados S.A.T.,S.L.,No,Grupo Vázquez S.A.,Barcelona,157
-Ingeniero de minas,18155,Pasadizo de Mónica Molins,Alicante,Servicios INQ S.A.,S.Com.,Sí,Hotel Navarro S.A.,Vizcaya,196
-Cantante,6934,Acceso de Cándido Raya,Ourense,Calixta Macías Vélez S.C.P,S.A.,Sí,Instalaciones Díez S.L.N.E,Álava,211
-Profesor de música,9338,Calle Gastón Collado,Murcia,Logística Española S.A.,S.C.P,No,Roma & Asociados S.L.N.E,Zaragoza,444
-Especialista en políticas y servicios de personal,19315,Cuesta Jacinta Carrión,Santa Cruz de Tenerife,Transportes Ibérica S.L.,S.A.,No,Acevedo & Asociados S.L.,Córdoba,948
-Minero,5088,Via Encarnación Vicens,Tarragona,Hotel OM S.Com.,S.A.,No,Consultoría Fuente y asociados S.L.,Huesca,857
-Agente de servicios de expedición de licencias y permisos,17460,Cuesta Eutimio Borrell,Guipúzcoa,Alimentación Adán & Asociados S.Coop.,S.A.,No,Transportes ZK S.A.D,Girona,47
-Conductor de autobús,16636,Camino de Benigno Valero,Huelva,Compañía PJ S.Coop.,S.A.,Sí,Minería IUM S.L.L.,Cádiz,736
-Acarreador de agua,2164,Vial de Jose Muñoz,Cantabria,Grupo Goicoechea S.L.,S.L.N.E,No,Soler y asociados S.Com.,Lugo,612
-Director de producción agropecuaria y silvicultura,4566,Paseo de Prudencio Jimenez,Segovia,Servicios Globales S.L.,S.L.N.E,No,Inversiones Arjona & Asociados S.A.D,Málaga,161
+Pescador de alta mar,7787,Avenida César Castrillo,Murcia,Logística RII S.Com.,S.L.N.E,No,Guiomar Moraleda Bejarano S.L.U.,Valladolid,162
+"Operador de máquinas de preparación de fibras, hilado y devanado",12618,Avenida Custodia Cabezas,Ceuta,Soluciones MUFG S.Com.,S.L.L.,Sí,Grupo Carrillo S.L.N.E,Tarragona,871
+Peón de minas y canteras,9326,Via de Nicodemo Arana,Almería,Despacho Integrales S.Coop.,S.Coop.,Sí,Maxi Vergara Pol S.L.,Ávila,511
+Detective,12043,Pasaje José Arnal,La Rioja,Inmobiliaria AQC S.L.N.E,S.L.,No,Grupo Cepeda S.A.,Girona,24
+Técnico de laboratorio médico,6885,Paseo Clarisa Fabra,Melilla,Industrias VR S.A.,S.L.N.E,Sí,Transportes Torre S.C.P,Asturias,827
+Profesional de nivel medio de enfermería,3401,Callejón de Benito Molins,Ceuta,Fábrica del Levante S.L.,S.Coop.,Sí,Chaves y asociados S.L.,Baleares,831
+Agente de servicios de seguridad social,18266,Calle Jose Ignacio Redondo,Asturias,Consultoría Pardo S.Coop.,S.A.,No,Bernad y asociados S.Com.,Valencia,487
+Inspector de policía,1030,Ronda Ovidio Sebastián,Badajoz,Silvestre Morell Valbuena S.L.L.,S.Com.,No,Familia Vega S.Com.,Vizcaya,504
+Educador para necesidades especiales,6282,Calle Cecilio Martinez,Asturias,Coll y Jaume S.L.,S.Com.,Sí,Hnos Iborra S.L.L.,Sevilla,844
+Conserje,15034,Pasadizo de Domingo Vélez,Ourense,Logística del Sur S.Coop.,S.Coop.,No,Requena y asociados S.A.,Cuenca,759
+Ingeniero electricista,5472,Paseo de Fabiola Castejón,Cáceres,Consultoría del Noroeste S.Com.,S.L.,No,Moraleda y Torrent S.Com.,Lugo,950
+Asistente fisioterapeuta,7366,Via Edelmira Castejón,Valladolid,Catalán y Montenegro S.Com.,S.L.N.E,Sí,Godoy & Asociados S.Coop.,León,717
+Filósofo,2841,Via Cándido Quirós,Guipúzcoa,Hermanos Torrens S.A.,S.Com.,No,Transportes Rodrigo y asociados S.L.,Vizcaya,193
+"Gerente de sucursales de bancos, de servicios financieros y de seguros",12557,C. de Salvador Chamorro,Burgos,Pera & Asociados S.A.,S.L.L.,No,Alimentación Ferrández S.A.,Melilla,787
+Asistente farmacéutico,17283,Plaza Nerea Cortés,Cádiz,Manufacturas Díez & Asociados S.Coop.,S.L.N.E,Sí,Manufacturas Dominguez S.A.,Cádiz,583
+Director de recursos humanos,7940,Ronda Matías Crespi,Girona,Inversiones del Noroeste S.A.,S.C.P,No,Bolaños & Asociados S.C.P,Almería,913
+Químico,13904,Pasadizo de Rocío Marin,Huesca,Hnos Solsona S.L.L.,S.Coop.,Sí,Hermanos Alvarado S.Com.,Lleida,733
+Filósofo,2616,Ronda de Lino Leal,Ciudad,Rivas y Amat S.Coop.,S.A.T.,No,Promociones SO S.L.,Salamanca,129
+Guardián de prisión,4792,Calle de Edmundo Torrijos,Palencia,Rubio y asociados S.Com.,S.Com.,No,Comercial Aranda y asociados S.L.,Madrid,528
+Operador de máquinas para fabricar productos de material plástico,15539,Cuesta de Juan José Coca,Lugo,Hermanos Calatayud S.L.N.E,S.L.,Sí,Promociones Internacionales S.L.,Jaén,703

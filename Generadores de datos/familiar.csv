@@ -1,21 +1,21 @@
 apellido,parentesco,tipo_documento,nro_documento,nombre,fecha_nacimiento,idos,dni,idsv,porcentaje,domicilio
-Pinto,Hija,DNI,57800251,Olivia,1924-04-01,22105,25319882,45259,41.3,"Pasadizo Guillermo Bonilla 29 Apt. 79  Palencia, 42582"
-Velasco,Madre,Pasaporte,18656305,Noelia,1976-11-08,42958,81185857,38498,56.59,"Ronda León Mateo 70 Ceuta, 28170"
-Marí,Esposo,Pasaporte,79382765,Lalo,1936-12-09,15763,41881907,29586,30.95,"Plaza de Ignacio Gual 67 Cáceres, 01261"
-Izaguirre,Hermano,Pasaporte,61305915,Fulgencio,1999-04-12,13454,51596401,28854,69.7,"Camino de Micaela Olivé 38 Lleida, 01160"
-Salazar,Madre,Pasaporte,48173585,Coral,1975-04-21,26549,10556044,23202,53.1,"Cuesta Leire Barros 98 Puerta 6  Albacete, 19801"
-Robles,Hermano,CI,75794124,Lupe,1938-12-24,5838,66984409,22994,56.44,"Calle de Vito Pastor 286 Puerta 0  Álava, 44270"
-Agullo,Hijo,CI,74977263,Leandra,2002-09-08,21653,39201807,9111,91.97,"Alameda Lino Aguado 78 Ourense, 20341"
-Cid,Hermano,CI,51557241,Leopoldo,2022-01-29,23997,21201301,16794,88.91,"Acceso de Narcisa Verdejo 26 Apt. 07  Alicante, 25169"
-Olivera,Esposa,Pasaporte,62990616,José Mari,1946-03-25,7466,35049147,15778,49.8,"C. Gala Galiano 32 Apt. 72  Cantabria, 07659"
-Pou,Padre,DNI,24426111,Fortunata,2017-12-17,24772,23614312,13885,25.19,"Urbanización Pascual Mendez 987 Puerta 5  Huelva, 17355"
-Patiño,Hermano,Pasaporte,79434328,Mireia,1949-01-11,12199,50254849,10892,63.5,"Vial de Heliodoro Tejedor 20 Piso 2  Ourense, 05257"
-Pinilla,Hermana,CI,56830629,Candelario,1987-08-08,40867,53837057,36504,91.67,"Acceso Ariel Nogués 11 Puerta 2  Guadalajara, 43239"
-Serrano,Madre,CI,64156345,Abril,2001-04-28,17437,89669950,27308,35.55,"Pasaje de José Manuel Monreal 54 Piso 0  Valladolid, 42294"
-Vallés,Padre,DNI,81639320,Miriam,1924-05-25,20189,14214997,4306,90.25,"Via Calista Coll 892 Lugo, 04420"
-Escamilla,Hija,Pasaporte,32496438,Ovidio,1988-01-16,28748,19084525,39868,64.97,"Callejón de Isaura Enríquez 36 Murcia, 37674"
-Sales,Esposa,Pasaporte,41833534,Herminia,2015-01-12,7125,12415007,41042,37.83,"Acceso de Adriana Llobet 915 Apt. 63  Málaga, 22454"
-Gonzalez,Padre,DNI,81161704,Graciela,1968-06-21,48237,59111114,28422,41.12,"Ronda de Glauco Sancho 35 Santa Cruz de Tenerife, 16021"
-Julián,Madre,CI,85320975,Zaira,1988-01-07,26758,49338668,38450,44.13,"Via Tatiana Jove 44 Zaragoza, 35666"
-Rocha,Esposa,CI,58572342,Guadalupe,1988-05-10,48237,59111114,16078,44.69,"Rambla de Renato Iriarte 7 Puerta 2  León, 09957"
-Simó,Esposa,Pasaporte,70818154,Pancho,1929-07-03,4231,27512093,22444,97.33,"Vial Alfonso Perea 29 Puerta 8  León, 49771"
+Villegas,Hermano,CI,99687653,Jimena,2021-07-01,34872,34051603,25461,41.43,C. Emilia Llano 56 Piso 5 
+Villena,Hija,CI,25845999,Clara,1930-10-31,28986,85910398,14780,59.7,Urbanización de Eligio Navarrete 4
+Cifuentes,Hijo,CI,40978802,Maxi,2020-02-03,12559,81126326,33711,24.8,C. de Dominga Prieto 5 Piso 4 
+Arias,Hermana,Pasaporte,62230507,Fabián,1934-02-04,37235,37268266,30165,31.51,Calle Eloísa Sanmiguel 28 Piso 3 
+Roman,Padre,CI,62559405,Pepe,1953-02-07,34717,37782511,22355,93.63,Plaza Galo Aguado 18 Apt. 95 
+Bravo,Hermana,CI,37289188,Jordán,1967-06-12,24691,85959130,10844,64.26,Glorieta Luz Taboada 311 Piso 0 
+Goicoechea,Hermana,Pasaporte,90155528,María Dolores,1949-06-18,28379,74646441,4392,78.42,Pasadizo Anabel Palomares 40
+Cuervo,Esposo,Pasaporte,35405256,Arsenio,1994-11-16,28926,72549272,16595,54.63,Calle Cesar Ballester 78 Piso 0 
+Heredia,Padre,CI,54212892,Araceli,1977-12-12,3002,39781445,33477,49.17,Cañada de Pascual Galvez 49 Apt. 18 
+Doménech,Padre,CI,73672478,Elodia,1959-07-28,46264,72416642,22696,87.29,Rambla Herberto Álamo 57 Puerta 9 
+Galan,Esposa,DNI,29262239,Santos,1982-03-02,28379,74646441,4392,74.78,Paseo Fabiola Ríos 29
+Benito,Esposa,CI,41770144,Delfina,1984-07-19,35379,65565577,2576,16.26,Avenida de Leonel Bermúdez 93 Piso 2 
+Huerta,Esposo,Pasaporte,40577908,Ileana,1971-07-04,28986,85910398,21809,79.32,Paseo de Lorena Ariza 36 Puerta 7 
+Barrios,Padre,DNI,58160539,Urbano,1967-10-06,34872,34051603,25461,83.65,Paseo Sandra Viñas 16 Apt. 38 
+Pérez,Padre,CI,59737490,Guadalupe,1931-03-22,45110,60081861,29538,11.19,Rambla de Faustino Fonseca 98 Puerta 9 
+Beltrán,Madre,Pasaporte,83763055,Dorita,1929-01-10,6798,65397119,104,12.12,Avenida de Bárbara Riba 81
+Solé,Hermana,Pasaporte,88118883,Tania,1934-04-09,11370,81126326,26668,90.62,Glorieta Daniela Reguera 85
+Ribera,Esposo,CI,51504291,Regina,1946-08-23,3617,87420109,42784,46.7,Via Susanita Crespo 89
+Méndez,Madre,CI,80389322,Marcio,1968-03-16,47597,32132341,30671,89.9,Ronda Amaro Alcaraz 23 Piso 0 
+Rios,Hermana,CI,16574509,Toni,1959-06-28,49902,70577328,4498,50.64,C. Desiderio Roman 1
