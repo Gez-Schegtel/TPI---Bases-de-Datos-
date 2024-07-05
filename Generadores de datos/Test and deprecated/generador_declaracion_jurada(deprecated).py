@@ -1,8 +1,5 @@
 import csv
 import random
-from faker import Faker
-
-fake = Faker('es_ES')
 
 # Nombre del archivo CSV con los datos de Profesores
 archivo_profesores = 'profesores.csv'
@@ -15,19 +12,21 @@ with open(archivo_profesores, mode='r', encoding='utf-8') as file:
         dni_list.append(row['dni'])
 
 # Número de registros a crear.
-num_records = 20
+num_records = 500
 
 # Comprobar que se leyeron suficientes DNIs
 if len(dni_list) < num_records:
     raise ValueError("El archivo 'profesores.csv' no contiene suficientes registros de DNI.")
 
+# Seleccionar DNI únicos para la tabla Declaracion_Jurada. Este paso no es necesario porque los DNI ya son únicos.
+dni_list = random.sample(dni_list, num_records)
+
 # Generar datos para la tabla Declaracion_Jurada
 declaracion_jurada_data = []
-
-for _ in range(num_records):
+for iddj, dni in enumerate(dni_list, start=1):
     declaracion_jurada_data.append({
-        'iddj': fake.unique.random_int(min=1000, max=1000*num_records),
-        'dni': random.choice(dni_list)
+        'iddj': iddj,
+        'dni': dni
     })
 
 # Nombre del archivo CSV para la tabla Declaracion_Jurada

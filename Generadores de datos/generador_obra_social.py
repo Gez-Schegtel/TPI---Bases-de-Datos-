@@ -16,24 +16,21 @@ with open(archivo_profesores, mode='r', encoding='utf-8') as file:
         dni_list.append(int(row['dni']))
 
 # Número de registros a generar
-num_records = 1500
+num_records = 20
 
 # Comprobar que se leyeron suficientes DNIs
 if len(dni_list) < num_records:
     raise ValueError("El archivo 'profesores.csv' no contiene suficientes registros de DNI.")
 
-# Seleccionar 1500 DNI al azar para la tabla Obra_Social
-dni_list = random.sample(dni_list, num_records)
-
 # Generar datos para la tabla Obra_Social
 obra_social_data = []
+
 for dni in dni_list:
-    num_idos = random.randint(1, 3)  # Generar entre 1 y 3 IDOS por cada DNI
+    num_idos = random.randint(1, 3)  # Generar entre 1 y 3 "idsv" por cada DNI
     for _ in range(num_idos):
-        idos = fake.unique.random_int(min=1, max=50000)  # Generar un IDOS único
         obra_social_data.append({
             'dni': dni,
-            'idos': idos
+            'idos': fake.unique.random_int(min=1, max=50000)  # Generar un "idos" único. El máx puede ser un problema si hay muchos profesores. Controlar.
         })
 
 # Nombre del archivo CSV para la tabla Obra_Social

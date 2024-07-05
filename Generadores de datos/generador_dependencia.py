@@ -16,7 +16,7 @@ with open(archivo_obra_social, mode='r', encoding='utf-8') as file:
         idos_list.append(int(row['idos']))
 
 # Número de registros a generar
-num_records = 50
+num_records = 20
 
 # Comprobar que se leyeron suficientes idos
 if len(idos_list) < num_records:
@@ -48,4 +48,4 @@ with open(archivo_dependencia, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(dependencia_data)  # Escribir los datos
 
-print(f"{num_records} registros generados y exportados a {archivo_dependencia}")
+print(f"{len(dependencia_data)} registros generados y exportados a {archivo_dependencia}")

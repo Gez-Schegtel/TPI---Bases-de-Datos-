@@ -7,14 +7,14 @@ from faker.exceptions import UniquenessException
 fake = Faker('es_ES')  # Para datos realistas en español
 
 # Número de registros a generar.
-num_records = 20
+num_records = 10
 
 # Archivos CSV de entrada
 archivo_profesores = 'profesores.csv'
 archivo_obra_social = 'obra_social.csv'
 archivo_seguro_vida = 'seguro_de_vida.csv'
 
-# Leer los datos de Profesores
+# Leer los DNI del archivo de Profesores
 dni_list = []
 with open(archivo_profesores, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
@@ -25,27 +25,19 @@ with open(archivo_profesores, mode='r', encoding='utf-8') as file:
 if len(dni_list) < num_records:
     raise ValueError("El archivo 'profesores.csv' no contiene suficientes registros de DNI.")
 
-# Leer los datos de Obra Social y Seguro de Vida y construir un diccionario que relacione dni, idos, y idsv
-dni_to_others = {dni: {'idos': set(), 'idsv': set()} for dni in dni_list}
-
+# Leer los idos del archivo de Obra Social
+idos_list = []
 with open(archivo_obra_social, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        dni = int(row['dni'])
-        idos = int(row['idos'])
-        if dni in dni_to_others:
-            dni_to_others[dni]['idos'].add(idos)
+        idos_list.append(int(row['idos']))
 
+# Leer los idsv del archivo de Seguro de Vida
+idsv_list = []
 with open(archivo_seguro_vida, mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        dni = int(row['dni'])
-        idsv = int(row['idsv'])
-        if dni in dni_to_others:
-            dni_to_others[dni]['idsv'].add(idsv)
-
-# Filtrar dni_list para solo incluir aquellos que tienen al menos un idos o idsv
-dni_list = [dni for dni in dni_list if dni_to_others[dni]['idos'] or dni_to_others[dni]['idsv']]
+        idsv_list.append(int(row['idsv']))
 
 # Generar datos para la tabla Familiar
 familiar_data = []
@@ -65,9 +57,8 @@ for _ in range(num_records):
         raise Exception("No se pudieron generar valores únicos después de múltiples intentos")
 
     dni = random.choice(dni_list)
-    idos = random.choice(list(dni_to_others[dni]['idos'])) if dni_to_others[dni]['idos'] else None  # Puede ser None si no hay idos disponibles
-    idsv = random.choice(list(dni_to_others[dni]['idsv'])) if dni_to_others[dni]['idsv'] else None  # Puede ser None si no hay idsv disponibles
-
+    idos = random.choice(idos_list) if random.random() > 0.2 else None  # 20% de probabilidad de ser None
+    idsv = random.choice(idsv_list) if random.random() > 0.2 else None  # 20% de probabilidad de ser None
     familiar_data.append({
         'apellido': fake.last_name(),
         'parentesco': random.choice(parentescos),
@@ -79,7 +70,7 @@ for _ in range(num_records):
         'dni': dni,
         'idsv': idsv,
         'porcentaje': round(random.uniform(10, 100), 2),  # Valor de porcentaje entre 10 y 100
-        'domicilio': fake.address().replace('\n', ' ')  # Reemplazar saltos de línea con espacios
+        'domicilio': fake.address()
     })
 
 # Nombre del archivo CSV para la tabla Familiar
@@ -97,4 +88,4 @@ with open(archivo_familiar, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(familiar_data)  # Escribir los datos
 
-print(f"{len(familiar_data)} registros generados y exportados a {archivo_familiar}")
+print(f"{num_records} registros generados y exportados a {archivo_familiar}")

@@ -1,9 +1,10 @@
 import csv
 import random
 from faker import Faker
+
 fake = Faker('es_ES')
 
-num_records = 200
+num_records = 20
 
 archivo_profesores = 'profesores.csv'
 
@@ -17,7 +18,6 @@ if len(dni_list) < num_records:
     raise ValueError("No hay suficientes registros en el archivo 'profesores.csv'.")
 
 
-dni_list = random.sample(dni_list, num_records)
 contactos_data = []
 
 for _ in range(num_records):
@@ -39,4 +39,4 @@ with open(archivo_contactos, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(contactos_data)  # Escribir los datos
 
-print(f"{num_records} registros generados y exportados a {archivo_contactos}")
+print(f"{len(contactos_data)} registros generados y exportados a {archivo_contactos}")

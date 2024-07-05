@@ -16,7 +16,7 @@ with open(archivo_profesores, mode='r', encoding='utf-8') as file:
         dni_list.append(int(row['dni']))
 
 # Número de registros a generar
-num_records = 100
+num_records = 20
 
 # Generar datos para la tabla Participacion_Reuniones_Cientificas
 participacion_data = []
@@ -40,4 +40,4 @@ with open(archivo_participacion, mode='w', newline='', encoding='utf-8') as file
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(participacion_data)  # Escribir los datos
 
-print(f"{num_records} registros generados y exportados a {archivo_participacion}")
+print(f"{len(participacion_data)} registros generados y exportados a {archivo_participacion}")

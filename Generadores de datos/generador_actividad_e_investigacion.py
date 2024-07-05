@@ -20,7 +20,7 @@ with open(archivo_actividades, mode='r', encoding='utf-8') as file:
         })
 
 # Número de registros a generar
-num_records = 100
+num_records = 20
 
 # Verificar que hay suficientes registros en la tabla
 if len(antecedentes_list) < num_records:
@@ -54,4 +54,4 @@ with open(archivo_actividad_investigacion, mode='w', newline='', encoding='utf-8
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(actividad_investigacion_data)  # Escribir los datos
 
-print(f"{num_records} registros generados y exportados a {archivo_actividad_investigacion}")
+print(f"{len(actividad_investigacion_data)} registros generados y exportados a {archivo_actividad_investigacion}")

@@ -16,7 +16,7 @@ with open(archivo_profesores, mode='r', encoding='utf-8') as file:
         dni_list.append(row['dni'])
 
 # Número de registros a generar
-num_records = 100
+num_records = 20
 
 # Verificar que hay suficientes registros en el archivo
 if len(dni_list) < num_records:
@@ -45,4 +45,4 @@ with open(archivo_publicaciones, mode='w', newline='', encoding='utf-8') as file
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(publicaciones_data)  # Escribir los datos
 
-print(f"{num_records} registros generados y exportados a {archivo_publicaciones}")
+print(f"{len(publicaciones_data)} registros generados y exportados a {archivo_publicaciones}")

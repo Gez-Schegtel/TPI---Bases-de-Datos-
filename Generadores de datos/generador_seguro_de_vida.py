@@ -8,9 +8,6 @@ fake = Faker('es_ES')
 # Nombre del archivo CSV con los datos de Profesores
 archivo_profesores = 'profesores.csv'
 
-# Número de registros a generar
-num_records = 1500
-
 # Leer los DNI del archivo de Profesores
 dni_list = []
 with open(archivo_profesores, mode='r', encoding='utf-8') as file:
@@ -18,27 +15,25 @@ with open(archivo_profesores, mode='r', encoding='utf-8') as file:
     for row in reader:
         dni_list.append(row['dni'])
 
+# Número de registros a generar
+num_records = 20
+
 # Comprobar que se leyeron suficientes DNIs
 if len(dni_list) < num_records:
     raise ValueError("El archivo 'profesores.csv' no contiene suficientes registros de DNI.")
 
-# Seleccionar 50 DNI únicos para la tabla Seguro_de_Vida (no debería ser necesario porque se supone que ya son únicos)
-dni_list = random.sample(dni_list, num_records)
-
 # Generar datos para la tabla Seguro_de_Vida
 # ¡Atenión! No controlamos "UniquenessException" porque los registros a generar no son muchos.
 seguro_vida_data = []
-idsv_set = set()  # Conjunto para asegurar unicidad de idsv. Es para usar después con "zip".
 
-while len(idsv_set) < num_records:
-    idsv_set.add(fake.unique.random_int(min=1, max=5000))
-
-for idsv, dni in zip(idsv_set, dni_list):
-    seguro_vida_data.append({
-        'idsv': idsv,
-        'dni': dni
-    })
-
+for dni in dni_list:
+    num_idsv = random.randint(1, 3) # Generamos entre 1 y 3 "idsv" por cada DNI.
+    for _ in range(num_idsv):
+        seguro_vida_data.append({
+            'dni': dni,
+            'idsv': fake.unique.random_int(min=1, max=50000) # El valor máximo puede convertirse en un inconveniente si hay muchos "dni's". Controlar.
+        })
+        
 # Nombre del archivo CSV para la tabla Seguro_de_Vida
 archivo_seguro_vida = 'seguro_de_vida.csv'
 
@@ -51,4 +46,4 @@ with open(archivo_seguro_vida, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(seguro_vida_data)  # Escribir los datos
 
-print(f"{num_records} registros generados y exportados a {archivo_seguro_vida}")
+print(f"{len(seguro_vida_data)} registros generados y exportados a {archivo_seguro_vida}")

@@ -9,7 +9,7 @@ fake = Faker('es_ES')
 archivo_seguro_vida = 'seguro_de_vida.csv'
 
 # Número de archivos a generar
-num_records = 100
+num_records = 20
 
 # Leemos los idsv del archivo 'seguro_de_vida.csv"
 idsv_set = set()
@@ -26,6 +26,7 @@ if len(idsv_set) < num_records:
 datos_del_empleador_data = []
 cuit_cuil_set = set()
 
+# Generamos los cuil aleatoriamente, y cuidando de que no se repitan, para cada empleador.
 while len(cuit_cuil_set) < num_records:
     cuit_cuil_set.add(fake.unique.random_int(min=10**10, max=10**11 - 1))
 
@@ -55,4 +56,4 @@ with open(archivo_datos_empleador, mode='w', newline='', encoding='utf-8') as fi
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(datos_del_empleador_data)  # Escribir los datos
 
-print(f"{num_records} registros generados y exportados a {archivo_datos_empleador}")
+print(f"{len(datos_del_empleador_data)} registros generados y exportados a {archivo_datos_empleador}")

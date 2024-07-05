@@ -44,4 +44,4 @@ with open(archivo_datos_cargo, mode='w', newline='', encoding='utf-8') as file:
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(datos_cargo_data)  # Escribir los datos
 
-print(f"{len(iddj_list)} registros generados y exportados a {archivo_datos_cargo}")
+print(f"{len(datos_cargo_data)} registros generados y exportados a {archivo_datos_cargo}")

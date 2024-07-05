@@ -40,4 +40,4 @@ with open(archivo_tareas_no_estatales, mode='w', newline='', encoding='utf-8') a
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(tareas_no_estatales_data)  # Escribir los datos
 
-print(f"{len(iddj_list)} registros generados y exportados a {archivo_tareas_no_estatales}")
+print(f"{len(tareas_no_estatales_data)} registros generados y exportados a {archivo_tareas_no_estatales}")

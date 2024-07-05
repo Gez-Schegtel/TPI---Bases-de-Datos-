@@ -16,7 +16,7 @@ with open(archivo_obra_social, mode='r', encoding='utf-8') as file:
         idos_set.add(row['idos'])
 
 # Número de registros a generar
-num_records = 100
+num_records = 20
 
 # Comprobar que se leyeron suficientes idos
 if len(idos_set) < num_records:
@@ -47,4 +47,4 @@ with open(archivo_datos_trabajo, mode='w', newline='', encoding='utf-8') as file
     writer.writeheader()  # Escribir las cabeceras
     writer.writerows(datos_trabajo_data)  # Escribir los datos
 
-print(f"{num_records} registros generados y exportados a {archivo_datos_trabajo}")
+print(f"{len(datos_trabajo_data)} registros generados y exportados a {archivo_datos_trabajo}")
