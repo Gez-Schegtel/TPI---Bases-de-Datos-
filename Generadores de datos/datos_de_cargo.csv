@@ -1,21 +1,21 @@
 cargo,iddj,calle,provincia,reparticion,dependencia,cumple_horarios,organismo,localidad_cargo,numero
-Pescador de alta mar,7787,Avenida César Castrillo,Murcia,Logística RII S.Com.,S.L.N.E,No,Guiomar Moraleda Bejarano S.L.U.,Valladolid,162
-"Operador de máquinas de preparación de fibras, hilado y devanado",12618,Avenida Custodia Cabezas,Ceuta,Soluciones MUFG S.Com.,S.L.L.,Sí,Grupo Carrillo S.L.N.E,Tarragona,871
-Peón de minas y canteras,9326,Via de Nicodemo Arana,Almería,Despacho Integrales S.Coop.,S.Coop.,Sí,Maxi Vergara Pol S.L.,Ávila,511
-Detective,12043,Pasaje José Arnal,La Rioja,Inmobiliaria AQC S.L.N.E,S.L.,No,Grupo Cepeda S.A.,Girona,24
-Técnico de laboratorio médico,6885,Paseo Clarisa Fabra,Melilla,Industrias VR S.A.,S.L.N.E,Sí,Transportes Torre S.C.P,Asturias,827
-Profesional de nivel medio de enfermería,3401,Callejón de Benito Molins,Ceuta,Fábrica del Levante S.L.,S.Coop.,Sí,Chaves y asociados S.L.,Baleares,831
-Agente de servicios de seguridad social,18266,Calle Jose Ignacio Redondo,Asturias,Consultoría Pardo S.Coop.,S.A.,No,Bernad y asociados S.Com.,Valencia,487
-Inspector de policía,1030,Ronda Ovidio Sebastián,Badajoz,Silvestre Morell Valbuena S.L.L.,S.Com.,No,Familia Vega S.Com.,Vizcaya,504
-Educador para necesidades especiales,6282,Calle Cecilio Martinez,Asturias,Coll y Jaume S.L.,S.Com.,Sí,Hnos Iborra S.L.L.,Sevilla,844
-Conserje,15034,Pasadizo de Domingo Vélez,Ourense,Logística del Sur S.Coop.,S.Coop.,No,Requena y asociados S.A.,Cuenca,759
-Ingeniero electricista,5472,Paseo de Fabiola Castejón,Cáceres,Consultoría del Noroeste S.Com.,S.L.,No,Moraleda y Torrent S.Com.,Lugo,950
-Asistente fisioterapeuta,7366,Via Edelmira Castejón,Valladolid,Catalán y Montenegro S.Com.,S.L.N.E,Sí,Godoy & Asociados S.Coop.,León,717
-Filósofo,2841,Via Cándido Quirós,Guipúzcoa,Hermanos Torrens S.A.,S.Com.,No,Transportes Rodrigo y asociados S.L.,Vizcaya,193
-"Gerente de sucursales de bancos, de servicios financieros y de seguros",12557,C. de Salvador Chamorro,Burgos,Pera & Asociados S.A.,S.L.L.,No,Alimentación Ferrández S.A.,Melilla,787
-Asistente farmacéutico,17283,Plaza Nerea Cortés,Cádiz,Manufacturas Díez & Asociados S.Coop.,S.L.N.E,Sí,Manufacturas Dominguez S.A.,Cádiz,583
-Director de recursos humanos,7940,Ronda Matías Crespi,Girona,Inversiones del Noroeste S.A.,S.C.P,No,Bolaños & Asociados S.C.P,Almería,913
-Químico,13904,Pasadizo de Rocío Marin,Huesca,Hnos Solsona S.L.L.,S.Coop.,Sí,Hermanos Alvarado S.Com.,Lleida,733
-Filósofo,2616,Ronda de Lino Leal,Ciudad,Rivas y Amat S.Coop.,S.A.T.,No,Promociones SO S.L.,Salamanca,129
-Guardián de prisión,4792,Calle de Edmundo Torrijos,Palencia,Rubio y asociados S.Com.,S.Com.,No,Comercial Aranda y asociados S.L.,Madrid,528
-Operador de máquinas para fabricar productos de material plástico,15539,Cuesta de Juan José Coca,Lugo,Hermanos Calatayud S.L.N.E,S.L.,Sí,Promociones Internacionales S.L.,Jaén,703
+Peón de explotaciones agrícolas,14050,Cuesta de Ignacia Garmendia,Valladolid,Restauración TP S.A.,S.A.,No,Inmobiliaria Ibérica S.L.L.,Cáceres,419
+Calderero,3676,Pasadizo de Martín Baró,Ceuta,Instalaciones Iberia S.L.,S.A.,Sí,Compañía Castellana S.Com.,Lleida,290
+Gerente de comercios al por mayor y al por menor,11561,Paseo Anunciación Llamas,Las Palmas,Familia Isern S.A.,S.L.L.,No,Construcción Ibéricos S.A.,León,407
+Empleado de contabilidad y cálculo de costos,11870,Via de Felicidad Barbero,La Coruña,Solé y asociados S.L.,S.L.,Sí,Logística Galiano & Asociados S.L.L.,Ávila,385
+Actor,18442,Paseo de María José Osorio,La Rioja,Promociones Ávila S.L.L.,S.A.T.,No,Manufacturas XM S.L.,Huesca,865
+Avicultor,12486,Acceso de Florentina Baena,Granada,Carvajal y Nieto S.A.,S.L.U.,No,Inmobiliaria Requena S.Coop.,León,293
+Operador de máquinas de tratamiento de pieles y cueros,16689,Plaza Prudencia Acosta,Valladolid,Olga Macias Herranz S.Coop.,S.L.L.,Sí,Servicios Gabaldón S.L.N.E,Vizcaya,798
+Curtidor,13033,Paseo de Enrique Pintor,Guadalajara,Hnos Diego S.L.N.E,S.Com.,Sí,Lupe Posada Donoso S.L.,Almería,41
+Personal de pompas fúnebres y embalsamador,2937,Via Severino Ortiz,Vizcaya,Rosa Caparrós Segarra S.Com.,S.L.,No,Grupo Garzón S.A.,Asturias,29
+Expendedor de gasolineras,1183,Callejón Juan Francisco Torrents,Badajoz,Pascual Ferrera Redondo S.A.,S.A.D,Sí,Inversiones Flor y asociados S.A.,Sevilla,278
+Peón de pesca y acuicultura,8532,Paseo Edu Fabregat,La Rioja,Morillo y asociados S.Com.,S.L.,Sí,Soluciones Gascón y asociados S.A.,Granada,474
+Trabajador pecuario de subsistencia,4755,Calle de Marcelino Adadia,Soria,Manufacturas QJ S.A.,S.Coop.,Sí,Supermercados Abellán & Asociados S.L.N.E,Lleida,269
+Pulidor de vidrio,6120,Camino Cosme Casanova,Vizcaya,Comercializadora Perales S.Com.,S.L.L.,No,Grupo Matas S.Com.,Barcelona,744
+Personal de limpieza,1305,C. de Nieves Agustí,Palencia,Supermercados del Norte S.A.,S.A.,No,Teodora Arnaiz Juliá S.L.,Valladolid,258
+Tramper,10519,Urbanización Eusebia Gibert,Cáceres,Palma & Asociados S.Com.,S.Coop.,No,Tamarit y Azcona S.A.,Huesca,633
+Prestamista,2306,Glorieta de Pascuala Villa,Zamora,Suministros Simó & Asociados S.L.N.E,S.A.,No,Grupo Carballo S.L.,Guadalajara,126
+Meteorólogo,11260,Paseo Roldán Gelabert,Granada,Familia Ramos S.Com.,S.A.,Sí,Hermanos Ródenas S.L.L.,Madrid,79
+Trabajador de explotaciones de acuicultura,15068,Cuesta de Emperatriz Barral,Las Palmas,Inmobiliaria Linares y asociados S.L.N.E,S.Coop.,Sí,Hnos Gallart S.A.,Ourense,999
+Barrendero,2838,Avenida de Reyes Ariza,Alicante,Angelina Bermudez Pomares S.A.,S.L.,Sí,Banco Integrales S.Com.,Cádiz,965
+Ingeniero en telecomunicaciones,7820,C. Maximiliano Fiol,Almería,Talleres del Levante S.L.,S.L.L.,Sí,Logística ZL S.L.N.E,Guipúzcoa,759

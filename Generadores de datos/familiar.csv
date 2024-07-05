@@ -1,21 +1,21 @@
 apellido,parentesco,tipo_documento,nro_documento,nombre,fecha_nacimiento,idos,dni,idsv,porcentaje,domicilio
-Villegas,Hermano,CI,99687653,Jimena,2021-07-01,34872,34051603,25461,41.43,C. Emilia Llano 56 Piso 5 
-Villena,Hija,CI,25845999,Clara,1930-10-31,28986,85910398,14780,59.7,Urbanización de Eligio Navarrete 4
-Cifuentes,Hijo,CI,40978802,Maxi,2020-02-03,12559,81126326,33711,24.8,C. de Dominga Prieto 5 Piso 4 
-Arias,Hermana,Pasaporte,62230507,Fabián,1934-02-04,37235,37268266,30165,31.51,Calle Eloísa Sanmiguel 28 Piso 3 
-Roman,Padre,CI,62559405,Pepe,1953-02-07,34717,37782511,22355,93.63,Plaza Galo Aguado 18 Apt. 95 
-Bravo,Hermana,CI,37289188,Jordán,1967-06-12,24691,85959130,10844,64.26,Glorieta Luz Taboada 311 Piso 0 
-Goicoechea,Hermana,Pasaporte,90155528,María Dolores,1949-06-18,28379,74646441,4392,78.42,Pasadizo Anabel Palomares 40
-Cuervo,Esposo,Pasaporte,35405256,Arsenio,1994-11-16,28926,72549272,16595,54.63,Calle Cesar Ballester 78 Piso 0 
-Heredia,Padre,CI,54212892,Araceli,1977-12-12,3002,39781445,33477,49.17,Cañada de Pascual Galvez 49 Apt. 18 
-Doménech,Padre,CI,73672478,Elodia,1959-07-28,46264,72416642,22696,87.29,Rambla Herberto Álamo 57 Puerta 9 
-Galan,Esposa,DNI,29262239,Santos,1982-03-02,28379,74646441,4392,74.78,Paseo Fabiola Ríos 29
-Benito,Esposa,CI,41770144,Delfina,1984-07-19,35379,65565577,2576,16.26,Avenida de Leonel Bermúdez 93 Piso 2 
-Huerta,Esposo,Pasaporte,40577908,Ileana,1971-07-04,28986,85910398,21809,79.32,Paseo de Lorena Ariza 36 Puerta 7 
-Barrios,Padre,DNI,58160539,Urbano,1967-10-06,34872,34051603,25461,83.65,Paseo Sandra Viñas 16 Apt. 38 
-Pérez,Padre,CI,59737490,Guadalupe,1931-03-22,45110,60081861,29538,11.19,Rambla de Faustino Fonseca 98 Puerta 9 
-Beltrán,Madre,Pasaporte,83763055,Dorita,1929-01-10,6798,65397119,104,12.12,Avenida de Bárbara Riba 81
-Solé,Hermana,Pasaporte,88118883,Tania,1934-04-09,11370,81126326,26668,90.62,Glorieta Daniela Reguera 85
-Ribera,Esposo,CI,51504291,Regina,1946-08-23,3617,87420109,42784,46.7,Via Susanita Crespo 89
-Méndez,Madre,CI,80389322,Marcio,1968-03-16,47597,32132341,30671,89.9,Ronda Amaro Alcaraz 23 Piso 0 
-Rios,Hermana,CI,16574509,Toni,1959-06-28,49902,70577328,4498,50.64,C. Desiderio Roman 1
+Macias,Padre,DNI,12690456,Ligia,1963-03-01,3794,36734224,16614,15.61,Cuesta Marcial Duque 16 Puerta 9 
+Olivera,Hija,CI,41728171,Abilio,1978-08-11,11723,34807987,10580,10.11,Acceso de José Manuel Rosell 9
+Barrena,Hermano,CI,20328398,María,1999-03-30,13723,11057888,43089,43.06,Cuesta de Toribio Jerez 43
+Atienza,Esposa,Pasaporte,61161304,Joan,1982-05-01,34385,84846161,29999,92.3,Plaza de Buenaventura Múgica 55
+Narváez,Esposo,CI,14407890,José Luis,1927-09-16,32949,81026290,1383,21.87,Callejón Pascuala Quero 4
+Amorós,Hermano,Pasaporte,39287984,Ignacio,1940-04-30,30209,48971735,16225,18.0,Glorieta de Luis Morán 82 Apt. 61 
+Fabregat,Madre,Pasaporte,22730404,Inmaculada,1990-01-18,13226,58337543,17176,11.38,Vial de Rosenda Puig 539
+Madrid,Hija,CI,10965323,Emilio,1996-03-01,2675,94284661,18929,89.77,Avenida Aránzazu Ruano 24
+Amaya,Hijo,DNI,13414209,Vicente,1996-03-01,18141,41770494,10312,12.06,Calle José Antonio Fiol 3 Puerta 0 
+Carrillo,Hermano,DNI,76592122,Toni,1963-01-28,35652,72252063,729,80.23,Rambla de Cristian Zamorano 52 Piso 8 
+Rueda,Hermano,DNI,64260089,Rosario,2001-07-14,20611,85969768,26640,18.62,Pasadizo Charo Miranda 208
+Cisneros,Hija,Pasaporte,46888962,Simón,1965-12-07,36649,96087547,43035,84.21,Alameda Alcides Mosquera 74
+Verdú,Hijo,DNI,61343475,José María,1964-10-25,5259,12342156,17221,89.29,Pasadizo Elena Herrero 21
+Asensio,Hermano,DNI,98986269,Sofía,1952-01-21,46115,72643161,32259,95.36,Callejón de Anita Castellanos 526 Piso 1 
+Angulo,Hermano,Pasaporte,66201613,Vasco,1953-06-22,26590,87417537,37911,95.94,Callejón de Eutropio Cañellas 21 Puerta 6 
+Pinedo,Esposo,CI,54428147,Aurelio,1990-05-29,3929,98249347,30904,74.83,Via Fortunata Roda 57 Puerta 8 
+Juan,Madre,CI,65683620,Teresa,1965-03-16,40000,83528436,6005,11.61,Rambla Ascensión Prado 1 Apt. 09 
+Matas,Hermana,DNI,46761455,Alondra,1976-05-21,28837,51529325,22752,75.09,Camino Bernarda Cuervo 10 Puerta 0 
+Torralba,Madre,DNI,97866500,Genoveva,1967-10-13,42637,24168851,36778,43.46,Via de Anselmo Catalán 94
+Piquer,Hermana,DNI,78758535,María Del Carmen,1977-07-01,17001,17219906,21352,91.29,Alameda de María Reyes 12
