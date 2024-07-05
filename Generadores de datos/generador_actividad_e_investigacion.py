@@ -15,7 +15,6 @@ with open(archivo_actividades, mode='r', encoding='utf-8') as file:
     for row in reader:
         antecedentes_list.append({
             'dni': int(row['dni']),
-            'dedicacion': row['dedicacion'],
             'id_antecedente': int(row['id_antecedente'])
         })
 
@@ -31,15 +30,15 @@ actividad_investigacion_data = []
 for _ in range(num_records):
     desde_date = faker.date_between(start_date='-20y', end_date='-1y') 
     hasta_date = faker.date_between(start_date=desde_date, end_date='-1d') 
-    record = random.choice(antecedentes_list)
+    antecedente = random.choice(antecedentes_list)
     actividad_investigacion_data.append({
         'categoria': faker.word(),
         'area_principal': faker.catch_phrase(),
-        'dedicacion': record['dedicacion'],
-        'dni': record['dni'],
+        'dedicacion': faker.random_element(elements=('Investigación', 'Docencia', 'Gestión')),
+        'dni': antecedente['dni'], # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'dni'.
         'desde': desde_date,
         'hasta': hasta_date,
-        'id_antecedente': record['id_antecedente']
+        'id_antecedente': antecedente['id_antecedente'] # Acá se toma el valor del diccionario 'antecedente' que está bajo la etiqueta 'id_antecedente'.
     })
 
 # Nombre del archivo CSV para la tabla Actividad_e_Investigacion
