@@ -1,15 +1,16 @@
 
 /*
- * ¡Atenión! Este script no funciona ejecutándolo desde el principio y una sola vez. Para que funciones hay que ir tabla por tabla.
  * 
- * Además, hay que ajustar la dirección al directorio donde están los archivos para cada computadora diferente.
+ * ¡ATENCIÓN! Para que este script funcione correctamente, hay que ajustar la dirección a los archivos CSV.
+ * 
+ * LOAD DATA LOCAL INFILE '/dirección/.../archivo.csv'
  * 
  */
 
--- Selecciona la base de datos
+/* Selecciona la base de datos */
 USE TPI;
 
--- Cargar datos desde los archivos CSV a las tablas correspondientes
+/* Cargar datos desde los archivos CSV a las tablas correspondientes */
 LOAD DATA LOCAL INFILE '/home/juani/Descargas/TPI---Bases-de-Datos-/Generadores de datos/profesores.csv'
 INTO TABLE Profesores
 FIELDS TERMINATED BY ',' 
