@@ -223,8 +223,9 @@ CREATE TABLE Carga_Horaria (
     lugar VARCHAR(255),
     horario VARCHAR(255),
     nombre_catedra VARCHAR(255),
+    horas_clase INT,
     iddj INT,
-    PRIMARY KEY (nombre_catedra, iddj),
+    PRIMARY KEY (dia, horario, nombre_catedra, iddj),
     CONSTRAINT fk_carga_iddj FOREIGN KEY (iddj) REFERENCES Declaracion_Jurada(iddj) ON DELETE CASCADE ON UPDATE CASCADE
 );
 

@@ -20,7 +20,7 @@ CF: idos => Obra_Social(idos) EN BORRADO CASCADA EN ACTUALIZACION CASCADA
 
 Seguro_de_Vida(idsv: entero, dni: entero)
 CP: idsv 
-CF: dni  => Profesores (dni)
+CF: dni  => Profesores(dni)
 CNN: dni
 
 
@@ -85,22 +85,22 @@ CF: id_antecedente => Actividades_y_Antecedentes(id_antecedente) EN BORRADO CASC
 
 Datos_del_Empleador(codigo_postal: entero(5), provincia: cadena(20), localidad: cadena(20), departamento: cadena(20), numero: entero, piso: cadena(2), calle: cadena(20), razon_social: cadena(20), cuit_cuil: entero_grande, idsv: entero)
 CP: (cuit_cuil, idsv)
-CF: idsv => Seguro_de_Vida (idsv) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
+CF: idsv => Seguro_de_Vida(idsv) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
 Datos_de_Contacto(email: cadena(20), tipo_email: cadena(20), telefono: entero(10), tipo_telefono: cadena(20), id_contacto: entero, dni: entero)
 CP: (id_contacto, dni)
-CF: dni  => Profesores (dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
+CF: dni  => Profesores(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
 Declaracion_Jurada(iddj:entero, dni:entero)
 CP: iddj
-CF: dni  => dni (Profesores)
+CF: dni  => Profesores(dni)
 CNN: dni
 
 
-Carga_Horaria(dia: cadena(20), lugar: cadena(20), horario: cadena(20), nombre_catedra: cadena(20), iddj: entero)
-CP: (nombre_catedra, iddj)
+Carga_Horaria(dia: cadena(20), lugar: cadena(20), horario: cadena(20), nombre_catedra: cadena(20), horas_clase: entero, iddj: entero)
+CP: (dia, horario, nombre_catedra, iddj)
 CF:  iddj => Declaracion_Jurada(iddj) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
