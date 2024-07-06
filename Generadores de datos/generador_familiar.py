@@ -69,7 +69,7 @@ for _ in range(num_records):
     idsv = random.choice(list(dni_to_others[dni]['idsv'])) if dni_to_others[dni]['idsv'] else None  # Puede ser None si no hay idsv disponibles
 
     # Convertir None a 'NULL' para evitar espacios vacíos en el archivo CSV
-    # Este paso es superimportante, porque si no está se escribe ",," para cuando las claves son NULL y el script deja de funcionar de esta manera.
+    # Este paso es superimportante, porque si no está, se escribe ",," para cuando las claves son NULL y el script generará un archivo que luego no funciona con el script de carga de datos.
     idos = 'NULL' if idos is None else idos
     idsv = 'NULL' if idsv is None else idsv
 
