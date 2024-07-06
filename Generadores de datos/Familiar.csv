@@ -1,0 +1,21 @@
+"apellido","parentesco","tipo_documento","nro_documento","nombre","fecha_nacimiento","idos","dni","idsv","porcentaje","domicilio"
+Verdú,Hermano,CI,14838127,Wálter,1970-06-20,12177,53210137,,67.83,"Glorieta Ignacia Lasa 7"
+Baeza,Padre,DNI,28286967,Abril,1943-12-15,11724,85492787,,94.28,"Pasaje de Pancho Ordóñez 602"
+Diez,Esposa,DNI,31388189,Josefina,2006-06-29,,36763750,11217,39.75,"Plaza Leandra Patiño 13"
+Oliver,Padre,Pasaporte,34549712,Alejandro,1943-03-08,5906,14523114,,81.89,"Callejón Silvia Perera 73 Piso 1 "
+Guardia,Hermana,DNI,36996614,Cándido,1989-04-04,11738,32366601,,87.86,"Via Nélida Busquets 74"
+Fuente,Esposa,DNI,40304959,Lilia,1957-03-19,,44570650,18766,54.16,"Avenida de Griselda Francisco 9"
+Ródenas,Padre,Pasaporte,40828468,Ariadna,1990-07-19,18066,61814285,,33.44,"C. Guadalupe Camps 37 Apt. 19 "
+Sanjuan,Madre,Pasaporte,42794652,Sonia,1961-08-05,,56723598,4379,99.52,"Via José María Salvador 10"
+Baeza,Esposo,DNI,50138649,Ángela,2014-08-02,,26637355,2637,62.11,"Alameda de Francisco Jose Mateos 99"
+Córdoba,Esposa,DNI,57140201,Victor,1958-06-10,,63889600,14415,49.53,"Pasaje de Julio César Carmona 7 Piso 7 "
+Tejedor,Hija,Pasaporte,57831741,Trinidad,1926-05-20,16109,23236439,,78.15,"Plaza Dan Estévez 14"
+Núñez,Hijo,Pasaporte,64963352,Brígida,2019-09-01,9026,67904101,,63.44,"Rambla de Otilia Quirós 21 Apt. 69 "
+Aroca,Hijo,CI,67944183,Casandra,2020-07-01,9026,67904101,,15.0,"Camino Gilberto Sastre 67"
+Luz,Hermana,Pasaporte,72113580,Cebrián,1948-01-13,6967,95248988,,10.85,"Acceso de Hector Domínguez 66 Piso 0 "
+Ribas,Padre,DNI,76273219,Primitiva,1987-01-06,4956,35304496,,18.45,"Pasaje de Adelardo Osuna 25"
+Pujadas,Hija,CI,78477077,Rosario,2020-10-30,1569,23154067,,41.81,"Pasadizo Encarna Pastor 17"
+Duarte,Padre,DNI,84826899,Araceli,1928-05-12,11011,91811827,,36.0,"Vial de María Cristina Rubio 2 Apt. 94 "
+Camino,Hija,DNI,85490864,Mauricio,1934-01-24,,84374695,4521,90.06,"Callejón Ignacio Arnal 7 Puerta 1 "
+Guillen,Hijo,Pasaporte,94016374,Fortunata,2021-01-22,1569,23154067,,61.02,"Via de Che Salinas 4"
+Boix,Hijo,DNI,96515869,Jessica,1946-06-11,4956,35304496,,83.93,"Rambla de Encarnación Aguiló 80 Piso 3 "

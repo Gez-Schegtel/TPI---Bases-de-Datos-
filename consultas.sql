@@ -89,7 +89,7 @@ WHERE p.fecha_nacimiento < '1970-01-01';
 /* Borrado de datos */
 
 DELETE FROM Cursos_y_Conferencias
-WHERE institucion LIKE 'Aurelio Elías Machado S.A.T.' AND desde >= '2005-01-01' AND hasta <= '2021-12-31';
+WHERE institucion LIKE 'Familia Guerra S.Coop.' AND desde >= '2005-01-01' AND hasta <= '2021-12-31';
 
 
 DELETE FROM Antecedentes_Profesionales
@@ -102,16 +102,18 @@ AND empresa_anterior LIKE 'Editorial Planeta';
 
 
 DELETE FROM Publicaciones
-WHERE dni IN (SELECT dni FROM Profesores WHERE nombre LIKE 'Jacinto')
-AND titulo IN (SELECT titulo FROM Publicaciones WHERE autores = 'Segismundo Jordán Gallart');
+WHERE dni IN (SELECT dni FROM Profesores WHERE nombre LIKE '%Obdulia%')
+AND titulo IN (SELECT titulo FROM Publicaciones WHERE autores LIKE '%PANCHO%');
 
 
 DELETE FROM Familiar
-WHERE domicilio LIKE '%Ronda%' AND porcentaje < 60.00;
+WHERE domicilio LIKE '%Pasaje%' AND porcentaje < 60.00;
 
 
 DELETE FROM Profesores
-WHERE departamento LIKE '%Asturias%';
+WHERE departamento LIKE '%Asturias%'
+AND dni NOT IN (SELECT dni FROM Obra_Social)
+AND dni NOT IN (SELECT dni FROM Seguro_de_Vida);
 
 
 /* Consultas SELECT */
@@ -224,7 +226,7 @@ WHERE p.dni IN (
 
 -- 9) Informar aquellos docentes que posean alguna persona del grupo familiar a cargo en la obra social que no es beneficiario del seguro de vida obligatorio.
 
-SELECT p.nombre, p.apellido,
+SELECT p.nombre, p.apellido
 FROM Profesores p
 WHERE p.dni IN (
     SELECT DISTINCT f.dni
@@ -237,10 +239,6 @@ WHERE p.dni IN (
 
 
 -- 10) Informar Cantidad de individuos asegurados por provincia.
-
-SELECT d.provincia, COUNT(DISTINCT sv.dni) AS cantidad_individuos
-FROM Datos_del_Empleador d INNER JOIN Seguro_de_Vida sv ON d.idsv = sv.idsv
-GROUP BY d.provincia;
 
 SELECT p.provincia, COUNT(*) AS cantidad_asegurados
 FROM Profesores p INNER JOIN Seguro_de_Vida sv ON p.dni = sv.dni
