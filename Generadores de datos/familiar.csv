@@ -1,21 +1,21 @@
 apellido,parentesco,tipo_documento,nro_documento,nombre,fecha_nacimiento,idos,dni,idsv,porcentaje,domicilio
-Noguera,Esposo,Pasaporte,99991203,Mauricio,1994-09-17,34072,44655368,37846,35.6,Rambla de Eli Matas 20
-Pellicer,Hija,CI,91827320,Juana,1946-07-26,41103,70450203,45923,77.65,Glorieta Noé Vilanova 40
-Peña,Hermano,Pasaporte,99163959,Adriana,1955-02-22,11645,40654162,16241,76.44,Glorieta Marina Hervás 129
-Bayo,Hermana,DNI,31600216,Felicidad,1939-07-01,44198,62852440,33706,65.13,Avenida Arcelia Otero 55
-Peiró,Madre,CI,38179555,Nerea,1931-06-17,39578,78932860,33930,53.99,Alameda de Jaime Esteban 22 Puerta 2 
-Santiago,Madre,Pasaporte,84157515,Martina,2009-09-03,4878,47629991,38451,52.99,Cuesta Benjamín Aguirre 6 Apt. 03 
-Julián,Esposo,DNI,83990574,Juan Pablo,2010-01-12,31767,13748340,7363,69.18,Paseo Reyes Pereira 12
-Ortega,Padre,Pasaporte,60934611,Claudia,1948-05-01,11189,98299992,39856,49.35,Calle Adoración Sánchez 4
-Aller,Hermano,Pasaporte,97554367,Kike,1927-09-30,28824,85515778,30502,49.89,Camino de Iker Vargas 5 Apt. 75 
-Pablo,Hijo,Pasaporte,58338510,Natalio,1971-05-01,42336,82449181,36403,91.04,Camino Ernesto Quirós 43
-Cañas,Madre,DNI,34117768,América,1967-04-08,34962,64254201,37905,75.8,Alameda Pelayo Baeza 27
-Antón,Esposa,DNI,53357219,Raúl,2000-08-27,18319,43243132,28858,73.69,Glorieta de Irma Serra 64 Piso 5 
-Lastra,Esposa,Pasaporte,70410149,Camila,1966-06-20,99,26526226,40807,62.78,Callejón de Marta Dávila 55 Piso 9 
-Carrillo,Padre,CI,30455969,Fausto,1974-07-30,27572,49329831,32867,66.03,Acceso Isa Izquierdo 60 Piso 6 
-Mercader,Esposo,CI,50778230,Vicenta,2018-07-11,48687,43967469,22301,34.61,Pasaje Manolo Goñi 59 Piso 3 
-Peralta,Hija,Pasaporte,71717271,Josefa,1926-12-21,29696,31392882,4839,45.78,Pasadizo de Fortunato Aparicio 91
-Mariño,Hermana,Pasaporte,15327216,Iris,1925-07-23,5635,46718263,33156,28.94,Cuesta Susanita Laguna 58
-Valle,Madre,DNI,37622305,Camilo,1994-12-15,2813,32679007,27933,34.05,Plaza de Eusebia Hervás 31 Puerta 3 
-Solera,Hermano,CI,94091995,Amor,2012-12-03,28804,22806487,32822,96.19,Avenida de Virgilio Saura 65 Apt. 46 
-Sotelo,Esposo,DNI,60491104,Jordana,2018-11-13,37216,45407394,5233,97.17,Alameda Néstor Ferreras 24 Apt. 21 
+Segura,Padre,Pasaporte,88871845,Gracia,1987-05-21,33492,85327193,30493,43.88,Alameda Alexandra Fiol 80 Puerta 3 
+Hernando,Hermano,Pasaporte,20120806,Florinda,1965-10-21,21890,55422787,23221,52.23,Avenida Ximena Castell 86
+Ribera,Hija,DNI,72199562,Román,1982-02-21,7897,30579057,20582,87.83,Ronda Brunilda Infante 84
+Fabra,Esposa,CI,44131699,Jacinta,1983-07-21,10956,93166511,5296,85.98,Via de Lara Cid 45 Apt. 18 
+Franco,Padre,CI,13940455,Isabela,1987-08-05,726,85484005,36650,62.24,Rambla Eloísa Llopis 71
+Boada,Hermana,DNI,19552635,Iris,1939-10-03,8060,19008611,475,36.99,Acceso de Palmira Pardo 616
+Pozo,Hermana,DNI,68140278,Alcides,1966-01-21,20839,31106936,39238,20.54,Calle Socorro Segovia 52 Piso 7 
+Bermudez,Hermana,DNI,58089921,Serafina,1943-02-26,32577,47203905,40595,16.97,Glorieta Ileana Giralt 97 Piso 5 
+Amador,Hermano,CI,56138372,Ángel,1987-05-10,23617,50239349,45206,73.0,Acceso de Yésica Rodriguez 28 Piso 0 
+Ferrándiz,Hermano,Pasaporte,41599560,Martirio,2023-08-25,27233,62224861,28984,14.31,Alameda Natanael Porta 74
+Somoza,Hija,Pasaporte,94502317,Anacleto,1951-03-15,39605,85379762,11538,86.04,Pasadizo Perlita Cifuentes 39 Puerta 1 
+Padilla,Padre,CI,39015755,Amarilis,2016-04-29,12318,78381948,48210,31.32,Avenida de Marisol Abella 4 Puerta 4 
+Clavero,Hermana,Pasaporte,77859975,Dan,1932-12-06,30881,69055283,15132,81.08,Pasadizo Mar Jimenez 6 Apt. 10 
+Nadal,Hermana,DNI,56174991,Conrado,1995-12-16,16466,15598344,40341,75.82,Callejón Hilario Frutos 396 Apt. 02 
+Menéndez,Hermana,Pasaporte,42139566,Rufina,1934-08-16,1311,90838497,25958,47.37,Calle de María Belén Benitez 4
+Bustamante,Esposa,CI,28896971,Lupe,2022-01-26,38420,81912150,6249,78.73,C. Virgilio Requena 442 Apt. 16 
+Tejada,Hermano,Pasaporte,82940419,Jessica,1950-10-24,38058,59106281,47687,96.53,Ronda de Alex Milla 71
+Villaverde,Madre,DNI,45842282,Abraham,1939-09-13,9315,23418082,19108,20.5,Ronda Sancho Rosa 36
+Roura,Hermana,CI,22453379,Raimundo,1924-05-07,33290,19807691,6861,20.09,Avenida Abilio Gisbert 9
+Prat,Esposo,CI,14950516,Chus,1973-10-21,41162,38063044,33144,39.36,Vial de Violeta Naranjo 133 Piso 5 

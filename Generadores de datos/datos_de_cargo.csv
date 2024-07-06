@@ -1,21 +1,21 @@
 cargo,iddj,calle,provincia,reparticion,dependencia,cumple_horarios,organismo,localidad_cargo,numero
-Sombrerero,15313,Paseo de Ximena Santamaria,Jaén,Toni Galan Andreu S.A.,S.Com.,Sí,Hermanos Ariza S.Com.,Tarragona,197
-Vendedor puerta a puerta,15020,Urbanización Natanael Oliver,Asturias,Néstor Rodrigo Barceló S.A.U,S.L.N.E,No,Gallart y Saura S.L.,Melilla,78
-Detective,19682,Rambla Yago Gibert,Toledo,Moll y Marquez S.L.U.,S.A.,Sí,Industrias Carnero S.Com.,Girona,999
-Compositor,2973,C. Belén Manzanares,Huelva,Infraestructuras Robledo S.L.N.E,S.A.,No,Juárez y Bauzà S.Coop.,Baleares,963
-Zoólogo,19586,Alameda de Miriam Ochoa,Tarragona,Bauzà & Asociados S.Com.,S.A.,Sí,Talleres Montesinos S.Com.,Melilla,808
-Gerente general,14360,Plaza de Domitila Recio,Lugo,Comercial Vallés S.L.,S.Coop.,No,Comercial Tamarit S.Coop.,Huesca,478
-Profesional de relaciones públicas,3280,Ronda de Benita Conesa,Salamanca,Promociones OKVB S.L.N.E,S.Coop.,Sí,Ordóñez y Rivas S.A.,Navarra,273
-Cajero de banco,7979,Avenida de Héctor Guardia,Huelva,Pacífica Padilla Lluch S.Com.,S.Coop.,No,Construcción Lumbreras S.A.,Ávila,687
-Deshollinador,17836,Paseo Ani Alfaro,Salamanca,Compañía Bermúdez & Asociados S.L.,S.L.,No,Hermanos Goñi S.L.L.,Guadalajara,934
-Catador de alimentos y bebidas,9257,Paseo Amor Bayona,Salamanca,Pedrosa & Asociados S.Coop.,S.Coop.,No,Cantero y Lerma S.A.,Soria,672
-Locutor de televisión,1253,Urbanización Carmela Agustí,Álava,Mariano Dueñas Llopis S.L.N.E,S.L.N.E,Sí,Fábrica GOR S.L.,Las Palmas,534
-Secretario administrativo,15199,Callejón de Susana Marqués,Soria,Construcción AT S.L.,S.L.,No,Inmobiliaria Quintana S.Coop.,Castellón,962
-Diseñador de productos,1080,Pasaje de Andrés Felipe Yuste,Cantabria,Infraestructuras Sanmiguel S.L.N.E,S.L.N.E,Sí,Manufacturas Viña y asociados S.L.N.E,Almería,623
-Director de políticas y planificación,7338,Rambla Sandra Carro,Ourense,Finanzas Juliá y asociados S.L.L.,S.A.,No,Finanzas Meléndez & Asociados S.Coop.,Cáceres,381
-Mayordomo doméstico,1255,Avenida Saturnina Hervás,Tarragona,Consultoría Oller y asociados S.Coop.,S.A.,No,Asunción Trujillo Belda S.Coop.,Lleida,873
-Limpiador y asistente doméstico,8617,Camino Amor Cerdán,Lugo,Ribes y Cardona S.L.L.,S.A.D,Sí,Instalaciones Olmedo S.A.,Málaga,339
-Orfebre,15035,Alameda Pastor Figueroa,Pontevedra,Valderrama & Asociados S.Com.,S.C.P,Sí,Construcción Castellana S.Coop.,Badajoz,279
-"Técnico en galerías de arte, museos y bibliotecas",3337,Pasadizo Noelia Vilalta,León,Hnos Nicolau S.L.,S.L.L.,No,Minería Guitart S.L.,Madrid,795
-Técnico de telecomunicaciones,4181,Urbanización de Elías Barranco,Ourense,Consultoría Globales S.L.L.,S.L.,Sí,Hotel del Mediterráneo S.L.,Burgos,5
-Conductor de automóviles,17931,Plaza Zoraida Meléndez,Lugo,Restauración Solano S.L.L.,S.L.,No,Somoza y asociados S.Coop.,Melilla,78
+Telefonista,16838,Calle de Reyna Blázquez,Salamanca,Industrias Internacionales S.L.N.E,S.Coop.,Sí,Hermanos Cortés S.A.,Burgos,457
+Auxiliar de maestro,9641,Cañada de Priscila Mosquera,Castellón,Banco Solís S.Coop.,S.L.,No,Primitivo Rosselló Amador S.Coop.,Soria,860
+Oficial de préstamos y créditos,16269,Calle Mónica Medina,Málaga,Hermanos Benavente S.Coop.,S.L.,Sí,Berenguer y Duque S.C.P,Granada,646
+Empleado de ventanillas de informaciones,11324,C. Régulo Donoso,Álava,Mena y Vilanova S.C.P,S.Coop.,Sí,Consultoría Española S.C.P,Soria,904
+Urbanistas e ingenieros de tránsito,15715,Pasaje de Noa Casado,Álava,Hnos Novoa S.L.,S.A.,No,Talleres Mur & Asociados S.A.,Guipúzcoa,259
+Operador de máquinas para fabricar cemento y otros productos minerales,11396,Cuesta de Raquel Barreda,Baleares,Juana Prieto Yuste S.L.N.E,S.A.,Sí,Roldan & Asociados S.A.,Barcelona,427
+"Operador de incineradores, instalaciones de tratamiento de agua",1450,Ronda Adelina Andres,Burgos,Comercial Globales S.L.,S.A.,No,Grupo Tolosa S.L.N.E,Lugo,303
+"Gerente de sucursales de bancos, de servicios financieros y de seguros",4020,Avenida de Nayara Mas,Las Palmas,Lisandro Ruiz Mora S.Coop.,S.A.,Sí,Restauración del Norte S.A.,Granada,15
+Agrimensor,19127,Callejón de Joaquín Blanco,Soria,Brunilda Romero Carbó S.L.,S.Com.,No,Supermercados Suárez S.A.,Vizcaya,238
+Ingeniero electrónico,2630,Ronda de Corona Calvo,Ávila,Familia Palomares S.A.,S.A.,No,Hotel Sobrino y asociados S.L.N.E,Pontevedra,922
+Operador de máquinas de procesamiento de texto y mecanógrafos,16802,Pasadizo de Isidora Cases,Alicante,Aragón & Asociados S.A.,S.A.,No,Robledo & Asociados S.Coop.,Palencia,886
+Especialista en políticas y servicios de personal,19122,Rambla Marco Miró,Asturias,Supermercados Juárez S.L.L.,S.L.N.E,No,Grupo Cabezas S.A.,Vizcaya,313
+Personas que realizan trabajos varios,16966,Ronda de Manuel Sans,Córdoba,Alimentación Clemente S.A.,S.A.,No,Édgar Céspedes Santana S.Coop.,Cádiz,419
+Guardia de protección,15782,Ronda Angelino Farré,Murcia,Comercializadora Avanzadas S.A.,S.L.U.,No,Hnos Bárcena S.L.N.E,Navarra,278
+Operador de máquinas para fabricar productos de papel,12591,Urbanización Francisco Javier Heras,Segovia,Construcción Castrillo y asociados S.A.,S.A.,Sí,Hermanos Aller S.A.,Ciudad,18
+Operador de instalaciones de procesamiento de metales,16539,Rambla Herminio Ibarra,Madrid,Comercializadora NN S.Com.,S.L.,Sí,Compañía Hurtado y asociados S.Com.,Las Palmas,812
+Diseñador gráfico,10809,Callejón de Francisco Jiménez,Jaén,Berrocal y asociados S.A.,S.C.P,Sí,Industrias Campos & Asociados S.A.D,Burgos,897
+Cuidador de animales,4076,Urbanización de Loreto Agullo,Huesca,Carlos y asociados S.Coop.,S.L.,Sí,Banca Privada Hernandez S.L.,Murcia,600
+Apicultor,8345,Callejón de Guillermo Pinilla,Huesca,Manufacturas FBRA S.L.N.E,S.L.,Sí,Crespi y Martí S.Com.,Soria,721
+Revocador,12946,Acceso de Jorge Sacristán,Burgos,Berenguer & Asociados S.L.L.,S.Coop.,No,Arteaga & Asociados S.Coop.,Soria,10
