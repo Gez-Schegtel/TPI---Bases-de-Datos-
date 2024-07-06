@@ -1,21 +1,21 @@
 apellido,parentesco,tipo_documento,nro_documento,nombre,fecha_nacimiento,idos,dni,idsv,porcentaje,domicilio
-Quero,Hermana,CI,86134717,Segismundo,2005-02-24,NULL,94429904,2542,35.81,Via de Espiridión Losada 49 Piso 6 
-Aguilera,Madre,Pasaporte,56948406,Antonio,2020-12-10,11620,52033341,NULL,78.6,Alameda Manu Valcárcel 17 Piso 7 
-Carbonell,Esposo,Pasaporte,27858625,Ramona,2010-09-07,NULL,86413120,11873,50.89,Ronda de Cruz Escamilla 854 Puerta 5 
-Vizcaíno,Esposo,Pasaporte,65706421,Olegario,1968-04-15,NULL,40759729,8095,29.2,Alameda Perla Camino 3 Puerta 0 
-Peláez,Madre,Pasaporte,96437842,Imelda,1958-03-15,NULL,27840646,4062,19.16,Calle de Victoriano Pou 52 Apt. 24 
-Corominas,Madre,CI,30014604,Mirta,1928-08-13,NULL,86413120,11873,11.12,Via Horacio Sanjuan 40
-Galan,Hermana,Pasaporte,43231460,Ezequiel,1954-02-11,15516,10904840,NULL,24.21,Cuesta de Teófila Luque 44 Piso 1 
-Rico,Madre,CI,94171834,Edmundo,2011-06-25,1441,46521150,NULL,66.44,Urbanización de Marianela Tamarit 2 Puerta 5 
-Palomino,Hija,CI,53202743,Sabas,2013-08-03,4467,64021783,NULL,17.38,Paseo de Jacobo Viña 4 Apt. 12 
-Montalbán,Padre,CI,41623035,Ariadna,2015-03-07,9778,62281217,NULL,64.28,Avenida Olimpia Fuentes 93 Puerta 7 
-Caballero,Esposa,CI,72453349,Adora,1949-06-10,NULL,26478013,2238,66.17,Cañada Calixta Silva 69 Apt. 72 
-Fabra,Hermano,CI,92393303,Horacio,1986-08-21,9778,62281217,NULL,20.33,Acceso de Daniela Muro 57 Puerta 3 
-Garzón,Hermano,CI,69962139,Augusto,1949-10-09,NULL,27840646,4062,38.53,Glorieta Nando Aliaga 939
-Manzano,Hija,Pasaporte,74574077,José,1941-02-26,NULL,37449175,18901,87.63,Pasaje de Javiera Bernat 14
-Sevilla,Hermana,DNI,86224790,Hermenegildo,1968-03-12,NULL,94429904,2542,12.07,Glorieta Saturnina Sierra 12 Apt. 91 
-Arregui,Padre,CI,42008290,Florinda,1955-11-09,NULL,12601539,3455,23.22,Alameda Amado Girón 843
-Colom,Esposa,CI,24990426,Paloma,2016-06-30,NULL,79962016,18541,60.89,Vial Ceferino Rey 78 Puerta 8 
-Villegas,Esposa,CI,89222454,Javier,1967-02-27,19273,44673782,NULL,57.62,Acceso de Casemiro Ramos 97
-Ávila,Padre,DNI,91760630,Macarena,1977-03-20,13732,78548464,NULL,31.12,Plaza Patricio Landa 70 Puerta 0 
-Berrocal,Hermana,CI,75166189,Fabiola,1939-06-17,8811,65636881,NULL,52.27,Cuesta Isa Huerta 831 Piso 6 
+Guillen,Esposo,Pasaporte,94016374,Fortunata,1994-01-22,1569,23154067,NULL,61.02,Via de Che Salinas 4
+Baeza,Esposo,DNI,50138649,Ángela,2014-08-02,NULL,26637355,2637,62.11,Alameda de Francisco Jose Mateos 99
+Sanjuan,Madre,Pasaporte,42794652,Sonia,1961-08-05,NULL,56723598,4379,99.52,Via José María Salvador 10
+Ródenas,Padre,Pasaporte,40828468,Ariadna,1990-07-19,18066,61814285,NULL,33.44,C. Guadalupe Camps 37 Apt. 19 
+Aroca,Hijo,CI,67944183,Casandra,1963-07-01,9026,67904101,NULL,15.0,Camino Gilberto Sastre 67
+Núñez,Madre,Pasaporte,64963352,Brígida,1932-09-01,9026,67904101,NULL,63.44,Rambla de Otilia Quirós 21 Apt. 69 
+Diez,Esposa,DNI,31388189,Josefina,2006-06-29,NULL,36763750,11217,39.75,Plaza Leandra Patiño 13
+Verdú,Hermano,CI,14838127,Wálter,1970-06-20,12177,53210137,NULL,67.83,Glorieta Ignacia Lasa 7
+Luz,Hermana,Pasaporte,72113580,Cebrián,1948-01-13,6967,95248988,NULL,10.85,Acceso de Hector Domínguez 66 Piso 0 
+Duarte,Padre,DNI,84826899,Araceli,1928-05-12,11011,91811827,NULL,36.0,Vial de María Cristina Rubio 2 Apt. 94 
+Guardia,Hermana,DNI,36996614,Cándido,1989-04-04,11738,32366601,NULL,87.86,Via Nélida Busquets 74
+Pujadas,Padre,CI,78477077,Rosario,1975-10-30,1569,23154067,NULL,41.81,Pasadizo Encarna Pastor 17
+Fuente,Esposa,DNI,40304959,Lilia,1957-03-19,NULL,44570650,18766,54.16,Avenida de Griselda Francisco 9
+Córdoba,Esposa,DNI,57140201,Victor,1958-06-10,NULL,63889600,14415,49.53,Pasaje de Julio César Carmona 7 Piso 7 
+Baeza,Padre,DNI,28286967,Abril,1943-12-15,11724,85492787,NULL,94.28,Pasaje de Pancho Ordóñez 602
+Ribas,Padre,DNI,76273219,Primitiva,1987-01-06,4956,35304496,NULL,18.45,Pasaje de Adelardo Osuna 25
+Boix,Hijo,DNI,96515869,Jessica,1946-06-11,4956,35304496,NULL,83.93,Rambla de Encarnación Aguiló 80 Piso 3 
+Camino,Hija,DNI,85490864,Mauricio,1934-01-24,NULL,84374695,4521,90.06,Callejón Ignacio Arnal 7 Puerta 1 
+Oliver,Padre,Pasaporte,34549712,Alejandro,1943-03-08,5906,14523114,NULL,81.89,Callejón Silvia Perera 73 Piso 1 
+Tejedor,Hija,Pasaporte,57831741,Trinidad,1926-05-20,16109,23236439,NULL,78.15,Plaza Dan Estévez 14

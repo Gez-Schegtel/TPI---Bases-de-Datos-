@@ -40,14 +40,15 @@ for _ in range(num_records):
     
     declaracion_jurada_data.append({
         'iddj': iddj,
-        'dni': random.choice(dni_list)
+        'dni': random.choice(dni_list),
+        'fecha_dj': fake.date_between(start_date='-30y', end_date='today')
     })
 
 # Nombre del archivo CSV para la tabla Declaracion_Jurada
 archivo_declaracion_jurada = 'declaracion_jurada.csv'
 
 # Cabeceras de las columnas en el archivo CSV
-cabeceras_declaracion_jurada = ['iddj', 'dni']
+cabeceras_declaracion_jurada = ['iddj', 'dni', 'fecha_dj']
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_declaracion_jurada, mode='w', newline='', encoding='utf-8') as file:

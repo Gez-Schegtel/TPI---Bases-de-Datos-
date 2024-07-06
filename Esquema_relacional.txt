@@ -93,10 +93,10 @@ CP: (id_contacto, dni)
 CF: dni  => Profesores(dni) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
-Declaracion_Jurada(iddj:entero, dni:entero)
+Declaracion_Jurada(iddj:entero, fecha_dj: fecha, dni:entero)
 CP: iddj
 CF: dni  => Profesores(dni)
-CNN: dni
+CNN: dni, fecha_dj
 
 
 Carga_Horaria(dia: cadena(20), lugar: cadena(20), horario: cadena(20), nombre_catedra: cadena(20), horas_clase: entero, iddj: entero)

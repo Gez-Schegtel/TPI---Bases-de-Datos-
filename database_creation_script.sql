@@ -215,6 +215,7 @@ CREATE TABLE Datos_de_Contacto (
 CREATE TABLE Declaracion_Jurada (
     iddj INT PRIMARY KEY,
     dni INT NOT NULL,
+    fecha_dj DATE NOT NULL,
     CONSTRAINT fk_declaracion_dni FOREIGN KEY (dni) REFERENCES Profesores(dni) ON DELETE RESTRICT ON UPDATE CASCADE
 );
 

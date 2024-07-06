@@ -109,12 +109,16 @@ WHERE p.dni IN (
     FROM Antecedentes_Docentes ap
     WHERE DATEDIFF(CURDATE(), ap.desde) >= 3650  -- 10 años en días aproximadamente
 );
+
+
 -- 4) Listar DNI y nombre de los docentes que presentaron más de un cargo docente en las declaraciones juradas de los últimos 3 años
+
 SELECT DISTINCT dj.dni, p.nombre, p.apellido
 FROM Declaracion_Jurada dj
 INNER JOIN Profesores p ON dj.dni = p.dni
 GROUP BY dj.dni
 HAVING COUNT(dj.iddj) > 1 AND YEAR(dj.desde) >= YEAR(CURDATE()) - 3;
+
 
 -- 5) Listado de docentes cuya carga horaria supera las 20 horas semanales, en función de la última declaración jurada presentada:
 SELECT p.dni
