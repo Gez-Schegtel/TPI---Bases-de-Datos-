@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# ¡Importante! Para poder ejecutar este script exitosamente es necesario tener Python instalado, y la librería Faker.
 # No cambiar el orden de los comandos. De otra forma, es muy probable que el script deje de funcionar ya que del orden de ejecución de cada comando depende el funcionamiento del script.
 
 echo "Ejecutando generador_profesores.py..."
