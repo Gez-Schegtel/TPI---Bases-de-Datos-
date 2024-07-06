@@ -22,7 +22,7 @@ CREATE TABLE Profesores (
     estado_civil VARCHAR(255),
     sexo CHAR(1),
     barrio VARCHAR(255),
-    legajo INT
+    legajo INT UNIQUE
 );
 
 CREATE TABLE Obra_Social (
@@ -258,8 +258,7 @@ CREATE TABLE Pasividades (
 CREATE TABLE Tareas_No_Estatales (
     fecha_ingreso DATE,
     lugar_presta_servicio VARCHAR(255),
-    autonomia VARCHAR(255),
-    relacion_dependencia VARCHAR(255),
+    tipo_dependencia VARCHAR(255),
     funcion VARCHAR(255),
     iddj INT,
     PRIMARY KEY (lugar_presta_servicio, iddj),

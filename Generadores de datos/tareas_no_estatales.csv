@@ -1,21 +1,21 @@
-fecha_ingreso,lugar_presta_servicio,autonomia,relacion_dependencia,funcion,iddj
-2023-08-31,Arsenio González Abascal S.A.,No,Independiente,Técnico de radiodifusión y grabación audio visual,10714
-2020-07-20,Carmelita Galiano Cañete S.A.,Sí,Dependiente,Actor,14863
-2021-10-28,Alcázar & Asociados S.L.,No,Independiente,Buzo,4949
-2020-03-04,Distribuciones Españolas S.A.,Sí,Independiente,Archivista,13468
-2023-10-18,Hermanos Ferrera S.A.,No,Dependiente,Especialista en tratamientos de belleza,11065
-2021-07-12,Servicios Salcedo y asociados S.A.,No,Dependiente,Empleado de control de abastecimientos e inventario,17085
-2021-11-01,Palomo y Uriarte S.Com.,Sí,Dependiente,Profesional de medicina alternativa,19874
-2022-03-19,Familia Sola S.L.,No,Independiente,Artesano,6966
-2020-07-06,Fábrica Moles y asociados S.L.L.,No,Independiente,Peón de jardinería y horticultura,4974
-2020-05-15,Ortuño & Asociados S.A.,No,Dependiente,Controlador de tráfico aéreo,2006
-2022-08-28,Distribuciones Escudero S.L.,Sí,Dependiente,Operador de máquinas lavarropas,9124
-2024-02-04,Nélida Castrillo Tomás S.Coop.,Sí,Dependiente,Locutor de radio,8946
-2023-02-09,Minería Vara y asociados S.Com.,No,Independiente,Oficinista general,12860
-2020-07-22,Alimentación Hernandez S.Coop.,No,Dependiente,Urbanistas e ingenieros de tránsito,7188
-2021-03-13,Alimentación Integrales S.L.L.,Sí,Dependiente,Guardafrenos,15808
-2024-01-13,Minería Palomino & Asociados S.L.,No,Independiente,Vendedor de comidas al mostrador,10990
-2022-06-21,Laguna y Cano S.A.,Sí,Independiente,Asesor de inversiones,4588
-2020-11-29,Desarrollo PWU S.Coop.,No,Independiente,Expendedor de gasolineras,13089
-2022-09-21,Banco Salvador S.C.P,Sí,Dependiente,Chapista,5207
-2020-02-05,Restauración MU S.A.,Sí,Dependiente,Constructor de casas,7932
+fecha_ingreso,lugar_presta_servicio,tipo_dependencia,funcion,iddj
+2022-10-04,Rosenda Iriarte Manrique S.Coop.,Autónomo,Ingeniero medioambiental,15313
+2021-10-18,Hermanos Herrera S.L.,Relación de Dependencia,Conductor de motocicletas,15020
+2020-11-11,Supermercados del Noroeste S.Com.,Autónomo,Empleado de servicios de apoyo a la producción,19682
+2020-05-21,Hermanos Aguilera S.A.,Autónomo,Ingeniero medioambiental,2973
+2022-11-28,Hotel Raya S.L.N.E,Autónomo,Diseñador de productos,19586
+2023-09-15,Cid y asociados S.A.U,Relación de Dependencia,Gestor de aduana,14360
+2021-10-21,Consultoría Moll & Asociados S.L.,Relación de Dependencia,Abogado,3280
+2021-05-10,Hermanos Nogueira S.A.,Relación de Dependencia,Electrotécnico,7979
+2021-09-28,Hotel Lorenzo y asociados S.L.,Autónomo,Trabajador forestal calificado,17836
+2020-07-11,Construcción Globales S.A.,Relación de Dependencia,Nutricionista,9257
+2020-05-08,Valenzuela y Figuerola S.Coop.,Relación de Dependencia,Gerente general,1253
+2022-10-05,Inversiones del Noroeste S.L.,Relación de Dependencia,Empleado de ventanillas de informaciones,15199
+2023-05-27,Candelas Palomino Ponce S.C.P,Relación de Dependencia,Operador de máquinas para fabricar cemento y otros productos minerales,1080
+2020-04-27,Garriga y Montenegro S.Com.,Relación de Dependencia,Asistente farmacéutico,7338
+2023-01-15,Quevedo y Palacios S.Com.,Relación de Dependencia,Entrevistador de investigaciones de mercados,1255
+2022-04-15,Instalaciones Cañas S.A.,Autónomo,Cazador,8617
+2023-07-20,Fábrica KLNB S.Coop.,Relación de Dependencia,"Empleado de servicios estadísticos, financieros y de seguros",15035
+2020-12-08,Cañellas y Ramirez S.A.,Relación de Dependencia,Entrevistador de encuestas,3337
+2022-09-24,Minería Avanzadas S.A.,Autónomo,Orfebre,4181
+2023-03-10,Consultoría Conde S.Com.,Autónomo,Maestro de enseñanza primaria,17931

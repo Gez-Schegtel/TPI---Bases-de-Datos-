@@ -1,6 +1,7 @@
 import csv
 import random
 from faker import Faker
+from faker.exceptions import UniquenessException
 
 fake = Faker('es_ES')
 
@@ -21,12 +22,24 @@ if len(dni_list) < num_records:
 contactos_data = []
 
 for _ in range(num_records):
+
+    # Intentar generar valores únicos con múltiples intentos
+    max_attempts = 100000
+    for _ in range(max_attempts):
+        try:
+            id_contacto = fake.unique.random_int(min=1000, max=num_records*1000)
+            break
+        except UniquenessException:
+            fake.unique.clear() # Es necesario "reiniciar el generador" cuando hay alguna falla
+    else:
+        raise Exception("No se pudieron generar valores únicos después de múltiples intentos.")
+
     contactos_data.append({
         'email': fake.unique.email(),
         'tipo_email': fake.random_element(elements=('Personal', 'Trabajo')),
         'telefono': fake.phone_number(),
         'tipo_telefono': fake.random_element(elements=('Personal', 'Trabajo')),
-        'id_contacto': fake.unique.random_int(min=1, max=1000),
+        'id_contacto': id_contacto,
         'dni': random.choice(dni_list)
     })
 

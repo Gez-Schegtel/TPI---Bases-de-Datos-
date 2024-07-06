@@ -20,8 +20,7 @@ for iddj in iddj_list:
     tareas_no_estatales_data.append({
         'fecha_ingreso': faker.date_this_decade(),
         'lugar_presta_servicio': faker.company(),
-        'autonomia': faker.random_element(elements=('Sí', 'No')),
-        'relacion_dependencia': faker.random_element(elements=('Dependiente', 'Independiente')),
+        'tipo_dependencia': faker.random_element(elements=('Autónomo', 'Relación de Dependencia')),
         'funcion': faker.job(),
         'iddj': iddj
     })
@@ -30,8 +29,7 @@ for iddj in iddj_list:
 archivo_tareas_no_estatales = 'tareas_no_estatales.csv'
 
 # Cabeceras de las columnas en el archivo CSV
-cabeceras_tareas_no_estatales = ['fecha_ingreso', 'lugar_presta_servicio', 'autonomia',
-                                 'relacion_dependencia', 'funcion', 'iddj']
+cabeceras_tareas_no_estatales = ['fecha_ingreso', 'lugar_presta_servicio', 'tipo_dependencia', 'funcion', 'iddj']
 
 # Crear y escribir los datos en el archivo CSV
 with open(archivo_tareas_no_estatales, mode='w', newline='', encoding='utf-8') as file:

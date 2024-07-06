@@ -114,6 +114,6 @@ CP: (regimen, iddj)
 CF: iddj => Declaracion_Jurada(iddj) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,
 
 
-Tareas_No_Estatales (fecha_ingreso: fecha, lugar_presta_servicio: cadena(20), autonomia: cadena(20), relacion_dependencia: cadena(20), funcion: cadena(20), iddj: entero)
+Tareas_No_Estatales (fecha_ingreso: fecha, lugar_presta_servicio: cadena(20), tipo_dependencia: cadena(20), funcion: cadena(20), iddj: entero)
 CP: (lugar_presta_servicio, iddj)
 CF: iddj => Declaracion_Jurada(iddj) EN BORRADO CASCADA EN ACTUALIZACION CASCADA,

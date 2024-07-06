@@ -1,6 +1,7 @@
 import csv
 import random
 from faker import Faker
+from faker.exceptions import UniquenessException
 
 # Inicializar Faker en español
 faker = Faker('es_ES')
@@ -25,6 +26,18 @@ if len(dni_list) < num_records:
 # Generar datos para la tabla Actividades_y_Antecedentes
 actividades_data = []
 for _ in range(num_records):
+
+    # Intentar generar valores únicos con múltiples intentos
+    max_attempts = 100000
+    for _ in range(max_attempts):
+        try:
+            id_antecedente = faker.unique.random_int(min=1, max=num_records)
+            break
+        except UniquenessException:
+            faker.unique.clear() # Es necesario "reiniciar el generador" cuando hay alguna falla
+    else:
+        raise Exception("No se pudieron generar valores únicos después de múltiples intentos.")
+
     desde_date = faker.date_between(start_date='-20y', end_date='-1y')  # Fecha desde hace 20 años hasta hace 1 año
     hasta_date = faker.date_between(start_date=desde_date, end_date='-1d')  # Fecha hasta desde la fecha desde hasta ayer
     actividades_data.append({
@@ -32,7 +45,7 @@ for _ in range(num_records):
         'dni': random.choice(dni_list),
         'desde': desde_date,
         'hasta': hasta_date,
-        'id_antecedente': faker.unique.random_int(min=1, max=50000)
+        'id_antecedente': id_antecedente
     })
 
 # Nombre del archivo CSV para la tabla Actividades_y_Antecedentes

@@ -1,21 +1,21 @@
 apellido,parentesco,tipo_documento,nro_documento,nombre,fecha_nacimiento,idos,dni,idsv,porcentaje,domicilio
-Bernat,Padre,DNI,17084329,Reina,1931-02-23,47775,33812425,17973,31.91,Glorieta de Leonor Hurtado 37
-Perales,Hermana,DNI,59684132,Ale,1976-01-15,20110,61755740,39129,69.06,Ronda de Bonifacio Bauzà 8 Apt. 96 
-Ponce,Esposo,DNI,13909895,Eulalia,1925-03-30,9660,84827480,8324,86.9,Cañada Teófilo Cantón 17 Apt. 64 
-Mariscal,Madre,Pasaporte,90318130,Ámbar,1960-03-20,1773,38743294,35965,25.82,Urbanización de Milagros Vilalta 6 Piso 7 
-Gallart,Madre,DNI,18829706,Jose Luis,1948-05-20,13763,59373786,37907,60.98,Avenida de Javi Gabaldón 25
-Falcón,Hijo,CI,51718166,Constanza,2022-06-08,6592,45327672,14789,52.36,Vial de Estefanía Gascón 512 Puerta 9 
-Manzano,Madre,DNI,98567091,Andrea,1980-06-03,11620,37882186,46759,47.33,Glorieta de Elvira Arnaiz 75 Puerta 1 
-Morcillo,Esposa,DNI,54792108,Ruperta,1972-09-19,14023,79350584,3760,24.35,C. Amílcar Baena 48 Apt. 42 
-Ayllón,Hijo,CI,25270068,Emilio,1968-12-20,29050,36775551,48499,82.23,Ronda de Luis Ángel Granados 11
-Hernández,Hermano,DNI,61513060,Soledad,1963-01-29,36438,40436249,8438,29.34,Pasadizo de Socorro Palomares 25 Apt. 52 
-Durán,Hermana,CI,31669918,Paulino,1981-06-09,37265,33758438,11292,40.93,Rambla de Agustina Gallo 3
-Gomez,Esposa,CI,87671163,Reyes,1969-07-15,39635,35162013,18166,85.05,Alameda de Purificación Tudela 21 Apt. 00 
-Benet,Hermano,DNI,69532851,Adrián,2007-09-10,36027,46224667,36882,33.51,Plaza Maite Gonzalez 12 Puerta 0 
-Castañeda,Padre,CI,18627367,Paca,1991-04-21,10988,99630751,36370,85.18,C. de Azeneth Roldan 33 Puerta 4 
-Feijoo,Padre,DNI,21410244,Hilario,2014-08-27,29260,86939924,35641,80.83,Glorieta Andrés Cadenas 145 Piso 9 
-Gallo,Hermano,CI,27905715,Vanesa,1925-06-14,45248,48088521,29722,65.26,Ronda de Jennifer Haro 75
-Sainz,Esposo,CI,39272236,Silvio,1969-06-28,42554,62770423,35464,87.28,Camino Ruth Espada 1
-Villegas,Hermano,DNI,91838536,Gastón,2012-05-29,20947,45809105,39869,36.41,Callejón de Clímaco Salvador 87 Puerta 6 
-Talavera,Hijo,Pasaporte,65514180,Carlota,1985-06-10,48262,76291532,31786,87.52,Vial Emiliana Fabregat 535
-López,Padre,Pasaporte,32046704,Cloe,1955-04-24,40195,78590493,2968,52.03,Pasadizo de Quique Miralles 39 Piso 4 
+Noguera,Esposo,Pasaporte,99991203,Mauricio,1994-09-17,34072,44655368,37846,35.6,Rambla de Eli Matas 20
+Pellicer,Hija,CI,91827320,Juana,1946-07-26,41103,70450203,45923,77.65,Glorieta Noé Vilanova 40
+Peña,Hermano,Pasaporte,99163959,Adriana,1955-02-22,11645,40654162,16241,76.44,Glorieta Marina Hervás 129
+Bayo,Hermana,DNI,31600216,Felicidad,1939-07-01,44198,62852440,33706,65.13,Avenida Arcelia Otero 55
+Peiró,Madre,CI,38179555,Nerea,1931-06-17,39578,78932860,33930,53.99,Alameda de Jaime Esteban 22 Puerta 2 
+Santiago,Madre,Pasaporte,84157515,Martina,2009-09-03,4878,47629991,38451,52.99,Cuesta Benjamín Aguirre 6 Apt. 03 
+Julián,Esposo,DNI,83990574,Juan Pablo,2010-01-12,31767,13748340,7363,69.18,Paseo Reyes Pereira 12
+Ortega,Padre,Pasaporte,60934611,Claudia,1948-05-01,11189,98299992,39856,49.35,Calle Adoración Sánchez 4
+Aller,Hermano,Pasaporte,97554367,Kike,1927-09-30,28824,85515778,30502,49.89,Camino de Iker Vargas 5 Apt. 75 
+Pablo,Hijo,Pasaporte,58338510,Natalio,1971-05-01,42336,82449181,36403,91.04,Camino Ernesto Quirós 43
+Cañas,Madre,DNI,34117768,América,1967-04-08,34962,64254201,37905,75.8,Alameda Pelayo Baeza 27
+Antón,Esposa,DNI,53357219,Raúl,2000-08-27,18319,43243132,28858,73.69,Glorieta de Irma Serra 64 Piso 5 
+Lastra,Esposa,Pasaporte,70410149,Camila,1966-06-20,99,26526226,40807,62.78,Callejón de Marta Dávila 55 Piso 9 
+Carrillo,Padre,CI,30455969,Fausto,1974-07-30,27572,49329831,32867,66.03,Acceso Isa Izquierdo 60 Piso 6 
+Mercader,Esposo,CI,50778230,Vicenta,2018-07-11,48687,43967469,22301,34.61,Pasaje Manolo Goñi 59 Piso 3 
+Peralta,Hija,Pasaporte,71717271,Josefa,1926-12-21,29696,31392882,4839,45.78,Pasadizo de Fortunato Aparicio 91
+Mariño,Hermana,Pasaporte,15327216,Iris,1925-07-23,5635,46718263,33156,28.94,Cuesta Susanita Laguna 58
+Valle,Madre,DNI,37622305,Camilo,1994-12-15,2813,32679007,27933,34.05,Plaza de Eusebia Hervás 31 Puerta 3 
+Solera,Hermano,CI,94091995,Amor,2012-12-03,28804,22806487,32822,96.19,Avenida de Virgilio Saura 65 Apt. 46 
+Sotelo,Esposo,DNI,60491104,Jordana,2018-11-13,37216,45407394,5233,97.17,Alameda Néstor Ferreras 24 Apt. 21 

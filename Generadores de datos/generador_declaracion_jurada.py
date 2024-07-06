@@ -1,6 +1,7 @@
 import csv
 import random
 from faker import Faker
+from faker.exceptions import UniquenessException
 
 fake = Faker('es_ES')
 
@@ -25,8 +26,20 @@ if len(dni_list) < num_records:
 declaracion_jurada_data = []
 
 for _ in range(num_records):
+
+    # Intentar generar valores únicos con múltiples intentos
+    max_attempts = 100000
+    for _ in range(max_attempts):
+        try:
+            iddj = fake.unique.random_int(min=1000, max=num_records*1000)
+            break
+        except UniquenessException:
+            fake.unique.clear() # Es necesario "reiniciar el generador" cuando hay alguna falla
+    else:
+        raise Exception("No se pudieron generar valores únicos después de múltiples intentos.")
+    
     declaracion_jurada_data.append({
-        'iddj': fake.unique.random_int(min=1000, max=1000*num_records),
+        'iddj': iddj,
         'dni': random.choice(dni_list)
     })
 
