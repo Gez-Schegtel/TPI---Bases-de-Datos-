@@ -68,6 +68,11 @@ for _ in range(num_records):
     idos = random.choice(list(dni_to_others[dni]['idos'])) if dni_to_others[dni]['idos'] else None  # Puede ser None si no hay idos disponibles
     idsv = random.choice(list(dni_to_others[dni]['idsv'])) if dni_to_others[dni]['idsv'] else None  # Puede ser None si no hay idsv disponibles
 
+    # Convertir None a 'NULL' para evitar espacios vacíos en el archivo CSV
+    # Este paso es superimportante, porque si no está se escribe ",," para cuando las claves son NULL y el script deja de funcionar de esta manera.
+    idos = 'NULL' if idos is None else idos
+    idsv = 'NULL' if idsv is None else idsv
+
     familiar_data.append({
         'apellido': fake.last_name(),
         'parentesco': random.choice(parentescos),

@@ -1,21 +1,21 @@
 apellido,parentesco,tipo_documento,nro_documento,nombre,fecha_nacimiento,idos,dni,idsv,porcentaje,domicilio
-Segura,Padre,Pasaporte,88871845,Gracia,1987-05-21,33492,85327193,30493,43.88,Alameda Alexandra Fiol 80 Puerta 3 
-Hernando,Hermano,Pasaporte,20120806,Florinda,1965-10-21,21890,55422787,23221,52.23,Avenida Ximena Castell 86
-Ribera,Hija,DNI,72199562,Román,1982-02-21,7897,30579057,20582,87.83,Ronda Brunilda Infante 84
-Fabra,Esposa,CI,44131699,Jacinta,1983-07-21,10956,93166511,5296,85.98,Via de Lara Cid 45 Apt. 18 
-Franco,Padre,CI,13940455,Isabela,1987-08-05,726,85484005,36650,62.24,Rambla Eloísa Llopis 71
-Boada,Hermana,DNI,19552635,Iris,1939-10-03,8060,19008611,475,36.99,Acceso de Palmira Pardo 616
-Pozo,Hermana,DNI,68140278,Alcides,1966-01-21,20839,31106936,39238,20.54,Calle Socorro Segovia 52 Piso 7 
-Bermudez,Hermana,DNI,58089921,Serafina,1943-02-26,32577,47203905,40595,16.97,Glorieta Ileana Giralt 97 Piso 5 
-Amador,Hermano,CI,56138372,Ángel,1987-05-10,23617,50239349,45206,73.0,Acceso de Yésica Rodriguez 28 Piso 0 
-Ferrándiz,Hermano,Pasaporte,41599560,Martirio,2023-08-25,27233,62224861,28984,14.31,Alameda Natanael Porta 74
-Somoza,Hija,Pasaporte,94502317,Anacleto,1951-03-15,39605,85379762,11538,86.04,Pasadizo Perlita Cifuentes 39 Puerta 1 
-Padilla,Padre,CI,39015755,Amarilis,2016-04-29,12318,78381948,48210,31.32,Avenida de Marisol Abella 4 Puerta 4 
-Clavero,Hermana,Pasaporte,77859975,Dan,1932-12-06,30881,69055283,15132,81.08,Pasadizo Mar Jimenez 6 Apt. 10 
-Nadal,Hermana,DNI,56174991,Conrado,1995-12-16,16466,15598344,40341,75.82,Callejón Hilario Frutos 396 Apt. 02 
-Menéndez,Hermana,Pasaporte,42139566,Rufina,1934-08-16,1311,90838497,25958,47.37,Calle de María Belén Benitez 4
-Bustamante,Esposa,CI,28896971,Lupe,2022-01-26,38420,81912150,6249,78.73,C. Virgilio Requena 442 Apt. 16 
-Tejada,Hermano,Pasaporte,82940419,Jessica,1950-10-24,38058,59106281,47687,96.53,Ronda de Alex Milla 71
-Villaverde,Madre,DNI,45842282,Abraham,1939-09-13,9315,23418082,19108,20.5,Ronda Sancho Rosa 36
-Roura,Hermana,CI,22453379,Raimundo,1924-05-07,33290,19807691,6861,20.09,Avenida Abilio Gisbert 9
-Prat,Esposo,CI,14950516,Chus,1973-10-21,41162,38063044,33144,39.36,Vial de Violeta Naranjo 133 Piso 5 
+Quero,Hermana,CI,86134717,Segismundo,2005-02-24,NULL,94429904,2542,35.81,Via de Espiridión Losada 49 Piso 6 
+Aguilera,Madre,Pasaporte,56948406,Antonio,2020-12-10,11620,52033341,NULL,78.6,Alameda Manu Valcárcel 17 Piso 7 
+Carbonell,Esposo,Pasaporte,27858625,Ramona,2010-09-07,NULL,86413120,11873,50.89,Ronda de Cruz Escamilla 854 Puerta 5 
+Vizcaíno,Esposo,Pasaporte,65706421,Olegario,1968-04-15,NULL,40759729,8095,29.2,Alameda Perla Camino 3 Puerta 0 
+Peláez,Madre,Pasaporte,96437842,Imelda,1958-03-15,NULL,27840646,4062,19.16,Calle de Victoriano Pou 52 Apt. 24 
+Corominas,Madre,CI,30014604,Mirta,1928-08-13,NULL,86413120,11873,11.12,Via Horacio Sanjuan 40
+Galan,Hermana,Pasaporte,43231460,Ezequiel,1954-02-11,15516,10904840,NULL,24.21,Cuesta de Teófila Luque 44 Piso 1 
+Rico,Madre,CI,94171834,Edmundo,2011-06-25,1441,46521150,NULL,66.44,Urbanización de Marianela Tamarit 2 Puerta 5 
+Palomino,Hija,CI,53202743,Sabas,2013-08-03,4467,64021783,NULL,17.38,Paseo de Jacobo Viña 4 Apt. 12 
+Montalbán,Padre,CI,41623035,Ariadna,2015-03-07,9778,62281217,NULL,64.28,Avenida Olimpia Fuentes 93 Puerta 7 
+Caballero,Esposa,CI,72453349,Adora,1949-06-10,NULL,26478013,2238,66.17,Cañada Calixta Silva 69 Apt. 72 
+Fabra,Hermano,CI,92393303,Horacio,1986-08-21,9778,62281217,NULL,20.33,Acceso de Daniela Muro 57 Puerta 3 
+Garzón,Hermano,CI,69962139,Augusto,1949-10-09,NULL,27840646,4062,38.53,Glorieta Nando Aliaga 939
+Manzano,Hija,Pasaporte,74574077,José,1941-02-26,NULL,37449175,18901,87.63,Pasaje de Javiera Bernat 14
+Sevilla,Hermana,DNI,86224790,Hermenegildo,1968-03-12,NULL,94429904,2542,12.07,Glorieta Saturnina Sierra 12 Apt. 91 
+Arregui,Padre,CI,42008290,Florinda,1955-11-09,NULL,12601539,3455,23.22,Alameda Amado Girón 843
+Colom,Esposa,CI,24990426,Paloma,2016-06-30,NULL,79962016,18541,60.89,Vial Ceferino Rey 78 Puerta 8 
+Villegas,Esposa,CI,89222454,Javier,1967-02-27,19273,44673782,NULL,57.62,Acceso de Casemiro Ramos 97
+Ávila,Padre,DNI,91760630,Macarena,1977-03-20,13732,78548464,NULL,31.12,Plaza Patricio Landa 70 Puerta 0 
+Berrocal,Hermana,CI,75166189,Fabiola,1939-06-17,8811,65636881,NULL,52.27,Cuesta Isa Huerta 831 Piso 6 

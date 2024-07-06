@@ -29,7 +29,7 @@ for _ in range(num_records):
         'titulo': faker.sentence(nb_words=5),
         'autores': faker.name(),
         'referencia_bibliografica': faker.sentence(),
-        'año': faker.random_int(min=1950, max=2024),  # Año entre 2000 y 2023
+        'año': faker.random_int(min=1950, max=2024),  # Año entre 20 y 2023
         'dni': random.choice(dni_list)
     })
 

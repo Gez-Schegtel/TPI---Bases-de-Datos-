@@ -18,7 +18,6 @@ with open(archivo_profesores, mode='r', encoding='utf-8') as file:
 if len(dni_list) < num_records:
     raise ValueError("No hay suficientes registros en el archivo 'profesores.csv'.")
 
-
 contactos_data = []
 
 for _ in range(num_records):
@@ -32,7 +31,7 @@ for _ in range(num_records):
         except UniquenessException:
             fake.unique.clear() # Es necesario "reiniciar el generador" cuando hay alguna falla
     else:
-        raise Exception("No se pudieron generar valores únicos después de múltiples intentos.")
+        raise Exception("No se pudo generar valores únicos después de múltiples intentos.")
 
     contactos_data.append({
         'email': fake.unique.email(),

@@ -34,7 +34,7 @@ with open(archivo_profesores, mode='w', newline='', encoding='utf-8') as file:
     # Generar datos aleatorios y escribirlos en el archivo uno por uno
     for _ in range(cantidad_registros):
         # Intentar generar valores únicos con múltiples intentos
-        max_attempts = 100000
+        max_attempts = 1000000
         for _ in range(max_attempts):
             try:
                 dni = fake.unique.random_int(min=10000000, max=99999999)

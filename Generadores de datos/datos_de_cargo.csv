@@ -1,21 +1,21 @@
 cargo,iddj,calle,provincia,reparticion,dependencia,cumple_horarios,organismo,localidad_cargo,numero
-Telefonista,16838,Calle de Reyna Blázquez,Salamanca,Industrias Internacionales S.L.N.E,S.Coop.,Sí,Hermanos Cortés S.A.,Burgos,457
-Auxiliar de maestro,9641,Cañada de Priscila Mosquera,Castellón,Banco Solís S.Coop.,S.L.,No,Primitivo Rosselló Amador S.Coop.,Soria,860
-Oficial de préstamos y créditos,16269,Calle Mónica Medina,Málaga,Hermanos Benavente S.Coop.,S.L.,Sí,Berenguer y Duque S.C.P,Granada,646
-Empleado de ventanillas de informaciones,11324,C. Régulo Donoso,Álava,Mena y Vilanova S.C.P,S.Coop.,Sí,Consultoría Española S.C.P,Soria,904
-Urbanistas e ingenieros de tránsito,15715,Pasaje de Noa Casado,Álava,Hnos Novoa S.L.,S.A.,No,Talleres Mur & Asociados S.A.,Guipúzcoa,259
-Operador de máquinas para fabricar cemento y otros productos minerales,11396,Cuesta de Raquel Barreda,Baleares,Juana Prieto Yuste S.L.N.E,S.A.,Sí,Roldan & Asociados S.A.,Barcelona,427
-"Operador de incineradores, instalaciones de tratamiento de agua",1450,Ronda Adelina Andres,Burgos,Comercial Globales S.L.,S.A.,No,Grupo Tolosa S.L.N.E,Lugo,303
-"Gerente de sucursales de bancos, de servicios financieros y de seguros",4020,Avenida de Nayara Mas,Las Palmas,Lisandro Ruiz Mora S.Coop.,S.A.,Sí,Restauración del Norte S.A.,Granada,15
-Agrimensor,19127,Callejón de Joaquín Blanco,Soria,Brunilda Romero Carbó S.L.,S.Com.,No,Supermercados Suárez S.A.,Vizcaya,238
-Ingeniero electrónico,2630,Ronda de Corona Calvo,Ávila,Familia Palomares S.A.,S.A.,No,Hotel Sobrino y asociados S.L.N.E,Pontevedra,922
-Operador de máquinas de procesamiento de texto y mecanógrafos,16802,Pasadizo de Isidora Cases,Alicante,Aragón & Asociados S.A.,S.A.,No,Robledo & Asociados S.Coop.,Palencia,886
-Especialista en políticas y servicios de personal,19122,Rambla Marco Miró,Asturias,Supermercados Juárez S.L.L.,S.L.N.E,No,Grupo Cabezas S.A.,Vizcaya,313
-Personas que realizan trabajos varios,16966,Ronda de Manuel Sans,Córdoba,Alimentación Clemente S.A.,S.A.,No,Édgar Céspedes Santana S.Coop.,Cádiz,419
-Guardia de protección,15782,Ronda Angelino Farré,Murcia,Comercializadora Avanzadas S.A.,S.L.U.,No,Hnos Bárcena S.L.N.E,Navarra,278
-Operador de máquinas para fabricar productos de papel,12591,Urbanización Francisco Javier Heras,Segovia,Construcción Castrillo y asociados S.A.,S.A.,Sí,Hermanos Aller S.A.,Ciudad,18
-Operador de instalaciones de procesamiento de metales,16539,Rambla Herminio Ibarra,Madrid,Comercializadora NN S.Com.,S.L.,Sí,Compañía Hurtado y asociados S.Com.,Las Palmas,812
-Diseñador gráfico,10809,Callejón de Francisco Jiménez,Jaén,Berrocal y asociados S.A.,S.C.P,Sí,Industrias Campos & Asociados S.A.D,Burgos,897
-Cuidador de animales,4076,Urbanización de Loreto Agullo,Huesca,Carlos y asociados S.Coop.,S.L.,Sí,Banca Privada Hernandez S.L.,Murcia,600
-Apicultor,8345,Callejón de Guillermo Pinilla,Huesca,Manufacturas FBRA S.L.N.E,S.L.,Sí,Crespi y Martí S.Com.,Soria,721
-Revocador,12946,Acceso de Jorge Sacristán,Burgos,Berenguer & Asociados S.L.L.,S.Coop.,No,Arteaga & Asociados S.Coop.,Soria,10
+Especialista en ciencias políticas,15412,Paseo Rosalina Villa,León,Finanzas del Levante S.L.,S.L.,Sí,María Belén Rius Mulet S.Coop.,Segovia,746
+Labrante,7966,Paseo Adela Castellanos,Valladolid,Abril Aparicio Madrigal S.A.,S.L.,No,Familia Osorio S.L.L.,Soria,305
+Director de servicios de cuidado de las personas de edad,15906,Camino Albert Calvet,Toledo,Gómez y asociados S.L.,S.A.T.,No,Valentín Olmo Barrera S.L.,Badajoz,805
+Patronista y cortador de tela,18012,Camino Juan José Andres,Burgos,Fausto Feliu Ferrera S.L.L.,S.L.N.E,Sí,Quintanilla & Asociados S.A.,Zaragoza,332
+Pescador de agua dulce y en aguas costeras,9402,Avenida Juan Francisco Ramis,Cantabria,Grupo Escamilla S.L.N.E,S.L.,No,Desarrollo XRK S.L.L.,Pontevedra,347
+Conductor de vehículos y máquinas de tracción animal,6449,Camino de Arturo Olmo,Málaga,Inversiones VV S.Coop.,S.A.,No,Logística Globales S.A.,Albacete,1
+Operario de la elaboración de productos lácteos,2816,Paseo de José María Manzano,Alicante,Construcción Avanzadas S.L.,S.C.P,Sí,Uriarte y Barros S.L.U.,Málaga,327
+Aparejador,8836,C. Anastasia Español,Tarragona,Familia Ariño S.Coop.,S.A.,No,Perez y asociados S.L.,Zamora,821
+Trabajador comunitario de la salud,17688,Avenida Adoración Ríos,Girona,Llamas & Asociados S.Com.,S.Com.,Sí,Banca Privada Merino S.L.L.,Alicante,206
+Recolector de dinero en aparatos de venta automática y lector de medidores,19115,Rambla de Ileana Cámara,Jaén,Familia Alcalá S.A.U,S.L.L.,No,Palomino & Asociados S.L.N.E,Ourense,416
+Farmacéutico,13845,Urbanización Flora Garcia,Murcia,Compañía Zaragoza S.Com.,S.L.N.E,No,Roda y Frutos S.A.,Córdoba,88
+Agente de seguros,7113,Cuesta de Andrés Felipe Ávila,Melilla,Supermercados Nogués S.L.N.E,S.Com.,No,Infraestructuras Internacionales S.A.,Sevilla,390
+Mecánico-montador de instalaciones de refrigeración y climatización,6488,Rambla Anacleto Fernandez,Cádiz,Roxana Egea Sanmiguel S.C.P,S.L.,No,Comercial Amor & Asociados S.A.,Granada,827
+Profesional de medicina,18553,Vial de Conrado Llamas,León,Banco EI S.Com.,S.L.,No,Industrias FUPV S.L.,Las Palmas,98
+Profesional de la salud y la higiene laboral y ambiental,3936,Ronda de Alberto Valle,Cáceres,Alimentación XF S.L.,S.A.,Sí,María Verdú Peiró S.L.,Cuenca,266
+Técnico en ingeniería de minas y metalurgia,8287,Acceso de Saturnino Granados,Alicante,Francisco Guzmán Murillo S.L.N.E,S.Com.,No,Farmaceútica del Norte S.L.,Cantabria,960
+Decorador de interior,9122,C. Priscila Cánovas,Melilla,Construcción Araujo y asociados S.L.U.,S.L.U.,No,Compañía Paz y asociados S.Com.,Toledo,482
+Instalador y reparador en tecnología de la información y las comunicaciones,3371,Acceso de Benigna Figueras,Álava,Lino Salom Vallejo S.Com.,S.C.P,No,Eugenia Bautista Garrido S.L.L.,Almería,349
+Empacador manual,11050,Paseo Ximena Cordero,Zaragoza,Régulo Huguet Mas S.L.,S.L.,No,Micaela Solera Navarro S.Coop.,Burgos,1
+Lavador de ventanas,9454,Ronda de Maura Burgos,Almería,Manufacturas XJOW S.L.,S.Coop.,Sí,Roberta Tomás Galvez S.Com.,Segovia,807
