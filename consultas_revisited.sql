@@ -151,31 +151,99 @@ WHERE p.dni IN (
 
 -- 4) Listar DNI y nombre de los docentes que presentaron más de un cargo docente en las declaraciones juradas de los últimos 3 años.
 
-SELECT DISTINCT dc.dni, p.nombre, p.apellido
-FROM Datos_de_Cargo ddc dc
-INNER JOIN Profesores p ON dc.dni = p.dni
-GROUP BY dc.dni
-HAVING COUNT(dc.iddj) > 1 AND YEAR(dc.desde) >= YEAR(CURDATE()) - 3;
+SELECT p.dni, p.nombre, p.apellido
+FROM Profesores p
+INNER JOIN Declaracion_Jurada dj ON p.dni = dj.dni
+INNER JOIN Datos_de_Cargo ddc ON dj.iddj = ddc.iddj
+WHERE YEAR(dj.fecha_dj) >= YEAR(CURDATE()) - 3
+GROUP BY p.dni, p.nombre, p.apellido
+HAVING COUNT(DISTINCT ddc.cargo) > 1;
 
 
 -- 5) Listado de docentes cuya carga horaria superan las 20 horas semanales, en función de la última declaración jurada presentada.
 
+SELECT p.dni, p.nombre, p.apellido, SUM(ch.horas_clase) AS total_horas_semanales
+FROM Profesores p INNER JOIN Declaracion_Jurada dj ON p.dni = dj.dni INNER JOIN Carga_Horaria ch ON dj.iddj = ch.iddj
+WHERE dj.fecha_dj = (
+    SELECT MAX(dj2.fecha_dj) 
+    FROM Declaracion_Jurada dj2 
+    WHERE dj2.dni = p.dni
+    )
+GROUP BY p.dni, p.nombre, p.apellido
+HAVING SUM(ch.horas_clase) > 20;
 
--- 6) Apellido y nombre de aquellos docentes que poseen la máxima cantidad de cargos docentes actualmente. (La cantidad de cargos surge de sumar todos los cargos docentes que se ejercen - suma de cargos docentes de la última declaración jurada -. Una vez que se sabe la cantidad de cargos por docente se puede averiguar cuál es la máxima cantidad y seguidamente los docentes que tienen esa máxima cantidad). No nos interesa las horas.
+
+-- 6) Apellido y nombre de aquellos docentes que poseen la máxima cantidad de cargos docentes actualmente. (La cantidad de cargos surge de sumar todos los cargos docentes que se ejercen --suma de cargos docentes de la última declaración jurada--. Una vez que se sabe la cantidad de cargos por docente se puede averiguar cuál es la máxima cantidad y seguidamente los docentes que tienen esa máxima cantidad). No nos interesa las horas.
+
+WITH Ultima_Declaracion AS (
+    SELECT dj.dni, MAX(dj.fecha_dj) AS ultima_fecha
+    FROM Declaracion_Jurada dj
+    GROUP BY dj.dni
+),
+Cantidad_Cargos AS (
+    SELECT p.dni, p.apellido, p.nombre, COUNT(ddc.cargo) AS cantidad_cargos
+    FROM Profesores p INNER JOIN Declaracion_Jurada dj ON p.dni = dj.dni INNER JOIN Datos_de_Cargo ddc ON dj.iddj = ddc.iddj INNER JOIN Ultima_Declaracion ud ON dj.dni = ud.dni AND dj.fecha_dj = ud.ultima_fecha
+    GROUP BY p.dni, p.apellido, p.nombre
+),
+Maxima_Cantidad_Cargos AS (
+    SELECT MAX(cantidad_cargos) AS maxima_cantidad
+    FROM Cantidad_Cargos
+)
+SELECT cc.apellido, cc.nombre
+FROM Cantidad_Cargos cc INNER JOIN Maxima_Cantidad_Cargos mcc ON cc.cantidad_cargos = mcc.maxima_cantidad;
 
 
 -- 7) Listado de docentes solteros/as (sin esposa/o e/o hijos a cargo en la obra social).
 
+SELECT *
+FROM Profesores p
+WHERE p.dni NOT IN (
+    SELECT DISTINCT f.dni
+    FROM Familiar f
+    WHERE f.parentesco IN ('Esposa', 'Esposo', 'Hijo', 'Hija')
+);
+
+
+-- En nuestra tabla tenemos el campo "Estado Civil". Podemos resolver la consulta consultando el mismo.
+
+SELECT *
+FROM Profesores p
+WHERE p.estado_civil = 'Soltero';
+
 
 -- 8) Cantidad de docentes cuyos hijos a cargo son todos menores de 10 años.
+
+SELECT COUNT(DISTINCT p.dni) AS cantidad_de_docentes
+FROM Profesores p
+WHERE p.dni IN (
+    SELECT DISTINCT f.dni
+    FROM Familiar f
+    WHERE YEAR(f.fecha_nacimiento) > YEAR(CURDATE()) - 10 AND f.parentesco LIKE 'Hij%'
+);
 
 
 -- 9) Informar aquellos docentes que posean alguna persona del grupo familiar a cargo en la obra social que no es beneficiario del seguro de vida obligatorio.
 
+SELECT p.nombre, p.apellido,
+FROM Profesores p
+WHERE p.dni IN (
+    SELECT DISTINCT f.dni
+    FROM Familiar f
+    WHERE f.dni NOT IN (
+        SELECT DISTINCT sv.dni
+        FROM Seguro_de_Vida sv
+    )
+);
+
 
 -- 10) Informar Cantidad de individuos asegurados por provincia.
 
+SELECT d.provincia, COUNT(DISTINCT sv.dni) AS cantidad_individuos
+FROM Datos_del_Empleador d INNER JOIN Seguro_de_Vida sv ON d.idsv = sv.idsv
+GROUP BY d.provincia;
 
-
+SELECT p.provincia, COUNT(*) AS cantidad_asegurados
+FROM Profesores p INNER JOIN Seguro_de_Vida sv ON p.dni = sv.dni
+GROUP BY p.provincia;
 
 
