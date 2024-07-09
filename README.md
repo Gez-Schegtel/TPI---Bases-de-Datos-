@@ -16,7 +16,7 @@ Trabajo práctico integrador de la cátedra de Bases de Datos - UTN Facultad Reg
 mariadb  Ver 15.1 Distrib 10.6.18-MariaDB, for debian-linux-gnu (x86_64) using  EditLine wrapper
 
 ## Creación de esquemas
-Con el script "database_creation_script.sql" que se encuentra bajo el directorio 'Creación y carga de datos' se crean todas las relaciones con sus respectivas restricciones.
+Con el script "database_creation_script.sql", que se encuentra bajo el directorio 'Creación y carga de datos', se crean todas las relaciones con sus respectivas restricciones.
 
 La base de datos resultante de la ejecución del mismo se llamará `TPI`.
 
